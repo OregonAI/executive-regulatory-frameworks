@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2014
-enacted: 1975
+last_amended: 1983
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 87.607 — Ambulance services lien. Chapter 87 (Statutory Liens), 2025 Editi
 
 ## Full text
 
-87.607 Ambulance services lien. When an individual receives ambulance services provided by any person or governmental unit, if the individual has a contract providing for indemnity or compensation for the sum incurred for those services, the person or governmental unit providing the ambulance services has a lien upon the amount payable under the contract. The party obligated to make reimbursement under the contract may pay the sum due thereunder directly to the person or governmental unit, and that payment shall constitute a full release of the party to the amount of the payment. [1983 c.821 §3] 87.610 [Repealed by 1975 c.648 §72] 
+87.607 Ambulance services lien. When an individual receives ambulance services provided by any person or governmental unit, if the individual has a contract providing for indemnity or compensation for the sum incurred for those services, the person or governmental unit providing the ambulance services has a lien upon the amount payable under the contract. The party obligated to make reimbursement under the contract may pay the sum due thereunder directly to the person or governmental unit, and that payment shall constitute a full release of the party to the amount of the payment. [1983 c.821 §3] 
 
 ## Provenance & change history
 

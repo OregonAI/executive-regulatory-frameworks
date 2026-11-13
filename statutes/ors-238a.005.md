@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-238a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
+last_amended: 2024
 enacted: 2003
 status: current
 supersedes: null
@@ -129,7 +129,7 @@ ORS 238A.005 — Definitions. Chapter 238A (Oregon Public Service Retirement Pla
 
 (19) “System” means the Public Employees Retirement System.
 
-(20) “Workers’ compensation benefits” means: (a) Payments made under ORS chapter 656; or (b) Payments provided in lieu of workers’ compensation benefits under ORS 656.027 (6). 238A.010 [2003 c.733 §1a; repealed by 2025 c.49 §8]
+(20) “Workers’ compensation benefits” means: (a) Payments made under ORS chapter 656; or (b) Payments provided in lieu of workers’ compensation benefits under ORS 656.027 (6). 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-20
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
-enacted: 1953
+last_amended: 1995
+enacted: 1965
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 20.085 — Costs and attorney fees in inverse condemnation proceedings. Chap
 
 ## Full text
 
-20.085 Costs and attorney fees in inverse condemnation proceedings. In a proceeding brought under section 18, Article I or section 4, Article XI of the Oregon Constitution by an owner of property or by a person claiming an interest in property, if the owner or other person prevails, the owner or other person shall be entitled to costs and disbursements and reasonable attorney fees at trial and on appeal. [1965 c.484 §1; 1981 c.897 §2; 1995 c.79 §8] 20.090 [Amended by 1963 c.247 §1; 1973 c.553 §1; 1981 c.897 §3; repealed by 1997 c.182 §7] 
+20.085 Costs and attorney fees in inverse condemnation proceedings. In a proceeding brought under section 18, Article I or section 4, Article XI of the Oregon Constitution by an owner of property or by a person claiming an interest in property, if the owner or other person prevails, the owner or other person shall be entitled to costs and disbursements and reasonable attorney fees at trial and on appeal. [1965 c.484 §1; 1981 c.897 §2; 1995 c.79 §8] 
 
 ## Provenance & change history
 

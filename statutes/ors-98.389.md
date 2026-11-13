@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2021
-enacted: 1957
+enacted: 2021
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 98.389 — Unclaimed Property and Estates Fund; transfers from fund. Chapter
 
 (3) Moneys in the fund are continuously appropriated to the State Treasurer for: (a) The costs of administering unclaimed property under ORS 98.302 to 98.436; (b) The costs of administering estates under ORS 113.235; (c) The payment of valid claims to abandoned property made under ORS 98.392; (d) The payment of valid claims for escheated property under ORS 116.253; and (e) The costs of administering the fund.
 
-(4) Before July 1 of each year, the State Treasurer shall transfer from the Unclaimed Property and Estates Fund: (a) To the Common School Fund, all moneys and properties of escheated estates for which any claim has elapsed under ORS 116.253; and (b) To the Unclaimed Property School Fund, all remaining moneys and properties in the Unclaimed Property and Estates Fund, except for the amount that the State Treasurer anticipates requiring to meet the expenses and liabilities of the Unclaimed Property and Estates Fund until the end of the following fiscal year, including transfers under paragraph (a) of this subsection. [2021 c.424 §6] 98.390 [Repealed by 1957 c.670 §37] 
+(4) Before July 1 of each year, the State Treasurer shall transfer from the Unclaimed Property and Estates Fund: (a) To the Common School Fund, all moneys and properties of escheated estates for which any claim has elapsed under ORS 116.253; and (b) To the Unclaimed Property School Fund, all remaining moneys and properties in the Unclaimed Property and Estates Fund, except for the amount that the State Treasurer anticipates requiring to meet the expenses and liabilities of the Unclaimed Property and Estates Fund until the end of the following fiscal year, including transfers under paragraph (a) of this subsection. [2021 c.424 §6] 
 
 ## Provenance & change history
 

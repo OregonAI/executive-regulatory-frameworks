@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-36
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
+last_amended: 1993
 enacted: 1993
 status: current
 supersedes: null
@@ -50,7 +50,7 @@ ORS 36.268 — Provision of mediation services contingent on funding. Chapter 36
 
 ## Full text
 
-36.268 Provision of mediation services contingent on funding. The duty of the State Department of Agriculture and the Director of Agriculture to provide mediation services under ORS 36.252 to 36.268 is contingent upon the existence and the level of funding specifically made available to carry out that duty. Should continuation of mediation services be threatened for lack of funding, the department shall proceed with all diligence to secure additional funds, including but not limited to requesting an additional allocation of funds from the Emergency Board. [1993 c.163 §2] Note: See note under 36.252. 36.270 [1995 c.277 §5; repealed by 2015 c.202 §1] (Mediation of Disputes Related to Farming Practices) 
+36.268 Provision of mediation services contingent on funding. The duty of the State Department of Agriculture and the Director of Agriculture to provide mediation services under ORS 36.252 to 36.268 is contingent upon the existence and the level of funding specifically made available to carry out that duty. Should continuation of mediation services be threatened for lack of funding, the department shall proceed with all diligence to secure additional funds, including but not limited to requesting an additional allocation of funds from the Emergency Board. [1993 c.163 §2] Note: See note under 36.252. 
 
 ## Provenance & change history
 

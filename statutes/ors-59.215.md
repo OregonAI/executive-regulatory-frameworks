@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-59
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1955
+last_amended: 2001
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -59,7 +59,7 @@ ORS 59.215 — Action against applicant or licensee for act or omission of assoc
 
 (3) The director may not enter an order solely on the basis of lack of experience if the applicant or licensee is qualified by training or knowledge or both.
 
-(4) If the director finds that an applicant for an initial license or a license renewal as a broker-dealer is not qualified as a state investment adviser, the director may condition the applicant’s license as a broker-dealer upon its not transacting business in this state as a state investment adviser. [1967 c.537 §20(2); 1985 c.349 §22; 1987 c.603 §15; 1989 c.197 §13; 1993 c.508 §35; 1997 c.772 §20; 2001 c.32 §4] 59.220 [Repealed by 1967 c.537 §36] 
+(4) If the director finds that an applicant for an initial license or a license renewal as a broker-dealer is not qualified as a state investment adviser, the director may condition the applicant’s license as a broker-dealer upon its not transacting business in this state as a state investment adviser. [1967 c.537 §20(2); 1985 c.349 §22; 1987 c.603 §15; 1989 c.197 §13; 1993 c.508 §35; 1997 c.772 §20; 2001 c.32 §4] 
 
 ## Provenance & change history
 

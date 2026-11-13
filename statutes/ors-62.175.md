@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-62
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2016
+last_amended: 1963
 enacted: 1957
 status: current
 supersedes: null
@@ -58,7 +58,7 @@ ORS 62.175 — Capital stock; membership stock. Chapter 62 (Cooperatives), 2025 
 
 (4) No certificate shall be issued for any share until such share is fully paid.
 
-(5) Shareholders as such have no preemptive right to purchase additional shares. [1957 c.716 §12; 1963 c.156 §1] 62.180 [Repealed by 1957 c.716 §76] 
+(5) Shareholders as such have no preemptive right to purchase additional shares. [1957 c.716 §12; 1963 c.156 §1] 
 
 ## Provenance & change history
 

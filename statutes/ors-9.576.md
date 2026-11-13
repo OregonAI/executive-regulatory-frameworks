@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-9
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
-enacted: 1953
+last_amended: 2011
+enacted: 1997
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 9.576 — Review of providers; mediation; hearing; suspension of funding. Ch
 
 (3) If mediation under subsection
 
-(2) of this section fails to produce a resolution of the matter, the director shall give the provider notice that a hearing will be held not sooner than 30 days after the date the notice is given. If, after hearing, the director determines that the provider is not in compliance with the standards and guidelines of the program and that the provider has failed to show satisfactory progress toward achieving compliance, the director shall suspend further funding of the program until such time as the provider makes a showing of compliance. [1997 c.801 §74; 2011 c.595 §100] 9.577 [2011 c.595 §3a; repealed by 2019 c.643 §13] 
+(2) of this section fails to produce a resolution of the matter, the director shall give the provider notice that a hearing will be held not sooner than 30 days after the date the notice is given. If, after hearing, the director determines that the provider is not in compliance with the standards and guidelines of the program and that the provider has failed to show satisfactory progress toward achieving compliance, the director shall suspend further funding of the program until such time as the provider makes a showing of compliance. [1997 c.801 §74; 2011 c.595 §100] 
 
 ## Provenance & change history
 

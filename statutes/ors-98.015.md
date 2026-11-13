@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-98
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
+last_amended: 2013
 enacted: 1973
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 98.015 — Liability of noncomplying finder; forfeiture to county of unrecla
 
 ## Full text
 
-98.015 Liability of noncomplying finder; forfeiture to county of unreclaimed money or goods. If any person who finds money or goods valued at $250 or more fails to comply with ORS 98.005, the person shall be liable, upon conviction for violation of ORS 164.065, to the county for the money or goods or the full value of the money or goods. The county treasurer shall hold the money or goods or their value for owner thereof and shall publish notice of the finding of the money or goods in the manner provided in ORS 98.005. If the owner has not reclaimed such money or goods within three months after the date of the first publication of notice by the county treasurer, the owner shall forfeit the rights of the owner to the value of such money or goods and the value of such money or goods shall be placed in the general fund of the county to be used for the payment of the general operating expenses of the county. [1973 c.642 §2; 1989 c.522 §2; 2013 c.220 §2] 98.020 [Repealed by 1973 c.642 §13] 
+98.015 Liability of noncomplying finder; forfeiture to county of unreclaimed money or goods. If any person who finds money or goods valued at $250 or more fails to comply with ORS 98.005, the person shall be liable, upon conviction for violation of ORS 164.065, to the county for the money or goods or the full value of the money or goods. The county treasurer shall hold the money or goods or their value for owner thereof and shall publish notice of the finding of the money or goods in the manner provided in ORS 98.005. If the owner has not reclaimed such money or goods within three months after the date of the first publication of notice by the county treasurer, the owner shall forfeit the rights of the owner to the value of such money or goods and the value of such money or goods shall be placed in the general fund of the county to be used for the payment of the general operating expenses of the county. [1973 c.642 §2; 1989 c.522 §2; 2013 c.220 §2] 
 
 ## Provenance & change history
 

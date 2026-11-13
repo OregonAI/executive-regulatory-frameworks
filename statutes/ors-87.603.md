@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2014
-enacted: 1955
+last_amended: 2007
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 87.603 — Definitions for ORS 87.603 to 87.633. Chapter 87 (Statutory Liens
 
 (2) “Ambulance services” includes the transportation of an individual who is ill or injured or who has a disability in an ambulance and the administration of medical or emergency care, if necessary, while the individual is being transported.
 
-(3) “Governmental unit” means the state, any county, city or other municipal corporation or any department, board or other agency of any of them. [1983 c.821 §2; 1985 c.16 §446; 2007 c.70 §19] 87.605 [Amended by 1955 c.136 §1; repealed by 1975 c.648 §72] 
+(3) “Governmental unit” means the state, any county, city or other municipal corporation or any department, board or other agency of any of them. [1983 c.821 §2; 1985 c.16 §446; 2007 c.70 §19] 
 
 ## Provenance & change history
 

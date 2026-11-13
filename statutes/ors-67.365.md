@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-67
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 1999
+enacted: 1997
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +54,7 @@ ORS 67.365 — Effect of merger. Chapter 67 (Partnerships; Limited Liability Par
 
 (2) Owners of the business entity that merged are entitled to the rights provided in the plan of merger and: (a) Any partner who did not vote in favor of the merger is deemed to have dissociated from the partnership effective immediately before the merger unless, within 60 days after the later of the effective date of the merger or the date the partner receives notice of the merger, the partner notifies the partnership of the partner’s desire not to dissociate. A dissociation under this paragraph is not a wrongful withdrawal; and (b) In the case of owners of business entities other than partnerships, the rights provided in the statutes applicable to the business entity prior to merger, including, without limitation, any rights to dissent, to dissociate, to withdraw, to recover for breach of any duty or obligation owed by the other owners, and to obtain an appraisal or payment for the value of an owner’s interest.
 
-(3) The registration of an assumed business name of a business entity under ORS chapter 648 shall not be affected by the merger. [1997 c.775 §45; 1999 c.362 §49] 67.370 [1997 c.775 §46; repealed by 1999 c.362 §67] 67.500 [1997 c.775 §47; renumbered 67.600 in 2013] 67.520 [1997 c.775 §48; 2013 c.159 §12; renumbered 67.011 in 2013] 67.525 [1997 c.775 §49; 1999 c.362 §§50,50a; renumbered 67.014 in 2013] 67.530 [1997 c.775 §50; renumbered 67.017 in 2013] 67.535 [1997 c.775 §51; 1999 c.486 §12; renumbered 67.021 in 2013] 67.540 [1997 c.775 §52; renumbered 67.024 in 2013] 67.545 [1997 c.775 §53; renumbered 67.027 in 2013] 67.550 [1997 c.775 §54; renumbered 67.030 in 2013] 67.570 [1997 c.775 §55; renumbered 67.033 in 2013] 67.590 [1997 c.775 §56; 1997 c.774 §15a; 2007 c.186 §9; renumbered 67.603 in 2013] 67.595 [1997 c.775 §57; renumbered 67.606 in 2013]
+(3) The registration of an assumed business name of a business entity under ORS chapter 648 shall not be affected by the merger. [1997 c.775 §45; 1999 c.362 §49] 
 
 ## Provenance & change history
 

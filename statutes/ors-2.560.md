@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-2
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2012
+enacted: 1969
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +58,7 @@ ORS 2.560 — Rules; where court sits; appellate settlement program; fees. Chapt
 
 (4) Rules adopted by the Court of Appeals under subsection
 
-(3) of this section shall establish fees payable for services provided under the program. [1969 c.198 §7; 1971 c.193 §7; 1973 c.484 §2; 1981 s.s. c.1 §20; 1983 c.763 §4; 1997 c.801 §87; 2011 c.595 §85; 2012 c.48 §5] 2.565 [1997 c.801 §88; repealed by 2011 c.595 §68a] 
+(3) of this section shall establish fees payable for services provided under the program. [1969 c.198 §7; 1971 c.193 §7; 1973 c.484 §2; 1981 s.s. c.1 §20; 1983 c.763 §4; 1997 c.801 §87; 2011 c.595 §85; 2012 c.48 §5] 
 
 ## Provenance & change history
 

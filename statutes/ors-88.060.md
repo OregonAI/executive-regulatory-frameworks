@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-88
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
-enacted: 1959
+last_amended: 2015
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 88.060 — Enforcement of judgment. Chapter 88 (Foreclosure of Mortgages and
 
 (2) If a judgment of foreclosure and sale is given, an execution may issue against the property adjudged to be sold. If the judgment is in favor of the plaintiff only, the execution may issue as in ordinary cases, but if the judgment is in favor of different persons not united in interest, the execution shall issue upon the joint request of the persons or upon the order of the court or judge on the motion of the persons.
 
-(3) If the judgment includes a money award against the defendants or any one of the defendants in person, and the net sale proceeds of the property upon which the lien is foreclosed are insufficient to satisfy the money award as to the sum remaining unsatisfied, the judgment may be enforced by execution as in ordinary cases. If the judgment is in favor of different persons not united in interest, the judgment is a separate judgment as to the persons and may be enforced accordingly. [Amended by 2003 c.576 §348; 2015 c.291 §5] 88.070 [Amended by 2003 c.576 §349; 2007 c.166 §15; 2009 c.883 §3; renumbered 88.103 in 2013] 88.075 [1975 c.618 §6; repealed by 2007 c.166 §17] 88.080 [Amended by 1979 c.284 §91; 2003 c.576 §350; 2005 c.22 §56; 2005 c.542 §§68a,68b; 2005 c.568 §39; renumbered 88.106 in 2013] 
+(3) If the judgment includes a money award against the defendants or any one of the defendants in person, and the net sale proceeds of the property upon which the lien is foreclosed are insufficient to satisfy the money award as to the sum remaining unsatisfied, the judgment may be enforced by execution as in ordinary cases. If the judgment is in favor of different persons not united in interest, the judgment is a separate judgment as to the persons and may be enforced accordingly. [Amended by 2003 c.576 §348; 2015 c.291 §5] 
 
 ## Provenance & change history
 

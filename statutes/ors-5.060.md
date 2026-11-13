@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-5
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 2013
+enacted: 2013
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 5.060 — Times of holding court. Chapter 5 (County Courts (Judicial Functio
 
 ## Full text
 
-5.060 Times of holding court. There shall be a term of the county court in each county for the transaction of judicial business on the first Monday of each month, and at such other times as the court in term or the judge in vacation may appoint. The court shall be open at 10 a.m. [Amended by 2013 c.155 §13] 5.070 [Repealed by 1969 c.591 §305] 
+5.060 Times of holding court. There shall be a term of the county court in each county for the transaction of judicial business on the first Monday of each month, and at such other times as the court in term or the judge in vacation may appoint. The court shall be open at 10 a.m. [Amended by 2013 c.155 §13] 
 
 ## Provenance & change history
 

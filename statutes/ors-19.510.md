@@ -48,7 +48,7 @@ ORS 19.510 — Powers of successor trial judge with respect to appeals. Chapter 
 
 ## Full text
 
-19.510 Powers of successor trial judge with respect to appeals. In case of death, resignation, expiration of the term of office or vacancy in office for any other cause of the judge before whom the matter was tried, or in case illness or other cause prevents the judge from performing the duties of judge, a successor in office or any other judge assigned to perform the duties of the judge, may take any action with respect to the appeal which the judge who tried it could take. [Formerly 19.170] _______________
+19.510 Powers of successor trial judge with respect to appeals. In case of death, resignation, expiration of the term of office or vacancy in office for any other cause of the judge before whom the matter was tried, or in case illness or other cause prevents the judge from performing the duties of judge, a successor in office or any other judge assigned to perform the duties of the judge, may take any action with respect to the appeal which the judge who tried it could take. [Formerly 19.170] 
 
 ## Provenance & change history
 

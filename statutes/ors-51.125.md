@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1955
+enacted: 2025
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 51.125 — Keeping of case records. Chapter 51 (Justice Courts; Jurisdiction
 
 (1) The justice of the peace shall safely and securely keep all case records of the justice court described in ORS 51.115. The case records are public records for the purposes of ORS 192.311 to 192.478.
 
-(2) When any justice court is abolished, the justice of the peace shall turn over the case records of that court to the clerk of the circuit court for the county in which the justice court was located. [2025 c.268 §4] 51.130 [Amended by 1995 c.658 §56; repealed by 2025 c.268 §35] 
+(2) When any justice court is abolished, the justice of the peace shall turn over the case records of that court to the clerk of the circuit court for the county in which the justice court was located. [2025 c.268 §4] 
 
 ## Provenance & change history
 

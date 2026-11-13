@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1963
+last_amended: 2013
+enacted: 1995
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 30.788 — Liability of architect, engineer, inspector or building evaluator
 
 (5) This section does not affect the liability of any architect, engineer, inspector or building evaluator for gross negligence or intentional torts.
 
-(6) The immunity provided by this section applies only to: (a) Inspectors certified under ORS 455.715 to 455.740; (b) Building evaluators certified for post-disaster building evaluation by the Department of Consumer and Business Services; (c) Architects who are registered under ORS 671.010 to 671.220; (d) Engineers who are registered under ORS 672.002 to 672.325; and (e) Architects and engineers who are licensed or registered under the laws of another state. [1995 c.616 §1; 2009 c.259 §19; 2013 c.196 §15] 30.790 [1963 c.524 §§1,2; repealed by 1971 c.780 §7] 
+(6) The immunity provided by this section applies only to: (a) Inspectors certified under ORS 455.715 to 455.740; (b) Building evaluators certified for post-disaster building evaluation by the Department of Consumer and Business Services; (c) Architects who are registered under ORS 671.010 to 671.220; (d) Engineers who are registered under ORS 672.002 to 672.325; and (e) Architects and engineers who are licensed or registered under the laws of another state. [1995 c.616 §1; 2009 c.259 §19; 2013 c.196 §15] 
 
 ## Provenance & change history
 

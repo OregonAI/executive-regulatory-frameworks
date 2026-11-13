@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
+last_amended: 1975
 enacted: 1975
 status: current
 supersedes: null
@@ -54,7 +54,7 @@ ORS 87.182 — Effect of prior security interest on method of foreclosure. Chapt
 
 (2) Except as provided in subsection
 
-(1) of this section, liens created by ORS 87.152 to 87.162 may be foreclosed by suit as provided in ORS chapter 88, or by sale of the chattel subject to the lien at public auction to the highest bidder for cash. [1975 c.648 §9] 87.185 [Repealed by 1975 c.648 §72] 
+(1) of this section, liens created by ORS 87.152 to 87.162 may be foreclosed by suit as provided in ORS chapter 88, or by sale of the chattel subject to the lien at public auction to the highest bidder for cash. [1975 c.648 §9] 
 
 ## Provenance & change history
 

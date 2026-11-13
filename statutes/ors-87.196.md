@@ -58,7 +58,7 @@ ORS 87.196 — Notice of foreclosure sale to secured parties; effect of notice; 
 
 (3) If a lien claimant does not give notice in accordance with subsection
 
-(1) of this section to a person that claims a security interest or lien on the chattel sold at a foreclosure sale, the lien claimant is liable to the person for a sum equal to the fair market value of the chattel sold at the foreclosure sale or the amount due to the person under the security agreement or lien at the time of the foreclosure sale, whichever amount is less. The secured party or other lien claimant may recover the sum and reasonable attorney fees by an action at law. [1975 c.648 §14; 1981 c.861 §3; 1983 c.338 §883; 1993 c.326 §11; 1995 c.758 §20; 2005 c.86 §1; 2005 c.738 §9; 2014 c.65 §2; 2017 c.17 §3] 87.200 [Repealed by 1975 c.648 §72] 
+(1) of this section to a person that claims a security interest or lien on the chattel sold at a foreclosure sale, the lien claimant is liable to the person for a sum equal to the fair market value of the chattel sold at the foreclosure sale or the amount due to the person under the security agreement or lien at the time of the foreclosure sale, whichever amount is less. The secured party or other lien claimant may recover the sum and reasonable attorney fees by an action at law. [1975 c.648 §14; 1981 c.861 §3; 1983 c.338 §883; 1993 c.326 §11; 1995 c.758 §20; 2005 c.86 §1; 2005 c.738 §9; 2014 c.65 §2; 2017 c.17 §3] 
 
 ## Provenance & change history
 

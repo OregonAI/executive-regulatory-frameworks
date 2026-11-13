@@ -60,7 +60,7 @@ ORS 1.202 — Fee for establishing and administering account for judgment that i
 
 (2) of this section may not be added to any order or judgment arising from the actions of a person who: (a) Was under 18 years of age at the time of the act or is subject to juvenile court probation; and (b) Was not waived to circuit court for prosecution as an adult under ORS 419C.340.
 
-(4) The Chief Justice of the Supreme Court may authorize or direct circuit courts and appellate courts of this state, and all commissions, departments and divisions in the judicial branch of state government, to waive or suspend the fees required to be added to judgments under this section. Except to the extent authorized by the Chief Justice, a court may not waive or suspend the fees required to be added to judgments under this section. [2001 c.823 §20; 2007 c.860 §32; 2009 c.484 §3; 2009 c.659 §§34,36; 2009 c.791 §4a; 2011 c.595 §§92,92a; 2021 c.215 §1; 2021 c.597 §7] 1.204 [2001 c.823 §25 (enacted in lieu of 8.172); 2003 c.518 §11; repealed by 2011 c.595 §173]
+(4) The Chief Justice of the Supreme Court may authorize or direct circuit courts and appellate courts of this state, and all commissions, departments and divisions in the judicial branch of state government, to waive or suspend the fees required to be added to judgments under this section. Except to the extent authorized by the Chief Justice, a court may not waive or suspend the fees required to be added to judgments under this section. [2001 c.823 §20; 2007 c.860 §32; 2009 c.484 §3; 2009 c.659 §§34,36; 2009 c.791 §4a; 2011 c.595 §§92,92a; 2021 c.215 §1; 2021 c.597 §7] 
 
 ## Provenance & change history
 

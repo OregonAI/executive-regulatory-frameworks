@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-93
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
-enacted: 1963
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 93.480 — Deed acknowledged or proved as evidence; recordability. Chapter 9
 
 ## Full text
 
-93.480 Deed acknowledged or proved as evidence; recordability. Every conveyance acknowledged, proved or certified in the manner prescribed by law by any of the authorized officers may be read in evidence without further proof thereof and is entitled to be recorded in the county where the land is situated. 93.490 [Repealed by 1977 c.404 §2 (194.500 to 194.580 enacted in lieu of 93.490)] 93.500 [Repealed by 1977 c.404 §2 (194.500 to 194.580 enacted in lieu of 93.500)] 93.510 [Repealed by 1977 c.404 §2 (194.500 to 194.580 enacted in lieu of 93.510)] 93.520 [Repealed by 1977 c.404 §2 (194.500 to 194.580 enacted in lieu of 93.520)] 
+93.480 Deed acknowledged or proved as evidence; recordability. Every conveyance acknowledged, proved or certified in the manner prescribed by law by any of the authorized officers may be read in evidence without further proof thereof and is entitled to be recorded in the county where the land is situated. 
 
 ## Provenance & change history
 

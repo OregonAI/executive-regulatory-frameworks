@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-3
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
-enacted: 1959
+last_amended: 1995
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -64,7 +64,7 @@ ORS 3.311 — Delivery of order to reference judge; notice of time and place of 
 
 (7) The parties may procure the attendance of witnesses before the reference judge by the issuance and service of subpoenas as provided in ORCP 55. If, without adequate excuse, a witness fails to appear or give evidence, that witness may be punished as for a contempt by the reference judge and be subjected to the consequences, penalties and remedies provided in ORCP 55 G.
 
-(8) Reference judges may conduct proceedings for the imposition of remedial sanctions under ORS 33.055, but may not conduct proceedings for the imposition of punitive sanctions under ORS 33.065. [1983 c.704 §3; 1991 c.724 §15a; 1995 c.781 §12] Note: ORCP 55 was repealed and replaced by the Council on Court Procedures Amendments promulgated on December 8, 2018, and effective January 1, 2020. The text of 3.311 was not amended by enactment of the Legislative Assembly to reflect the repeal. Editorial adjustment of 3.311 for the repeal of ORCP 55 has not been made. See the ORCP 55 Cross-Reference Chart available from the Council on Court Procedures. 3.312 [1961 c.724 §12; repealed by 1965 c.510 §24] 3.314 [1961 c.724 §13; repealed by 1981 c.215 §8] 
+(8) Reference judges may conduct proceedings for the imposition of remedial sanctions under ORS 33.055, but may not conduct proceedings for the imposition of punitive sanctions under ORS 33.065. [1983 c.704 §3; 1991 c.724 §15a; 1995 c.781 §12] Note: ORCP 55 was repealed and replaced by the Council on Court Procedures Amendments promulgated on December 8, 2018, and effective January 1, 2020. The text of 3.311 was not amended by enactment of the Legislative Assembly to reflect the repeal. Editorial adjustment of 3.311 for the repeal of ORCP 55 has not been made. See the ORCP 55 Cross-Reference Chart available from the Council on Court Procedures. 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2005
-enacted: 1979
+enacted: 2005
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 18.245 — Jurisdictional requirements. Chapter 18 (Judgments), 2025 Edition
 
 (2) The judgment document for the judgment must comply with the requirements of ORS 18.038 (4).
 
-(3) The court administrator for the circuit court rendering the judgment must note in the register of the court that the judgment document has been filed, as required by ORS 18.058 (1). [2005 c.568 §2] Note: See first note under 18.005. 18.250 [Repealed by 1979 c.284 §199]
+(3) The court administrator for the circuit court rendering the judgment must note in the register of the court that the judgment document has been filed, as required by ORS 18.058 (1). [2005 c.568 §2] Note: See first note under 18.005. 
 
 ## Provenance & change history
 

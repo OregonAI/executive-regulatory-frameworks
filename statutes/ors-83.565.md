@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-83
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
-enacted: 1957
+last_amended: 2001
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 83.565 — Finance charge computed by actuarial method; requirements; notice
 
 (1) If delivery of the motor vehicle or mobile home is to be made to you after this contract is signed, the serial number or other identifying information and the due date of the first installment may be filled in at the time of delivery; and
 
-(2) If the name of the financing agency is not known at the time the contract is executed, the name of the financing agency may be inserted in the contract on or about the date the name of the financing agency is known. You are entitled to a copy of this contract. You have the right to pay in advance the full amount due and if you do so you may save a portion of the finance charge. ______________________________________________________________________________ (e) The refund credit provisions of ORS 83.620 shall not apply. [1981 c.910 §4; 1995 c.519 §5; 2001 c.117 §8] 83.570 [1957 c.625 §22; repealed by 1981 c.412 §24] 
+(2) If the name of the financing agency is not known at the time the contract is executed, the name of the financing agency may be inserted in the contract on or about the date the name of the financing agency is known. You are entitled to a copy of this contract. You have the right to pay in advance the full amount due and if you do so you may save a portion of the finance charge. ______________________________________________________________________________ (e) The refund credit provisions of ORS 83.620 shall not apply. [1981 c.910 §4; 1995 c.519 §5; 2001 c.117 §8] 
 
 ## Provenance & change history
 

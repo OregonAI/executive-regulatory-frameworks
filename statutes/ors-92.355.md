@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-92
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1963
+last_amended: 1983
+enacted: 1974
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 92.355 — Commissioner may request further information; content. Chapter 92
 
 (2) The subdivider’s or series partitioner’s reply to the first request for further information required by the commissioner under subsection
 
-(1) of this section shall be accompanied by proof of the financial ability of the subdivider or series partitioner to complete improvements and facilities which are: (a) Required by the appropriate state, city and county authorities; and (b) Promised to prospective purchasers. [1974 c.1 §5; 1983 c.570 §12] 92.360 [1963 c.624 §21; repealed by 1973 c.421 §52] 
+(1) of this section shall be accompanied by proof of the financial ability of the subdivider or series partitioner to complete improvements and facilities which are: (a) Required by the appropriate state, city and county authorities; and (b) Promised to prospective purchasers. [1974 c.1 §5; 1983 c.570 §12] 
 
 ## Provenance & change history
 

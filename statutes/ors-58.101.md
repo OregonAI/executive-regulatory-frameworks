@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-58
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1999
-enacted: 1961
+last_amended: 1987
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 58.101 — Term of office for directors; classes. Chapter 58 (Professional C
 
 (1) Notwithstanding ORS 60.314, the articles of incorporation or bylaws of a professional corporation may specify any length for the term of office of director.
 
-(2) If the articles of incorporation or bylaws specify a length for the term of office of director other than that provided in ORS 60.314, the bylaws may divide the directors into classes and may assign to each class a different initial term of office so that the terms of office of the classes expire at staggered intervals. Each class shall be as nearly equal in number as possible. At the annual meeting at the time of which the term of office of the directors in a class expires, the number of directors equal to the number of the class whose term expires at the time of the meeting shall be elected to hold office for the term specified in the articles of incorporation or bylaws. [1983 c.172 §2; 1987 c.94 §16] 58.105 [1969 c.592 §9; 1983 c.717 §20; 1985 c.764 §5; repealed by 1993 c.235 §40] 58.108 [1993 c.235 §29; repealed by 1997 c.774 §31] 58.110 [Repealed by 1961 c.726 §427] 58.112 [1993 c.235 §34; repealed by 1997 c.774 §31] 
+(2) If the articles of incorporation or bylaws specify a length for the term of office of director other than that provided in ORS 60.314, the bylaws may divide the directors into classes and may assign to each class a different initial term of office so that the terms of office of the classes expire at staggered intervals. Each class shall be as nearly equal in number as possible. At the annual meeting at the time of which the term of office of the directors in a class expires, the number of directors equal to the number of the class whose term expires at the time of the meeting shall be elected to hold office for the term specified in the articles of incorporation or bylaws. [1983 c.172 §2; 1987 c.94 §16] 
 
 ## Provenance & change history
 

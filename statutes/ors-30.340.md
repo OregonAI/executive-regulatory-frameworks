@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
-enacted: 1959
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 30.340 — Title of proceedings by or against county; control of proceedings
 
 ## Full text
 
-30.340 Title of proceedings by or against county; control of proceedings by county court. All actions, suits or proceedings by or against a county shall be in the name of the county, but the county is represented by the county court, which has the power to control the proceeding as if it were plaintiff or defendant, as the case may be. 30.350 [Repealed by 1979 c.284 §199] 
+30.340 Title of proceedings by or against county; control of proceedings by county court. All actions, suits or proceedings by or against a county shall be in the name of the county, but the county is represented by the county court, which has the power to control the proceeding as if it were plaintiff or defendant, as the case may be. 
 
 ## Provenance & change history
 

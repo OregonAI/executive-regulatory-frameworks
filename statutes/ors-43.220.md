@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-43
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1961
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 43.220 — Impeachment of judicial record. Chapter 43 (Public Writings), 202
 
 ## Full text
 
-43.220 Impeachment of judicial record. Any judicial record may be impeached and the presumption arising therefrom overcome by evidence of a want of jurisdiction, collusion between the parties, or fraud in the party offering the record. The jurisdiction sufficient to sustain a record is jurisdiction over the cause, over the parties and, when a specific thing is the subject of the determination, over the thing. 43.310 [Repealed by 1981 c.892 §98] 43.320 [Repealed by 1981 c.892 §98] 43.330 [Repealed by 1981 c.892 §98] 43.340 [Repealed by 1981 c.892 §98] 43.350 [Repealed by 1981 c.892 §98] 43.360 [Repealed by 1981 c.892 §98] 43.370 [Amended by 1967 c.489 §1; repealed by 1981 c.892 §98] 43.380 [Renumbered 432.175] 43.390 [Repealed by 1981 c.892 §98] 43.400 [Repealed by 1981 c.892 §98] 43.410 [Amended by 1961 c.150 §7; 1961 c.160 §3a; repealed by 1981 c.892 §98] 43.420 [Repealed by 1981 c.892 §98] 43.430 [Repealed by 1981 c.892 §98] 43.440 [Repealed by 1981 c.892 §98] 
+43.220 Impeachment of judicial record. Any judicial record may be impeached and the presumption arising therefrom overcome by evidence of a want of jurisdiction, collusion between the parties, or fraud in the party offering the record. The jurisdiction sufficient to sustain a record is jurisdiction over the cause, over the parties and, when a specific thing is the subject of the determination, over the thing. 
 
 ## Provenance & change history
 

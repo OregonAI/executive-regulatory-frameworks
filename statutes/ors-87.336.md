@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
+last_amended: 1981
 enacted: 1975
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 87.336 — Costs and attorney fees in foreclosure by suit. Chapter 87 (Statu
 
 ## Full text
 
-87.336 Costs and attorney fees in foreclosure by suit. In suits to foreclose the liens created by ORS 87.216 to 87.232, the court shall, upon entering judgment for the lien claimant, allow as part of the lien the moneys paid for the filing or recording of the lien as provided in ORS 87.910. The court shall also allow reasonable attorney fees at trial and on appeal to the prevailing party. [1975 c.648 §38; 1981 c.897 §22; 1981 c.898 §45] 87.340 [Repealed by 1975 c.648 §72] 
+87.336 Costs and attorney fees in foreclosure by suit. In suits to foreclose the liens created by ORS 87.216 to 87.232, the court shall, upon entering judgment for the lien claimant, allow as part of the lien the moneys paid for the filing or recording of the lien as provided in ORS 87.910. The court shall also allow reasonable attorney fees at trial and on appeal to the prevailing party. [1975 c.648 §38; 1981 c.897 §22; 1981 c.898 §45] 
 
 ## Provenance & change history
 

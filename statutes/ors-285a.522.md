@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2021
-enacted: 1999
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 285A.522 — Annual report of plant closings and layoffs; contents. Chapter 
 
 (1) The Higher Education Coordinating Commission shall prepare an annual report concerning plant closings and mass layoffs in this state. The report shall describe in detail each plant closing or mass layoff during the period covered by the report and the assistance and services provided to the affected employers, workers and communities. The report shall also contain the most recent information available relating to the current status of the employer, workers and community affected by each plant closing or mass layoff.
 
-(2) The report prepared under this section shall be presented to the Governor, the President of the Senate, the Speaker of the House of Representatives and appropriate legislative committees. [Formerly 285.463; 2007 c.354 §12; 2015 c.366 §71; 2021 c.100 §11] 285A.535 [Formerly 285.263; repealed by 1999 c.509 §61] 285A.538 [Formerly 285.265; repealed by 1999 c.509 §61] 285A.541 [Formerly 285.267; repealed by 1999 c.509 §61] 285A.544 [Formerly 285.270; repealed by 1999 c.509 §61] 285A.547 [Formerly 285.273; repealed by 1999 c.509 §61] 285A.550 [Formerly 285.275; repealed by 1999 c.509 §61] PORTS (Generally) 
+(2) The report prepared under this section shall be presented to the Governor, the President of the Senate, the Speaker of the House of Representatives and appropriate legislative committees. [Formerly 285.463; 2007 c.354 §12; 2015 c.366 §71; 2021 c.100 §11] 
 
 ## Provenance & change history
 

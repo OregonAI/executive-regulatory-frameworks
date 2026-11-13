@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-14
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 14.060 — Venue of suits against state departments and officials. Chapter 1
 
 ## Full text
 
-14.060 Venue of suits against state departments and officials. Any suit against any department, official, officer, commissioner, commission or board of the state, as such, or in virtue of such status, other than a suit for the causes enumerated in ORS 14.040, may be brought in the county wherein the cause of suit, or some part thereof, arose. 14.070 [Amended by 1987 c.331 §1; 1995 c.637 §10; 1995 c.666 §10; 1999 c.738 §5; 2003 c.264 §5; repealed by 2003 c.289 §§8,8a] 
+14.060 Venue of suits against state departments and officials. Any suit against any department, official, officer, commissioner, commission or board of the state, as such, or in virtue of such status, other than a suit for the causes enumerated in ORS 14.040, may be brought in the county wherein the cause of suit, or some part thereof, arose. 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2021
-enacted: 1993
+enacted: 2001
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 419C.441 — Mental health evaluation, care and treatment. Chapter 419C (Cha
 
 ## Full text
 
-419C.441 Mental health evaluation, care and treatment. A court having jurisdiction pursuant to ORS 419C.005 over an adjudicated youth who commits an act that would be a violation of ORS 167.315, 167.320, 167.322 or 167.333 if done by an adult may, in addition to any other exercise of jurisdiction over the adjudicated youth, order that the adjudicated youth undergo psychiatric, psychological or mental health evaluation. If warranted by the mental condition of the adjudicated youth, the court may order that the adjudicated youth undergo appropriate care or treatment. [2001 c.926 §4; 2003 c.396 §107; 2021 c.489 §69] 419C.443 [1993 c.33 §228; 1995 c.422 §135; 1995 c.440 §5; 2003 c.396 §108; 2005 c.22 §295; 2005 c.708 §55; 2009 c.595 §367; 2013 c.591 §10; 2016 c.24 §57; 2017 c.21 §107; repealed by 2017 c.20 §10] 
+419C.441 Mental health evaluation, care and treatment. A court having jurisdiction pursuant to ORS 419C.005 over an adjudicated youth who commits an act that would be a violation of ORS 167.315, 167.320, 167.322 or 167.333 if done by an adult may, in addition to any other exercise of jurisdiction over the adjudicated youth, order that the adjudicated youth undergo psychiatric, psychological or mental health evaluation. If warranted by the mental condition of the adjudicated youth, the court may order that the adjudicated youth undergo appropriate care or treatment. [2001 c.926 §4; 2003 c.396 §107; 2021 c.489 §69] 
 
 ## Provenance & change history
 

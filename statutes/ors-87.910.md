@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2007
-enacted: 1961
+last_amended: 1981
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 87.910 — Cost of preparing lien notice. Chapter 87 (Statutory Liens), 2025
 
 ## Full text
 
-87.910 Cost of preparing lien notice. A person who files a notice or claim of lien under this chapter may add to the amount of the claim, as contained in the notice, the amount of fees actually paid for the recording or filing of the lien notice, and such amount thereupon shall become part of the lien against the property described in the notice. [Amended by 1975 c.648 §52; 1981 c.898 §47] 87.915 [1961 c.518 §§1,3; 1963 c.604 §7; 1969 c.330 §8; repealed by 1975 c.648 §72] 
+87.910 Cost of preparing lien notice. A person who files a notice or claim of lien under this chapter may add to the amount of the claim, as contained in the notice, the amount of fees actually paid for the recording or filing of the lien notice, and such amount thereupon shall become part of the lien against the property described in the notice. [Amended by 1975 c.648 §52; 1981 c.898 §47] 
 
 ## Provenance & change history
 

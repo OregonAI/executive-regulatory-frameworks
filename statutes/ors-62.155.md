@@ -58,7 +58,7 @@ ORS 62.155 — Registered office and registered agent; service of process on coo
 
 (4) A registered agent appointed by a cooperative is an agent of the cooperative upon whom any process, notice or demand required or permitted by law to be served upon the cooperative may be served.
 
-(5) The provisions of ORS 60.121 are applicable to cooperatives. [1957 c.716 §10; 1987 c.94 §80; 2001 c.315 §26; 2013 c.158 §24; 2017 c.705 §17] 62.160 [Repealed by 1957 c.716 §76] 
+(5) The provisions of ORS 60.121 are applicable to cooperatives. [1957 c.716 §10; 1987 c.94 §80; 2001 c.315 §26; 2013 c.158 §24; 2017 c.705 §17] 
 
 ## Provenance & change history
 

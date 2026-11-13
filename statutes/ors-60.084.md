@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2019
-enacted: 1953
+enacted: 1987
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 60.084 — Challenges to validity of corporate acts. Chapter 60 (Private Cor
 
 (2) A corporation’s power to act may be challenged: (a) In a proceeding by a shareholder against the corporation to enjoin the act; (b) In a proceeding by the corporation, directly, derivatively, or through a receiver, trustee or other legal representative against an incumbent or former director, officer, employee or agent of the corporation; (c) In a proceeding by the Attorney General under ORS 60.661; or (d) In an action under ORS 60.291.
 
-(3) In a shareholder’s proceeding under subsection (2)(a) of this section to enjoin an unauthorized corporate act, the court may enjoin or set aside the act, if equitable and if all affected persons are parties to the proceeding, and may award damages for loss other than anticipated profits suffered by the corporation or another party because of enjoining the unauthorized act. [1987 c.52 §25; 2019 c.325 §20] 60.090 [Repealed by 1953 c.549 §138] NAME 
+(3) In a shareholder’s proceeding under subsection (2)(a) of this section to enjoin an unauthorized corporate act, the court may enjoin or set aside the act, if equitable and if all affected persons are parties to the proceeding, and may award damages for loss other than anticipated profits suffered by the corporation or another party because of enjoining the unauthorized act. [1987 c.52 §25; 2019 c.325 §20] 
 
 ## Provenance & change history
 

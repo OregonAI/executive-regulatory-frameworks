@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-308a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
+last_amended: 2003
 enacted: 2003
 status: current
 supersedes: null
@@ -54,7 +54,7 @@ ORS 308A.377 — Abatement of additional taxes when farm, forest or open space l
 
 (2) Notwithstanding the provisions of any of the special assessment laws listed in subsection
 
-(1) of this section, the additional taxes, penalties and interest that would be due as a result of a change of designation to riparian shall be abated and shall not be collected. [Formerly 308.801; 2003 c.454 §§100,102; 2003 c.621 §83] 308A.380 [Formerly 308.802; repealed by 2015 c.480 §4] 
+(1) of this section, the additional taxes, penalties and interest that would be due as a result of a change of designation to riparian shall be abated and shall not be collected. [Formerly 308.801; 2003 c.454 §§100,102; 2003 c.621 §83] 
 
 ## Provenance & change history
 

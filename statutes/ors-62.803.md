@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2022
-enacted: 1957
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 62.803 — Definitions for ORS 62.800 to 62.815. Chapter 62 (Cooperatives), 
 
 (3) “Manufactured dwelling park” has the meaning given that term in ORS 446.003.
 
-(4) “Manufactured dwelling park nonprofit cooperative” means a cooperative corporation that: (a) Is organized to acquire or develop, and to own, an interest in one or more manufactured dwelling parks that are primarily used for the siting of manufactured dwellings owned and occupied by members of the cooperative; (b) Limits the use of all income and earnings to use by the cooperative and not for the benefit or profit of any individual; and (c) Elects to be governed by ORS 62.800 to 62.815. [2007 c.607 §3; 2009 c.609 §4; 2022 c.54 §10] 62.805 [1957 c.716 §62; 1963 c.492 §47; 1981 c.633 §67; 1985 c.351 §15; 1985 c.728 §74; repealed by 1987 c.94 §174] 
+(4) “Manufactured dwelling park nonprofit cooperative” means a cooperative corporation that: (a) Is organized to acquire or develop, and to own, an interest in one or more manufactured dwelling parks that are primarily used for the siting of manufactured dwellings owned and occupied by members of the cooperative; (b) Limits the use of all income and earnings to use by the cooperative and not for the benefit or profit of any individual; and (c) Elects to be governed by ORS 62.800 to 62.815. [2007 c.607 §3; 2009 c.609 §4; 2022 c.54 §10] 
 
 ## Provenance & change history
 

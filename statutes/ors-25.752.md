@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-25
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1993
+last_amended: 1995
+enacted: 1995
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 25.752 — Memberships in professional organizations that are required by st
 
 ## Full text
 
-25.752 Memberships in professional organizations that are required by state law. As used in ORS 25.750 to 25.783, “licenses, certificates, permits or registrations” includes, but is not limited to, memberships in professional organizations that are required by state law in order to engage in a profession. [1995 c.620 §12] 25.753 [1993 c.365 §3; repealed by 1995 c.620 §13] 
+25.752 Memberships in professional organizations that are required by state law. As used in ORS 25.750 to 25.783, “licenses, certificates, permits or registrations” includes, but is not limited to, memberships in professional organizations that are required by state law in order to engage in a profession. [1995 c.620 §12] 
 
 ## Provenance & change history
 

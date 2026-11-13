@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1967
+last_amended: 2011
+enacted: 2011
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 30.794 — Liability of physician or hospital arising out of care provided b
 
 (3) This section does not apply to the extent the physician or hospital contributed to the injury or to a claim of vicarious liability for care provided by a direct entry midwife.
 
-(4) This section does not limit the liability of a physician or a hospital for gross negligence or reckless, wanton or intentional misconduct. [2011 c.650 §3] 30.795 [1981 c.690 §2; 1985 c.530 §4; repealed by 1993 c.196 §12] 
+(4) This section does not limit the liability of a physician or a hospital for gross negligence or reckless, wanton or intentional misconduct. [2011 c.650 §3] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-98
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1957
+last_amended: 2007
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 98.311 — Service charge on unclaimed property. Chapter 98 (Lost, Unclaimed
 
 (2) The service charge or fee is imposed uniformly on all accounts; and
 
-(3) Three months’ written notice is given by first class mail to the last-known address of all owners before the charge or fee is levied. [1993 c.694 §45; 2007 c.539 §2] 98.312 [1957 c.670 §5; repealed by 1983 c.716 §26] 
+(3) Three months’ written notice is given by first class mail to the last-known address of all owners before the charge or fee is levied. [1993 c.694 §45; 2007 c.539 §2] 
 
 ## Provenance & change history
 

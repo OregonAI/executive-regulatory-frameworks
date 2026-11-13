@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1991
-enacted: 1973
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 44.566 — Provisions not applicable if public body a party. Chapter 44 (Wit
 
 ## Full text
 
-44.566 Provisions not applicable if public body a party. ORS 44.550 to 44.566 shall not apply to any proceeding in which a public body is a party. For the purposes of this section, “public body” has the meaning given in ORS 30.260. [1991 c.550 §9] Note: See note under 44.550. 44.610 [1973 c.136 §1; repealed by 1979 c.284 §199] 44.620 [1973 c.136 §§2,3; repealed by 1979 c.284 §199] 44.630 [1973 c.136 §4; repealed by 1979 c.284 §199] 44.640 [1973 c.136 §5; repealed by 1979 c.284 §199] _______________
+44.566 Provisions not applicable if public body a party. ORS 44.550 to 44.566 shall not apply to any proceeding in which a public body is a party. For the purposes of this section, “public body” has the meaning given in ORS 30.260. [1991 c.550 §9] Note: See note under 44.550. 
 
 ## Provenance & change history
 

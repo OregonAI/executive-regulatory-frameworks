@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-97
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1977
+last_amended: 2003
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -55,7 +55,7 @@ ORS 97.929 — Exceptions to ORS 97.923 to 97.949. Chapter 97 (Rights and Duties
 
 (2) Notwithstanding the exception provided in subsection
 
-(1) of this section, a person who would otherwise have a claim against a certified provider, a master trustee or a salesperson under the provisions of ORS 97.923 to 97.949 or ORS chapter 692 shall have a right against the bond or letter of credit described in subsection (1)(b) and (c) of this section. [Formerly 128.412; 2003 c.271 §1] Note: See note under 97.923. 97.930 [1977 c.715 §§2,3; renumbered 97.975 in 2001] 
+(1) of this section, a person who would otherwise have a claim against a certified provider, a master trustee or a salesperson under the provisions of ORS 97.923 to 97.949 or ORS chapter 692 shall have a right against the bond or letter of credit described in subsection (1)(b) and (c) of this section. [Formerly 128.412; 2003 c.271 §1] Note: See note under 97.923. 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2016
-enacted: 1955
+last_amended: 2011
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 87.018 — Delivery of notices. Chapter 87 (Statutory Liens), 2025 Edition.
 
 (1) Except as provided in ORS 87.093, all notices required under ORS 87.001 to 87.060 and 87.075 to 87.093 must be in writing and be delivered in person or by registered or certified mail.
 
-(2) A notice that must be given under ORS 87.001 to 87.060 or 87.075 to 87.093 to a mortgagee must be delivered to the mortgagee only if the name and address of the mortgagee appear in a mortgage of record or a trust deed of record as required under ORS 205.234 (1)(b) or in the instrument that assigns a mortgage or trust deed as required under ORS 205.234 (1)(g). [1975 c.466 §5; 1981 c.757 §2; 2007 c.648 §15; 2011 c.505 §2] 87.020 [Amended by 1965 c.446 §1; 1967 c.600 §1; 1967 c.602 §1; repealed by 1975 c.466 §6 (87.021 enacted in lieu of 87.020)] 
+(2) A notice that must be given under ORS 87.001 to 87.060 or 87.075 to 87.093 to a mortgagee must be delivered to the mortgagee only if the name and address of the mortgagee appear in a mortgage of record or a trust deed of record as required under ORS 205.234 (1)(b) or in the instrument that assigns a mortgage or trust deed as required under ORS 205.234 (1)(g). [1975 c.466 §5; 1981 c.757 §2; 2007 c.648 §15; 2011 c.505 §2] 
 
 ## Provenance & change history
 

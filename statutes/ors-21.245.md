@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-21
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 2013
+enacted: 2013
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 21.245 — Form fees. Chapter 21 (State Court Fees), 2025 Edition.
 
 (2) Notwithstanding subsection
 
-(1) of this section, no charge shall be made for forms made available under the provisions of ORS 107.700 to 107.735 or 124.005 to 124.040 or ORS 163.760 to 163.777. [Formerly 21.361; 2013 c.687 §11] 21.250 [Amended by 1963 c.519 §13; repealed by 1965 c.619 §39] 
+(1) of this section, no charge shall be made for forms made available under the provisions of ORS 107.700 to 107.735 or 124.005 to 124.040 or ORS 163.760 to 163.777. [Formerly 21.361; 2013 c.687 §11] 
 
 ## Provenance & change history
 

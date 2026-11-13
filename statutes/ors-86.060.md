@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-86
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 1955
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 86.060 — Assignment of mortgage. Chapter 86 (Mortgages; Trust Deeds), 2025
 
 ## Full text
 
-86.060 Assignment of mortgage. Mortgages may be assigned by an instrument in writing, executed and acknowledged with the same formality as required in deeds and mortgages of real property, and recorded in the records of mortgages of the county where the land is situated. 86.070 [Repealed by 1965 c.252 §1] 
+86.060 Assignment of mortgage. Mortgages may be assigned by an instrument in writing, executed and acknowledged with the same formality as required in deeds and mortgages of real property, and recorded in the records of mortgages of the county where the land is situated. 
 
 ## Provenance & change history
 

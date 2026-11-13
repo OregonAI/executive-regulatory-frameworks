@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-62
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2016
+last_amended: 1995
 enacted: 1957
 status: current
 supersedes: null
@@ -52,7 +52,7 @@ ORS 62.205 — Subscription agreement for shares or agreement to pay a membershi
 
 (1) A subscription agreement for shares, including membership stock, of a cooperative, where the subscription is entered into before incorporation, or an agreement entered into before incorporation to pay a membership fee is irrevocable for six months unless: (a) Otherwise provided by the subscription agreement or the agreement to pay a membership fee; or (b) All subscribers or parties to all the agreements to pay a membership fee consent to the revocation.
 
-(2) If a subscriber defaults in payment of money or property under a subscription agreement entered into before incorporation, or if a party to an agreement to pay a membership fee defaults in the payment of money or property under an agreement to pay a membership fee entered into before incorporation, the cooperative may collect the amount owed as any other debt. Alternatively, unless the subscription agreement or agreement to pay a membership fee provides otherwise, the cooperative may rescind the agreement if the debt remains unpaid more than 20 days after the cooperative sends written demand for payment to the subscriber or the party. [1957 c.716 §16; 1995 c.195 §3] 62.210 [Repealed by 1957 c.716 §76] 
+(2) If a subscriber defaults in payment of money or property under a subscription agreement entered into before incorporation, or if a party to an agreement to pay a membership fee defaults in the payment of money or property under an agreement to pay a membership fee entered into before incorporation, the cooperative may collect the amount owed as any other debt. Alternatively, unless the subscription agreement or agreement to pay a membership fee provides otherwise, the cooperative may rescind the agreement if the debt remains unpaid more than 20 days after the cooperative sends written demand for payment to the subscriber or the party. [1957 c.716 §16; 1995 c.195 §3] 
 
 ## Provenance & change history
 

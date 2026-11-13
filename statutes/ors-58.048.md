@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2015
-enacted: 1961
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 58.048 — When appearance by attorney not required. Chapter 58 (Professiona
 
 ## Full text
 
-58.048 When appearance by attorney not required. The provisions of ORS 9.320 requiring that a party that is not a natural person appear by attorney in all cases do not apply to a professional corporation incorporated under this chapter or authorized to render professional service or services in this state where the professional corporation is appearing before state administrative agencies. [1993 c.235 §36; 2015 c.7 §5] 58.050 [Repealed by 1961 c.726 §427] 58.060 [Repealed by 1961 c.726 §427] 58.070 [Repealed by 1961 c.726 §427] 58.075 [1969 c.592 §6; 1987 c.94 §123; repealed by 1993 c.235 §40]
+58.048 When appearance by attorney not required. The provisions of ORS 9.320 requiring that a party that is not a natural person appear by attorney in all cases do not apply to a professional corporation incorporated under this chapter or authorized to render professional service or services in this state where the professional corporation is appearing before state administrative agencies. [1993 c.235 §36; 2015 c.7 §5] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2015
-enacted: 1953
+enacted: 2015
 status: current
 supersedes: null
 content_mode: verbatim
@@ -62,7 +62,7 @@ ORS 30.673 — Limitations on liability of agri-tourism professional; exceptions
 
 (3) Subsection
 
-(1) of this section does not limit the liability of an agri-tourism professional under the product liability provisions of ORS 30.900 to 30.920. [2015 c.535 §2] 30.675 [1953 c.495 §2; 1957 c.724 §1; 1961 c.247 §1; 1973 c.714 §2; renumbered 659A.400 in 2001] 
+(1) of this section does not limit the liability of an agri-tourism professional under the product liability provisions of ORS 30.900 to 30.920. [2015 c.535 §2] 
 
 ## Provenance & change history
 

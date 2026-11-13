@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-62
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2016
+last_amended: 1995
 enacted: 1957
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 62.225 — Dividends on capital stock. Chapter 62 (Cooperatives), 2025 Editi
 
 ## Full text
 
-62.225 Dividends on capital stock. A cooperative organized with capital stock may pay a dividend upon capital stock as is authorized by its articles. A payment under this section shall not be made if the result of the payment would be to bring the value of the cooperative’s remaining assets below the aggregate of the cooperative’s indebtedness. [1957 c.716 §18; 1995 c.195 §5] 62.230 [Repealed by 1957 c.716 §76] 
+62.225 Dividends on capital stock. A cooperative organized with capital stock may pay a dividend upon capital stock as is authorized by its articles. A payment under this section shall not be made if the result of the payment would be to bring the value of the cooperative’s remaining assets below the aggregate of the cooperative’s indebtedness. [1957 c.716 §18; 1995 c.195 §5] 
 
 ## Provenance & change history
 

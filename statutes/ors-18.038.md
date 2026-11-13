@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-18
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 2015
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 18.038 — Form of judgment document generally. Chapter 18 (Judgments), 2025
 
 (4) A judgment document must include: (a) The name of the court rendering the judgment and the file number or other identifier used by the court for the action or actions decided by the judgment; (b) The names of any parties in whose favor the judgment is given and the names of any parties against whom the judgment is given; and (c) The signature of the judge rendering the judgment, or the signature of the court administrator if the court administrator is authorized by law to sign the judgment document, and the date the judgment document is signed.
 
-(5) This section does not apply to any foreign judgment filed with a court under ORS 24.115 or 110.605 to 110.611. [2003 c.576 §4; 2005 c.568 §38; 2015 c.298 §81] 18.040 [Repealed by 1981 c.898 §53] 
+(5) This section does not apply to any foreign judgment filed with a court under ORS 24.115 or 110.605 to 110.611. [2003 c.576 §4; 2005 c.568 §38; 2015 c.298 §81] 
 
 ## Provenance & change history
 

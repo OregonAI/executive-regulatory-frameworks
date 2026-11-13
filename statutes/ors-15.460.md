@@ -48,7 +48,7 @@ ORS 15.460 — Commentary. Chapter 15 (Choice of Laws), 2025 Edition.
 
 ## Full text
 
-15.460 Commentary. The Oregon Law Commission shall make available on the website maintained by the commission a copy of the commentary approved by the commission for the provisions of ORS 15.400 to 15.460. [Formerly 31.890] _______________
+15.460 Commentary. The Oregon Law Commission shall make available on the website maintained by the commission a copy of the commentary approved by the commission for the provisions of ORS 15.400 to 15.460. [Formerly 31.890] 
 
 ## Provenance & change history
 

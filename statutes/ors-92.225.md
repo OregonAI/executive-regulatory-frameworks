@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-92
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1985
-enacted: 1963
+last_amended: 1973
+enacted: 1973
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 92.225 — Review of undeveloped or developed subdivision plat lands. Chapte
 
 (4) If the agency or body determines that a subdivision is undeveloped after its investigation of the subdivision under subsection
 
-(1) of this section, it shall hold a hearing to determine whether the undeveloped subdivision should be revised and the subdivision replatted or vacated and all lands within the subdivision that have been dedicated for public use vacated. Not later than 30 days before the date of a hearing held by an agency or body under this section, the agency or body shall notify, in writing, each owner of record of land described in the plat of the subdivision under review of the date, place, time and purpose of such hearing. [1973 c.569 §3] 92.230 [1963 c.624 §§4,19; 1969 c.508 §1; repealed by 1973 c.421 §52] 
+(1) of this section, it shall hold a hearing to determine whether the undeveloped subdivision should be revised and the subdivision replatted or vacated and all lands within the subdivision that have been dedicated for public use vacated. Not later than 30 days before the date of a hearing held by an agency or body under this section, the agency or body shall notify, in writing, each owner of record of land described in the plat of the subdivision under review of the date, place, time and purpose of such hearing. [1973 c.569 §3] 
 
 ## Provenance & change history
 

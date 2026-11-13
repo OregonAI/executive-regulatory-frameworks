@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2007
-enacted: 1971
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -66,7 +66,7 @@ ORS 94.504 — Development agreements; contents; duration; effect on affordable 
 
 (8) The maximum duration of a development agreement entered into with: (a) A city is 15 years; and (b) A county is seven years.
 
-(9) ORS 94.504 to 94.528 do not limit the authority of a city or county to take action pursuant to ORS 456.270 to 456.295. [1993 c.780 §1; 2005 c.315 §1; 2007 c.691 §7] Note: 94.504 to 94.528 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 94 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 94.505 [Repealed by 1971 c.478 §1] 
+(9) ORS 94.504 to 94.528 do not limit the authority of a city or county to take action pursuant to ORS 456.270 to 456.295. [1993 c.780 §1; 2005 c.315 §1; 2007 c.691 §7] Note: 94.504 to 94.528 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 94 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

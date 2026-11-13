@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-74a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 1995
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim

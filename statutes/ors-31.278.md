@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-31
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2013
+enacted: 2013
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +56,7 @@ ORS 31.278 — Use of information relating to notice of adverse health care inci
 
 (3) The commission may use and disclose information provided pursuant to a discussion under ORS 31.264 as necessary to assist a health care facility or health care provider involved in an adverse health care incident in determining the cause of and potential mitigation of the incident. If the commission discloses information under this subsection to a person not involved in the incident, the information may not identify a health care facility, health care provider or patient involved in the incident.
 
-(4) A regulatory agency, licensing board, health care facility, health insurer or credentialing entity may not ask the commission, a health care facility, a health care provider or other person whether a facility or provider has filed a notice of adverse health care incident or use the fact that a notice of adverse health care incident was filed as the basis of disciplinary, regulatory, licensure or credentialing action. This subsection does not prevent a person from using information, if the information is otherwise available, to engage in quality review of patient care or as the basis of imposing a restriction, limitation, loss or denial of privileges on a health care provider or other action against a health care provider based on a finding of medical incompetence, unprofessional conduct, physical incapacity or impairment. [2013 c.5 §10] 31.280 [2013 c.5 §17; repealed by 2025 c.405 §17] (Actions Against Design Professionals) 
+(4) A regulatory agency, licensing board, health care facility, health insurer or credentialing entity may not ask the commission, a health care facility, a health care provider or other person whether a facility or provider has filed a notice of adverse health care incident or use the fact that a notice of adverse health care incident was filed as the basis of disciplinary, regulatory, licensure or credentialing action. This subsection does not prevent a person from using information, if the information is otherwise available, to engage in quality review of patient care or as the basis of imposing a restriction, limitation, loss or denial of privileges on a health care provider or other action against a health care provider based on a finding of medical incompetence, unprofessional conduct, physical incapacity or impairment. [2013 c.5 §10] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2009
-enacted: 1957
+enacted: 1995
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 87.539 — Discharge or release of lien claim; recordation; penalty for fail
 
 (4) If, after receiving payment for the care claimed in a notice of lien filed under ORS 87.507, a long term care facility fails to discharge the lien or release the claim of lien within 10 days, the long term care facility is liable to the individual or to the spouse or the estate of the individual for $100 or the amount of actual damages, whichever amount is greater.
 
-(5) In all actions brought under this section, the court may allow reasonable attorney fees at trial and on appeal to the prevailing party. [1995 c.749 §10; 1997 c.744 §10; 2009 c.628 §5] Note: See note under 87.501. 87.540 [Amended by 1957 c.684 §2; repealed by 1975 c.648 §72] 
+(5) In all actions brought under this section, the court may allow reasonable attorney fees at trial and on appeal to the prevailing party. [1995 c.749 §10; 1997 c.744 §10; 2009 c.628 §5] Note: See note under 87.501. 
 
 ## Provenance & change history
 

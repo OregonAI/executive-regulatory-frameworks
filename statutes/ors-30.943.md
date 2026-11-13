@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1979
+last_amended: 1995
+enacted: 1995
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 30.943 — Certain agencies not required to investigate complaints based on 
 
 ## Full text
 
-30.943 Certain agencies not required to investigate complaints based on farming or forest practice. The Department of Environmental Quality, Department of State Lands, State Department of Agriculture or State Forestry Department is not required to investigate complaints if the agency has reason to believe that the complaint is based on practices protected by ORS 30.930 or 30.947. [1995 c.703 §8] 30.945 [1981 c.716 §4; repealed by 1995 c.703 §12] 
+30.943 Certain agencies not required to investigate complaints based on farming or forest practice. The Department of Environmental Quality, Department of State Lands, State Department of Agriculture or State Forestry Department is not required to investigate complaints if the agency has reason to believe that the complaint is based on practices protected by ORS 30.930 or 30.947. [1995 c.703 §8] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-18
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 2017
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 18.312 — Execution not to issue against property of deceased party; except
 
 (3) The stay imposed by subsection
 
-(1) of this section: (a) Expires when the property ceases to be property of the estate, including but not limited to upon conveyance of the property by the personal representative to a third party or upon distribution by the personal representative; and (b) Does not diminish the lien effect of a judgment or bar execution based on a lien when execution commences after the property ceases to be property of the estate. [Formerly 23.105; 2007 c.495 §1; 2017 c.169 §42] 18.315 [1999 c.788 §15; repealed by 2003 c.576 §580] 
+(1) of this section: (a) Expires when the property ceases to be property of the estate, including but not limited to upon conveyance of the property by the personal representative to a third party or upon distribution by the personal representative; and (b) Does not diminish the lien effect of a judgment or bar execution based on a lien when execution commences after the property ceases to be property of the estate. [Formerly 23.105; 2007 c.495 §1; 2017 c.169 §42] 
 
 ## Provenance & change history
 

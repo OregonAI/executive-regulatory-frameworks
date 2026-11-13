@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-54
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 1999
+enacted: 1999
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +56,7 @@ ORS 54.160 — Punishment of jurors. Chapter 54 (Juries), 2025 Edition.
 
 (3) The person leaves the court without permission while the court is in session; or
 
-(4) The person without valid excuse otherwise fails to complete required jury service. [Amended by 1999 c.605 §5] _______________
+(4) The person without valid excuse otherwise fails to complete required jury service. [Amended by 1999 c.605 §5] 
 
 ## Provenance & change history
 

@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
+last_amended: 1975
 enacted: 1975
 status: current
 supersedes: null
@@ -57,7 +57,7 @@ ORS 87.166 — Attachment of liens. Chapter 87 (Statutory Liens), 2025 Edition.
 
 (2) of this section, the liens created by ORS 87.152 to 87.162 attach to the chattels described in those sections when: (a) The services or labor are performed or the materials or money are furnished by the lien claimant to the lien debtor; and (b) The charges for the services or labor performed and materials or money furnished are due and the lien debtor either knows or should reasonably know that the charges are due.
 
-(2) The lien created by ORS 87.162 attaches to the chattels described in that section on the 20th day after rents or advances occur or attaches when the occupant or tenant attempts to remove the chattels from the premises while there are unpaid rents or advances. A person claiming a lien under ORS 87.162 may take the chattels subject to that lien into the possession of the person when the lien attaches or at any time thereafter. [1975 c.648 §6] 87.170 [Repealed by 1975 c.648 §72] 
+(2) The lien created by ORS 87.162 attaches to the chattels described in that section on the 20th day after rents or advances occur or attaches when the occupant or tenant attempts to remove the chattels from the premises while there are unpaid rents or advances. A person claiming a lien under ORS 87.162 may take the chattels subject to that lien into the possession of the person when the lien attaches or at any time thereafter. [1975 c.648 §6] 
 
 ## Provenance & change history
 

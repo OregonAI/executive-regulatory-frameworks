@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-55
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2025
+enacted: 2025
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 55.335 — Appeal from circuit court. Chapter 55 (Appeals), 2025 Edition.
 
 ## Full text
 
-55.335 Appeal from circuit court. Upon entry by the circuit court of an order or judgment in the matter, the judgment may be appealed as provided in ORS chapter 19 except as otherwise provided by law. [2025 c.268 §30] _______________
+55.335 Appeal from circuit court. Upon entry by the circuit court of an order or judgment in the matter, the judgment may be appealed as provided in ORS chapter 19 except as otherwise provided by law. [2025 c.268 §30] 
 
 ## Provenance & change history
 

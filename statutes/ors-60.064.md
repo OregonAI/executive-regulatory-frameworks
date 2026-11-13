@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1987
-enacted: 1953
+enacted: 1987
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 60.064 — Emergency bylaws. Chapter 60 (Private Corporations), 2025 Edition
 
 (3) Corporate action taken in good faith in accordance with the emergency bylaws binds the corporation and may not be used to impose liability on a corporate director, officer, employee or agent.
 
-(4) An emergency exists for purposes of this section if a quorum of the corporation’s directors cannot readily be assembled because of some catastrophic event. [1987 c.52 §21] 60.070 [Repealed by 1953 c.549 §138]
+(4) An emergency exists for purposes of this section if a quorum of the corporation’s directors cannot readily be assembled because of some catastrophic event. [1987 c.52 §21] 
 
 ## Provenance & change history
 

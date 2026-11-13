@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-51
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1953
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 51.340 — Monthly report of fines collected. Chapter 51 (Justice Courts; Ju
 
 ## Full text
 
-51.340 Monthly report of fines collected. Justices of the peace in each county shall report to the county treasurer once in each month the amount of all fines collected by them, from whom collected, and what the fine was for, and at the same time pay to the county treasurer in money the full amount of the fines collected. If the justices of the peace have collected no fines, they shall report that fact to the county treasurer. 51.350 [Repealed by 1983 c.77 §1 and 1983 c.310 §21] 51.360 [Repealed by 1983 c.77 §1 and 1983 c.310 §21] 51.410 [Repealed by 1965 c.624 §12] 51.440 [Amended by 1965 c.624 §1; 1971 c.136 §1; 1995 c.658 §59; repealed by 2015 c.212 §19] 51.450 [Amended by 1965 c.624 §3; 1983 c.83 §3; 1995 c.658 §60; repealed by 2015 c.212 §19] 51.460 [Amended by 1965 c.624 §4; 1995 c.658 §61; repealed by 2015 c.212 §19] 51.470 [Amended by 1965 c.624 §5; 1995 c.658 §62; repealed by 2015 c.212 §19] 51.480 [Repealed by 2015 c.212 §19] 51.490 [Amended by 1965 c.624 §6; repealed by 2015 c.212 §19] 51.500 [Amended by 1965 c.624 §7; repealed by 2015 c.212 §19] 51.520 [Repealed by 1953 c.306 §18] 51.530 [Amended by 1965 c.624 §8; repealed by 1973 c.393 §4] 51.540 [Amended by 1965 c.624 §9; repealed by 2015 c.212 §19] 51.550 [Amended by 1965 c.624 §10; repealed by 2015 c.212 §19] 51.610 [Amended by 1965 c.134 §1; 1965 c.624 §11; repealed by 1971 c.136 §3] 51.620 [Repealed by 1971 c.136 §3] 51.630 [Amended by 1959 c.621 §1; repealed by 1971 c.136 §3] 51.640 [Amended by 1965 c.613 §26; repealed by 1971 c.136 §3] 51.650 [Repealed by 1953 c.306 §18] 51.660 [Repealed by 1965 c.510 §24] 51.670 [Amended by 1965 c.510 §22; repealed by 1965 c.624 §12] 51.680 [Repealed by 1953 c.306 §18] 51.690 [Repealed by 1953 c.306 §18] 51.700 [1965 c.624 §2; repealed by 1971 c.136 §3] _______________
+51.340 Monthly report of fines collected. Justices of the peace in each county shall report to the county treasurer once in each month the amount of all fines collected by them, from whom collected, and what the fine was for, and at the same time pay to the county treasurer in money the full amount of the fines collected. If the justices of the peace have collected no fines, they shall report that fact to the county treasurer. 
 
 ## Provenance & change history
 

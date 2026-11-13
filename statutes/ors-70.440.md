@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-70
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2011
+enacted: 1995
 status: current
 supersedes: null
 content_mode: verbatim
@@ -59,7 +61,7 @@ ORS 70.440 — Reinstatement following administrative inactivation. Chapter 70 (
 
 (4) The Secretary of State may waive the requirement under subsection
 
-(1) of this section that the limited partnership apply for reinstatement within five years after the date of administrative inactivation if the limited partnership requests the waiver and provides evidence of the limited partnership’s continued existence as an active concern during the period of administrative inactivation. [1995 c.215 §20; 2011 c.147 §22] 70.450 [1985 c.677 §61; renumbered 70.600 in 1999] 70.455 [1985 c.677 §62; renumbered 70.605 in 1999] 70.460 [1985 c.677 §62a; 1987 c.543 §32; 1987 c.843 §23; 1991 c.132 §10; 1993 c.190 §11; 1995 c.215 §21; renumbered 70.610 in 1999] 70.465 [1985 c.677 §63; 1997 c.775 §89; 1999 c.86 §19; renumbered 70.615 in 1999] 70.470 [1987 c.543 §9b; renumbered 70.620 in 1999] 70.490 [1985 c.677 §1; renumbered 70.625 in 1999]
+(1) of this section that the limited partnership apply for reinstatement within five years after the date of administrative inactivation if the limited partnership requests the waiver and provides evidence of the limited partnership’s continued existence as an active concern during the period of administrative inactivation. [1995 c.215 §20; 2011 c.147 §22] 
 
 ## Provenance & change history
 

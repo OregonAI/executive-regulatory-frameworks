@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-63
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 1959
+last_amended: 2013
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 63.017 — Filing duty of Secretary of State. Chapter 63 (Limited Liability 
 
 (4) The Secretary of State’s duty to file documents under this section is ministerial. The Secretary of State is not required to verify or inquire into the legality or truth of any matter included in any document delivered to the office for filing. The Secretary of State’s filing or refusing to file a document does not: (a) Affect the validity or invalidity of the document in whole or part; or (b) Relate to the correctness or incorrectness of information contained in the document.
 
-(5) The Secretary of State’s refusal to file a document does not create a presumption that the document is invalid or that information contained in the document is incorrect. [1993 c.173 §8; 1999 c.486 §9; 2013 c.159 §7] 63.020 [Repealed by 1959 c.580 §104] 
+(5) The Secretary of State’s refusal to file a document does not create a presumption that the document is invalid or that information contained in the document is incorrect. [1993 c.173 §8; 1999 c.486 §9; 2013 c.159 §7] 
 
 ## Provenance & change history
 

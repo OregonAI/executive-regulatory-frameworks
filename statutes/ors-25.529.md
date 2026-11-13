@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-25
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1985
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -72,7 +72,7 @@ ORS 25.529 — Filing order with court; order effective as circuit court judgmen
 
 (5) An order filed under this section that modifies a previously filed order or a previously entered judgment may contain provisions that were included in the order or judgment.
 
-(6) A court or administrative order of another state may be filed, or if appropriate, registered, pursuant to this section for the purposes of ORS chapter 110. Notwithstanding any other provision of ORS 25.501 to 25.556, an order of another state registered pursuant to ORS 110.605 to 110.611 may not be modified unless the requirements of ORS 110.626 to 110.637 are met. [Formerly 416.440] 25.530 [1985 c.671 §23; repealed by 1995 c.608 §46] 
+(6) A court or administrative order of another state may be filed, or if appropriate, registered, pursuant to this section for the purposes of ORS chapter 110. Notwithstanding any other provision of ORS 25.501 to 25.556, an order of another state registered pursuant to ORS 110.605 to 110.611 may not be modified unless the requirements of ORS 110.626 to 110.637 are met. [Formerly 416.440] 
 
 ## Provenance & change history
 

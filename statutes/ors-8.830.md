@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-8
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1997
-enacted: 1953
+last_amended: 1955
+enacted: 1955
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 8.830 — Additional compensation from county for district attorney and depu
 
 ## Full text
 
-8.830 Additional compensation from county for district attorney and deputies paid by state. Whenever, in the judgment of any county court or board of county commissioners, the salaries paid by the state to the district attorney, or to any deputy district attorney, are not commensurate with the character of the service performed, the county court or board of county commissioners may pay out of the funds of the county such additional amounts as will properly compensate said officers for the service performed. [Amended by 1955 c.220 §1] 8.840 [Repealed by 1953 c.652 §6] 
+8.830 Additional compensation from county for district attorney and deputies paid by state. Whenever, in the judgment of any county court or board of county commissioners, the salaries paid by the state to the district attorney, or to any deputy district attorney, are not commensurate with the character of the service performed, the county court or board of county commissioners may pay out of the funds of the county such additional amounts as will properly compensate said officers for the service performed. [Amended by 1955 c.220 §1] 
 
 ## Provenance & change history
 

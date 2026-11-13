@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-459a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1993
+last_amended: 1991
 enacted: 1991
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 459A.605 — Rules for purchase of compost and sewage sludge by state. Chapt
 
 ## Full text
 
-459A.605 Rules for purchase of compost and sewage sludge by state. In consultation with the Department of Environmental Quality and affected state and local agencies, the Oregon Department of Administrative Services shall adopt rules for the purchase by the State of Oregon of compost and sewage sludge. The rules shall designate the state minimum purchasing standards. The rules shall encourage the use of compost and sludge without jeopardizing the safety and health of the citizens of the state or the environment. [1991 c.385 §21] 459A.610 [1991 c.385 §22; repealed by 1993 c.560 §107] 
+459A.605 Rules for purchase of compost and sewage sludge by state. In consultation with the Department of Environmental Quality and affected state and local agencies, the Oregon Department of Administrative Services shall adopt rules for the purchase by the State of Oregon of compost and sewage sludge. The rules shall designate the state minimum purchasing standards. The rules shall encourage the use of compost and sludge without jeopardizing the safety and health of the citizens of the state or the environment. [1991 c.385 §21] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2013
-enacted: 1953
+enacted: 2013
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 8.455 — Advisory committee, membership; terms. Chapter 8 (Court Officers a
 
 (3) The advisory committee shall organize by the election of one of its members as president and one as secretary.
 
-(4) A majority of the advisory committee shall constitute a quorum for all purposes. [Formerly 703.414; 2013 c.155 §7; 2013 c.470 §6] 8.510 [Amended by 1953 c.566 §2; 1957 c.706 §1; 1963 c.494 §1; 1981 c.215 §9; repealed by 1981 s.s c.3 §141]
+(4) A majority of the advisory committee shall constitute a quorum for all purposes. [Formerly 703.414; 2013 c.155 §7; 2013 c.470 §6] 
 
 ## Provenance & change history
 

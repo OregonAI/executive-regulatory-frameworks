@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
+last_amended: 2011
 enacted: 1967
 status: current
 supersedes: null
@@ -64,7 +64,7 @@ ORS 30.265 — Scope of liability of public body, officers, employees and agents
 
 (7) This section applies to any action of any officer, employee or agent of the state relating to a nuclear incident, whether or not the officer, employee or agent is acting within the scope of employment, and provided the nuclear incident is covered by an insurance or indemnity agreement under 42 U.S.C. 2210.
 
-(8) Subsection (6)(c) of this section does not apply to any discretionary act that is found to be the cause or partial cause of a nuclear incident covered by an insurance or indemnity agreement under the provisions of 42 U.S.C. 2210, including but not limited to road design and route selection. [1967 c.627 §§2,3,10; 1969 c.429 §1; 1975 c.609 §12; 1977 c.823 §2; 1981 c.490 §4; 1985 c.731 §31; 1987 c.705 §7; 1991 c.861 §1; 2005 c.22 §19; 2007 c.803 §4; 2011 c.270 §1] 30.266 [1977 c.781 §2; 1981 c.109 §2; 1985 c.731 §20; 1989 c.873 §1; repealed by 1991 c.756 §5] 
+(8) Subsection (6)(c) of this section does not apply to any discretionary act that is found to be the cause or partial cause of a nuclear incident covered by an insurance or indemnity agreement under the provisions of 42 U.S.C. 2210, including but not limited to road design and route selection. [1967 c.627 §§2,3,10; 1969 c.429 §1; 1975 c.609 §12; 1977 c.823 §2; 1981 c.490 §4; 1985 c.731 §31; 1987 c.705 §7; 1991 c.861 §1; 2005 c.22 §19; 2007 c.803 §4; 2011 c.270 §1] 
 
 ## Provenance & change history
 

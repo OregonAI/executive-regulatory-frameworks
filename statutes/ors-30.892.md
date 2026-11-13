@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
-enacted: 1987
+last_amended: 1989
+enacted: 1989
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 30.892 — Liability of donors and distributors of general merchandise and h
 
 (4) This section applies to the good-faith donation of general merchandise or household items not readily marketable due to appearance, grade, surplus or considerations other than safety but does not restrict the authority of any appropriate agency to regulate or ban the use of such general merchandise or household items. The immunity from civil liability and criminal penalty provided by this section shall not apply if the general merchandise or household item is resold by either the donee or any other person. This section does not affect the liability of a manufacturer for products that are subject to a current or future safety recall whether such recall is initiated by the manufacturer or at the request of the state or federal government, nor shall this section affect the liability of a manufacturer under ORS 30.900 to 30.920.
 
-(5) As used in this section: (a) “Donor” includes all of the following, without regard to who is the owner of the general merchandise or household item at the time of the donation: (A) A general merchandiser; (B) A retail establishment; (C) A wholesaler; and (D) A manufacturer. (b) “General merchandise or household item” means any item sold as general merchandise for household use, including but not limited to items sold in the following categories: Toiletries, cosmetics, domestics, electronics, sporting goods, clothing, toys, small appliances, personal care appliances, housewares, household chemicals, hardware, paint, sundries, plumbing, garden supplies, automotive, school supplies, pet food, pet supplies, over-the-counter drugs or vitamins, or other items of merchandise commonly sold in a retail or general merchandising establishment. [1989 c.1012 §2] 30.895 [1987 c.774 §11; renumbered 31.230 in 2003]
+(5) As used in this section: (a) “Donor” includes all of the following, without regard to who is the owner of the general merchandise or household item at the time of the donation: (A) A general merchandiser; (B) A retail establishment; (C) A wholesaler; and (D) A manufacturer. (b) “General merchandise or household item” means any item sold as general merchandise for household use, including but not limited to items sold in the following categories: Toiletries, cosmetics, domestics, electronics, sporting goods, clothing, toys, small appliances, personal care appliances, housewares, household chemicals, hardware, paint, sundries, plumbing, garden supplies, automotive, school supplies, pet food, pet supplies, over-the-counter drugs or vitamins, or other items of merchandise commonly sold in a retail or general merchandising establishment. [1989 c.1012 §2] 
 
 ## Provenance & change history
 

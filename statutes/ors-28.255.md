@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-28
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 1983
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 28.255 — Short title. Chapter 28 (Declaratory Judgments; Certification of 
 
 ## Full text
 
-28.255 Short title. ORS 28.200 to 28.255 may be cited as the Uniform Certification of Questions of Law Act. [1983 c.103 §12] Note: See note under 28.200. _______________
+28.255 Short title. ORS 28.200 to 28.255 may be cited as the Uniform Certification of Questions of Law Act. [1983 c.103 §12] Note: See note under 28.200. 
 
 ## Provenance & change history
 

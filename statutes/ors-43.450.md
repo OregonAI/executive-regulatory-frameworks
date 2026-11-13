@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1967
+enacted: 2025
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 43.450 — Official records and files of United States Army, Navy, Air Force
 
 ## Full text
 
-43.450 Official records and files of United States Army, Navy, Air Force, Marine Corps, Coast Guard and Space Force. Relevant official records and files of the Departments of the Army, Navy, Air Force, Marine Corps, Coast Guard and Space Force of the United States shall be accorded prima facie probative value in evidence before any court or agency in which there is an issue of fact as to the death or disappearance of any person while serving in or with the Armed Forces of the United States. [Amended by 2025 c.453 §1] 43.460 [Repealed by 1981 c.892 §98] 43.470 [Amended by 1967 c.489 §2; repealed by 1981 c.892 §98] _______________
+43.450 Official records and files of United States Army, Navy, Air Force, Marine Corps, Coast Guard and Space Force. Relevant official records and files of the Departments of the Army, Navy, Air Force, Marine Corps, Coast Guard and Space Force of the United States shall be accorded prima facie probative value in evidence before any court or agency in which there is an issue of fact as to the death or disappearance of any person while serving in or with the Armed Forces of the United States. [Amended by 2025 c.453 §1] 
 
 ## Provenance & change history
 

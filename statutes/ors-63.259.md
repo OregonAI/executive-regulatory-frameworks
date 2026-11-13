@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-63
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1997
-enacted: 1959
+last_amended: 1993
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 63.259 — Rights of judgment creditor against member. Chapter 63 (Limited L
 
 ## Full text
 
-63.259 Rights of judgment creditor against member. On application to a court of competent jurisdiction by any judgment creditor of a member, the court may charge the membership interest of the member with payment of the unsatisfied amount of the judgment with interest. To the extent so charged, the judgment creditor has only the rights of an assignee of the membership interest. This chapter shall not deprive any member of the benefit of any exemption laws applicable to the member’s membership interest. [1993 c.173 §52] 63.260 [1959 c.660 §6; repealed by 1981 c.68 §1] 
+63.259 Rights of judgment creditor against member. On application to a court of competent jurisdiction by any judgment creditor of a member, the court may charge the membership interest of the member with payment of the unsatisfied amount of the judgment with interest. To the extent so charged, the judgment creditor has only the rights of an assignee of the membership interest. This chapter shall not deprive any member of the benefit of any exemption laws applicable to the member’s membership interest. [1993 c.173 §52] 
 
 ## Provenance & change history
 

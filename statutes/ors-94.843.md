@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 1983
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 94.843 — Limits on developer right to transfer. Chapter 94 (Real Property 
 
 (2) Within 30 days after the transfer of the developer’s interest, notice of the transfer shall be mailed to each owner.
 
-(3) A person holding a blanket encumbrance on the property constituting timeshare property is not a transferee for purposes of this section, if the person has executed and recorded a nondisturbance agreement in accordance with ORS 94.885. [1983 c.530 §17] 94.845 [Repealed by 1971 c.478 §1] (Association of Owners; Management) 
+(3) A person holding a blanket encumbrance on the property constituting timeshare property is not a transferee for purposes of this section, if the person has executed and recorded a nondisturbance agreement in accordance with ORS 94.885. [1983 c.530 §17] 
 
 ## Provenance & change history
 

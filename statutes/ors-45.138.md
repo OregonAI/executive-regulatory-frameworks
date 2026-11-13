@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-45
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1955
+last_amended: 1999
+enacted: 1999
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 45.138 — Duties of person recording or reporting deposition. Chapter 45 (T
 
 (1) A person recording or reporting a deposition is personally responsible for the accurate and complete recording or reporting of the deposition. No person who employs or otherwise engages a person to record or report a deposition may modify or attempt to modify the record or report of the deposition, except to the extent allowed for the correction of errors in the record or report.
 
-(2) Any person employed or otherwise engaged to record or report a deposition must provide equal services, and charge equal fee rates, to all parties and attorneys in the proceeding. A person employed or otherwise engaged to record or report a deposition must distribute copies of the record or report at the same time to all parties and attorneys who are entitled to receive a copy. In addition, a person employed or otherwise engaged to record or report a deposition must: (a) Disclose the fee rates of the person for services, transcripts and copies to the attorneys identified in the proceeding and to any party who is not represented by an attorney and who is identified in the proceeding; or (b) Provide a complete, individual accounting of all appearance fees, transcript fees and any other fees charged for services rendered in the proceeding. [1999 c.942 §2] 45.140 [Repealed by 1979 c.284 §199] 
+(2) Any person employed or otherwise engaged to record or report a deposition must provide equal services, and charge equal fee rates, to all parties and attorneys in the proceeding. A person employed or otherwise engaged to record or report a deposition must distribute copies of the record or report at the same time to all parties and attorneys who are entitled to receive a copy. In addition, a person employed or otherwise engaged to record or report a deposition must: (a) Disclose the fee rates of the person for services, transcripts and copies to the attorneys identified in the proceeding and to any party who is not represented by an attorney and who is identified in the proceeding; or (b) Provide a complete, individual accounting of all appearance fees, transcript fees and any other fees charged for services rendered in the proceeding. [1999 c.942 §2] 
 
 ## Provenance & change history
 

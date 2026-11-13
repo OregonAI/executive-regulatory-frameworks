@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-46
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1953
+last_amended: 2015
+enacted: 1971
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 46.425 — Commencement of actions; contents of claim. Chapter 46 (Small Cla
 
 (4) Notwithstanding subsection
 
-(3) of this section, a plaintiff bringing an action on assigned claims: (a) Need bring an action only on those claims that have been assigned as of the date the action is filed; and (b) May bring separate actions for each person assigning claims to the plaintiff. [1971 c.760 §4; 1977 c.875 §2; 1991 c.195 §1; 1995 c.658 §45; 1997 c.378 §4; amendments by 1997 c.378 §5 repealed by 1999 c.84 §9; 1997 c.801 §80; 1999 c.84 §2; 2007 c.125 §2; 2011 c.595 §48; 2015 c.121 §1] 46.430 [Repealed by 1971 c.760 §11] 46.435 [1971 c.760 §5; 1973 c.393 §2; 1977 c.875 §3; 1979 c.567 §2; repealed by 1979 c.833 §36] 46.440 [Repealed by 1971 c.760 §11] 
+(3) of this section, a plaintiff bringing an action on assigned claims: (a) Need bring an action only on those claims that have been assigned as of the date the action is filed; and (b) May bring separate actions for each person assigning claims to the plaintiff. [1971 c.760 §4; 1977 c.875 §2; 1991 c.195 §1; 1995 c.658 §45; 1997 c.378 §4; amendments by 1997 c.378 §5 repealed by 1999 c.84 §9; 1997 c.801 §80; 1999 c.84 §2; 2007 c.125 §2; 2011 c.595 §48; 2015 c.121 §1] 
 
 ## Provenance & change history
 

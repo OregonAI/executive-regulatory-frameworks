@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-72a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 1989
+enacted: 1989
 status: current
 supersedes: null
 content_mode: verbatim
@@ -50,7 +52,7 @@ ORS 72A.2060 — Offer and acceptance in formation of lease contract. Chapter 72
 
 (1) Unless otherwise unambiguously indicated by the language or circumstances, an offer to make a lease contract must be construed as inviting acceptance in any manner and by any medium reasonable in the circumstances.
 
-(2) If the beginning of a requested performance is a reasonable mode of acceptance, an offeror who is not notified of acceptance within a reasonable time may treat the offer as having lapsed before acceptance. [1989 c.676 §15] 72A.2070 [1989 c.676 §16; repealed by 2009 c.181 §116] 
+(2) If the beginning of a requested performance is a reasonable mode of acceptance, an offeror who is not notified of acceptance within a reasonable time may treat the offer as having lapsed before acceptance. [1989 c.676 §15] 
 
 ## Provenance & change history
 

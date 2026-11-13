@@ -60,7 +60,7 @@ ORS 285C.659 — Report; posting on Oregon transparency website required. Chapte
 
 (5) The Oregon Business Development Department shall collect data sufficient for the purpose of preparing the report required under this section.
 
-(6) For purposes of this section, the Oregon Business Development Department may not collect or report proprietary information related to a taxpayer, taxpayers holding qualified equity investments, qualified community development entities or qualified active low-income community businesses, or information about the specific terms of financial agreements pertaining to any project. [2013 c.744 §6; 2015 c.27 §25] Note: See second note under 285C.650. _______________
+(6) For purposes of this section, the Oregon Business Development Department may not collect or report proprietary information related to a taxpayer, taxpayers holding qualified equity investments, qualified community development entities or qualified active low-income community businesses, or information about the specific terms of financial agreements pertaining to any project. [2013 c.744 §6; 2015 c.27 §25] Note: See second note under 285C.650. 
 
 ## Provenance & change history
 

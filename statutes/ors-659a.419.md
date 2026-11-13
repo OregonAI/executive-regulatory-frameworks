@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2023
-enacted: 2008
+enacted: 2023
 status: current
 supersedes: null
 content_mode: verbatim
@@ -70,7 +70,7 @@ ORS 659A.419 — Closed captioning required on television receivers in places of
 
 (11) Moneys collected as penalties under this section shall be deposited in the Bureau of Labor and Industries Account established under ORS 651.160.
 
-(12) The Commissioner of the Bureau of Labor and Industries may adopt rules reasonably necessary for the administration of this section. [2023 c.144 §2] 659A.420 [Formerly 659.031; repealed by 2008 c.36 §17]
+(12) The Commissioner of the Bureau of Labor and Industries may adopt rules reasonably necessary for the administration of this section. [2023 c.144 §2] 
 
 ## Provenance & change history
 

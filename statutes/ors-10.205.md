@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-10
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1955
+last_amended: 2013
+enacted: 1985
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 10.205 — Selection and summoning of jurors; identification numbers. Chapte
 
 (1) ORS 10.205 to 10.265 govern the selection and summoning of persons for service as grand jurors or trial jurors in the circuit court in a county.
 
-(2) The presiding judge for the judicial district may authorize the use of juror identification numbers in place of juror names in the performance of functions under ORS 10.215 to 10.265, 132.020 and ORCP 57 B for the selection of jurors in the county, except for functions under ORS 10.215 (4), when to do so would promote the efficiency of the selection process, but the selection must be done randomly. [1985 c.703 §12; 1995 c.781 §23; 2005 c.385 §4; 2013 c.2 §7] 10.210 [Amended by 1957 c.594 §1; 1961 c.705 §4; 1965 c.510 §11; 1977 c.519 §1; repealed by 1981 s.s. c.3 §141] 
+(2) The presiding judge for the judicial district may authorize the use of juror identification numbers in place of juror names in the performance of functions under ORS 10.215 to 10.265, 132.020 and ORCP 57 B for the selection of jurors in the county, except for functions under ORS 10.215 (4), when to do so would promote the efficiency of the selection process, but the selection must be done randomly. [1985 c.703 §12; 1995 c.781 §23; 2005 c.385 §4; 2013 c.2 §7] 
 
 ## Provenance & change history
 

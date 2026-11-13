@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-18
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2013
-enacted: 1973
+last_amended: 2005
+enacted: 2005
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 18.029 — Effect of chapter on use of judgment. Chapter 18 (Judgments), 202
 
 ## Full text
 
-18.029 Effect of chapter on use of judgment. The provisions of this chapter do not impose any requirement that a court use a judgment for the court’s concluding decision on a request for relief if a legal authority allows or requires that the court decide the request for relief by order or other means. [2005 c.568 §6] Note: See first note under 18.005. 18.030 [Amended by 1973 c.207 §1; 1977 c.616 §1; repealed by 1981 c.898 §53] 
+18.029 Effect of chapter on use of judgment. The provisions of this chapter do not impose any requirement that a court use a judgment for the court’s concluding decision on a request for relief if a legal authority allows or requires that the court decide the request for relief by order or other means. [2005 c.568 §6] Note: See first note under 18.005. 
 
 ## Provenance & change history
 

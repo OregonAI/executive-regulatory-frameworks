@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2011
-enacted: 1969
+last_amended: 1999
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -62,7 +62,7 @@ ORS 87.222 — Logger’s, woodworker’s and timberland owner’s lien. Chapter
 
 (3) of this section may not have outstanding at any one time more than one lien arising under subsection
 
-(3) of this section. [1975 c.648 §17; 1985 c.444 §1; 1999 c.940 §2] 87.225 [Repealed by 1975 c.648 §72] 
+(3) of this section. [1975 c.648 §17; 1985 c.444 §1; 1999 c.940 §2] 
 
 ## Provenance & change history
 

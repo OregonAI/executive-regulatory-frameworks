@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 1985
+enacted: 1985
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 94.829 — Sale not allowed before issuance of public report; distribution a
 
 (5) The requirements of this section extend to timeshares sold by the developer after repossession.
 
-(6) Remedies and sanctions available for violation of ORS 336.184 and 646.605 to 646.656 are available for violation of this section, in addition to any other remedies or sanctions provided by law. [1985 c.76 §2] 94.830 [Repealed by 1971 c.478 §1] 
+(6) Remedies and sanctions available for violation of ORS 336.184 and 646.605 to 646.656 are available for violation of this section, in addition to any other remedies or sanctions provided by law. [1985 c.76 §2] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2015
-enacted: 2005
+enacted: 2015
 status: current
 supersedes: null
 content_mode: verbatim
@@ -64,7 +64,7 @@ ORS 285C.074 — Documentation for zone designation or redesignation to be submi
 
 (1) of this section, the department shall notify the zone sponsor of the department’s determination. (3)(a) The department’s determination shall be positive and final if the requirements of this section and ORS 285C.065, 285C.067 and 285C.090 are met. (b) The designation shall take effect on the date on which the latest resolution of the sponsoring or consenting city, county or port was adopted. (4)(a) If the department’s determination is negative, the notice required under subsection
 
-(2) of this section must state the reasons for the negative determination. (b) The zone sponsor may resubmit documentation for a determination under this section and the sponsor and the department may discuss changes in the documentation necessary for a positive determination under this section. (c) If the sponsor resubmits documentation and the department makes a positive determination, the designation shall take effect on the date on which the latest resolution of the sponsoring or consenting city, county or port was adopted, or the date on which any outstanding requirement for designation is satisfied, as stipulated in the department’s determination. [2015 c.648 §10] 285C.075 [Formerly 285B.659; 2005 c.704 §7; repealed by 2015 c.648 §25] 
+(2) of this section must state the reasons for the negative determination. (b) The zone sponsor may resubmit documentation for a determination under this section and the sponsor and the department may discuss changes in the documentation necessary for a positive determination under this section. (c) If the sponsor resubmits documentation and the department makes a positive determination, the designation shall take effect on the date on which the latest resolution of the sponsoring or consenting city, county or port was adopted, or the date on which any outstanding requirement for designation is satisfied, as stipulated in the department’s determination. [2015 c.648 §10] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1979
+last_amended: 2015
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -55,7 +55,7 @@ ORS 30.864 — Action for disclosure of certain education records; limitation of
 
 (2) The action authorized by this section shall be filed within two years of the alleged unlawful disclosure.
 
-(3) In an action brought under this section, the court may allow the prevailing party costs, disbursements and reasonable attorney fees. [1993 c.806 §8; 1995 c.618 §30; 2013 c.768 §102; 2015 c.767 §45] 30.865 [2005 c.544 §1; 2009 c.877 §3; 2013 c.1 §3; renumbered 30.831 in 2019] 
+(3) In an action brought under this section, the court may allow the prevailing party costs, disbursements and reasonable attorney fees. [1993 c.806 §8; 1995 c.618 §30; 2013 c.768 §102; 2015 c.767 §45] 
 
 ## Provenance & change history
 

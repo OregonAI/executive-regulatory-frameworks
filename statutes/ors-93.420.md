@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-93
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
+last_amended: 1969
 enacted: 1961
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 93.420 — Execution of deed where personal representative, guardian or cons
 
 ## Full text
 
-93.420 Execution of deed where personal representative, guardian or conservator is unable or refuses to act. If any person is entitled to a deed from a personal representative, guardian or conservator who has died or resigned, has been discharged, disqualified or removed or refuses to execute it, the deed may be executed by the judge before whom the proceeding is pending or by the successor of the judge. [Amended by 1961 c.344 §104; 1969 c.591 §277] 93.430 [Repealed by 1977 c.404 §2 (194.500 to 194.580 enacted in lieu of 93.430)] 
+93.420 Execution of deed where personal representative, guardian or conservator is unable or refuses to act. If any person is entitled to a deed from a personal representative, guardian or conservator who has died or resigned, has been discharged, disqualified or removed or refuses to execute it, the deed may be executed by the judge before whom the proceeding is pending or by the successor of the judge. [Amended by 1961 c.344 §104; 1969 c.591 §277] 
 
 ## Provenance & change history
 

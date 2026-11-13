@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-98
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
+last_amended: 2019
 enacted: 1957
 status: current
 supersedes: null
@@ -61,7 +61,7 @@ ORS 98.356 — Notice and publication of lists of unclaimed property; rules. Cha
 
 (4) The State Treasurer shall undertake reasonable efforts to locate owners of unclaimed property reported under ORS 98.352. The costs of such efforts may be deducted from the proceeds that are paid to the owners when and if an owner is located. The State Treasurer shall specify, by rule, a maximum percentage of costs that may be deducted from a verified claim for unclaimed property.
 
-(5) The State Treasurer may not disclose to the general public any confidential information provided by the Department of Revenue from taxpayer returns. [1957 c.670 §14; 1967 c.357 §3; 1983 c.716 §10; 1989 c.183 §1; 1993 c.694 §8; 1997 c.134 §1; 2003 c.253 §5; 2019 c.678 §13] 98.360 [Repealed by 1957 c.670 §37] 
+(5) The State Treasurer may not disclose to the general public any confidential information provided by the Department of Revenue from taxpayer returns. [1957 c.670 §14; 1967 c.357 §3; 1983 c.716 §10; 1989 c.183 §1; 1993 c.694 §8; 1997 c.134 §1; 2003 c.253 §5; 2019 c.678 §13] 
 
 ## Provenance & change history
 

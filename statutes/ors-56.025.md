@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-56
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1953
+last_amended: 1959
+enacted: 1959
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 56.025 — Designation of persons to sign papers. Chapter 56 (Duties of Secr
 
 ## Full text
 
-56.025 Designation of persons to sign papers. The Secretary of State may designate one or more of the clerks, deputies or assistants of the Secretary of State, in the name of the Secretary of State, to sign or countersign papers, documents, orders and certificates requiring the signature of the Secretary of State. Any paper, document, order or certificate signed in the name of the Secretary of State by the designated clerk, deputy or assistant shall have the same force and effect as if signed by the Secretary of State. [1959 c.173 §1] 56.030 [Amended by 1961 c.280 §5; repealed by 1963 c.580 §103] 
+56.025 Designation of persons to sign papers. The Secretary of State may designate one or more of the clerks, deputies or assistants of the Secretary of State, in the name of the Secretary of State, to sign or countersign papers, documents, orders and certificates requiring the signature of the Secretary of State. Any paper, document, order or certificate signed in the name of the Secretary of State by the designated clerk, deputy or assistant shall have the same force and effect as if signed by the Secretary of State. [1959 c.173 §1] 
 
 ## Provenance & change history
 

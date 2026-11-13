@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-97
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
-enacted: 1995
+last_amended: 2007
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -50,7 +50,7 @@ ORS 97.951 — Short title. Chapter 97 (Rights and Duties Relating to Cemeteries
 
 ## Full text
 
-97.951 Short title. ORS 97.951 to 97.982 may be cited as the Revised Uniform Anatomical Gift Act. [2007 c.681 §1] Note: 97.951 to 97.982 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 97 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 97.952 [1995 c.717 §2; 1997 c.472 §5; 2005 c.505 §2; repealed by 2007 c.681 §31] 
+97.951 Short title. ORS 97.951 to 97.982 may be cited as the Revised Uniform Anatomical Gift Act. [2007 c.681 §1] Note: 97.951 to 97.982 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 97 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

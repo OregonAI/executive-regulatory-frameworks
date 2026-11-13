@@ -52,7 +52,7 @@ ORS 468B.182 — Alternative appointment of ground water management committee. C
 
 (1) After the declaration of a ground water quality management area, the lead agency designated under ORS 468B.184 shall appoint a ground water management committee for the affected area if a ground water management committee has not already been appointed under ORS 468B.179. A ground water management committee appointed under this section must include two homeowners or tenants that rely on a domestic well in the area for drinking water that has been affected by a contaminant of concern. If the affected area had previously been designated a ground water quality concern area, the same ground water management committee appointed under ORS 468B.179 shall continue to advise the interagency team.
 
-(2) A ground water management committee appointed under this section or ORS 468B.179 shall act solely to advise state agencies and the interagency team on the development and implementation of local elements of the action plan developed under ORS 468B.184. [Formerly 536.153; 2025 c.605 §10] Note: See note under 468B.150. 468B.183 [Formerly 536.149; repealed by 2025 c.605 §21] 
+(2) A ground water management committee appointed under this section or ORS 468B.179 shall act solely to advise state agencies and the interagency team on the development and implementation of local elements of the action plan developed under ORS 468B.184. [Formerly 536.153; 2025 c.605 §10] Note: See note under 468B.150. 
 
 ## Provenance & change history
 

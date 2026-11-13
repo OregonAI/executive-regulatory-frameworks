@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-98
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1957
+last_amended: 2001
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 98.338 — Credit memo unclaimed by owner. Chapter 98 (Lost, Unclaimed or Ab
 
 (2) For a credit memo presumed abandoned under subsection
 
-(1) of this section, the amount presumed abandoned is the amount credited to the recipient of the memo. [1983 c.716 §33; 1997 c.416 §2; 2001 c.302 §6] 98.340 [Repealed by 1957 c.670 §37] 
+(1) of this section, the amount presumed abandoned is the amount credited to the recipient of the memo. [1983 c.716 §33; 1997 c.416 §2; 2001 c.302 §6] 
 
 ## Provenance & change history
 

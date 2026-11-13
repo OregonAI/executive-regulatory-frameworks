@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 1991
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 30.765 — Liability of parents for tort by child; effect on foster parents.
 
 (1) to
 
-(3) of this section applies to foster parents. [1975 c.712 §§1,4; 1977 c.419 §1; 1991 c.968 §5] 30.770 [1959 c.310 §1; 1965 c.587 §1; 1973 c.827 §8; repealed by 1975 c.712 §5] 
+(3) of this section applies to foster parents. [1975 c.712 §§1,4; 1977 c.419 §1; 1991 c.968 §5] 
 
 ## Provenance & change history
 

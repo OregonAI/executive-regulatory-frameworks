@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2019
-enacted: 1991
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 90.493 — Prohibited acts following notice of conversion to condominium; da
 
 (2) A tenant may bring an action against a landlord that violates subsection
 
-(1) of this section to recover the greater of: (a) Six times the monthly rent for the dwelling unit; or (b) Twice the actual damages to the tenant arising out of the termination. [2007 c.705 §5; 2019 c.57 §7] 90.500 [Formerly 91.868; 1991 c.844 §4; 1993 c.580 §2; repealed by 1995 c.559 §58]
+(1) of this section to recover the greater of: (a) Six times the monthly rent for the dwelling unit; or (b) Twice the actual damages to the tenant arising out of the termination. [2007 c.705 §5; 2019 c.57 §7] 
 
 ## Provenance & change history
 

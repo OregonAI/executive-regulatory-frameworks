@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1973
-enacted: 1963
+enacted: 1973
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 92.285 — Retroactive ordinances prohibited. Chapter 92 (Subdivisions and P
 
 ## Full text
 
-92.285 Retroactive ordinances prohibited. No retroactive ordinances shall be adopted under ORS 92.010 to 92.048, 92.060 to 92.095, 92.120, 93.640, 93.710 and 215.110. [1973 c.696 §21] 92.290 [1963 c.624 §§10,11; 1965 c.584 §9; repealed by 1973 c.421 §52] 92.300 [1963 c.624 §12; 1969 c.663 §6; repealed by 1973 c.421 §52]
+92.285 Retroactive ordinances prohibited. No retroactive ordinances shall be adopted under ORS 92.010 to 92.048, 92.060 to 92.095, 92.120, 93.640, 93.710 and 215.110. [1973 c.696 §21] 
 
 ## Provenance & change history
 

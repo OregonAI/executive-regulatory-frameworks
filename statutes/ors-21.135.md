@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1955
+enacted: 2011
 status: current
 supersedes: null
 content_mode: verbatim
@@ -66,7 +66,7 @@ ORS 21.135 — Standard filing fee. Chapter 21 (State Court Fees), 2025 Edition.
 
 (5) The filing fee established under subsection
 
-(1) of this section does not apply to: (a) Expunction proceedings under ORS 419A.261 or 419A.262; (b) Petitions under ORS 163A.130 or 163A.135 for an order relieving the person from the duty to report as a sex offender if the person is required to report under ORS 163A.025; or (c) Any juvenile delinquency proceeding arising under ORS chapter 419B or 419C. [2011 c.595 §8; 2013 c.685 §§30,30a; 2014 c.76 §4; 2015 c.511 §8; 2015 c.512 §1a; 2017 c.663 §2; 2019 c.605 §1; 2021 c.597 §8; 2023 c.182 §10; 2023 c.302 §7; 2025 c.268 §35a] 21.140 [Amended by 1961 c.563 §1; 1963 c.519 §8; 1965 c.619 §12; renumbered 21.350] 
+(1) of this section does not apply to: (a) Expunction proceedings under ORS 419A.261 or 419A.262; (b) Petitions under ORS 163A.130 or 163A.135 for an order relieving the person from the duty to report as a sex offender if the person is required to report under ORS 163A.025; or (c) Any juvenile delinquency proceeding arising under ORS chapter 419B or 419C. [2011 c.595 §8; 2013 c.685 §§30,30a; 2014 c.76 §4; 2015 c.511 §8; 2015 c.512 §1a; 2017 c.663 §2; 2019 c.605 §1; 2021 c.597 §8; 2023 c.182 §10; 2023 c.302 §7; 2025 c.268 §35a] 
 
 ## Provenance & change history
 

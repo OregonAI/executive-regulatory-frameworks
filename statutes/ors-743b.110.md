@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-743b
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 2017
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 743B.110 — Implementation of federal laws; rules. Chapter 743B (Chapter 74
 
 ## Full text
 
-743B.110 Implementation of federal laws; rules. The Department of Consumer and Business Services may adopt rules incorporating, implementing and administering the Health Insurance Portability and Accountability Act of 1996 (P.L. 104-191), the Patient Protection and Affordable Care Act (P.L. 111-148) as amended by the Health Care and Education Reconciliation Act (P.L. 111-152) and federal regulations that are issued in conjunction with the Acts. [Formerly 743.758] 743B.120 [Formerly 743.764; 2017 c.152 §10; renumbered 743A.262 in 2017] 
+743B.110 Implementation of federal laws; rules. The Department of Consumer and Business Services may adopt rules incorporating, implementing and administering the Health Insurance Portability and Accountability Act of 1996 (P.L. 104-191), the Patient Protection and Affordable Care Act (P.L. 111-148) as amended by the Health Care and Education Reconciliation Act (P.L. 111-152) and federal regulations that are issued in conjunction with the Acts. [Formerly 743.758] 
 
 ## Provenance & change history
 

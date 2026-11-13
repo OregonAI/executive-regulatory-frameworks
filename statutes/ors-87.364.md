@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1981
-enacted: 1959
+last_amended: 1975
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 87.364 — Attachment of liens. Chapter 87 (Statutory Liens), 2025 Edition.
 
 (1) The liens created by ORS 87.352 to 87.358 attach to the land, mine or improvement described in those sections on the day on which the lien claimant ceases to perform the labor or transport or furnish the materials or provisions for which the lien is claimed.
 
-(2) The lien created by ORS 87.362, attaches to the land described in that section on the day of the first delivery of electricity for which the lien is claimed. [1975 c.648 §45] 87.365 [Repealed by 1975 c.648 §72] 
+(2) The lien created by ORS 87.362, attaches to the land described in that section on the day of the first delivery of electricity for which the lien is claimed. [1975 c.648 §45] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-90
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1989
+last_amended: 2023
+enacted: 2001
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 90.514 — Disclosure to prospective tenant of improvements required under r
 
 (2) A landlord may not require as part of the improvements under the rental agreement that a tenant: (a) Pay any fee to the landlord for improvements. (b) Pay any system development charges. (c) Construct or repair an improvement that cannot be reasonably removed and owned by the tenant at the termination of the tenancy, except for porches, stairs, decks, awnings, carports, sheds or vegetative landscaping on the site or any other improvements necessary for the safe and lawful installation of the manufactured dwelling.
 
-(3) Except as provided in ORS 41.740, a written statement provided under this section is considered to contain all of the terms relating to improvements that a prospective tenant must make under the rental agreement. There may be no evidence of the terms of the written statement other than the contents of the written statement. [2001 c.282 §3; 2005 c.41 §4; 2023 c.334 §1] 90.515 [1991 c.844 §2; repealed by 1995 c.559 §58] 
+(3) Except as provided in ORS 41.740, a written statement provided under this section is considered to contain all of the terms relating to improvements that a prospective tenant must make under the rental agreement. There may be no evidence of the terms of the written statement other than the contents of the written statement. [2001 c.282 §3; 2005 c.41 §4; 2023 c.334 §1] 
 
 ## Provenance & change history
 

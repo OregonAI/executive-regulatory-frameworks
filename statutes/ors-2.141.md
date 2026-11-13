@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-2
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 1979
+enacted: 1953
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 2.141 — Filing of court decisions. Chapter 2 (Supreme Court; Court of Appe
 
 ## Full text
 
-2.141 Filing of court decisions. The judges of the Supreme Court and Court of Appeals shall cause their decisions to be prepared, in such number and manner as they may determine, and delivered to the State Court Administrator. The administrator shall file a copy of each decision in the office of the administrator and cause other copies to be distributed as determined by the Supreme Court. [1953 c.345 §1; 1965 c.233 §2; 1967 c.398 §1; 1971 c.193 §9; 1971 c.348 §2; 1971 c.526 §1; 1973 c.781 §1; 1975 c.69 §4; 1979 c.876 §1] 2.145 [Formerly 2.580; repealed by 1975 c.69 §8] 
+2.141 Filing of court decisions. The judges of the Supreme Court and Court of Appeals shall cause their decisions to be prepared, in such number and manner as they may determine, and delivered to the State Court Administrator. The administrator shall file a copy of each decision in the office of the administrator and cause other copies to be distributed as determined by the Supreme Court. [1953 c.345 §1; 1965 c.233 §2; 1967 c.398 §1; 1971 c.193 §9; 1971 c.348 §2; 1971 c.526 §1; 1973 c.781 §1; 1975 c.69 §4; 1979 c.876 §1] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1981
-enacted: 1959
+last_amended: 1975
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 87.382 — Foreclosure. Chapter 87 (Statutory Liens), 2025 Edition.
 
 ## Full text
 
-87.382 Foreclosure. The liens described in ORS 87.352 to 87.362 shall be foreclosed in the manner provided in ORS chapter 88. [1975 c.648 §49] 87.385 [Repealed by 1975 c.648 §72] 
+87.382 Foreclosure. The liens described in ORS 87.352 to 87.362 shall be foreclosed in the manner provided in ORS chapter 88. [1975 c.648 §49] 
 
 ## Provenance & change history
 

@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-67
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -50,7 +52,7 @@ ORS 67.024 — Appeal from actions of Secretary of State. Chapter 67 (Partnershi
 
 (1) If the Secretary of State refuses to file a document delivered to the office of the Secretary of State for filing, the limited liability partnership or foreign limited liability partnership, in addition to any other legal remedy that may be available, shall have the right to appeal from the order pursuant to ORS chapter 183.
 
-(2) If the Secretary of State revokes the registration of a limited liability partnership or revokes the authorization of a foreign limited liability partnership, the limited liability partnership or foreign limited liability partnership, in addition to any other legal remedy that may be available, shall have the right to appeal from the order pursuant to ORS chapter 183. [Formerly 67.540] 67.025 [1997 c.775 §5; renumbered 67.046 in 2013] 
+(2) If the Secretary of State revokes the registration of a limited liability partnership or revokes the authorization of a foreign limited liability partnership, the limited liability partnership or foreign limited liability partnership, in addition to any other legal remedy that may be available, shall have the right to appeal from the order pursuant to ORS chapter 183. [Formerly 67.540] 
 
 ## Provenance & change history
 

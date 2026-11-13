@@ -75,7 +75,7 @@ ORS 459A.738 — Convenience zones for full-service redemption centers. Chapter 
 
 (6) of this section do not apply to any dealer for which the driving distance from the place of business of the dealer to the full-service redemption center, calculated using the shortest route, is more than two times the radius specified for the second convenience zone or, if only one convenience zone is specified by the commission, two times the radius specified for that convenience zone.
 
-(8) Not more than 60 days after issuance of notice from the commission under ORS 459A.735 (5), a dealer shall provide the commission with written documentation confirming compliance with each of the requirements of this section that are applicable to the dealer receiving notice. [2015 c.724 §3; 2019 c.279 §8; 2019 c.366 §9; 2021 c.351 §33] 459A.739 [2015 c.724 §4; 2019 c.13 §51; renumbered 459A.742 in 2019] 459A.740 [Formerly 459.890; renumbered 459A.743 in 2019] 
+(8) Not more than 60 days after issuance of notice from the commission under ORS 459A.735 (5), a dealer shall provide the commission with written documentation confirming compliance with each of the requirements of this section that are applicable to the dealer receiving notice. [2015 c.724 §3; 2019 c.279 §8; 2019 c.366 §9; 2021 c.351 §33] 
 
 ## Provenance & change history
 

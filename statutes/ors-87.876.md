@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2001
-enacted: 1961
+enacted: 2001
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 87.876 — Sale of mold. Chapter 87 (Statutory Liens), 2025 Edition.
 
 (3) If the mold is sold for a sum greater than the amount of the lien, the excess shall be paid to any prior recorded lienholder and any remainder to the customer, if the customer’s address is known to the molder at the time of the sale, or to the General Fund, if the customer’s address is unknown.
 
-(4) The molder may not sell the mold if it would be in violation of any right of the customer under federal law. [2001 c.863 §4] 87.905 [Repealed by 1961 c.726 §427]
+(4) The molder may not sell the mold if it would be in violation of any right of the customer under federal law. [2001 c.863 §4] 
 
 ## Provenance & change history
 

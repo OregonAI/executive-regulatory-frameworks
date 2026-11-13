@@ -54,7 +54,7 @@ ORS 20.340 — Contingent fee agreement. Chapter 20 (Attorney Fees; Costs and Di
 
 (2) Any contingent fee agreement entered into on or after September 26, 1987, that does not comply with the requirements of subsection
 
-(1) of this section is voidable. [Formerly 9.400] _______________
+(1) of this section is voidable. [Formerly 9.400] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-96
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1981
-enacted: 1981
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 96.060 — Removal of fence built on another’s land. Chapter 96 (Line and 
 
 (2) The occupant or owner of land whereon a fence has been built by mistake shall not throw down or in any manner disturb such fence during the period which the person who built it is authorized by subsection
 
-(1) of this section to remove it. 96.070 [Repealed by 1981 c.111 §2] _______________
+(1) of this section to remove it. 
 
 ## Provenance & change history
 

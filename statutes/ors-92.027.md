@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-92
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1955
+last_amended: 2007
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 92.027 — Deed reference to creation of unit of land. Chapter 92 (Subdivisi
 
 (2) A reference to or exhibit of the final land use decision that approved the subdivision or partition if a subdivision plat or partition plat is not required by law; or
 
-(3) A reference to or exhibit of a final judgment or other document that evidences a lien foreclosure or a foreclosure of a recorded contract for the sale of the real property. [2007 c.866 §3] Note: 92.027 was added to and made a part of 92.010 to 92.192 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 92.030 [Repealed by 1955 c.756 §5 (92.025 enacted in lieu of 92.020 and 92.030)] 
+(3) A reference to or exhibit of a final judgment or other document that evidences a lien foreclosure or a foreclosure of a recorded contract for the sale of the real property. [2007 c.866 §3] Note: 92.027 was added to and made a part of 92.010 to 92.192 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

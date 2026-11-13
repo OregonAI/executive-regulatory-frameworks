@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-62
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
+last_amended: 1995
 enacted: 1957
 status: current
 supersedes: null
@@ -54,7 +54,7 @@ ORS 62.145 — Membership. Chapter 62 (Cooperatives), 2025 Edition.
 
 (2) Qualifications for membership and method of acceptance of members shall be as set forth in the bylaws of the cooperative.
 
-(3) Bylaws may provide for termination of membership and the conditions and terms thereof. [1957 c.716 §9; 1995 c.195 §2] 62.150 [Repealed by 1957 c.716 §76] 
+(3) Bylaws may provide for termination of membership and the conditions and terms thereof. [1957 c.716 §9; 1995 c.195 §2] 
 
 ## Provenance & change history
 

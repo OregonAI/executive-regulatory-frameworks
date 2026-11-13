@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-2
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2001
+enacted: 1982
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 2.165 — Court Publications Account. Chapter 2 (Supreme Court; Court of App
 
 ## Full text
 
-2.165 Court Publications Account. There is established in the General Fund an account to be known as the Court Publications Account. All moneys in the account are appropriated continuously to the Supreme Court for the purpose of paying expenses incurred by the court under ORS 2.150 and for the purpose of paying all or part of the expenses of providing electronic access to State of Oregon Law Library materials and other official Judicial Department publications. Disbursements of moneys from the account shall be approved by the Chief Justice of the Supreme Court or, as directed by the Chief Justice, the State Court Administrator. [1982 s.s.1 c.7 §3; 2001 c.779 §4] 2.170 [1967 c.398 §9(1),(2); 1971 c.193 §11; 1975 c.69 §7; repealed by 1979 c.976 §4] 2.310 [1953 c.34 §1; repealed by 1959 c.552 §16] 2.320 [1953 c.34 §4; 1955 c.437 §1; repealed by 1959 c.552 §16] 2.330 [1953 c.34 §§2,3,7; repealed by 1959 c.552 §16] 2.340 [1953 c.34 §5; repealed by 1959 c.552 §16] 2.350 [1959 c.552 §2; renumbered 8.060]
+2.165 Court Publications Account. There is established in the General Fund an account to be known as the Court Publications Account. All moneys in the account are appropriated continuously to the Supreme Court for the purpose of paying expenses incurred by the court under ORS 2.150 and for the purpose of paying all or part of the expenses of providing electronic access to State of Oregon Law Library materials and other official Judicial Department publications. Disbursements of moneys from the account shall be approved by the Chief Justice of the Supreme Court or, as directed by the Chief Justice, the State Court Administrator. [1982 s.s.1 c.7 §3; 2001 c.779 §4] 
 
 ## Provenance & change history
 

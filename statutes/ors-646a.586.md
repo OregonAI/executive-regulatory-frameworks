@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2023
-enacted: 2011
+enacted: 2023
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 646A.586 — Data protection assessment for processing activities with heigh
 
 (6) A controller shall retain for at least five years all data protection assessments the controller conducts under this section.
 
-(7) A data protection assessment is confidential and is not subject to disclosure under ORS 192.311 to 192.478. [2023 c.369 §8] 646A.588 [2011 c.393 §6; 2013 c.97 §1; 2014 c.27 §1; 2017 c.450 §1; renumbered 646A.835 in 2023] 
+(7) A data protection assessment is confidential and is not subject to disclosure under ORS 192.311 to 192.478. [2023 c.369 §8] 
 
 ## Provenance & change history
 

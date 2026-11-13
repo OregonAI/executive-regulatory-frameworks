@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2007
-enacted: 1971
+enacted: 1987
 status: current
 supersedes: null
 content_mode: verbatim
@@ -72,7 +72,7 @@ ORS 82.025 — Exemptions from application of ORS 82.010 (3) and (4) and. Chapte
 
 (7) Any bona fide sale or resale of securities or commercial paper.
 
-(8) Any interest charge by broker-dealers registered under the Securities Exchange Act of 1934 for carrying a debit balance in an account for a customer if the debit balance is payable on demand and secured by stocks or bonds. [1987 c.215 §21; 1991 c.67 §13; 1997 c.631 §382; 2007 c.71 §17] 82.110 [Repealed by 1981 c.412 §24] 82.115 [1975 c.625 §2; 1977 c.791 §2; repealed by 1981 c.412 §24] 82.117 [1979 c.638 §2; repealed by 1981 c.412 §24] 82.120 [Amended by 1975 c.321 §1; 1979 c.284 §90; repealed by 1981 c.412 §24] 82.125 [1971 c.214 §2; repealed by 1981 c.412 §24] 82.130 [Repealed by 1981 c.412 §24] 82.140 [Repealed by 1981 c.412 §24]
+(8) Any interest charge by broker-dealers registered under the Securities Exchange Act of 1934 for carrying a debit balance in an account for a customer if the debit balance is payable on demand and secured by stocks or bonds. [1987 c.215 §21; 1991 c.67 §13; 1997 c.631 §382; 2007 c.71 §17] 
 
 ## Provenance & change history
 

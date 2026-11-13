@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-10
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1955
+last_amended: 2011
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 10.055 — Deferment of jury service. Chapter 10 (Juries), 2025 Edition.
 
 (1) A judge of the court or clerk of court may allow, for good cause shown, a person summoned to serve as a juror for a particular jury service term to defer jury service to any other term beginning within one year after the end of the term for which the person was summoned. Except as provided in this section, a judge or clerk may not allow more than one deferral to a person under this section. The name of a person allowed to defer jury service shall be included with the names of persons to be summoned as jurors for the subsequent term to which jury service is deferred.
 
-(2) A judge or clerk may allow more than one deferral of jury duty under this section only for good cause. A person requesting a deferral under this subsection must provide a list of not less than 10 dates within the six-month period following the date of the request on which the person would be able to commence jury duty. [1967 c.473 §2; 1969 c.176 §1; 1971 c.207 §1; 1975 c.342 §13; 1985 c.703 §6; 2011 c.377 §1] 10.060 [Amended by 1955 c.296 §1; 1971 c.358 §1; 1981 c.509 §1; 1985 c.703 §7; repealed by 1999 c.1085 §3 (10.061 enacted in lieu of 10.060)] 
+(2) A judge or clerk may allow more than one deferral of jury duty under this section only for good cause. A person requesting a deferral under this subsection must provide a list of not less than 10 dates within the six-month period following the date of the request on which the person would be able to commence jury duty. [1967 c.473 §2; 1969 c.176 §1; 1971 c.207 §1; 1975 c.342 §13; 1985 c.703 §6; 2011 c.377 §1] 
 
 ## Provenance & change history
 

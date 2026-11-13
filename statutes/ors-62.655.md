@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-62
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
+last_amended: 1965
 enacted: 1957
 status: current
 supersedes: null
@@ -54,7 +54,7 @@ ORS 62.655 — Voluntary dissolution by act of cooperative. Chapter 62 (Cooperat
 
 (2) Written or printed notice shall be given to each member in the manner provided in ORS 62.255 for the giving of notice of meetings of members, and whether the meeting be an annual or special meeting, shall state that the purpose, or one of the purposes, of the meeting is to consider the advisability of dissolving the cooperative.
 
-(3) At the meeting a vote of members shall be taken on a resolution to dissolve the cooperative. Adoption of the resolution shall be by affirmative vote of two-thirds of the member votes cast on that resolution. The articles may permit shareholders to vote on such a resolution for dissolution, and may fix the proportion of authorized shareholder votes required for adoption thereof. [1957 c.716 §49; 1965 c.631 §20] 62.660 [1957 c.716 §50; repealed by 1965 c.631 §27] 
+(3) At the meeting a vote of members shall be taken on a resolution to dissolve the cooperative. Adoption of the resolution shall be by affirmative vote of two-thirds of the member votes cast on that resolution. The articles may permit shareholders to vote on such a resolution for dissolution, and may fix the proportion of authorized shareholder votes required for adoption thereof. [1957 c.716 §49; 1965 c.631 §20] 
 
 ## Provenance & change history
 

@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-468b
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
+last_amended: 2007
 enacted: 2007
 status: current
 supersedes: null
@@ -56,7 +56,7 @@ ORS 468B.195 — Underground injection control program of federal Safe Drinking 
 
 (3) Any fees received under subsection
 
-(2) of this section shall be deposited in the State Treasury to the credit of the Subsurface Injection Fluids Account established under ORS 468B.197. [2007 c.297 §2] 468B.196 [2007 c.297 §3; repealed by 2023 c.258 §3] 
+(2) of this section shall be deposited in the State Treasury to the credit of the Subsurface Injection Fluids Account established under ORS 468B.197. [2007 c.297 §2] 
 
 ## Provenance & change history
 

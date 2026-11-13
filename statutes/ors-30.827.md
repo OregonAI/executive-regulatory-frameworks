@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1971
+enacted: 2025
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 30.827 — False impersonation of union representative; civil action. Chapte
 
 (2) It is unlawful for any person to falsely impersonate a union representative.
 
-(3) To protect public employees who are members of a labor organization from fraud or misrepresentation, including the false impersonation of a union representative, a labor organization shall have, as a matter of internal governance, the sole authority to identify and designate the union representatives associated with the labor organization. (4)(a) A union representative alleging a violation of this section may bring a civil action in a court of appropriate jurisdiction to obtain damages. (b) In addition to and not in lieu of any other damages that may be claimed, a plaintiff shall receive statutory damages in an amount of $6,250 per incident in any action in which the plaintiff establishes that the defendant falsely impersonated a union representative. [2025 c.307 §1] 30.830 [1971 c.186 §7; 1981 s.s. c.3 §111; 1983 c.763 §52; 1987 c.905 §3a; repealed by 2011 c.597 §118] 
+(3) To protect public employees who are members of a labor organization from fraud or misrepresentation, including the false impersonation of a union representative, a labor organization shall have, as a matter of internal governance, the sole authority to identify and designate the union representatives associated with the labor organization. (4)(a) A union representative alleging a violation of this section may bring a civil action in a court of appropriate jurisdiction to obtain damages. (b) In addition to and not in lieu of any other damages that may be claimed, a plaintiff shall receive statutory damages in an amount of $6,250 per incident in any action in which the plaintiff establishes that the defendant falsely impersonated a union representative. [2025 c.307 §1] 
 
 ## Provenance & change history
 

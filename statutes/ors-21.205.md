@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-21
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1955
+last_amended: 2023
+enacted: 2011
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 21.205 — Motion fees in domestic relations cases. Chapter 21 (State Court 
 
 (1) of this section does not apply to any motion under ORCP 68, 69 or 71.
 
-(3) In any action or other proceeding subject to a fee under ORS 21.155, a $56 fee must be paid by the party filing a motion under ORS 107.434 and by a party responding to the motion. [2011 c.595 §74; 2017 c.663 §13; 2019 c.605 §13; 2023 c.302 §9] 21.210 [Amended by 1955 c.458 §2; renumbered 21.115 and then 21.375] (Fees for Settlement Conferences) 
+(3) In any action or other proceeding subject to a fee under ORS 21.155, a $56 fee must be paid by the party filing a motion under ORS 107.434 and by a party responding to the motion. [2011 c.595 §74; 2017 c.663 §13; 2019 c.605 §13; 2023 c.302 §9] 
 
 ## Provenance & change history
 

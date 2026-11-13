@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2003
-enacted: 1953
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 8.730 — Partner prosecuting or defending certain cases. Chapter 8 (Court O
 
 ## Full text
 
-8.730 Partner prosecuting or defending certain cases. It is not lawful for any district attorney who has a law partner to allow that partner to prosecute or defend divorce cases or to defend cases in which the state is plaintiff and the district attorney is the public prosecutor. It is the duty of the judicial officers of this state to prohibit such practice in all cases coming before them. [Amended by 2003 c.14 §7] 8.740 [Amended by 1953 c.652 §6; 1957 c.490 §1; 1959 c.539 §2; 1961 c.586 §2; repealed by 1967 c.556 §5] 8.750 [Repealed by 1959 c.432 §62 (8.685 enacted in lieu of 8.750)] 
+8.730 Partner prosecuting or defending certain cases. It is not lawful for any district attorney who has a law partner to allow that partner to prosecute or defend divorce cases or to defend cases in which the state is plaintiff and the district attorney is the public prosecutor. It is the duty of the judicial officers of this state to prohibit such practice in all cases coming before them. [Amended by 2003 c.14 §7] 
 
 ## Provenance & change history
 

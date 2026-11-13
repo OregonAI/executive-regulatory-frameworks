@@ -72,7 +72,7 @@ ORS 285A.213 — Safe Drinking Water Revolving Loan Fund; administration; source
 
 (6) If a borrower fails to comply with a loan agreement entered into under subsection
 
-(5) of this section, the Oregon Business Development Department may seek appropriate legal remedies to secure any repayment due the Safe Drinking Water Revolving Loan Fund. If a borrower defaults on repayment due the fund, the State of Oregon may withhold any amounts otherwise due to the borrower. Any amounts withheld under this subsection shall be credited toward repayment of the borrower’s indebtedness to the fund. [1999 c.236 §1; 2001 c.883 §4a; 2003 c.773 §2; 2009 c.595 §199; 2009 c.830 §26a] 285A.215 [Formerly 285.110; repealed by 1999 c.509 §61] 285A.216 [1999 c.386 §3; 2001 c.954 §1; renumbered 359.405 in 2001] 285A.218 [Formerly 285.115; repealed by 1999 c.509 §61] 285A.221 [Formerly 285.117; repealed by 1999 c.509 §61] 
+(5) of this section, the Oregon Business Development Department may seek appropriate legal remedies to secure any repayment due the Safe Drinking Water Revolving Loan Fund. If a borrower defaults on repayment due the fund, the State of Oregon may withhold any amounts otherwise due to the borrower. Any amounts withheld under this subsection shall be credited toward repayment of the borrower’s indebtedness to the fund. [1999 c.236 §1; 2001 c.883 §4a; 2003 c.773 §2; 2009 c.595 §199; 2009 c.830 §26a] 
 
 ## Provenance & change history
 

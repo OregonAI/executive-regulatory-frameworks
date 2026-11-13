@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-59
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1953
+last_amended: 1967
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 59.005 — Short title. Chapter 59 (Securities Regulation), 2025 Edition.
 
 ## Full text
 
-59.005 Short title. ORS 59.005 to 59.505, 59.991 and 59.995 may be cited as the Oregon Securities Law. [1967 c.537 §2] 59.010 [Repealed by 1967 c.537 §36] 
+59.005 Short title. ORS 59.005 to 59.505, 59.991 and 59.995 may be cited as the Oregon Securities Law. [1967 c.537 §2] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 2011
+enacted: 2023
 status: current
 supersedes: null
 content_mode: verbatim
@@ -68,7 +68,7 @@ ORS 646A.578 — Duties of controller; prohibitions; privacy notice to consumer.
 
 (6) If a consumer or authorized agent uses a method described in subsection
 
-(5) of this section to opt out of a controller’s processing of the consumer’s personal data under ORS 646A.574 (1)(d) and the decision conflicts with a consumer’s voluntary participation in a bona fide reward, club card or loyalty program or a program that provides premium features or discounts in return for the consumer’s consent to the controller’s processing of the consumer’s personal data, the controller may either comply with the request to opt out or notify the consumer of the conflict and ask the consumer to affirm that the consumer intends to withdraw from the bona fide reward, club card or loyalty program or the program that provides premium features or discounts. If the consumer affirms that the consumer intends to withdraw, the controller shall comply with the request to opt out. [2023 c.369 §5; 2023 c.369 §12; 2025 c.251 §1] 646A.580 [2011 c.393 §3; renumbered 646A.826 in 2023] 
+(5) of this section to opt out of a controller’s processing of the consumer’s personal data under ORS 646A.574 (1)(d) and the decision conflicts with a consumer’s voluntary participation in a bona fide reward, club card or loyalty program or a program that provides premium features or discounts in return for the consumer’s consent to the controller’s processing of the consumer’s personal data, the controller may either comply with the request to opt out or notify the consumer of the conflict and ask the consumer to affirm that the consumer intends to withdraw from the bona fide reward, club card or loyalty program or the program that provides premium features or discounts. If the consumer affirms that the consumer intends to withdraw, the controller shall comply with the request to opt out. [2023 c.369 §5; 2023 c.369 §12; 2025 c.251 §1] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-3
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1953
+last_amended: 1991
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 3.030 — Election of circuit judges. Chapter 3 (Circuit Courts Generally), 
 
 ## Full text
 
-3.030 Election of circuit judges. Each circuit judge shall hold office for the term for which the circuit judge was elected; and at the general election or, if applicable, at the election specified in ORS 249.088 next prior to the expiration of the term of office there shall be elected a circuit judge to succeed the circuit judge. [Amended by 1991 c.719 §1] 3.040 [Amended by 1955 c.677 §3; 1957 c.665 §4; 1957 c.713 §5; repealed by 1961 c.724 §34] 
+3.030 Election of circuit judges. Each circuit judge shall hold office for the term for which the circuit judge was elected; and at the general election or, if applicable, at the election specified in ORS 249.088 next prior to the expiration of the term of office there shall be elected a circuit judge to succeed the circuit judge. [Amended by 1991 c.719 §1] 
 
 ## Provenance & change history
 

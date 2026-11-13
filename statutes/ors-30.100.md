@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1961
-enacted: 1961
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 30.100 — Substitution of personal representative as party defendant. Chapt
 
 ## Full text
 
-30.100 Substitution of personal representative as party defendant. In the event of the death of a wrongdoer, as designated in ORS 30.080, while an action is pending, the court, upon motion of the plaintiff, shall cause to be substituted as defendant the personal representative of the wrongdoer, and the action shall continue against such personal representative. 30.110 [Repealed by 1961 c.578 §1 (30.115 enacted in lieu of 30.110 and 30.120)]
+30.100 Substitution of personal representative as party defendant. In the event of the death of a wrongdoer, as designated in ORS 30.080, while an action is pending, the court, upon motion of the plaintiff, shall cause to be substituted as defendant the personal representative of the wrongdoer, and the action shall continue against such personal representative. 
 
 ## Provenance & change history
 

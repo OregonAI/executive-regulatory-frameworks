@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-92
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1963
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 92.339 — Use of fees. Chapter 92 (Subdivisions and Partitions), 2025 Editi
 
 ## Full text
 
-92.339 Use of fees. The moneys received under ORS 92.305 to 92.495 and this section shall be paid into the State Treasury and placed to the credit of the General Fund in the Real Estate Account established under ORS 696.490. [Formerly 92.820] 92.340 [1963 c.624 §16; repealed by 1973 c.421 §52] (Filing Requirements) 
+92.339 Use of fees. The moneys received under ORS 92.305 to 92.495 and this section shall be paid into the State Treasury and placed to the credit of the General Fund in the Real Estate Account established under ORS 696.490. [Formerly 92.820] 
 
 ## Provenance & change history
 

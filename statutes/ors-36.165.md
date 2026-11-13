@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-36
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
+last_amended: 2005
 enacted: 1989
 status: current
 supersedes: null
@@ -52,7 +52,7 @@ ORS 36.165 — Termination of county participation. Chapter 36 (Mediation and Ar
 
 (1) Any county that receives a grant under ORS 36.155 may terminate its participation at the end of any month by delivering a resolution of its board of commissioners to the Dean of the University of Oregon School of Law not less than 180 days before the termination date.
 
-(2) If a county terminates its participation under ORS 36.160, the remaining portion of the grant made to the county under ORS 36.160 shall revert to the University of Oregon School of Law to be used as specified in ORS 36.155. [1989 c.718 §14; 2003 c.791 §18; 2005 c.817 §4e] 36.170 [1989 c.718 §15; 1991 c.538 §4; 1991 c.790 §4; 1995 c.664 §77; 1995 c.666 §12; 1997 c.801 §§38,39; 2003 c.791 §18a; 2005 c.817 §4f; 2007 c.860 §26; 2009 c.659 §§18,19; 2010 c.107 §§36,37,38; repealed by 2011 c.595 §107] (Program Standards) 
+(2) If a county terminates its participation under ORS 36.160, the remaining portion of the grant made to the county under ORS 36.160 shall revert to the University of Oregon School of Law to be used as specified in ORS 36.155. [1989 c.718 §14; 2003 c.791 §18; 2005 c.817 §4e] 
 
 ## Provenance & change history
 

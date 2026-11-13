@@ -48,7 +48,7 @@ ORS 469A.480 — Electric company serving 25,000 or fewer consumers not subject 
 
 ## Full text
 
-469A.480 Electric company serving 25,000 or fewer consumers not subject to requirements. ORS 469A.400 to 469A.475 do not apply to an electric company, as defined in ORS 757.600, that serves electricity to 25,000 or fewer retail electricity consumers, as defined in ORS 757.600, located in this state. [2021 c.508 §17] _______________
+469A.480 Electric company serving 25,000 or fewer consumers not subject to requirements. ORS 469A.400 to 469A.475 do not apply to an electric company, as defined in ORS 757.600, that serves electricity to 25,000 or fewer retail electricity consumers, as defined in ORS 757.600, located in this state. [2021 c.508 §17] 
 
 ## Provenance & change history
 

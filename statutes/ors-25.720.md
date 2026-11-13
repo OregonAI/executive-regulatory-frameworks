@@ -60,7 +60,7 @@ ORS 25.720 — When support assignable. Chapter 25 (Child Support Services), 202
 
 (3) A person may not solicit or accept the assignment of support rights under subsection
 
-(1) of this section. [1985 c.671 §52(1),(2),(3); 1993 c.33 §288; 1995 c.514 §12; 1995 c.608 §34; 1995 c.664 §75; 1997 c.385 §3; 2003 c.131 §1; 2019 c.13 §17; 2021 c.597 §55] 25.722 [1993 c.798 §11; renumbered 25.375 in 1999] 
+(1) of this section. [1985 c.671 §52(1),(2),(3); 1993 c.33 §288; 1995 c.514 §12; 1995 c.608 §34; 1995 c.664 §75; 1997 c.385 §3; 2003 c.131 §1; 2019 c.13 §17; 2021 c.597 §55] 
 
 ## Provenance & change history
 

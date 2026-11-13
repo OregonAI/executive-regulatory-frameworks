@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-18
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1961
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 18.352 — Proceeds of casualty and indemnity insurance attachable on execut
 
 ## Full text
 
-18.352 Proceeds of casualty and indemnity insurance attachable on execution. Whenever a judgment debtor has a policy of insurance covering liability, or indemnity for any injury or damage to person or property, which injury or damage constituted the cause of action in which the judgment was rendered, the amount covered by the policy of insurance shall be subject to attachment upon the execution issued upon the judgment. [Formerly 23.230] 18.355 [1999 c.788 §16; 2003 c.576 §93; renumbered 18.162 in 2003] 
+18.352 Proceeds of casualty and indemnity insurance attachable on execution. Whenever a judgment debtor has a policy of insurance covering liability, or indemnity for any injury or damage to person or property, which injury or damage constituted the cause of action in which the judgment was rendered, the amount covered by the policy of insurance shall be subject to attachment upon the execution issued upon the judgment. [Formerly 23.230] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2016
-enacted: 1999
+enacted: 2016
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 1.189 — Courthouse surcharge accounts. Chapter 1 (Courts and Judicial Offi
 
 (2) The moneys in the courthouse surcharge account and interest upon the account are reserved for the purposes of: (a) Payment of capital costs of the courthouse project for which bonds are or will be issued under ORS 1.181 in the county imposing the surcharge; or (b) Payment of debt service and related expenses and funding of debt service reserves, if any, for bonds issued under ORS 271.390 or ORS chapter 287A to finance capital costs of the courthouse project for which bonds are or will be issued under ORS 1.181 in the county imposing the surcharge.
 
-(3) The county treasurer may charge against the courthouse surcharge account an administrative fee for the actual costs associated with maintaining the account. The total administrative fees charged each year may not exceed five percent of the moneys received from surcharges imposed under ORS 1.188 for that year. [2016 c.78 §2] 1.190 [1999 c.1064 §3; repealed by 2007 c.626 §3] 1.192 [1999 c.1064 §4; repealed by 2007 c.626 §3]
+(3) The county treasurer may charge against the courthouse surcharge account an administrative fee for the actual costs associated with maintaining the account. The total administrative fees charged each year may not exceed five percent of the moneys received from surcharges imposed under ORS 1.188 for that year. [2016 c.78 §2] 
 
 ## Provenance & change history
 

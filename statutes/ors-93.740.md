@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-93
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
-enacted: 1969
+last_amended: 1997
+enacted: 1987
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 93.740 — Notice of lis pendens; contents; recordation; effect; discharge. 
 
 (2) of this section if: (a) The person who records a notice of pendency under this section has notice of the conveyance or encumbrance at the time the notice of pendency is recorded or otherwise does not act in good faith in recording the notice of pendency; or (b) Pursuant to ORCP 33, the court allows a person claiming an interest in real property under the conveyance or encumbrance to intervene in the suit for the purpose of seeking adjudication of the person’s interest or priority in the property.
 
-(4) Unless otherwise prescribed by law, a party recording a notice of pendency shall use substantially the following form: ______________________________________________________________________________ NOTICE OF PENDENCY OF AN ACTION Pursuant to ORS 93.740, the undersigned states: 1. As plaintiff(s), ____________, has filed an action in the ______ Court for ______ County, State of Oregon; 2. The defendant(s) is/are: ________ ______________________ ______________________; 3. The object of the action is: _____ ______________________ ______________________; 4. The description of the real property to be affected is: ____________ ______________________ ______________________ Dated this _____ day of _________, ___. __________________ Plaintiff or Plaintiff’s attorney Name: _________________ Address: _______________ _____________________ _____________________ Phone No.: ________ STATE OF OREGON ) ) ss. County of _____ ) The foregoing instrument was acknowledged before me this ___ day of ______, 2___ by ____________. __________________ Notary Public for Oregon My commission expires: _________ STATE OF OREGON ) ) ss. County of _____ ) The foregoing instrument was acknowledged before me this ___ day of ______, 2___ by ____________ of ____________, a corporation, on behalf of the corporation. __________________ Notary Public for Oregon My commission expires: _________ ______________________________________________________________________________ [Amended by 1987 c.586 §24; 1997 c.598 §1] 93.750 [Repealed by 1991 c.230 §35] 
+(4) Unless otherwise prescribed by law, a party recording a notice of pendency shall use substantially the following form: ______________________________________________________________________________ NOTICE OF PENDENCY OF AN ACTION Pursuant to ORS 93.740, the undersigned states: 1. As plaintiff(s), ____________, has filed an action in the ______ Court for ______ County, State of Oregon; 2. The defendant(s) is/are: ________ ______________________ ______________________; 3. The object of the action is: _____ ______________________ ______________________; 4. The description of the real property to be affected is: ____________ ______________________ ______________________ Dated this _____ day of _________, ___. __________________ Plaintiff or Plaintiff’s attorney Name: _________________ Address: _______________ _____________________ _____________________ Phone No.: ________ STATE OF OREGON ) ) ss. County of _____ ) The foregoing instrument was acknowledged before me this ___ day of ______, 2___ by ____________. __________________ Notary Public for Oregon My commission expires: _________ STATE OF OREGON ) ) ss. County of _____ ) The foregoing instrument was acknowledged before me this ___ day of ______, 2___ by ____________ of ____________, a corporation, on behalf of the corporation. __________________ Notary Public for Oregon My commission expires: _________ ______________________________________________________________________________ [Amended by 1987 c.586 §24; 1997 c.598 §1] 
 
 ## Provenance & change history
 

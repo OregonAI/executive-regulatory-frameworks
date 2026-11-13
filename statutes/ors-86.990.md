@@ -48,7 +48,7 @@ ORS 86.990 — Penalties. Chapter 86 (Mortgages; Trust Deeds), 2025 Edition.
 
 ## Full text
 
-86.990 Penalties. Violation of ORS 86.040 is a Class B misdemeanor. [Amended by 1961 c.726 §410; 2011 c.597 §154] _______________
+86.990 Penalties. Violation of ORS 86.040 is a Class B misdemeanor. [Amended by 1961 c.726 §410; 2011 c.597 §154] 
 
 ## Provenance & change history
 

@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-7
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
+last_amended: 2007
 enacted: 1971
 status: current
 supersedes: null
@@ -55,7 +55,7 @@ ORS 7.020 — Register. Chapter 7 (Records and Files of Courts), 2025 Edition.
 
 (2) The date of making, filing and entry of any order, judgment, ruling or other direction of the court in or concerning such action, suit or proceeding.
 
-(3) Any other information required by statute, court order or rule. [Amended by 1971 c.193 §12; 1975 c.588 §4; 1985 c.540 §2; 1989 c.768 §3; 2007 c.129 §3] 7.030 [Amended by 1971 c.193 §13; 1975 c.588 §5; repealed by 1985 c.540 §47] 7.040 [Amended by 1975 c.588 §6; 1977 c.591 §1; 1985 c.540 §3; 1989 c.768 §4; 1993 c.763 §5; repealed by 2003 c.576 §580] 7.050 [Amended by 1975 c.588 §7; 1977 c.592 §1; repealed by 1989 c.768 §11] 7.060 [Amended by 1971 c.193 §14; 1975 c.588 §8; repealed by 1985 c.540 §47] 
+(3) Any other information required by statute, court order or rule. [Amended by 1971 c.193 §12; 1975 c.588 §4; 1985 c.540 §2; 1989 c.768 §3; 2007 c.129 §3] 
 
 ## Provenance & change history
 

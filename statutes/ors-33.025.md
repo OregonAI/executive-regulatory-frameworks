@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-33
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1955
+last_amended: 2017
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 33.025 — Nature of contempt power; entity defendants. Chapter 33 (Special 
 
 (3) The high managerial agents of an entity, the board of directors of a corporation, the managers and members of a limited liability company and the partners in a partnership are subject to the contempt powers of a court for contempt by an entity if those persons engage in, authorize, solicit, request, command or knowingly tolerate the conduct constituting contempt.
 
-(4) As used in this section: (a) “Agent” means a person who is authorized to act on behalf of an entity. (b) “Entity” has the meaning given that term in ORS 63.001. (c) “High managerial agent” means an officer of an entity who exercises authority with respect to the formulation of policy or the supervision in a managerial capacity of subordinate employees, or any other agent in a position of comparable authority. (d) “Manager” and “member” have the meaning given those terms in ORS 63.001. (e) “Partnership” has the meaning given that term in ORS 67.005. [1991 c.724 §2; 2017 c.153 §1] 33.030 [Repealed by 1991 c.724 §32] 
+(4) As used in this section: (a) “Agent” means a person who is authorized to act on behalf of an entity. (b) “Entity” has the meaning given that term in ORS 63.001. (c) “High managerial agent” means an officer of an entity who exercises authority with respect to the formulation of policy or the supervision in a managerial capacity of subordinate employees, or any other agent in a position of comparable authority. (d) “Manager” and “member” have the meaning given those terms in ORS 63.001. (e) “Partnership” has the meaning given that term in ORS 67.005. [1991 c.724 §2; 2017 c.153 §1] 
 
 ## Provenance & change history
 

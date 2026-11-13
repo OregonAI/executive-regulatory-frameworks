@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-18
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 2005
+enacted: 2005
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 18.322 — Adjudication of claim of exemption. Chapter 18 (Judgments), 2025 
 
 ## Full text
 
-18.322 Adjudication of claim of exemption. The judgment debtor’s claim of exemption shall, upon application of either plaintiff or judgment debtor, be adjudicated in a summary manner at a hearing in the court out of which the execution issues. [Formerly 23.168; 2005 c.542 §56] 18.325 [1987 c.586 §2b; 1989 c.171 §2; 1999 c.59 §6; 1999 c.80 §32; 1999 c.195 §5; 2003 c.73 §13; 2003 c.576 §570; renumbered 18.170 in 2003] 18.330 [Repealed by 1959 c.558 §29 (18.335 enacted in lieu of 18.330)] 18.335 [1959 c.558 §30 (enacted in lieu of 18.330); 1979 c.284 §54; 1983 c.405 §2; 1987 c.873 §21; 1997 c.340 §5; 1997 c.872 §16; 2001 c.249 §67; repealed by 2003 c.576 §580] 18.340 [Repealed by 1959 c.558 §51] (Personal Property) 
+18.322 Adjudication of claim of exemption. The judgment debtor’s claim of exemption shall, upon application of either plaintiff or judgment debtor, be adjudicated in a summary manner at a hearing in the court out of which the execution issues. [Formerly 23.168; 2005 c.542 §56] 
 
 ## Provenance & change history
 

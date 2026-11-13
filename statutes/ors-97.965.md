@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-97
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
+last_amended: 2007
 enacted: 2007
 status: current
 supersedes: null
@@ -62,7 +62,7 @@ ORS 97.965 — Persons authorized to make anatomical gift of body or body part o
 
 (3) A person may not make an anatomical gift if, at the time of the decedent’s death, a person in a prior class under subsection
 
-(1) of this section is reasonably available to make or to object to the making of an anatomical gift. [2007 c.681 §8] Note: See note under 97.951. 97.966 [Formerly 97.295; 2007 c.681 §30; renumbered 97.984 in 2007] 
+(1) of this section is reasonably available to make or to object to the making of an anatomical gift. [2007 c.681 §8] Note: See note under 97.951. 
 
 ## Provenance & change history
 

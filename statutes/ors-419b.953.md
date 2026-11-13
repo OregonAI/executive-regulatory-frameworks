@@ -54,7 +54,7 @@ ORS 419B.953 — Training and continuing education for caseworkers. Chapter 419B
 
 (2) The curriculum shall include instruction and materials presented by Department of Justice attorneys with expertise in juvenile dependency proceedings. The curriculum shall, in particular, address circumstances under which a caseworker may be engaging in the unlicensed practice of law and shall describe the parameters of the role that a caseworker may play in courtroom proceedings.
 
-(3) The Department of Human Services shall require caseworkers to participate in continuing education at least once every four years that updates caseworkers on their roles in juvenile dependency proceedings. [2017 c.159 §1] Note: 419B.953 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 419B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. _______________
+(3) The Department of Human Services shall require caseworkers to participate in continuing education at least once every four years that updates caseworkers on their roles in juvenile dependency proceedings. [2017 c.159 §1] Note: 419B.953 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 419B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

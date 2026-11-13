@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-71
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2080
+last_amended: 2060
 enacted: 1961
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 71.2060 — Presumptions. Chapter 71 (General Provisions for Uniform Commerc
 
 ## Full text
 
-71.2060 Presumptions. Whenever the Uniform Commercial Code creates a presumption with respect to a fact, or provides that a fact is presumed, the trier of fact must find the existence of the fact unless and until evidence is introduced that supports a finding of its nonexistence. [1961 c.726 §71.2060; 2009 c.181 §13] 71.2070 [1961 c.726 §71.2070; 1993 c.545 §2; repealed by 2009 c.181 §116] 71.2080 [1961 c.726 §71.2080; repealed by 2009 c.181 §116]
+71.2060 Presumptions. Whenever the Uniform Commercial Code creates a presumption with respect to a fact, or provides that a fact is presumed, the trier of fact must find the existence of the fact unless and until evidence is introduced that supports a finding of its nonexistence. [1961 c.726 §71.2060; 2009 c.181 §13] 
 
 ## Provenance & change history
 

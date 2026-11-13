@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-18
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
+last_amended: 2001
 enacted: 2001
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 18.782 — Hearing. Chapter 18 (Judgments), 2025 Edition.
 
 ## Full text
 
-18.782 Hearing. Witnesses, including the debtor and garnishee, may be required to appear and testify at a hearing held pursuant to an order issued under ORS 18.778. The proceedings against a garnishee shall be tried by the court as upon the trial of an issue of law between a plaintiff and defendant. [2001 c.249 §54] 18.784 [Formerly 18.619; 2013 c.688 §4; 2020 s.s.1 c.12 §§3,4; repealed by 2024 c.100 §31] (Financial Institution as Garnishee) 
+18.782 Hearing. Witnesses, including the debtor and garnishee, may be required to appear and testify at a hearing held pursuant to an order issued under ORS 18.778. The proceedings against a garnishee shall be tried by the court as upon the trial of an issue of law between a plaintiff and defendant. [2001 c.249 §54] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-98
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
-enacted: 1957
+last_amended: 2007
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim

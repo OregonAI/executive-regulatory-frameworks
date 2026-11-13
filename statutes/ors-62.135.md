@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-62
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
+last_amended: 1957
 enacted: 1957
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 62.135 — Bylaws. Chapter 62 (Cooperatives), 2025 Edition.
 
 ## Full text
 
-62.135 Bylaws. The initial bylaws of a cooperative shall be adopted by its board of directors. Power to alter, amend or repeal the bylaws or adopt new bylaws is vested in the members of the cooperative. Bylaws may contain any provisions for the regulation and management of the affairs of the cooperative not inconsistent with law or the articles. [1957 c.716 §8] 62.140 [Repealed by 1957 c.716 §76] 
+62.135 Bylaws. The initial bylaws of a cooperative shall be adopted by its board of directors. Power to alter, amend or repeal the bylaws or adopt new bylaws is vested in the members of the cooperative. Bylaws may contain any provisions for the regulation and management of the affairs of the cooperative not inconsistent with law or the articles. [1957 c.716 §8] 
 
 ## Provenance & change history
 

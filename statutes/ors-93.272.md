@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-93
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1973
+last_amended: 2018
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -64,9 +64,7 @@ ORS 93.272 — Procedure for removal of certain restrictions. Chapter 93 (Convey
 
 (6) If a court finds only part of a provision to be in violation of ORS 93.270 under this section, the court shall enter a judgment removing only that part of the provision that is in violation.
 
-(7) For the purposes of this section, “owner of record” means a person having any legal or equitable interest in property, including, but not limited to, a purchaser, lienholder or holder of any security interest in such property whose interest is recorded in the public records provided for by Oregon statutes where the owner’s interest must be recorded to perfect a lien or security interest or provide constructive notice of the owner’s interest. [1991 c.850 §2; 2018 c.35 §3] 93.273 [1989 c.523 §2; renumbered 93.275
-
-(3) in 1993] 
+(7) For the purposes of this section, “owner of record” means a person having any legal or equitable interest in property, including, but not limited to, a purchaser, lienholder or holder of any security interest in such property whose interest is recorded in the public records provided for by Oregon statutes where the owner’s interest must be recorded to perfect a lien or security interest or provide constructive notice of the owner’s interest. [1991 c.850 §2; 2018 c.35 §3] 
 
 ## Provenance & change history
 

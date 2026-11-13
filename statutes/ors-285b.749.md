@@ -60,7 +60,7 @@ ORS 285B.749 — Additional conditions for loan approval; maximum term and amoun
 
 (2) The department shall determine the amount of the initial loan and any subsequent loan to a borrower from the Oregon Entrepreneurial Development Loan Fund. The total of all loans to any borrower from the fund may not exceed $1 million.
 
-(3) Entrepreneurial development loans shall be made for a term that does not exceed 10 years at a rate of interest that does not exceed 18 percent per annum. [1991 c.688 §9; 1997 c.147 §6; 2007 c.804 §39; 2009 c.830 §133; 2010 c.106 §§4,8; 2011 c.558 §5; 2014 c.3 §3; 2020 s.s.2 c.10 §§26,27; 2022 c.2 §4] 285B.752 [1991 c.688 §10; 1997 c.147 §7; 2001 c.684 §22; repealed by 2007 c.804 §86] 
+(3) Entrepreneurial development loans shall be made for a term that does not exceed 10 years at a rate of interest that does not exceed 18 percent per annum. [1991 c.688 §9; 1997 c.147 §6; 2007 c.804 §39; 2009 c.830 §133; 2010 c.106 §§4,8; 2011 c.558 §5; 2014 c.3 §3; 2020 s.s.2 c.10 §§26,27; 2022 c.2 §4] 
 
 ## Provenance & change history
 

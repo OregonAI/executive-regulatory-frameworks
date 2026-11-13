@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-65
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
+last_amended: 1989
 enacted: 1989
 status: current
 supersedes: null
@@ -52,7 +52,7 @@ ORS 65.497 — Merger with foreign corporation. Chapter 65 (Nonprofit Corporatio
 
 (1) Except as provided in ORS 65.484, one or more foreign business or nonprofit corporations may merge with one or more domestic nonprofit corporations if: (a) The merger is permitted by the law of the state or country under whose law each foreign business or nonprofit corporation is incorporated and each foreign business or nonprofit corporation complies with that law in effecting the merger; (b) The foreign business or nonprofit corporation complies with ORS 65.491 if it is the surviving corporation of the merger; and (c) Each domestic nonprofit corporation complies with the applicable provisions of ORS 65.481 to 65.487 and, if it is the surviving corporation of the merger, with ORS 65.491.
 
-(2) Upon the merger taking effect, a surviving foreign business or nonprofit corporation is deemed to have irrevocably appointed the Secretary of State as its agent for service of process in any proceeding brought against it. [1989 c.1010 §123] 65.501 [1989 c.1010 §124; repealed by 2019 c.174 §113] 
+(2) Upon the merger taking effect, a surviving foreign business or nonprofit corporation is deemed to have irrevocably appointed the Secretary of State as its agent for service of process in any proceeding brought against it. [1989 c.1010 §123] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-25
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2009
-enacted: 1985
+last_amended: 2003
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 25.339 — Priority of medical support notice. Chapter 25 (Child Support Ser
 
 ## Full text
 
-25.339 Priority of medical support notice. A medical support notice issued under ORS 25.325 has priority over any previously filed attachment, execution, garnishment or assignment of income other than a withholding order issued for monetary support, unless otherwise requested by the obligee. [2003 c.637 §11] 25.340 [1985 c.671 §7; 1993 c.798 §35; renumbered 25.381 in 1999] 
+25.339 Priority of medical support notice. A medical support notice issued under ORS 25.325 has priority over any previously filed attachment, execution, garnishment or assignment of income other than a withholding order issued for monetary support, unless otherwise requested by the obligee. [2003 c.637 §11] 
 
 ## Provenance & change history
 

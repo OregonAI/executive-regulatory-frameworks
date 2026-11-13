@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1981
+last_amended: 2011
+enacted: 2011
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 94.764 — Changes or actions that require approval or consent of mortgagee.
 
 (1) Notwithstanding a contrary provision of a declaration or bylaws of a homeowners association, when a change to the declaration, bylaws or other governing document or another action to be taken by the board of directors, association or owners requires approval or consent of a mortgagee, if the mortgagee receives a request to approve or consent to the change or action, the mortgagee is deemed to have approved or consented to the request unless the mortgagee delivers or posts a negative response to the requesting party within 60 days after receipt of the request.
 
-(2) The request must: (a) Be in writing. (b) Name the mortgagor. (c) Identify the property securing the mortgage by legal description as required for recordation in ORS 93.600 or by address. (d) Identify the mortgage by loan number or reference to the county recording office and date of recording and recording index numbers of the mortgage. (e) Be delivered to the mortgagee by certified or registered mail, return receipt requested. [2011 c.532 §6] 94.765 [1981 c.782 §81; repealed by 1999 c.677 §72] 
+(2) The request must: (a) Be in writing. (b) Name the mortgagor. (c) Identify the property securing the mortgage by legal description as required for recordation in ORS 93.600 or by address. (d) Identify the mortgage by loan number or reference to the county recording office and date of recording and recording index numbers of the mortgage. (e) Be delivered to the mortgagee by certified or registered mail, return receipt requested. [2011 c.532 §6] 
 
 ## Provenance & change history
 

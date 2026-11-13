@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1999
-enacted: 1973
+enacted: 1979
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 1.525 — Uniform citation and petition forms for certain offenses. Chapter 
 
 (4) of this section, the uniform citation forms adopted by the Supreme Court under this section must be used by all enforcement officers, as defined in ORS 153.005, when issuing a violation citation or criminal citation.
 
-(4) The uniform citation forms adopted by the Supreme Court under this section need not be used for: (a) Offenses created by ordinance or agency rule governing parking of vehicles; or (b) Offenses created by the ordinances of political subdivisions. [1979 c.477 §3; 1981 c.692 §5; 1981 c.803 §1; 1983 c.338 §879; 1985 c.725 §9; 1999 c.1051 §73] 1.530 [Formerly 484.430; repealed by 1973 c.43 §2]
+(4) The uniform citation forms adopted by the Supreme Court under this section need not be used for: (a) Offenses created by ordinance or agency rule governing parking of vehicles; or (b) Offenses created by the ordinances of political subdivisions. [1979 c.477 §3; 1981 c.692 §5; 1981 c.803 §1; 1983 c.338 §879; 1985 c.725 §9; 1999 c.1051 §73] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2009
-enacted: 2001
+enacted: 2009
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 285B.449 — Effect of failure to comply or default. Chapter 285B (Chapter 2
 
 (2) Moneys withheld under subsection
 
-(1) of this section shall be deposited in the Special Public Works Fund and shall be used to repay any account in the fund from which funds were expended to pay obligations upon which the municipality defaulted. [Formerly 285.727; 2009 c.830 §101] 285B.452 [Formerly 285.730; 2001 c.883 §31b; 2003 c.773 §40; repealed by 2005 c.835 §37] 
+(1) of this section shall be deposited in the Special Public Works Fund and shall be used to repay any account in the fund from which funds were expended to pay obligations upon which the municipality defaulted. [Formerly 285.727; 2009 c.830 §101] 
 
 ## Provenance & change history
 

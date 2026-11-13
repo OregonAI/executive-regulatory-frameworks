@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2010
-enacted: 1955
+last_amended: 1975
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 87.078 — Notice of filing bond or depositing money; contents of notice; ef
 
 (2) If a person does not notify the lien claimant as required by subsection
 
-(1) of this section, the filing of the bond or the deposit of money is of no effect and the provisions of ORS 87.083 shall not apply in a suit to foreclose the lien for which the filing or deposit is made. [1975 c.466 §18] 87.080 [Amended by 1967 c.407 §3; repealed by 1975 c.648 §72] 
+(1) of this section, the filing of the bond or the deposit of money is of no effect and the provisions of ORS 87.083 shall not apply in a suit to foreclose the lien for which the filing or deposit is made. [1975 c.466 §18] 
 
 ## Provenance & change history
 

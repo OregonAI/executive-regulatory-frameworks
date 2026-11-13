@@ -59,7 +59,7 @@ ORS 708A.195 — Disposition of real and personal property. Chapter 708A (Chapte
 
 (4) for other real estate within 10 years after title has vested in the real estate, unless the Director of the Department of Consumer and Business Services extends the time. Title vests for purposes of this section on the date the institution receives a deed to the real estate. An institution may not exchange real estate for other real estate without the director’s prior written consent. An institution may hold real estate the institution takes in exchange for other real estate for a period of time that the director fixes, not to exceed 10 years from the date of the exchange.
 
-(3) An institution shall promptly dispose of personal property the institution acquires under ORS 708A.175 (3). [1997 c.631 §135; 2011 c.478 §2; 2015 c.244 §41] 708A.200 [1997 c.631 §136; 2001 c.191 §53; 2001 c.377 §48; repealed by 2003 c.363 §16] 
+(3) An institution shall promptly dispose of personal property the institution acquires under ORS 708A.175 (3). [1997 c.631 §135; 2011 c.478 §2; 2015 c.244 §41] 
 
 ## Provenance & change history
 

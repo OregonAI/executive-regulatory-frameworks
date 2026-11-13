@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-86
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1955
+last_amended: 1961
+enacted: 1961
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 86.470 — Discharge, assignment and foreclosure of mortgages on chattels re
 
 ## Full text
 
-86.470 Discharge, assignment and foreclosure of mortgages on chattels registered and licensed by Department of Transportation. The recording officer of counties having less than 50,000 population on the last day of each calendar month, and the recording officer of counties having more than 50,000 population on the last day of each calendar week, shall notify the Department of Transportation, upon forms to be provided by the department, of the partial or full satisfaction, assignment or foreclosure during such period of all mortgages theretofore certified to the department prior to September 1, 1963, as formerly provided in ORS 86.390. The notice shall completely identify the mortgage so satisfied, assigned or foreclosed; and the department thereupon shall note on each index margin such satisfaction, assignment or foreclosure. [Amended by 1961 c.726 §408] 86.480 [Repealed by 1961 c.726 §427] 86.490 [Repealed by 1961 c.726 §427] 86.500 [Amended by 1955 c.30 §1; repealed by 1961 c.726 §427] 86.510 [Repealed by 1961 c.726 §427] 86.520 [Repealed by 1961 c.726 §427] INVESTMENTS; FEDERAL HOUSING ADMINISTRATION 
+86.470 Discharge, assignment and foreclosure of mortgages on chattels registered and licensed by Department of Transportation. The recording officer of counties having less than 50,000 population on the last day of each calendar month, and the recording officer of counties having more than 50,000 population on the last day of each calendar week, shall notify the Department of Transportation, upon forms to be provided by the department, of the partial or full satisfaction, assignment or foreclosure during such period of all mortgages theretofore certified to the department prior to September 1, 1963, as formerly provided in ORS 86.390. The notice shall completely identify the mortgage so satisfied, assigned or foreclosed; and the department thereupon shall note on each index margin such satisfaction, assignment or foreclosure. [Amended by 1961 c.726 §408] 
 
 ## Provenance & change history
 

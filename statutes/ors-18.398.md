@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-18
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2024
-enacted: 1961
+last_amended: 2021
+enacted: 2005
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 18.398 — Denial of homestead exemption when judgment is for child support.
 
 (1) of this section, the court shall consider: (a) The financial resources of both parties; (b) The number of dependents of each of the parties; (c) The ages, health and conditions of parties and their dependents; (d) The child support payment history of the judgment debtor on the judgment which is the subject of the petition; and (e) Other collection attempts by the judgment creditor on the judgment which is the subject of the petition.
 
-(4) This section shall not apply to any proceeding under ORS 18.912 brought by or on the behalf of the state or any agency of the state. [Formerly 23.242; 2005 c.542 §58; 2021 c.597 §42] 18.400 [Amended by 1965 c.619 §7; 1979 c.694 §1; 1983 c.696 §5; 1985 c.343 §4; 1985 c.496 §18; 1985 c.610 §2; 1987 c.586 §7; 1993 c.33 §275; 1995 c.608 §20; 1997 c.123 §1; 1997 c.704 §12; 1999 c.788 §23; 2001 c.900 §235; 2003 c.73 §14; repealed by 2003 c.576 §580] 
+(4) This section shall not apply to any proceeding under ORS 18.912 brought by or on the behalf of the state or any agency of the state. [Formerly 23.242; 2005 c.542 §58; 2021 c.597 §42] 
 
 ## Provenance & change history
 

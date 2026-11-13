@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-98
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1957
+last_amended: 1993
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 98.304 — Intangible property subject to custody of state. Chapter 98 (Lost
 
 (4) The last-known address, as shown on the records of the holder, of the apparent owner is in a foreign nation and the holder is a domiciliary or a government or political subdivision or agency of this state.
 
-(5) The transaction out of which the property arose occurred in this state, and: (a) There is no known address of the apparent owner or other person entitled to the property; (b) The last-known address of the apparent owner or other person entitled to the property is in a state that does not provide by law for the escheats or custodial taking of the property or its escheats or unclaimed property law is not applicable to the property; or (c) The holder is a domiciliary of a state that does not provide by law for the escheat or custodial taking of the property or its escheat or unclaimed property law is not applicable to the property. [1983 c.716 §28; 1993 c.694 §1] 98.306 [1957 c.670 §4; 1967 c.357 §1; 1973 c.797 §424; repealed by 1983 c.716 §26] 
+(5) The transaction out of which the property arose occurred in this state, and: (a) There is no known address of the apparent owner or other person entitled to the property; (b) The last-known address of the apparent owner or other person entitled to the property is in a state that does not provide by law for the escheats or custodial taking of the property or its escheats or unclaimed property law is not applicable to the property; or (c) The holder is a domiciliary of a state that does not provide by law for the escheat or custodial taking of the property or its escheat or unclaimed property law is not applicable to the property. [1983 c.716 §28; 1993 c.694 §1] 
 
 ## Provenance & change history
 

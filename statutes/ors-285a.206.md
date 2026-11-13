@@ -56,7 +56,7 @@ ORS 285A.206 — Department to prepare financial statements; contents; reporting
 
 (3) The financial statements required by this section shall be in a form prescribed by the Secretary of State.
 
-(4) Each financial statement required by this section shall describe the financial transactions and condition of a single fund and shall be submitted to the Governor, the President of the Senate and the Speaker of the House of Representatives not later than December 31 in each year. [Formerly 285.095; 1999 c.509 §10; 2003 c.167 §10; 2007 c.804 §9; 2009 c.830 §25] 285A.209 [Formerly 285.100; repealed by 2007 c.804 §86] 285A.212 [Formerly 285.105; repealed by 1999 c.509 §61] 
+(4) Each financial statement required by this section shall describe the financial transactions and condition of a single fund and shall be submitted to the Governor, the President of the Senate and the Speaker of the House of Representatives not later than December 31 in each year. [Formerly 285.095; 1999 c.509 §10; 2003 c.167 §10; 2007 c.804 §9; 2009 c.830 §25] 
 
 ## Provenance & change history
 

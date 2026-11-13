@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-9
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1953
+last_amended: 1997
+enacted: 1997
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 9.578 — Funding sources. Chapter 9 (Oregon State Bar; Attorneys; Law Libra
 
 ## Full text
 
-9.578 Funding sources. The Oregon State Bar may apply for, accept and expend moneys from any public or private source, including the federal government, made available for the purpose of establishing or funding legal service programs in Oregon. [1997 c.801 §75] 9.580 [Repealed by 1983 c.618 §1] 
+9.578 Funding sources. The Oregon State Bar may apply for, accept and expend moneys from any public or private source, including the federal government, made available for the purpose of establishing or funding legal service programs in Oregon. [1997 c.801 §75] 
 
 ## Provenance & change history
 

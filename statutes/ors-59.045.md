@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-59
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1953
+last_amended: 1985
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -57,7 +57,7 @@ ORS 59.045 — Authority of director to deny, withdraw or condition exemptions. 
 
 (2) The director may by order withdraw, condition or deny the use of any exemption by a person if the director has reason to believe that the person has engaged in or is about to engage in an act or practice constituting a violation of the Oregon Securities Law or that the use of any exemption by that person would work a fraud or imposition on purchasers.
 
-(3) No person shall be liable under the Oregon Securities Law by reason of the withdrawal of an exemption under this section if that person sustains the burden of proof that that person did not know, and in the exercise of reasonable care could not have known of the withdrawal. [1967 c.537 §6; 1973 c.366 §3; 1985 c.349 §4] 59.047 [1981 c.292 §2; 1985 c.349 §5; repealed by 1987 c.603 §30] 
+(3) No person shall be liable under the Oregon Securities Law by reason of the withdrawal of an exemption under this section if that person sustains the burden of proof that that person did not know, and in the exercise of reasonable care could not have known of the withdrawal. [1967 c.537 §6; 1973 c.366 §3; 1985 c.349 §4] 
 
 ## Provenance & change history
 

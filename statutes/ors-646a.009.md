@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2023
-enacted: 2009
+enacted: 2023
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 646A.009 — Prohibition on sales of cosmetics developed or manufactured usi
 
 (3) Nothing in this section prohibits a manufacturer or supplier from retaining, reviewing or assessing evidence from a cosmetic animal test.
 
-(4) A city or county may not adopt or enforce any ordinance, rule or regulation establishing a prohibition on the sale of cosmetics that have been developed or manufactured using cosmetic animal tests unless the prohibition is identical to the provisions of this section. [2023 c.536 §2] 646A.010 [Formerly 646.185; repealed by 2009 c.170 §4] 646A.012 [Formerly 646.187; repealed by 2009 c.170 §4] 
+(4) A city or county may not adopt or enforce any ordinance, rule or regulation establishing a prohibition on the sale of cosmetics that have been developed or manufactured using cosmetic animal tests unless the prohibition is identical to the provisions of this section. [2023 c.536 §2] 
 
 ## Provenance & change history
 

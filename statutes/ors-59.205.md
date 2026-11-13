@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-59
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1955
+last_amended: 2003
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -103,7 +103,7 @@ ORS 59.205 — Grounds for denying, suspending, revoking or imposing condition o
 
 (13) Has failed, reasonably to supervise the salespersons or investment adviser representatives of the applicant or licensee.
 
-(14) Has failed to comply with the requirements of ORS 59.195 to make and keep records prescribed by rule or order of the director, to produce such records required by the director or to file any financial reports or other information the director by rule or order may require. [1967 c.537 §20(1); 1969 c.137 §6; 1985 c.349 §21; 1987 c.603 §14; 1989 c.197 §12; 1993 c.508 §34; 1997 c.772 §19; 2001 c.32 §3; 2003 c.270 §7] 59.210 [Amended by 1955 c.179 §1; repealed by 1963 c.244 §3 (59.211 enacted in lieu of 59.210)] 59.211 [1963 c.244 §4 (enacted in lieu of 59.210); repealed by 1967 c.537 §36] 
+(14) Has failed to comply with the requirements of ORS 59.195 to make and keep records prescribed by rule or order of the director, to produce such records required by the director or to file any financial reports or other information the director by rule or order may require. [1967 c.537 §20(1); 1969 c.137 §6; 1985 c.349 §21; 1987 c.603 §14; 1989 c.197 §12; 1993 c.508 §34; 1997 c.772 §19; 2001 c.32 §3; 2003 c.270 §7] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-58
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
-enacted: 1961
+last_amended: 1993
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 58.156 — Method by which professional corporation to render services; exce
 
 (2) Subsection
 
-(1) of this section does not: (a) Require a person employed by a professional corporation to be licensed to perform services for such corporation if a license is not otherwise required; (b) Prohibit a licensed person from rendering professional service or services in the person’s individual capacity although the person is a shareholder, director, officer, employee or agent of a domestic or foreign professional corporation; or (c) Prohibit a person licensed in another state from rendering professional service or services for a domestic or foreign professional corporation in this state if not prohibited by the applicable regulatory board. [1993 c.235 §25] 58.159 [1993 c.235 §28; repealed by 1997 c.774 §31] 58.160 [Repealed by 1961 c.726 §427] 
+(1) of this section does not: (a) Require a person employed by a professional corporation to be licensed to perform services for such corporation if a license is not otherwise required; (b) Prohibit a licensed person from rendering professional service or services in the person’s individual capacity although the person is a shareholder, director, officer, employee or agent of a domestic or foreign professional corporation; or (c) Prohibit a person licensed in another state from rendering professional service or services for a domestic or foreign professional corporation in this state if not prohibited by the applicable regulatory board. [1993 c.235 §25] 
 
 ## Provenance & change history
 

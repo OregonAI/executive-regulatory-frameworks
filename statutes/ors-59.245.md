@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2023
-enacted: 1957
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -78,7 +78,7 @@ ORS 59.245 — Investigations; publicity with respect to violations; confidentia
 
 (8) Subsection
 
-(4) of this section does not prevent disclosure of documents, material or other information that a person other than the director possesses or controls or make the documents, material or other information confidential or subject to ORS 705.137. [1967 c.537 §22; 1973 c.366 §6; 1999 c.315 §2; 2007 c.71 §14; 2023 c.494 §1] 59.250 [Amended by 1963 c.244 §5; repealed by 1967 c.537 §36] 
+(4) of this section does not prevent disclosure of documents, material or other information that a person other than the director possesses or controls or make the documents, material or other information confidential or subject to ORS 705.137. [1967 c.537 §22; 1973 c.366 §6; 1999 c.315 §2; 2007 c.71 §14; 2023 c.494 §1] 
 
 ## Provenance & change history
 

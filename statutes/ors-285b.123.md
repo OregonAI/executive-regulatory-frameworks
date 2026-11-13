@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-285b
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2009
+last_amended: 2007
 enacted: 2007
 status: current
 supersedes: null
@@ -52,7 +52,7 @@ ORS 285B.123 — Purpose. Chapter 285B (Chapter 285B), 2025 Edition.
 
 (1) The purpose of the Oregon Small Business Development Act of 1983 is to encourage and assist the development and continued growth of small business in this state.
 
-(2) As used in the Oregon Small Business Development Act of 1983, “small business” means a business having 100 or fewer employees. [Formerly 285.503; 2007 c.804 §16] 285B.126 [Formerly 285.507; 2007 c.804 §50; 2009 c.830 §62; renumbered 285B.109 in 2009] 285B.129 [Formerly 285.510; 2007 c.804 §51; renumbered 285B.111 in 2009] (Small Business Expansion Loan Fund) 
+(2) As used in the Oregon Small Business Development Act of 1983, “small business” means a business having 100 or fewer employees. [Formerly 285.503; 2007 c.804 §16] 
 
 ## Provenance & change history
 

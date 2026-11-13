@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-9
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1963
+last_amended: 1985
+enacted: 1985
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 9.800 — Sale of surplus codes and session laws. Chapter 9 (Oregon State Ba
 
 ## Full text
 
-9.800 Sale of surplus codes and session laws. The State Court Administrator may sell the unused sets of Oregon codes and session laws which are not needed for the purpose of exchanging for the codes and session laws of other states and for other books. The sales shall be for cash and the proceeds deposited as provided by ORS 8.130. [Amended by 1985 c.308 §5] 9.810 [Repealed by 1985 c.308 §6] 
+9.800 Sale of surplus codes and session laws. The State Court Administrator may sell the unused sets of Oregon codes and session laws which are not needed for the purpose of exchanging for the codes and session laws of other states and for other books. The sales shall be for cash and the proceeds deposited as provided by ORS 8.130. [Amended by 1985 c.308 §5] 
 
 ## Provenance & change history
 

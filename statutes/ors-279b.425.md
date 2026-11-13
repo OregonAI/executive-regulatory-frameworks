@@ -78,7 +78,7 @@ ORS 279B.425 — Review of prequalification and debarment decisions. Chapter 279
 
 (8) The procedure provided in this section is the exclusive means of judicial review of the decision of the director or board. The judicial review provisions of ORS 183.480 and writs of review and mandamus as provided in ORS chapter 34, and other legal, declaratory and injunctive remedies, are not available.
 
-(9) The circuit court may stay the letting of the contract that is the subject of the petition in the same manner as a suit in equity. When the court determines that there has been an improper debarment or denial, revocation or revision of a prequalification and the contract has been let, the court may proceed to take evidence to determine the damages, if any, suffered by the petitioner and may award such damages as the court may find as a judgment against the director or board. The court may award costs and attorney fees to the prevailing party. [2003 c.794 §87; 2007 c.288 §12] _______________
+(9) The circuit court may stay the letting of the contract that is the subject of the petition in the same manner as a suit in equity. When the court determines that there has been an improper debarment or denial, revocation or revision of a prequalification and the contract has been let, the court may proceed to take evidence to determine the damages, if any, suffered by the petitioner and may award such damages as the court may find as a judgment against the director or board. The court may award costs and attorney fees to the prevailing party. [2003 c.794 §87; 2007 c.288 §12] 
 
 ## Provenance & change history
 

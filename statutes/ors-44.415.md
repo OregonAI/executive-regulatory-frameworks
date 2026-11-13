@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1989
-enacted: 1959
+enacted: 1989
 status: current
 supersedes: null
 content_mode: verbatim
@@ -57,7 +57,7 @@ ORS 44.415 — Fees and mileage of witnesses. Chapter 44 (Witnesses), 2025 Editi
 
 (2) In any criminal proceeding, any proceeding prosecuted by a public body or any proceeding where a public body is a party, a person is entitled to receive $5 for each day’s attendance as a witness and mileage reimbursement at the rate of eight cents a mile if the person is required to travel from a place within or outside this state in order to perform duties as a witness. Total mileage reimbursement shall not exceed the necessary cost of transportation on reasonably available common carriers.
 
-(3) As used in this section, “public body” means any state, city, county, school district, other political subdivision, municipal corporation, public corporation and any instrumentality thereof. [1989 c.980 §2] 44.420 [Repealed by 1959 c.158 §2] 44.430 [Repealed by 1989 c.980 §24] 44.440 [Amended by 1963 c.519 §24; 1977 c.408 §1; repealed by 1981 s.s. c.3 §141] 44.450 [Amended by 1977 c.593 §1; repealed by 1981 s.s. c.3 §141]
+(3) As used in this section, “public body” means any state, city, county, school district, other political subdivision, municipal corporation, public corporation and any instrumentality thereof. [1989 c.980 §2] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-59
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1955
+last_amended: 2003
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -59,7 +59,7 @@ ORS 59.185 — Expiration of license; rules for renewal; change in personnel. Ch
 
 (3) The director by rule shall establish procedures for renewing licenses of broker-dealers, state investment advisers, investment adviser representatives and salespersons, and for the annual renewal of notice filings made on behalf of federal covered investment advisers.
 
-(4) If there is a change in the partners, directors, officers, persons occupying similar positions or performing similar functions, or persons directly or indirectly controlling a broker-dealer or state investment adviser, written notification of such change shall promptly be filed with the director. No fee shall be required for such notification. An examination may be required of any such individual who is newly connected with or interested in the licensee. [1967 c.537 §19 (1), (2), (3); 1969 c.137 §5; 1985 c.349 §18; 1987 c.603 §12; 1989 c.197 §10; 1993 c.508 §32; 1997 c.772 §17; 1999 c.59 §14; 2003 c.270 §6] 59.190 [Repealed by 1967 c.537 §36] 59.193 [1973 c.366 §9; 1975 c.491 §3; 1985 c.349 §19; repealed by 1987 c.603 §30] 
+(4) If there is a change in the partners, directors, officers, persons occupying similar positions or performing similar functions, or persons directly or indirectly controlling a broker-dealer or state investment adviser, written notification of such change shall promptly be filed with the director. No fee shall be required for such notification. An examination may be required of any such individual who is newly connected with or interested in the licensee. [1967 c.537 §19 (1), (2), (3); 1969 c.137 §5; 1985 c.349 §18; 1987 c.603 §12; 1989 c.197 §10; 1993 c.508 §32; 1997 c.772 §17; 1999 c.59 §14; 2003 c.270 §6] 
 
 ## Provenance & change history
 

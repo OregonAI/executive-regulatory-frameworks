@@ -58,7 +58,7 @@ ORS 329A.706 — Program implementation; tax credit certificates; rules. Chapter
 
 (5) The Department of Early Learning and Care shall provide information to the Department of Revenue about all tax credit certificates issued under subsection
 
-(2) of this section, if required by ORS 315.058. [Formerly 657A.706; 2015 c.701 §23; 2017 c.186 §2; 2019 c.483 §21; 2023 c.554 §39] Note: See note under 329A.700. 329A.709 [Formerly 657A.709; repealed by 2017 c.186 §4] 
+(2) of this section, if required by ORS 315.058. [Formerly 657A.706; 2015 c.701 §23; 2017 c.186 §2; 2019 c.483 §21; 2023 c.554 §39] Note: See note under 329A.700. 
 
 ## Provenance & change history
 

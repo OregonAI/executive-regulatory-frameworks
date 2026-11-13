@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-52
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 1995
+enacted: 1977
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 52.130 — Appointment of persons to serve process or order. Chapter 52 (Civ
 
 ## Full text
 
-52.130 Appointment of persons to serve process or order. Whenever it appears to the justice that any process or order authorized to be issued or made will not be served for want of an officer, the justice may appoint any other person authorized by ORS 52.120, to serve it. Such an appointment may be made by an indorsement on the process or order, in substantially the following form and signed by the justice with the name of the office of the justice: ______________________________________________________________________________ I hereby appoint A B to serve the within process or order. ______________________________________________________________________________ [Amended by 1977 c.877 §12; 1979 c.284 §85; 1995 c.79 §13] 52.140 [Amended by 1953 c.479 §4; 1977 c.877 §13; repealed by 1979 c.284 §199] 52.150 [Repealed by 1979 c.284 §199] 52.160 [Repealed by 1979 c.284 §199] 
+52.130 Appointment of persons to serve process or order. Whenever it appears to the justice that any process or order authorized to be issued or made will not be served for want of an officer, the justice may appoint any other person authorized by ORS 52.120, to serve it. Such an appointment may be made by an indorsement on the process or order, in substantially the following form and signed by the justice with the name of the office of the justice: ______________________________________________________________________________ I hereby appoint A B to serve the within process or order. ______________________________________________________________________________ [Amended by 1977 c.877 §12; 1979 c.284 §85; 1995 c.79 §13] 
 
 ## Provenance & change history
 

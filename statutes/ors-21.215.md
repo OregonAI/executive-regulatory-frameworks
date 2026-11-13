@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-21
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 2019
+enacted: 2009
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 21.215 — Fees for settlement conferences. Chapter 21 (State Court Fees), 2
 
 (1) of this section, if the parties request a settlement conference before a judge, or a settlement conference before a judge is required by law or by the court, each party participating in the conference shall pay a $223 fee to the court for each day or partial day during which the conference is conducted.
 
-(4) The fees required by this section shall be collected in advance, and are due and payable on the first day of the settlement conference. [2009 c.659 §32; 2011 c.595 §§83,83a; 2017 c.663 §15; 2019 c.605 §15] 21.220 [Amended by 1963 c.519 §10; repealed by 1965 c.619 §39] (Trial Fees) 
+(4) The fees required by this section shall be collected in advance, and are due and payable on the first day of the settlement conference. [2009 c.659 §32; 2011 c.595 §§83,83a; 2017 c.663 §15; 2019 c.605 §15] 
 
 ## Provenance & change history
 

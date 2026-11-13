@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2014
-enacted: 1975
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 87.623 — Notices recorded in lien docket. Chapter 87 (Statutory Liens), 20
 
 ## Full text
 
-87.623 Notices recorded in lien docket. The recording officer of the county shall record the notices filed under ORS 87.613 in the lien docket maintained under ORS 87.575. [1983 c.821 §6; 2014 c.45 §10] 87.625 [Repealed by 1975 c.648 §72] 
+87.623 Notices recorded in lien docket. The recording officer of the county shall record the notices filed under ORS 87.613 in the lien docket maintained under ORS 87.575. [1983 c.821 §6; 2014 c.45 §10] 
 
 ## Provenance & change history
 

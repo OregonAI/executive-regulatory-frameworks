@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-86
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 2017
+enacted: 2017
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 86.764 — Notice of sale for certain persons. Chapter 86 (Mortgages; Trust 
 
 (1) of this section is effective when the notice is mailed. (4)(a) The disability, insanity or death of a person to whom the notice required under this section must be given does not delay or impair in any way the trustee’s right under a trust deed to foreclose under the deed. If the disability, insanity or death occurs before the notice of default is recorded, the notice required under this section must be given instead to the guardian, the conservator of the estate of the person or the administrator or personal representative of the person in the manner and by the time set forth in this section. (b) If the disability, insanity or death of a person to whom the notice required under this section must be given occurs on or after the notice of default is recorded, the trustee shall, if and when the trustee has knowledge of the disability, insanity or death, promptly give the guardian, the conservator of the estate or the administrator or personal representative the required notice by sending the notice by first class and certified mail with return receipt requested to all addresses on file with the trustee for the guardian, conservator or administrator or personal representative, including post office boxes. (c) If there is no administrator or personal representative of the estate of the person to whom the notice required under this section must be given, the notice may be given instead to the heirs at law or devisees of the deceased person in the manner and by the time set forth in this section.
 
-(5) If the owner of real property subject to foreclosure dies and the real property is also subject to a transfer on death deed, as provided by ORS 93.948 to 93.979, the notice required under this section must be given to the beneficiary designated under the transfer on death deed. [Formerly 86.740; 2017 c.251 §6] 86.765 [1959 c.625 §11; 1965 c.457 §8; renumbered 86.794 in 2013] 
+(5) If the owner of real property subject to foreclosure dies and the real property is also subject to a transfer on death deed, as provided by ORS 93.948 to 93.979, the notice required under this section must be given to the beneficiary designated under the transfer on death deed. [Formerly 86.740; 2017 c.251 §6] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
-enacted: 1969
+last_amended: 1975
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -62,7 +62,7 @@ ORS 87.306 — Foreclosure by sale without suit; notice of sale to secured parti
 
 (3) of this section, a sheriff shall have a notice of foreclosure sale printed once a week for two successive weeks in a daily or weekly newspaper, as defined in ORS 193.010, published in the county in which the sale is held or, if there is none, in a daily or weekly newspaper, as defined in ORS 193.010, generally circulated in the county in which the sale is held. The notice of foreclosure must contain a particular description of the chattel to be sold, the name of the owner or reputed owner of the chattel, the amount due on the lien, the time and place of the sale and the name of the person foreclosing the lien. After that advertisement but not sooner than the 30th day after the sheriff received a certified copy of the court’s order and the certified copy of the notice of claim of lien under subsection
 
-(1) of this section, the sheriff shall sell the chattel, or such part thereof as may be necessary, at public auction to the highest bidder for cash. The sheriff shall deliver the chattel to the highest bidder and shall give the highest bidder a bill of sale containing an acknowledgment of payment for the chattel. [1975 c.648 §33] 87.310 [Amended by 1969 c.330 §5; repealed by 1975 c.648 §72] 
+(1) of this section, the sheriff shall sell the chattel, or such part thereof as may be necessary, at public auction to the highest bidder for cash. The sheriff shall deliver the chattel to the highest bidder and shall give the highest bidder a bill of sale containing an acknowledgment of payment for the chattel. [1975 c.648 §33] 
 
 ## Provenance & change history
 

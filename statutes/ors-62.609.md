@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-62
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1957
+last_amended: 1999
+enacted: 1999
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 62.609 — Action on plan of conversion. Chapter 62 (Cooperatives), 2025 Edi
 
 (1) A plan of conversion shall be approved by the business entity as follows: (a) In the case of a cooperative, in the manner provided in ORS 62.619 (1)(a) for mergers; and (b) In the case of a business entity other than a cooperative, as provided by the statutes governing that business entity.
 
-(2) After a conversion is approved, and at any time before articles of conversion are filed, the planned conversion may be abandoned, subject to any contractual rights: (a) By a cooperative, without further action by the members or shareholders, in accordance with the procedure set forth in the plan of conversion or, if none is set forth, in the manner determined by the board of directors. (b) By another business entity that planned to convert to a cooperative, in accordance with the procedure set forth in the plan of conversion or, if none is set forth, in the manner permitted by the statutes governing that business entity. [1999 c.362 §21] 62.610 [1957 c.716 §43; 1963 c.156 §3; 1995 c.195 §39; repealed by 1999 c.362 §67] 
+(2) After a conversion is approved, and at any time before articles of conversion are filed, the planned conversion may be abandoned, subject to any contractual rights: (a) By a cooperative, without further action by the members or shareholders, in accordance with the procedure set forth in the plan of conversion or, if none is set forth, in the manner determined by the board of directors. (b) By another business entity that planned to convert to a cooperative, in accordance with the procedure set forth in the plan of conversion or, if none is set forth, in the manner permitted by the statutes governing that business entity. [1999 c.362 §21] 
 
 ## Provenance & change history
 

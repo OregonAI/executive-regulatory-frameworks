@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-60
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1993
-enacted: 1953
+last_amended: 1987
+enacted: 1987
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 60.167 — Restriction on transfer of shares and other securities. Chapter 6
 
 (4) A restriction on the transfer or registration of transfer of shares may: (a) Obligate the shareholder first to offer the corporation or other persons, separately, consecutively or simultaneously an opportunity to acquire the restricted shares; (b) Obligate the corporation or other persons, separately, consecutively or simultaneously to acquire the restricted shares; (c) Require the corporation, the holders of any class of its shares or another person to approve the transfer of the restricted shares if the requirement is not manifestly unreasonable; or (d) Prohibit the transfer of the restricted shares to designated persons or classes of persons, if the prohibition is not manifestly unreasonable.
 
-(5) For purposes of this section, “shares” includes a security convertible into or carrying a right to subscribe for or acquire shares. [1987 c.52 §44] 60.170 [Repealed by 1953 c.549 §138] 
+(5) For purposes of this section, “shares” includes a security convertible into or carrying a right to subscribe for or acquire shares. [1987 c.52 §44] 
 
 ## Provenance & change history
 

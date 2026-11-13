@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2009
-enacted: 1955
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -79,7 +79,7 @@ ORS 87.093 — Information Notice to Owner; rules; contents; when notice must be
 
 (2) of this section, the board may suspend the license of the original contractor for any period of time that the board considers appropriate or impose a civil penalty of not more than $5,000 upon the original contractor as provided in ORS 701.992.
 
-(8) As used in this section: (a) “Residential construction or improvement” means the original construction of residential property and the repair, replacement, remodeling, alteration or improvement of residential property. (b) “Residential construction or improvement contract” means a written agreement between an original contractor and an owner for the performance of a residential construction or improvement and all labor, services and materials furnished and performed under the agreement. (c) “Residential property” includes, but is not limited to, a residential dwelling and the driveways, swimming pools, terraces, patios, fences, porches, garages, basements, other structures and land that are adjacent or appurtenant to a residential dwelling. [1981 c.757 §9; 1983 c.757 §3; 1985 c.596 §3; 1987 c.662 §18; 1991 c.67 §14; 1995 c.771 §7; 1999 c.402 §1; 2007 c.648 §16; 2007 c.793 §3; 2009 c.408 §1] 87.095 [Repealed by 1975 c.648 §72] 87.100 [Amended by 1973 c.54 §1; repealed by 1975 c.648 §72] 87.105 [Repealed by 1975 c.648 §72] 87.110 [Repealed by 1975 c.648 §72] 87.115 [Repealed by 1975 c.648 §72] 87.120 [Repealed by 1975 c.648 §72] 87.122 [1955 c.438 §§1,2; repealed by 1975 c.648 §72] 87.125 [Amended by 1967 c.327 §1; 1973 c.307 §1; repealed by 1975 c.648 §72] 87.130 [Amended by 1961 c.519 §1; repealed by 1975 c.648 §72] 87.135 [Repealed by 1975 c.648 §72] 87.140 [Repealed by 1975 c.648 §72]
+(8) As used in this section: (a) “Residential construction or improvement” means the original construction of residential property and the repair, replacement, remodeling, alteration or improvement of residential property. (b) “Residential construction or improvement contract” means a written agreement between an original contractor and an owner for the performance of a residential construction or improvement and all labor, services and materials furnished and performed under the agreement. (c) “Residential property” includes, but is not limited to, a residential dwelling and the driveways, swimming pools, terraces, patios, fences, porches, garages, basements, other structures and land that are adjacent or appurtenant to a residential dwelling. [1981 c.757 §9; 1983 c.757 §3; 1985 c.596 §3; 1987 c.662 §18; 1991 c.67 §14; 1995 c.771 §7; 1999 c.402 §1; 2007 c.648 §16; 2007 c.793 §3; 2009 c.408 §1] 
 
 ## Provenance & change history
 

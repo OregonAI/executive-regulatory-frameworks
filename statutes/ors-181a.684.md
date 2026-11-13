@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2021
-enacted: 2011
+enacted: 2020
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 181A.684 — Database of discipline and suspensions and revocations of certi
 
 (2) of this section within 10 days after receiving notice of the discipline under ORS 181A.686.
 
-(4) The department shall submit an annual report to an appropriate committee of the Legislative Assembly summarizing and analyzing the data in the database. [2020 s.s.1 c.7 §3; 2021 c.634 §3] 181A.685 [2011 c.644 §2; 2021 c.408 §1; renumbered 181A.942 in 2021] 
+(4) The department shall submit an annual report to an appropriate committee of the Legislative Assembly summarizing and analyzing the data in the database. [2020 s.s.1 c.7 §3; 2021 c.634 §3] 
 
 ## Provenance & change history
 

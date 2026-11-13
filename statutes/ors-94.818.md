@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 1993
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 94.818 — Recording of timeshare instrument; payments required. Chapter 94 
 
 (2) If the developer is not the fee owner of the property, the fee owner and the vendor under any contract of sale and the lessor under any lease shall also execute the timeshare instrument for the purpose of consenting to the property being submitted to the provisions of ORS 94.803 and 94.807 to 94.945.
 
-(3) No timeshare instrument shall be recorded unless all taxes, penalties, special assessments, fees and charges that would be required to be paid for subdivisions or partitions under ORS 92.095 have been paid in the same manner as provided in ORS 92.095. [1983 c.530 §7; 1993 c.19 §2] 94.820 [Repealed by 1971 c.478 §1] 
+(3) No timeshare instrument shall be recorded unless all taxes, penalties, special assessments, fees and charges that would be required to be paid for subdivisions or partitions under ORS 92.095 have been paid in the same manner as provided in ORS 92.095. [1983 c.530 §7; 1993 c.19 §2] 
 
 ## Provenance & change history
 

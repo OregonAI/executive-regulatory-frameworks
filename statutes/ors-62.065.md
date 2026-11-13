@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1995
-enacted: 1957
+enacted: 1987
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 62.065 — Certificate of existence. Chapter 62 (Cooperatives), 2025 Edition
 
 (3) A person may apply to the Secretary of State to issue a certificate covering any fact of record.
 
-(4) Subject to any qualification stated in the certificate, a certificate of existence or authorization issued by the Secretary of State may be relied upon as conclusive evidence that the domestic or foreign cooperative is in existence or is authorized to transact business in the state. [1987 c.94 §77; 1995 c.195 §37] 62.110 [Repealed by 1957 c.716 §76]
+(4) Subject to any qualification stated in the certificate, a certificate of existence or authorization issued by the Secretary of State may be relied upon as conclusive evidence that the domestic or foreign cooperative is in existence or is authorized to transact business in the state. [1987 c.94 §77; 1995 c.195 §37] 
 
 ## Provenance & change history
 

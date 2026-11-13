@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2022
-enacted: 1997
+enacted: 2009
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 285A.160 — Report. Chapter 285A (Chapter 285A), 2025 Edition.
 
 (1) The status of any broadband strategies developed by the Oregon Broadband Office and any updates to those strategies in the 12 months immediately preceding the date of the report.
 
-(2) A list of every grant and loan provided through the office and the status of each project associated with a grant or loan provided through the office. [2009 c.782 §4; 2015 c.807 §35; 2017 c.124 §1; 2019 c.648 §5; 2020 s.s.1 c.17 §8; 2022 c.60 §2a] Note: See first note under 285A.154. 285A.162 [1997 c.495 §6; 2001 c.582 §4; renumbered 284.615 in 2007] 285A.165 [1997 c.495 §7; 2001 c.582 §5; renumbered 284.618 in 2007] (Oregon Broadband Office) 
+(2) A list of every grant and loan provided through the office and the status of each project associated with a grant or loan provided through the office. [2009 c.782 §4; 2015 c.807 §35; 2017 c.124 §1; 2019 c.648 §5; 2020 s.s.1 c.17 §8; 2022 c.60 §2a] Note: See first note under 285A.154. 
 
 ## Provenance & change history
 

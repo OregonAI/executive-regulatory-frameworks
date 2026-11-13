@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-60
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2007
-enacted: 1953
+last_amended: 1993
+enacted: 1987
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 60.117 — Resignation of registered agent. Chapter 60 (Private Corporations
 
 (1) of this section shall be addressed to the corporation at the corporation’s mailing address or the corporation’s principal office as shown by the records of the office of the Secretary of State.
 
-(3) The agency appointment is terminated and the registered office discontinued, if so provided, on the 31st day after the date on which the statement was filed by the Secretary of State, unless the corporation shall sooner appoint a successor registered agent as provided in ORS 60.114, thereby terminating the capacity of such agent. [1987 c.52 §31; 1993 c.190 §1] 60.120 [Repealed by 1953 c.549 §138] 
+(3) The agency appointment is terminated and the registered office discontinued, if so provided, on the 31st day after the date on which the statement was filed by the Secretary of State, unless the corporation shall sooner appoint a successor registered agent as provided in ORS 60.114, thereby terminating the capacity of such agent. [1987 c.52 §31; 1993 c.190 §1] 
 
 ## Provenance & change history
 

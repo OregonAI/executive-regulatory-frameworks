@@ -48,7 +48,7 @@ ORS 35.625 — Procedure to ascertain compensation and damages. Chapter 35 (Emin
 
 ## Full text
 
-35.625 Procedure to ascertain compensation and damages. If private property is appropriated for the public use as authorized by ORS 35.605, and the compensation and damages arising from the appropriation cannot be agreed upon, the appropriation shall be made and the compensation and damages shall be considered, ascertained, determined, awarded and paid in the manner provided by this chapter. [Formerly 281.550] _______________
+35.625 Procedure to ascertain compensation and damages. If private property is appropriated for the public use as authorized by ORS 35.605, and the compensation and damages arising from the appropriation cannot be agreed upon, the appropriation shall be made and the compensation and damages shall be considered, ascertained, determined, awarded and paid in the manner provided by this chapter. [Formerly 281.550] 
 
 ## Provenance & change history
 

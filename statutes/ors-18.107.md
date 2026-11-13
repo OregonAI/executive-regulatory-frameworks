@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-18
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2005
-enacted: 1957
+last_amended: 2003
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 18.107 — Corrections to civil judgments. Chapter 18 (Judgments), 2025 Edit
 
 (4) This section does not apply to justice courts, municipal courts or county courts performing judicial functions.
 
-(5) This section does not apply to juvenile proceedings under ORS chapter 419B. [2003 c.576 §12] 18.110 [Repealed by 1981 c.898 §53] 
+(5) This section does not apply to juvenile proceedings under ORS chapter 419B. [2003 c.576 §12] 
 
 ## Provenance & change history
 

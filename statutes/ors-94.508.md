@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2007
-enacted: 1971
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 94.508 — Approval by governing body; findings; adoption. Chapter 94 (Real 
 
 (1) A development agreement shall not be approved by the governing body of a city or county unless the governing body finds that the agreement is consistent with local regulations then in place for the city or county.
 
-(2) The governing body of a city or county shall approve a development agreement or amend a development agreement by adoption of an ordinance declaring approval or setting forth the amendments to the agreement. Notwithstanding ORS 197.015 (10)(b), the approval or amendment of a development agreement is a land use decision under ORS chapters 197 and 197A. [1993 c.780 §2; 2005 c.22 §74; 2007 c.354 §27] Note: See note under 94.504. 94.510 [Repealed by 1971 c.478 §1] 
+(2) The governing body of a city or county shall approve a development agreement or amend a development agreement by adoption of an ordinance declaring approval or setting forth the amendments to the agreement. Notwithstanding ORS 197.015 (10)(b), the approval or amendment of a development agreement is a land use decision under ORS chapters 197 and 197A. [1993 c.780 §2; 2005 c.22 §74; 2007 c.354 §27] Note: See note under 94.504. 
 
 ## Provenance & change history
 

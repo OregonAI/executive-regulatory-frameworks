@@ -64,7 +64,7 @@ ORS 285A.340 — Legislative findings; declaration of policy. Chapter 285A (Chap
 
 (4) To encourage and support private sector organizations, to serve the needs of the small businesses in this state and, to the maximum extent feasible, to coordinate the small business programs of this state; and
 
-(5) To provide support for organizations that encourage and assist the development and expansion of small businesses in Oregon. [Formerly 285.121; 1999 c.509 §16; 2003 c.773 §5; 2007 c.804 §13] Note: 285A.340 to 285A.349 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 285A by legislative action. See Preface to Oregon Revised Statutes for further explanation. 285A.343 [Formerly 285.123; repealed by 2003 c.773 §56] 
+(5) To provide support for organizations that encourage and assist the development and expansion of small businesses in Oregon. [Formerly 285.121; 1999 c.509 §16; 2003 c.773 §5; 2007 c.804 §13] Note: 285A.340 to 285A.349 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 285A by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

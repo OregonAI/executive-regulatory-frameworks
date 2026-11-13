@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 1983
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 94.848 — How managing entity of developer terminated. Chapter 94 (Real Pro
 
 (3) A regular accounting at least annually by the developer to the association, trust or owners as to all matters affecting the timeshare property; and
 
-(4) Immediate termination of the developer as managing entity by the association, trust or owners and assumption of management functions by an association or trust in the case of abandonment or substantial breakdown of management services for the timeshare plan. [1983 c.530 §10] 94.850 [Repealed by 1971 c.478 §1] 
+(4) Immediate termination of the developer as managing entity by the association, trust or owners and assumption of management functions by an association or trust in the case of abandonment or substantial breakdown of management services for the timeshare plan. [1983 c.530 §10] 
 
 ## Provenance & change history
 

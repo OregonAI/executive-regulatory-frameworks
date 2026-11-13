@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-99
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 99.060 — Effect of failure to remove logs from another’s land. Chapter 9
 
 ## Full text
 
-99.060 Effect of failure to remove logs from another’s land. If any person fails to remove and reclaim logs, timber or any part of a fallen tree within one year after it is cast upon private property as provided in ORS 99.050, it is deemed abandoned and the title thereto vests in the person entitled to the possession of the land upon which the same is found. 99.070 [Repealed by 1995 c.733 §74] _______________
+99.060 Effect of failure to remove logs from another’s land. If any person fails to remove and reclaim logs, timber or any part of a fallen tree within one year after it is cast upon private property as provided in ORS 99.050, it is deemed abandoned and the title thereto vests in the person entitled to the possession of the land upon which the same is found. 
 
 ## Provenance & change history
 

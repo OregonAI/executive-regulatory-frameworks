@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2017
-enacted: 1979
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 33.125 — Appeal. Chapter 33 (Special Proceedings and Procedures), 2025 Edi
 
 (3) and the court determines, before entry of judgment in the related proceeding, that the defendant is in contempt, the court may suspend impositions of sanctions and entry of judgment on the contempt until entry of judgment in the related proceeding.
 
-(4) An appeal from a contempt judgment shall not stay any action or proceeding to which the contempt is related. [1991 c.724 §11; 2003 c.576 §233; 2005 c.568 §28; 2017 c.252 §2] 33.130 [Repealed by 1991 c.724 §32] 
+(4) An appeal from a contempt judgment shall not stay any action or proceeding to which the contempt is related. [1991 c.724 §11; 2003 c.576 §233; 2005 c.568 §28; 2017 c.252 §2] 
 
 ## Provenance & change history
 

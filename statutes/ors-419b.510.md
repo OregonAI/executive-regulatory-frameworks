@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1993
+enacted: 2011
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 419B.510 — Termination upon finding child conceived as result of rape. Cha
 
 (3) Termination of parental rights under subsection
 
-(1) of this section is an independent basis for termination of parental rights and the court need not make any of the considerations or findings described in ORS 419B.502, 419B.504, 419B.506 or 419B.508. [2011 c.438 §2; 2025 c.592 §143] 419B.515 [1993 c.33 §143; 1993 c.546 §57; repealed by 2001 c.622 §57] 
+(1) of this section is an independent basis for termination of parental rights and the court need not make any of the considerations or findings described in ORS 419B.502, 419B.504, 419B.506 or 419B.508. [2011 c.438 §2; 2025 c.592 §143] 
 
 ## Provenance & change history
 

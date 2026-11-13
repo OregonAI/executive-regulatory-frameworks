@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-98
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1957
+last_amended: 2019
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 98.329 — Delivery of property before presumed abandoned; rules. Chapter 98
 
 ## Full text
 
-98.329 Delivery of property before presumed abandoned; rules. A holder, with the written consent of the State Treasurer, and in compliance with rules prescribed by the State Treasurer, may report and deliver property before the property is presumed abandoned. [1993 c.694 §46; 2001 c.302 §3; 2019 c.678 §8] Note: 98.329 was added to and made a part of 98.302 to 98.436 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 98.330 [Repealed by 1957 c.670 §37] 
+98.329 Delivery of property before presumed abandoned; rules. A holder, with the written consent of the State Treasurer, and in compliance with rules prescribed by the State Treasurer, may report and deliver property before the property is presumed abandoned. [1993 c.694 §46; 2001 c.302 §3; 2019 c.678 §8] Note: 98.329 was added to and made a part of 98.302 to 98.436 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

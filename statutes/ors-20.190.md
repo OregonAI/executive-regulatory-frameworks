@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2019
-enacted: 1959
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -72,7 +72,7 @@ ORS 20.190 — Prevailing party fees. Chapter 20 (Attorney Fees; Costs and Disbu
 
 (6) The prevailing party fees provided for in this section may not be awarded: (a) In the following proceedings: (A) A class action proceeding under ORCP 32. (B) A condemnation proceeding. (C) Proceedings under the provisions of ORS chapters 25, 107, 108, 109 and 110. (b) To a respondent in proceedings under ORS 30.866 or 163.730 to 163.750 unless the court finds that the petitioner initiated the proceedings with malicious intent.
 
-(7) Mandatory arbitration under ORS 36.400 to 36.425 does not constitute a trial of an issue of law or fact for the purposes of this section. [1981 c.898 §18a; 1987 c.725 §6; 1989 c.1007 §1; 1995 c.618 §7; 1997 c.249 §13; 1997 c.801 §§56,56a; 2005 c.702 §93; 2007 c.860 §16; 2011 c.595 §170a; 2013 c.685 §44; 2017 c.663 §25; 2019 c.342 §1; 2019 c.605 §27] 20.210 [Amended by 1959 c.638 §7; 1979 c.284 §60; repealed by 1981 c.898 §53]
+(7) Mandatory arbitration under ORS 36.400 to 36.425 does not constitute a trial of an issue of law or fact for the purposes of this section. [1981 c.898 §18a; 1987 c.725 §6; 1989 c.1007 §1; 1995 c.618 §7; 1997 c.249 §13; 1997 c.801 §§56,56a; 2005 c.702 §93; 2007 c.860 §16; 2011 c.595 §170a; 2013 c.685 §44; 2017 c.663 §25; 2019 c.342 §1; 2019 c.605 §27] 
 
 ## Provenance & change history
 

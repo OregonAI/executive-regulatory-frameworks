@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1969
+last_amended: 2011
+enacted: 2011
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 30.809 — Liability of fraternal organization that provides used eyeglasses
 
 (2) The immunity provided by subsection
 
-(1) of this section applies to eyeglasses only if the eyeglasses are provided by a licensed optometrist or ophthalmologist who has: (a) Personally examined the person who will receive the eyeglasses and issued a prescription for the eyeglasses; or (b) Personally consulted with the licensed optometrist or ophthalmologist who issued the prescription for the eyeglasses. [2011 c.59 §1] 30.810 [1969 c.387 §1; 1973 c.823 §89; renumbered 31.700 in 2003] 
+(1) of this section applies to eyeglasses only if the eyeglasses are provided by a licensed optometrist or ophthalmologist who has: (a) Personally examined the person who will receive the eyeglasses and issued a prescription for the eyeglasses; or (b) Personally consulted with the licensed optometrist or ophthalmologist who issued the prescription for the eyeglasses. [2011 c.59 §1] 
 
 ## Provenance & change history
 

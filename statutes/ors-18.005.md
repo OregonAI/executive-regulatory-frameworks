@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1977
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -135,7 +135,7 @@ ORS 18.005 — Definitions. Chapter 18 (Judgments), 2025 Edition.
 
 (1) Except as specifically provided by this 2003 Act, the deletions of statutory references to decrees and the substitutions of references to judgments that are made by the provisions of this 2003 Act do not affect the determination as to whether a person has a right to a jury trial, the scope of review of the court’s decision under ORS 19.250, or any other procedural or substantive aspect of the proceedings giving rise to the court’s decision in an action.
 
-(2) Except as specifically provided by this 2003 Act, the elimination of statutory references to dockets by this 2003 Act does not affect the validity, lien effect or enforceability of any judgment docketed before the effective date of this 2003 Act [January 1, 2004]. [2003 c.576 §569(1),(2)] 18.010 [Amended by 1977 c.208 §1; 1979 c.284 §50; repealed by 1981 c.898 §53] 
+(2) Except as specifically provided by this 2003 Act, the elimination of statutory references to dockets by this 2003 Act does not affect the validity, lien effect or enforceability of any judgment docketed before the effective date of this 2003 Act [January 1, 2004]. [2003 c.576 §569(1),(2)] 
 
 ## Provenance & change history
 

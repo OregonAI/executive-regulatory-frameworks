@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 2017
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -66,7 +66,7 @@ ORS 94.709 — Liens against lots; priority; duration; record notice of claim of
 
 (1) of this section creates a lien or from taking a deed in lieu of foreclosure in satisfaction of the lien.
 
-(7) An action to recover a money judgment for unpaid assessments may be maintained without foreclosing or waiving the lien for unpaid assessments. A judgment entered on the action does not extinguish the lien. Payment of the judgment operates to satisfy the lien, or a portion of the lien, to the extent of the payment received. [1981 c.782 §44; 1999 c.677 §26; 2003 c.569 §17; 2017 c.110 §1] 94.710 [Repealed by 1971 c.478 §1] 
+(7) An action to recover a money judgment for unpaid assessments may be maintained without foreclosing or waiving the lien for unpaid assessments. A judgment entered on the action does not extinguish the lien. Payment of the judgment operates to satisfy the lien, or a portion of the lien, to the extent of the payment received. [1981 c.782 §44; 1999 c.677 §26; 2003 c.569 §17; 2017 c.110 §1] 
 
 ## Provenance & change history
 

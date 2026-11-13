@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1993
-enacted: 1971
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 94.528 — Recording. Chapter 94 (Real Property Development), 2025 Edition.
 
 ## Full text
 
-94.528 Recording. Not later than 10 days after the execution of a development agreement under ORS 94.504 to 94.528, the governing body of the city or county shall cause the development agreement to be presented for recording in the office of the county clerk of the county in which the property subject to the agreement is situated. In addition to other provisions required by ORS 94.504 to 94.528, the development agreement shall contain a legal description of the property subject to the agreement. [1993 c.780 §6] Note: See note under 94.504. 94.530 [Repealed by 1971 c.478 §1]
+94.528 Recording. Not later than 10 days after the execution of a development agreement under ORS 94.504 to 94.528, the governing body of the city or county shall cause the development agreement to be presented for recording in the office of the county clerk of the county in which the property subject to the agreement is situated. In addition to other provisions required by ORS 94.504 to 94.528, the development agreement shall contain a legal description of the property subject to the agreement. [1993 c.780 §6] Note: See note under 94.504. 
 
 ## Provenance & change history
 

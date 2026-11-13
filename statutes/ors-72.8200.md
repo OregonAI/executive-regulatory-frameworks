@@ -48,7 +48,7 @@ ORS 72.8200 — Operative dates. Chapter 72 (Sales), 2025 Edition.
 
 ## Full text
 
-72.8200 Operative dates. ORS 72.8010 to 72.8200 apply to a consumer good sold on or after January 1, 1974. However, ORS 72.8020, 72.8030, 72.8040 and 72.8090 only apply to a consumer good manufactured on or after January 1, 1974. [1973 c.413 §18] Note: See note under 72.8010. _______________
+72.8200 Operative dates. ORS 72.8010 to 72.8200 apply to a consumer good sold on or after January 1, 1974. However, ORS 72.8020, 72.8030, 72.8040 and 72.8090 only apply to a consumer good manufactured on or after January 1, 1974. [1973 c.413 §18] Note: See note under 72.8010. 
 
 ## Provenance & change history
 

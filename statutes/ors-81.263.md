@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-81
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 81.263 — Place to register as buyer of farm product, commission merchant o
 
 ## Full text
 
-81.263 Place to register as buyer of farm product, commission merchant or selling agent; duration of registration; fee; rules. The proper place to register under ORS 81.251 as a buyer of farm products or a commission merchant or selling agent of farm products as defined in ORS 81.230 is in the office of the Secretary of State. The registration is effective for one year following the date of registration. Registration may be amended by filing a new registration. The Secretary of State shall, by rule, prescribe the registration fee. [Formerly 80.130] _______________
+81.263 Place to register as buyer of farm product, commission merchant or selling agent; duration of registration; fee; rules. The proper place to register under ORS 81.251 as a buyer of farm products or a commission merchant or selling agent of farm products as defined in ORS 81.230 is in the office of the Secretary of State. The registration is effective for one year following the date of registration. Registration may be amended by filing a new registration. The Secretary of State shall, by rule, prescribe the registration fee. [Formerly 80.130] 
 
 ## Provenance & change history
 

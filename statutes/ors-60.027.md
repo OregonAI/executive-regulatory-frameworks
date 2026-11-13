@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-60
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 1953
+last_amended: 1987
+enacted: 1987
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 60.027 — Certificate of existence or authorization. Chapter 60 (Private Co
 
 (3) A person may apply to the Secretary of State to issue a certificate covering any fact of record.
 
-(4) Subject to any qualification stated in the certificate, a certificate of existence or authorization issued by the Secretary of State may be relied upon as conclusive evidence that the domestic or foreign corporation is in existence or is authorized to transact business in this state. [1987 c.52 §12] 60.030 [Repealed by 1953 c.549 §138] (Secretary of State) 
+(4) Subject to any qualification stated in the certificate, a certificate of existence or authorization issued by the Secretary of State may be relied upon as conclusive evidence that the domestic or foreign corporation is in existence or is authorized to transact business in this state. [1987 c.52 §12] 
 
 ## Provenance & change history
 

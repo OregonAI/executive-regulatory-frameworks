@@ -48,7 +48,7 @@ ORS 12.480 — Short title. Chapter 12 (Limitations of Actions and Suits), 2025 
 
 ## Full text
 
-12.480 Short title. ORS 12.410 to 12.480 may be cited as the Uniform Conflict of Laws-Limitations Act. [1987 c.536 §7] Note: See note under 12.410. _______________
+12.480 Short title. ORS 12.410 to 12.480 may be cited as the Uniform Conflict of Laws-Limitations Act. [1987 c.536 §7] Note: See note under 12.410. 
 
 ## Provenance & change history
 

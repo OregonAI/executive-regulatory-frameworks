@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2009
-enacted: 1993
+enacted: 2009
 status: current
 supersedes: null
 content_mode: verbatim
@@ -70,7 +70,7 @@ ORS 468A.467 — Prohibition on burning certain materials in solid fuel burning 
 
 (10) Paper or paper products, except for paper used to kindle a fire; or
 
-(11) Any other materials described in rules adopted by the commission. [2009 c.387 §6] 468A.470 [Formerly 468.640; repealed by 2009 c.387 §20] 468A.475 [Formerly 468.650; repealed by 2009 c.387 §20] 468A.480 [Formerly 468.655; 1993 c.742 §75; repealed by 2009 c.387 §20] 
+(11) Any other materials described in rules adopted by the commission. [2009 c.387 §6] 
 
 ## Provenance & change history
 

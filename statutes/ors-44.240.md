@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-44
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1997
+last_amended: 1989
 enacted: 1955
 status: current
 supersedes: null
@@ -64,7 +64,7 @@ ORS 44.240 — Production of witness confined in Department of Corrections insti
 
 (4) The sheriff and neither the institution nor the Department of Corrections shall be liable for any expense incurred in connection with the witness while the witness is in the custody of the sheriff as provided in subsection
 
-(2) of this section. If the witness is a party plaintiff, the sheriff shall recover costs of the care of the witness from the plaintiff, and shall have a lien upon any judgment for the plaintiff. In all other cases, the sheriff and not the witness shall be entitled to the witness fees and mileage to which the witness would otherwise be entitled under ORS 44.415 (2), or other applicable law. [1955 c.523 §1; 1969 c.502 §2; 1973 c.836 §327; 1987 c.320 §13; 1987 c.606 §6; 1989 c.980 §3a] 44.310 [Repealed by 1981 c.892 §98] 
+(2) of this section. If the witness is a party plaintiff, the sheriff shall recover costs of the care of the witness from the plaintiff, and shall have a lien upon any judgment for the plaintiff. In all other cases, the sheriff and not the witness shall be entitled to the witness fees and mileage to which the witness would otherwise be entitled under ORS 44.415 (2), or other applicable law. [1955 c.523 §1; 1969 c.502 §2; 1973 c.836 §327; 1987 c.320 §13; 1987 c.606 §6; 1989 c.980 §3a] 
 
 ## Provenance & change history
 

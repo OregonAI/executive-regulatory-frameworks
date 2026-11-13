@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1979
+enacted: 2013
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 30.949 — Action for hindering, impairment or obstruction of forest practic
 
 (3) If the contract between the private entity and the department provides for the private entity to perform forest practices in a defined area of state forestland that lies in more than one county, venue for a cause of action under this section is proper in any county containing part of the area of state forestland defined by the contract terms in effect on the date the cause of action arose.
 
-(4) An action under this section must be commenced within two years after the date of the act giving rise to the cause of action. [2013 c.461 §1; 2025 c.325 §11] 30.950 [1979 c.801 §1; 1987 c.774 §13; 1997 c.249 §19; 1997 c.841 §1; 2001 c.534 §1; renumbered 471.565 in 2001] 30.955 [1979 c.801 §2; repealed by 1987 c.774 §14] 30.960 [1979 c.801 §3; 1991 c.860 §5; 1995 c.618 §31; 2001 c.791 §5; renumbered 471.567 in 2001]
+(4) An action under this section must be commenced within two years after the date of the act giving rise to the cause of action. [2013 c.461 §1; 2025 c.325 §11] 
 
 ## Provenance & change history
 

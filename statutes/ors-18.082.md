@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2005
-enacted: 1975
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -66,7 +66,7 @@ ORS 18.082 — Effect of entry of judgment. Chapter 18 (Judgments), 2025 Edition
 
 (3) of this section does not apply to a general judgment of dismissal. Except as otherwise provided by law, by the Oregon Rules of Civil Procedure or by the terms of the judgment, a general judgment of dismissal is without prejudice as to any request for relief in the action.
 
-(6) If a document labeled as a decree is filed with the court administrator, or a judgment document is filed with the court administrator that does not indicate whether the judgment is a limited, general or supplemental judgment, and the court administrator fails to comply with ORS 18.058 and makes an entry in the register indicating that a judgment has been filed with court administrator, the document has the effect of a general judgment entered in circuit court. [2003 c.576 §11; 2005 c.568 §17] 18.090 [Amended by 1979 c.284 §52; repealed by 1981 c.898 §53] 18.100 [Repealed by 1981 c.898 §53] 18.105 [1975 c.106 §1; 1977 c.208 §2; repealed by 1979 c.284 §199]
+(6) If a document labeled as a decree is filed with the court administrator, or a judgment document is filed with the court administrator that does not indicate whether the judgment is a limited, general or supplemental judgment, and the court administrator fails to comply with ORS 18.058 and makes an entry in the register indicating that a judgment has been filed with court administrator, the document has the effect of a general judgment entered in circuit court. [2003 c.576 §11; 2005 c.568 §17] 
 
 ## Provenance & change history
 

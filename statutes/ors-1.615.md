@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-1
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1965
+last_amended: 1995
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 1.615 — Appointment pro tempore to tax court or circuit court; powers and 
 
 (2) It is the duty of a judge assigned under this section to comply with the assignment. A judge assigned under this section is not required to take, subscribe or file any additional oath of office.
 
-(3) Each judge assigned as provided in this section has all the judicial powers and duties, while serving under the assignment, of a regularly elected and qualified judge of the court to which the judge is assigned. The powers, jurisdiction and judicial authority of the judges in respect to any case or matter tried or heard by the judge while serving under the assignment shall continue beyond the expiration of the assignment so far as may be necessary to: (a) Decide and dispose of any case or matter on trial or held under advisement. (b) Hear and decide any motion for a new trial or for a judgment notwithstanding a verdict, or objections to any cost bill, that may be filed in the case. (c) Settle a transcript for appeal and grant extensions of time therefor. [1975 c.706 §3; 1979 c.56 §2; 1989 c.124 §1; 1995 c.781 §5b] 1.620 [1965 c.494 §8; repealed by 1971 c.311 §2] 
+(3) Each judge assigned as provided in this section has all the judicial powers and duties, while serving under the assignment, of a regularly elected and qualified judge of the court to which the judge is assigned. The powers, jurisdiction and judicial authority of the judges in respect to any case or matter tried or heard by the judge while serving under the assignment shall continue beyond the expiration of the assignment so far as may be necessary to: (a) Decide and dispose of any case or matter on trial or held under advisement. (b) Hear and decide any motion for a new trial or for a judgment notwithstanding a verdict, or objections to any cost bill, that may be filed in the case. (c) Settle a transcript for appeal and grant extensions of time therefor. [1975 c.706 §3; 1979 c.56 §2; 1989 c.124 §1; 1995 c.781 §5b] 
 
 ## Provenance & change history
 

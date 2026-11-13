@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2023
-enacted: 1993
+enacted: 2012
 status: current
 supersedes: null
 content_mode: verbatim
@@ -75,7 +75,7 @@ ORS 419B.112 — Court appointed special advocate; duties; immunity; access to i
 
 (1) to
 
-(3) of this section is deemed a guardian ad litem to represent the interests of the child or ward in proceedings before the court. [2012 c.97 §2; 2012 c.107 §105; 2017 c.630 §9; 2023 c.281 §62] Note: 419B.112 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 419B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 419B.115 [1993 c.546 §25; 1997 c.479 §2; 1997 c.873 §21; 1999 c.859 §7; 2001 c.214 §1; 2001 c.622 §§39,39a; 2001 c.962 §83; renumbered 419B.875 in 2001] 
+(3) of this section is deemed a guardian ad litem to represent the interests of the child or ward in proceedings before the court. [2012 c.97 §2; 2012 c.107 §105; 2017 c.630 §9; 2023 c.281 §62] Note: 419B.112 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 419B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

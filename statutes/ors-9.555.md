@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1963
+enacted: 1985
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 9.555 — Copy of complaint or notice to Attorney General when bar is plaint
 
 (1) and
 
-(2) of this section shall not apply to matters involving admission of any applicant to the bar, discipline or reinstatement of a licensee of the bar or claims made against a licensee of the bar for which the professional liability fund of the bar may be obligated to pay money damages under ORS 9.080 (2). [1985 c.446 §3; 2025 c.32 §37] 9.560 [Amended by 1963 c.106 §1; 1973 c.490 §4; 1975 c.641 §7; 1979 c.252 §24; repealed by 1983 c.618 §1] 
+(2) of this section shall not apply to matters involving admission of any applicant to the bar, discipline or reinstatement of a licensee of the bar or claims made against a licensee of the bar for which the professional liability fund of the bar may be obligated to pay money damages under ORS 9.080 (2). [1985 c.446 §3; 2025 c.32 §37] 
 
 ## Provenance & change history
 

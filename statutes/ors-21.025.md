@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2017
-enacted: 1967
+enacted: 2011
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 21.025 — Motion fees in appellate courts; exceptions. Chapter 21 (State Co
 
 (1) In any appeal or petition for review subject to a fee under ORS 21.010, a $53 fee must be paid by the party filing one of the following motions and by the party responding to the motion: (a) A motion to dismiss filed by a respondent. (b) A motion to determine jurisdiction. (c) A motion for continuance. (d) A motion for an extension of time for the filing of a brief or other document in the proceeding.
 
-(2) The fees provided for in this section may not be collected from the state, a county, a city or a school district. [2011 c.595 §76; 2013 c.685 §28a; 2017 c.663 §11] 21.030 [Repealed by 1967 c.398 §10] 21.040 [Amended by 1967 c.398 §5; 1997 c.801 §48; 2003 c.737 §§5,6; 2005 c.702 §§5,6,7; 2007 c.129 §11; repealed by 2011 c.595 §68] 21.050 [Amended by 1969 c.198 §52; 1971 c.193 §26; repealed by 1981 s.s. c.1 §25] 21.060 [1981 s.s. c.3 §81; 1983 c.308 §1; 1985 c.496 §16; 1995 c.658 §23; 1997 c.801 §§49,49a; 1997 c.872 §1; renumbered 21.325 in 1997] 21.070 [1981 s.s. c.3 §82; 1983 c.763 §40; renumbered 21.335 in 1997]
+(2) The fees provided for in this section may not be collected from the state, a county, a city or a school district. [2011 c.595 §76; 2013 c.685 §28a; 2017 c.663 §11] 
 
 ## Provenance & change history
 

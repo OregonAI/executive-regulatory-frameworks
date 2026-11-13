@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1987
-enacted: 1953
+enacted: 1987
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 60.057 — Organization of corporation. Chapter 60 (Private Corporations), 2
 
 (3) Action required or permitted by this chapter to be taken by incorporators at an organizational meeting may be taken without a meeting if the action taken is evidenced by one or more written consents describing the action taken and signed by each incorporator.
 
-(4) An organizational meeting may be held in or out of this state. [1987 c.52 §19] 60.060 [Repealed by 1953 c.549 §138] 
+(4) An organizational meeting may be held in or out of this state. [1987 c.52 §19] 
 
 ## Provenance & change history
 

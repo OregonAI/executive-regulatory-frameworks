@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 2003
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 94.853 — Payment of common expenses. Chapter 94 (Real Property Development
 
 (2) After the closing of the first timeshare sale, the managing entity shall charge an annual assessment for the payment of common expenses based on the projected annual budget. The assessment shall be against: (a) Each owner in the proportion specified in the timeshare instrument and the developer for the share allocated to all timeshare periods still owned by the developer at the time the assessment is made; (b) As provided in paragraph (a) of this subsection, except that the developer shall also pay that portion of the total assessment not paid by any owner, if the developer guarantees payment of all common expenses of the timeshare plan under the provisions of the timeshare instrument; or (c) The developer for the total assessment if the developer agrees to pay all common expenses of the timeshare plan under the provisions of the timeshare instrument.
 
-(3) Unless otherwise specified in the timeshare instrument, past due assessments shall bear interest at the legal rate. [1983 c.530 §11; 2003 c.14 §39] 94.855 [Repealed by 1971 c.478 §1] 
+(3) Unless otherwise specified in the timeshare instrument, past due assessments shall bear interest at the legal rate. [1983 c.530 §11; 2003 c.14 §39] 
 
 ## Provenance & change history
 

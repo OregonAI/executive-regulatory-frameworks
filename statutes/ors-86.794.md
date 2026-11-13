@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-86
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 1959
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 86.794 — Disposition of proceeds of sale. Chapter 86 (Mortgages; Trust Dee
 
 (3) To all persons having recorded liens subsequent to the interest of the trustee in the trust deed as their interests may appear in the order of their priority.
 
-(4) The surplus, if any, to the grantor of the trust deed or to the successor in interest of the grantor entitled to such surplus. [Formerly 86.765] 86.795 [1959 c.625 §19; 1961 c.616 §7; 1965 c.457 §10; renumbered 86.809 in 2013] 
+(4) The surplus, if any, to the grantor of the trust deed or to the successor in interest of the grantor entitled to such surplus. [Formerly 86.765] 
 
 ## Provenance & change history
 

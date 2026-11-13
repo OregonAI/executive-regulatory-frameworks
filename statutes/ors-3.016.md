@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-3
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1953
+last_amended: 2005
+enacted: 1995
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 3.016 — Special provisions for sixth judicial district (Morrow and Umatill
 
 ## Full text
 
-3.016 Special provisions for sixth judicial district (Morrow and Umatilla Counties). In the sixth judicial district, the judges of the district shall hold court in Pendleton, Hermiston, Milton-Freewater and Heppner as required by caseload. [1995 c.658 §6c; 2005 c.800 §2] 3.020 [Amended by 1955 c.677 §2; 1957 c.665 §2; 1957 c.713 §4; repealed by 1959 c.557 §1 (3.022 enacted in lieu of 3.020)] 3.021 [1953 c.52 §§1,2,3; repealed by 1955 c.677 §6] 3.022 [1959 c.557 §2 (enacted in lieu of 3.020); repealed by 1961 c.724 §34] 
+3.016 Special provisions for sixth judicial district (Morrow and Umatilla Counties). In the sixth judicial district, the judges of the district shall hold court in Pendleton, Hermiston, Milton-Freewater and Heppner as required by caseload. [1995 c.658 §6c; 2005 c.800 §2] 
 
 ## Provenance & change history
 

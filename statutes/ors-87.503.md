@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2013
-enacted: 1957
+last_amended: 1997
+enacted: 1995
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 87.503 — Lien for long term care; statement concerning lien to be given to
 
 (3) Notwithstanding subsection
 
-(1) of this section, real and personal property held in trust by a trustee for an individual receiving care are subject to the laws of this state applicable to trusts. [1995 c.749 §2; 1997 c.744 §2] Note: See note under 87.501. 87.505 [Repealed by 1975 c.648 §72] 
+(1) of this section, real and personal property held in trust by a trustee for an individual receiving care are subject to the laws of this state applicable to trusts. [1995 c.749 §2; 1997 c.744 §2] Note: See note under 87.501. 
 
 ## Provenance & change history
 

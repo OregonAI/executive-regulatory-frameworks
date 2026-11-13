@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-33
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 1979
+last_amended: 1991
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 33.105 — Sanctions authorized. Chapter 33 (Special Proceedings and Procedu
 
 (3) In a summary proceeding under ORS 33.096, a court may impose one or more of the following sanctions for each separate contempt of court: (a) A punitive fine of not more than $500; (b) Confinement as a punitive sanction for not more than 30 days; or (c) Probation or community service.
 
-(4) The court may impose a punitive sanction for past conduct constituting contempt of court even though similar present conduct is a continuing contempt of court. [1991 c.724 §9] 33.110 [Repealed by 1991 c.724 §32] 
+(4) The court may impose a punitive sanction for past conduct constituting contempt of court even though similar present conduct is a continuing contempt of court. [1991 c.724 §9] 
 
 ## Provenance & change history
 

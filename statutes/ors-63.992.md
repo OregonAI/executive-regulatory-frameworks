@@ -54,7 +54,7 @@ ORS 63.992 — Liability for certain actions in connection with operation of she
 
 (2) A member, manager, employee or agent of a shell entity that engages in any of the actions described in subsection
 
-(1) of this section in a submission to, or an interaction with, a public agency, as defined in ORS 180.750, makes a false claim and is subject to a civil action as provided in ORS 180.750 to 180.785. [2017 c.705 §6] _______________
+(1) of this section in a submission to, or an interaction with, a public agency, as defined in ORS 180.750, makes a false claim and is subject to a civil action as provided in ORS 180.750 to 180.785. [2017 c.705 §6] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2021
-enacted: 2001
+enacted: 2021
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 285B.768 — Oregon Business Development Department to develop and implement
 
 (2) Loans made under the program may be for the following amounts: (a) For eligible businesses that have operated for less than two years, up to $100,000. (b) For eligible businesses that have operated for two years or more, up to $250,000. (3)(a) The term of a loan may not exceed 10 years. (b)(A) Interest on a loan shall be charged at the prime rate plus two percent. (B) Notwithstanding subparagraph (A) of this paragraph, the rate of interest may be increased for risk based on the loan-to-value ratio. (c) Loans shall be subject to business underwriting standards used in secondary markets. (d) To the extent possible, loans must be secured by business and personal assets. (e) Loans shall require standard commercial loan documentation, including reasonable provisions related to default that the department may adopt by rule.
 
-(4) An eligible business may use the proceeds of a loan made pursuant to this section for equipment, inventory, fixtures and working capital or other business-related expenses other than capital costs. [2021 c.676 §12] Note: See note under 285B.764. 285B.770 [2001 c.932 §7; renumbered 285C.306 in 2003] 
+(4) An eligible business may use the proceeds of a loan made pursuant to this section for equipment, inventory, fixtures and working capital or other business-related expenses other than capital costs. [2021 c.676 §12] Note: See note under 285B.764. 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2015
-enacted: 2005
+enacted: 2015
 status: current
 supersedes: null
 content_mode: verbatim
@@ -61,7 +61,7 @@ ORS 285C.078 — Notification to department of intent to make designation of ent
 
 (3) A formal advisory submitted pursuant to subsection
 
-(1) of this section does not obligate the zone sponsor or the governing body of the city to make the designation. [2015 c.648 §28] 285C.080 [Formerly 285B.653; 2005 c.704 §§2,2a; 2012 c.71 §1; repealed by 2015 c.648 §25] 
+(1) of this section does not obligate the zone sponsor or the governing body of the city to make the designation. [2015 c.648 §28] 
 
 ## Provenance & change history
 

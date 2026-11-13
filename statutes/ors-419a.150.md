@@ -70,7 +70,7 @@ ORS 419A.150 — Appointment; qualifications; hearings; orders; rehearings. Chap
 
 (9) Notwithstanding subsection
 
-(7) of this section, when a referee finds that a youth is not within the jurisdiction of the court in a proceeding brought under ORS 419C.005, the district attorney may not request a rehearing. [1993 c.33 §43; 1993 c.546 §7; 2003 c.396 §24; 2021 c.489 §44] 419A.170 [1993 c.33 §44; 1993 c.546 §92; 1993 c.676 §41; 1997 c.130 §12; 2001 c.962 §91; 2003 c.396 §§25,26; 2005 c.755 §35; 2011 c.190 §1; repealed by 2012 c.97 §1]
+(7) of this section, when a referee finds that a youth is not within the jurisdiction of the court in a proceeding brought under ORS 419C.005, the district attorney may not request a rehearing. [1993 c.33 §43; 1993 c.546 §7; 2003 c.396 §24; 2021 c.489 §44] 
 
 ## Provenance & change history
 

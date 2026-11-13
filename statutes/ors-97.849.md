@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2019
-enacted: 1965
+enacted: 2019
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 97.849 — Authority of Department of Consumer and Business Services to take
 
 (1) of this section, the director shall promptly provide opportunity for a hearing pursuant to ORS chapter 183.
 
-(3) An emergency order is: (a) Effective upon issuance; (b) Reviewable as provided in ORS 183.480; and (c) Enforceable in the courts of this state. [2019 c.8 §2] Note: 97.849 was added to and made a part of 97.810 to 97.920 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 97.850 [Renumbered 97.843 in 2019] 
+(3) An emergency order is: (a) Effective upon issuance; (b) Reviewable as provided in ORS 183.480; and (c) Enforceable in the courts of this state. [2019 c.8 §2] Note: 97.849 was added to and made a part of 97.810 to 97.920 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

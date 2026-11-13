@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 1987
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 94.813 — Character of timeshare estates. Chapter 94 (Real Property Develop
 
 (2) A document transferring or encumbering a timeshare may not be rejected for recordation because of the nature or duration of the interest.
 
-(3) Neither a timeshare plan nor a timeshare, subject to regulation under ORS 94.803 and 94.807 to 94.945 is a “security,” as defined in ORS 59.015. [1983 c.530 §§4a,5; 1985 c.349 §29; 1987 c.603 §25] 94.815 [Repealed by 1971 c.478 §1] 
+(3) Neither a timeshare plan nor a timeshare, subject to regulation under ORS 94.803 and 94.807 to 94.945 is a “security,” as defined in ORS 59.015. [1983 c.530 §§4a,5; 1985 c.349 §29; 1987 c.603 §25] 
 
 ## Provenance & change history
 

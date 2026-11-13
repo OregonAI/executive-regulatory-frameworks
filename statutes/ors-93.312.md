@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-93
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
-enacted: 1961
+last_amended: 2011
+enacted: 2011
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 93.312 — Oregon Coordinate System. Chapter 93 (Conveyancing and Recording)
 
 (2) A description of land that contains coordinates associated with the position of a point on a land boundary must: (a) Use the Oregon Coordinate System; (b) Use one specified zone and system for the entire description; (c) Include coordinate system datum with epoch and zone designation; (d) Use coordinates established by a survey connection to the National Spatial Reference System; (e) Reference a survey of record that reports the accuracy of coordinates at a 95 percent confidence level; and (f) Include distances, bearings, areas and other boundary elements.
 
-(3) The Department of Transportation shall adopt rules implementing the Oregon Coordinate System. [2011 c.179 §1] Note: 93.312 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 93 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 93.320 [Amended by 1985 c.202 §1; repealed by 2011 c.179 §6] 93.330 [Amended by 1985 c.202 §2; repealed by 2011 c.179 §6] 93.340 [Repealed by 1985 c.202 §7] 93.350 [Amended by 1985 c.202 §3; repealed by 2011 c.179 §6] 93.360 [Amended by 1979 c.129 §1; 1985 c.202 §4; repealed by 2011 c.179 §6] 93.370 [Amended by 1985 c.202 §5; repealed by 2011 c.179 §6] 93.380 [Amended by 1985 c.202 §6; repealed by 2011 c.179 §6] EXECUTION, ACKNOWLEDGMENT AND PROOF OF INSTRUMENTS 
+(3) The Department of Transportation shall adopt rules implementing the Oregon Coordinate System. [2011 c.179 §1] Note: 93.312 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 93 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

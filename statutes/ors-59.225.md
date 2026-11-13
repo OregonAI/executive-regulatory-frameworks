@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-59
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1955
+last_amended: 2017
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -61,7 +61,7 @@ ORS 59.225 — Cancellation of license or application; application for withdrawa
 
 (4) The suspension of a license of a broker-dealer or state investment adviser shall suspend the license of any salesperson of the broker-dealer or the license of any investment adviser representative of the state investment adviser. The revocation, cancellation, withdrawal or expiration of a license of a broker-dealer or state investment adviser shall cancel the license of any salesperson of the broker-dealer or the license of any investment adviser representative of the state investment adviser.
 
-(5) The suspension of a registration of securities suspends the license of any salesperson licensed to the issuer or owner of the securities. The revocation, cancellation, withdrawal or expiration of the registration of securities cancels the license of any salesperson licensed to the issuer or owner of the securities. [1967 c.537 §20(3), (4), (5); 1985 c.349 §23; 1987 c.603 §16; 1989 c.197 §14; 1993 c.508 §36; 1997 c.772 §21; 2017 c.313 §2] 59.230 [Repealed by 1967 c.537 §36] (Powers of Director) 
+(5) The suspension of a registration of securities suspends the license of any salesperson licensed to the issuer or owner of the securities. The revocation, cancellation, withdrawal or expiration of the registration of securities cancels the license of any salesperson licensed to the issuer or owner of the securities. [1967 c.537 §20(3), (4), (5); 1985 c.349 §23; 1987 c.603 §16; 1989 c.197 §14; 1993 c.508 §36; 1997 c.772 §21; 2017 c.313 §2] 
 
 ## Provenance & change history
 

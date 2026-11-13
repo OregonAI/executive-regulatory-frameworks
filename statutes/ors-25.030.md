@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-25
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1985
+last_amended: 2003
+enacted: 1989
 status: current
 supersedes: null
 content_mode: verbatim
@@ -55,7 +55,7 @@ ORS 25.030 — When payment payable to bank account or escrow agent. Chapter 25 
 
 (2) Subsection
 
-(1) of this section applies only if an election has been made as provided in ORS 25.130. [Formerly 23.767; 1989 c.976 §36; 1991 c.230 §32; 1997 c.872 §4; 1999 c.80 §78; 2003 c.210 §1] 25.040 [Formerly 23.775; 1993 c.33 §281; 1993 c.448 §3; repealed by 1999 c.80 §95] 25.050 [Formerly 23.777; 1989 c.633 §4; 1989 c.726 §4; 1991 c.519 §1; repealed by 1993 c.798 §21] 25.060 [Formerly 23.780; repealed by 1999 c.80 §95] 
+(1) of this section applies only if an election has been made as provided in ORS 25.130. [Formerly 23.767; 1989 c.976 §36; 1991 c.230 §32; 1997 c.872 §4; 1999 c.80 §78; 2003 c.210 §1] 
 
 ## Provenance & change history
 

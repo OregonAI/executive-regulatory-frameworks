@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2009
-enacted: 1999
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 285A.615 — Provision of managerial assistance and technical services; duti
 
 (2) The authority shall disseminate such research and technical information as is available to the authority.
 
-(3) The authority shall work cooperatively with existing organizations and agencies that provide research and technical services, including, but not limited to: (a) The Department of State Lands; (b) The State Marine Board; and (c) The Sea Grant College and marine extension services at Oregon State University. [Formerly 285.810; 2007 c.804 §24; 2009 c.830 §33] 285A.618 [Formerly 285.811; 2003 c.773 §10; repealed by 2007 c.804 §86] 285A.621 [Formerly 285.813; repealed by 1999 c.509 §61] 285A.624 [Formerly 285.814; repealed by 2007 c.804 §86] 
+(3) The authority shall work cooperatively with existing organizations and agencies that provide research and technical services, including, but not limited to: (a) The Department of State Lands; (b) The State Marine Board; and (c) The Sea Grant College and marine extension services at Oregon State University. [Formerly 285.810; 2007 c.804 §24; 2009 c.830 §33] 
 
 ## Provenance & change history
 

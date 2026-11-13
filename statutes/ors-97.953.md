@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-97
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
-enacted: 1995
+last_amended: 2019
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -108,7 +108,7 @@ ORS 97.953 — Definitions for ORS 97.951 to 97.982. Chapter 97 (Rights and Duti
 
 (30) “Tissue bank” means a person that is licensed, accredited or regulated under federal or state law to engage in the recovery, screening, testing, processing, storage or distribution of tissue.
 
-(31) “Transplant hospital” means a hospital that furnishes organ transplants and other medical and surgical specialty services required for the care of transplant patients. [2007 c.681 §2; 2008 c.1 §33; 2017 c.409 §2; 2018 c.36 §24; 2019 c.701 §15] Note: See note under 97.951. 97.954 [1995 c.717 §3; 1997 c.472 §6; 1999 c.201 §2; 2005 c.505 §3; repealed by 2007 c.681 §31] 
+(31) “Transplant hospital” means a hospital that furnishes organ transplants and other medical and surgical specialty services required for the care of transplant patients. [2007 c.681 §2; 2008 c.1 §33; 2017 c.409 §2; 2018 c.36 §24; 2019 c.701 §15] Note: See note under 97.951. 
 
 ## Provenance & change history
 

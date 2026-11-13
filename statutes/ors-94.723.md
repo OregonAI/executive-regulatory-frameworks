@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 1999
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 94.723 — Common expenses; liability of first mortgagee. Chapter 94 (Real P
 
 ## Full text
 
-94.723 Common expenses; liability of first mortgagee. If a first mortgagee acquires a lot in a planned community by foreclosure or deed in lieu of foreclosure, the mortgagee and subsequent purchaser shall not be liable for any of the common expenses chargeable to the lot which became due before the mortgagee or purchaser acquired title to the lot. The unpaid expenses shall become a common expense of all lot owners including the mortgagee or purchaser. [1981 c.782 §46; 1999 c.677 §27] 94.725 [Repealed by 1971 c.478 §1] 
+94.723 Common expenses; liability of first mortgagee. If a first mortgagee acquires a lot in a planned community by foreclosure or deed in lieu of foreclosure, the mortgagee and subsequent purchaser shall not be liable for any of the common expenses chargeable to the lot which became due before the mortgagee or purchaser acquired title to the lot. The unpaid expenses shall become a common expense of all lot owners including the mortgagee or purchaser. [1981 c.782 §46; 1999 c.677 §27] 
 
 ## Provenance & change history
 

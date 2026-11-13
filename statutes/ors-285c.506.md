@@ -85,7 +85,7 @@ ORS 285C.506 — Annual certification of facility; application; fee; review; app
 
 (12) An annual certification may not be issued under this section for a tax year that is more than nine consecutive tax years following the first tax year an exemption is allowed under ORS 316.778 or 317.391 with respect to the facility.
 
-(13) The department must approve or disapprove an application under this section within 30 days of the date the application is filed. [Formerly 285B.108; 2007 c.843 §78; 2011 c.730 §21b] 285C.530 [Formerly 285B.486; repealed by 2011 c.83 §4] 285C.533 [Formerly 285B.488; repealed by 2011 c.83 §4]
+(13) The department must approve or disapprove an application under this section within 30 days of the date the application is filed. [Formerly 285B.108; 2007 c.843 §78; 2011 c.730 §21b] 
 
 ## Provenance & change history
 

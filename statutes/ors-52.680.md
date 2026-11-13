@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-52
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 52.680 — Setoff of judgments in different amounts; disallowance of setoff.
 
 ## Full text
 
-52.680 Setoff of judgments in different amounts; disallowance of setoff. If there is any difference in the amount of the two judgments, judgment for the difference must be given in favor of the party owning the larger judgment. If the justice refuses to allow the setoff, the justice shall so certify on the transcript and return it to the party. 52.690 [Repealed by 1999 c.788 §5] 
+52.680 Setoff of judgments in different amounts; disallowance of setoff. If there is any difference in the amount of the two judgments, judgment for the difference must be given in favor of the party owning the larger judgment. If the justice refuses to allow the setoff, the justice shall so certify on the transcript and return it to the party. 
 
 ## Provenance & change history
 

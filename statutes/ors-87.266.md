@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
-enacted: 1969
+last_amended: 1985
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -55,7 +55,7 @@ ORS 87.266 — Duration of liens. Chapter 87 (Statutory Liens), 2025 Edition.
 
 (2) of this section, if either a suit to foreclose or a proceeding under ORS 87.272 to 87.306 to foreclose a lien created by ORS 87.216 to 87.232 is not commenced in an appropriate court within six months after the notice of claim of lien is filed under ORS 87.242, or if extended payment is provided and the terms thereof are stated in the notice of claim of lien, then within six months after the expiration of the extended payment, the lien shall cease to exist. A lien shall not be continued in force for a longer time than two years from the time the claim for lien is filed under ORS 87.242 by an agreement to extend payment.
 
-(2) If either a suit to foreclose or a proceeding under ORS 87.272 to 87.306 to foreclose a lien created by ORS 87.226 is not commenced in an appropriate court within 18 months after the notice of claim of lien is filed under ORS 87.242 or, if extended payment is provided and the terms thereof are stated in the notice of claim of lien, within six months after the expiration of the extended payment, the lien shall cease to exist. A lien shall not be continued in force for a longer time than two years from the time the claim of lien is filed under ORS 87.242 by an agreement to extend payment. [1975 c.648 §26; 1985 c.469 §6] 87.270 [Repealed by 1975 c.648 §72] 
+(2) If either a suit to foreclose or a proceeding under ORS 87.272 to 87.306 to foreclose a lien created by ORS 87.226 is not commenced in an appropriate court within 18 months after the notice of claim of lien is filed under ORS 87.242 or, if extended payment is provided and the terms thereof are stated in the notice of claim of lien, within six months after the expiration of the extended payment, the lien shall cease to exist. A lien shall not be continued in force for a longer time than two years from the time the claim of lien is filed under ORS 87.242 by an agreement to extend payment. [1975 c.648 §26; 1985 c.469 §6] 
 
 ## Provenance & change history
 

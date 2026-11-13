@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2009
-enacted: 1999
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -62,7 +62,7 @@ ORS 285A.627 — Authority as coordinating entity for port activities; approval 
 
 (2) Notwithstanding any other provision of law, after July 1, 1969, no port or port authority may be formed without the prior approval of the Oregon Infrastructure Finance Authority.
 
-(3) The authority is the statewide coordinating, planning and research entity for port activities involving international trade and international trade development and industrial, commercial and recreational development. [Formerly 285.815; 2007 c.804 §25; 2009 c.830 §34] 285A.630 [Formerly 285.817; repealed by 2007 c.804 §86] 285A.633 [Formerly 285.820; repealed by 2007 c.804 §86] 285A.636 [Formerly 285.825; repealed by 1999 c.509 §61] 285A.639 [Formerly 285.827; repealed by 1999 c.509 §61] 285A.642 [Formerly 285.830; repealed by 1999 c.509 §61] 285A.645 [Formerly 285.833; repealed by 1999 c.509 §61] 285A.648 [Formerly 285.837; repealed by 1999 c.509 §61] 285A.651 [Formerly 285.843; repealed by 1999 c.509 §61] (Planning and Marketing) 
+(3) The authority is the statewide coordinating, planning and research entity for port activities involving international trade and international trade development and industrial, commercial and recreational development. [Formerly 285.815; 2007 c.804 §25; 2009 c.830 §34] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2010
-enacted: 1971
+enacted: 2009
 status: current
 supersedes: null
 content_mode: verbatim
@@ -68,7 +68,7 @@ ORS 94.538 — Transferable development credit systems. Chapter 94 (Real Propert
 
 (8) The governing body of a governmental unit administering a transferable development credit system may, directly or indirectly through a contract with a nonprofit corporation, establish a transferable development credit bank to facilitate: (a) Buying severable development interests from lots, parcels or tracts of resource land in a sending area. (b) Selling transferable development credits to potential developers of lots, parcels or tracts in a receiving area. (c) Entering into agreements or contracts and performing acts necessary, convenient or desirable to achieve the requirements set forth in this section and the objectives set forth in ORS 94.534. (d) Managing funds available for the purchase and sale of transferable development credits. (e) Authorizing and monitoring expenditures associated with the system. (f) Maintaining records of the transactions, including dates, purchase amounts and locations of severed development interests and development pursuant to transferred development credits, that are sufficient to manage and evaluate the effectiveness of the system. (g) Providing periodic summary reports of activities of the system to the governing body of a governmental unit administering the system. (h) Obtaining appraisals of development interests and transferable development credits as necessary and pricing transferable development credits for purchase or sale. (i) Serving as a clearinghouse and information source for buyers and sellers of transferable development credits. (j) Accepting donations of transferable development credits. (k) Soliciting and receiving grant funds for the implementation of this section and ORS 94.536.
 
-(9) A holder of a conservation easement shall hold, monitor and enforce the conservation easement to ensure that lands in sending areas do not retain development credits transferred under this section and ORS 94.536. [2009 c.504 §3; 2010 c.5 §2] Note: See note under 94.534. 94.540 [Repealed by 1971 c.478 §1]
+(9) A holder of a conservation easement shall hold, monitor and enforce the conservation easement to ensure that lands in sending areas do not retain development credits transferred under this section and ORS 94.536. [2009 c.504 §3; 2010 c.5 §2] Note: See note under 94.534. 
 
 ## Provenance & change history
 

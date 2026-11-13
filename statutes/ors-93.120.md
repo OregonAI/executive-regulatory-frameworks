@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-93
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
-enacted: 1957
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 93.120 — Words of inheritance unnecessary to convey fee; conveyances deeme
 
 ## Full text
 
-93.120 Words of inheritance unnecessary to convey fee; conveyances deemed to convey all grantor’s estate. The term “heirs,” or other words of inheritance, is not necessary to create or convey an estate in fee simple. Any conveyance of real estate passes all the estate of the grantor, unless the intent to pass a lesser estate appears by express terms, or is necessarily implied in the terms of the grant. 93.125 [2001 c.311 §3; repealed by 2002 s.s.1 c.6 §3] 
+93.120 Words of inheritance unnecessary to convey fee; conveyances deemed to convey all grantor’s estate. The term “heirs,” or other words of inheritance, is not necessary to create or convey an estate in fee simple. Any conveyance of real estate passes all the estate of the grantor, unless the intent to pass a lesser estate appears by express terms, or is necessarily implied in the terms of the grant. 
 
 ## Provenance & change history
 

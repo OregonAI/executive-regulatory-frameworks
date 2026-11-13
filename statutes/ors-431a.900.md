@@ -57,7 +57,7 @@ ORS 431A.900 — Civil penalty for violation of ORS 431A.855 to 431A.900. Chapte
 
 (3) The Department of Justice may adopt rules as required to carry out the provisions of this section.
 
-(4) Penalties recovered under this section shall be paid into the State Treasury and credited to the General Fund. [Formerly 431.992] _______________
+(4) Penalties recovered under this section shall be paid into the State Treasury and credited to the General Fund. [Formerly 431.992] 
 
 ## Provenance & change history
 

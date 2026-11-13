@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-3
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1953
+last_amended: 2021
+enacted: 2005
 status: current
 supersedes: null
 content_mode: verbatim
@@ -62,7 +62,7 @@ ORS 3.014 — Special provisions for fourth judicial district (Multnomah County)
 
 (4) Multnomah County shall provide facilities in the City of Gresham for a court judge to hold court as described under subsection
 
-(1) of this section. [Formerly 46.010; 2005 c.275 §1; 2021 c.77 §1] 3.015 [1961 c.724 §32; repealed by 1965 c.510 §24 and 1965 c.618 §11] 
+(1) of this section. [Formerly 46.010; 2005 c.275 §1; 2021 c.77 §1] 
 
 ## Provenance & change history
 

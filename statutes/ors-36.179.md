@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-36
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 1989
+last_amended: 2005
+enacted: 2005
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 36.179 — Mediation and other alternative dispute resolution services for p
 
 ## Full text
 
-36.179 Mediation and other alternative dispute resolution services for public bodies. The Mark O. Hatfield School of Government shall establish and operate a program to provide mediation and other alternative dispute resolution services to public bodies, as defined by ORS 174.109, and to persons who have disputes with public bodies, as defined by ORS 174.109. [2005 c.817 §11] 36.180 [1989 c.718 §18; repealed by 2003 c.791 §33] (Mediation in Civil Cases) 
+36.179 Mediation and other alternative dispute resolution services for public bodies. The Mark O. Hatfield School of Government shall establish and operate a program to provide mediation and other alternative dispute resolution services to public bodies, as defined by ORS 174.109, and to persons who have disputes with public bodies, as defined by ORS 174.109. [2005 c.817 §11] 
 
 ## Provenance & change history
 

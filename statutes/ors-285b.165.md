@@ -54,7 +54,7 @@ ORS 285B.165 — Purpose of ORS 285B.165 to 285B.171. Chapter 285B (Chapter 285B
 
 ## Full text
 
-285B.165 Purpose of ORS 285B.165 to 285B.171. The purpose of ORS 285B.165 to 285B.171 is to establish and sustain a statewide network of small business development centers. [Formerly 285.540; 2001 c.148 §3; 2007 c.804 §17] 285B.166 [2001 c.148 §2; repealed by 2007 c.804 §86] 
+285B.165 Purpose of ORS 285B.165 to 285B.171. The purpose of ORS 285B.165 to 285B.171 is to establish and sustain a statewide network of small business development centers. [Formerly 285.540; 2001 c.148 §3; 2007 c.804 §17] 
 
 ## Provenance & change history
 

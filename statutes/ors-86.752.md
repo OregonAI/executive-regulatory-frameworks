@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-86
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 2017
+enacted: 2017
 status: current
 supersedes: null
 content_mode: verbatim
@@ -62,7 +62,7 @@ ORS 86.752 — Foreclosure by advertisement and sale. Chapter 86 (Mortgages; Tru
 
 (6) The grantor has not complied with the terms of any foreclosure avoidance measure upon which the beneficiary and the grantor have agreed; and
 
-(7) An action has not been commenced to recover the debt or any part of the debt then remaining secured by the trust deed, or, if an action has been commenced, the action has been dismissed, except that: (a) Subject to ORS 86.010 and the procedural requirements of ORCP 79 and 80 and the Oregon Receivership Code, as applicable, an action may be commenced to appoint a receiver or to obtain a temporary restraining order during foreclosure of a trust deed by advertisement and sale, except that a receiver may not be appointed with respect to a single-family residence that the grantor, the grantor’s spouse or the grantor’s minor or dependent child occupies as a principal residence. (b) An action may be commenced to foreclose, judicially or nonjudicially, the same trust deed as to any other property covered by the trust deed, or any other trust deeds, mortgages, security agreements or other consensual or nonconsensual security interests or liens that secure repayment of the debt. [Formerly 86.735; 2017 c.236 §1; 2017 c.358 §48] 86.753 [1983 c.719 §11; 1985 c.817 §5; 1989 c.190 §4; 1999 c.561 §1; renumbered 86.778 in 2013] 86.755 [1959 c.625 §9; 1965 c.457 §6; 1983 c.719 §7; 1985 c.817 §6; 1989 c.190 §5; 1989 c.506 §1; 2009 c.883 §§1,1a; 2011 c.42 §10; 2011 c.510 §§2,7; 2011 c.712 §2; 2012 c.112 §§9,10; 2013 c.76 §§1,2; 2013 c.465 §§1,2; renumbered 86.782 in 2013] 
+(7) An action has not been commenced to recover the debt or any part of the debt then remaining secured by the trust deed, or, if an action has been commenced, the action has been dismissed, except that: (a) Subject to ORS 86.010 and the procedural requirements of ORCP 79 and 80 and the Oregon Receivership Code, as applicable, an action may be commenced to appoint a receiver or to obtain a temporary restraining order during foreclosure of a trust deed by advertisement and sale, except that a receiver may not be appointed with respect to a single-family residence that the grantor, the grantor’s spouse or the grantor’s minor or dependent child occupies as a principal residence. (b) An action may be commenced to foreclose, judicially or nonjudicially, the same trust deed as to any other property covered by the trust deed, or any other trust deeds, mortgages, security agreements or other consensual or nonconsensual security interests or liens that secure repayment of the debt. [Formerly 86.735; 2017 c.236 §1; 2017 c.358 §48] 
 
 ## Provenance & change history
 

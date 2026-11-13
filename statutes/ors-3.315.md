@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2003
-enacted: 1959
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -68,7 +68,7 @@ ORS 3.315 — Proposed report of reference judge; objections; final report; fili
 
 (7) The judgment of the reference judge entered as provided in subsection
 
-(6) of this section may be appealed in the same manner as a judgment of the circuit court in a civil action. [1983 c.704 §4; 1995 c.781 §13; 2003 c.576 §231] 3.320 [Repealed by 1981 c.215 §8] 
+(6) of this section may be appealed in the same manner as a judgment of the circuit court in a civil action. [1983 c.704 §4; 1995 c.781 §13; 2003 c.576 §231] 
 
 ## Provenance & change history
 

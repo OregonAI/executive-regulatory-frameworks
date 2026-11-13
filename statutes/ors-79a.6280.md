@@ -68,7 +68,7 @@ ORS 79A.6280 — UCC 9-628. Nonliability and limitation on liability of secured 
 
 (1) and
 
-(2) of this section do not apply to limit the liability of a secured party to a person if, at the time the secured party obtains control of collateral that is a controllable account, controllable electronic record or controllable payment intangible or at the time the security interest attaches to the collateral, whichever is later: (a) The person is a debtor or obligor; and (b) The secured party knows that the information in subsection (2)(a) of this section relating to the person is not provided by the collateral, a record attached to or logically associated with the collateral or the system in which the collateral is recorded. [Formerly 79.0628] _______________
+(2) of this section do not apply to limit the liability of a secured party to a person if, at the time the secured party obtains control of collateral that is a controllable account, controllable electronic record or controllable payment intangible or at the time the security interest attaches to the collateral, whichever is later: (a) The person is a debtor or obligor; and (b) The secured party knows that the information in subsection (2)(a) of this section relating to the person is not provided by the collateral, a record attached to or logically associated with the collateral or the system in which the collateral is recorded. [Formerly 79.0628] 
 
 ## Provenance & change history
 

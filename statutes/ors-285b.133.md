@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2018
-enacted: 1991
+enacted: 2018
 status: current
 supersedes: null
 content_mode: verbatim
@@ -61,7 +61,7 @@ ORS 285B.133 — Small Business Expansion Loan Fund; purposes; sources of moneys
 
 (3) The Oregon Business Development Commission may transfer moneys credited to the Oregon Business Development Fund created under ORS 285B.092 to the Small Business Expansion Loan Fund established under this section when the commission determines that the transfer is reasonable and financially appropriate and would not impair the making of loans under ORS 285B.050 to 285B.098. Moneys transferred under this subsection shall be used by the Oregon Business Development Department for the purpose of making loans under ORS 285B.130.
 
-(4) Notwithstanding any other provision of law, if at any time there are insufficient funds in established business finance programs, the department may direct the transfer of unobligated funds from the Small Business Expansion Loan Fund. [2018 c.71 §§2,3] Note: See note under 285B.130. 285B.135 [Formerly 285.515; 2003 c.167 §7; 2007 c.804 §53; 2009 c.830 §64; renumbered 285B.115 in 2009] 285B.138 [Formerly 285.517; 2007 c.804 §54; 2009 c.830 §65; renumbered 285B.117 in 2009] 285B.139 [1991 c.688 §15; 1993 c.765 §80; 1995 c.71 §1; 1997 c.738 §4; 1999 c.247 §5; 2001 c.96 §3; repealed by 2007 c.804 §86] 285B.141 [Formerly 285.520; 2009 c.830 §66; renumbered 285B.118 in 2009] 285B.144 [Formerly 285.525; 2007 c.354 §14; repealed by 2007 c.804 §86] 285B.147 [Formerly 285.527; 2007 c.804 §55; 2009 c.830 §67; renumbered 285B.119 in 2009] 285B.150 [Formerly 285.528; repealed by 2007 c.804 §86] 285B.153 [Formerly 285.530; repealed by 2003 c.167 §16] 285B.156 [Formerly 285.533; repealed by 1999 c.509 §61] 285B.159 [Formerly 285.535; 2001 c.104 §98; repealed by 2007 c.804 §86] 285B.162 [Formerly 285.537; repealed by 2007 c.804 §86] (Small Business Development Centers) 
+(4) Notwithstanding any other provision of law, if at any time there are insufficient funds in established business finance programs, the department may direct the transfer of unobligated funds from the Small Business Expansion Loan Fund. [2018 c.71 §§2,3] Note: See note under 285B.130. 
 
 ## Provenance & change history
 

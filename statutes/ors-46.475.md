@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-46
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
-enacted: 1953
+last_amended: 2011
+enacted: 1971
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 46.475 — Additional time for appearances; default and dismissal. Chapter 4
 
 (4) If the defendant appears at the time set for hearing but no appearance is made by the plaintiff, the claim shall be dismissed with prejudice. If neither party appears, the claim shall be dismissed without prejudice.
 
-(5) Upon good cause shown within 60 days, the court may set aside a default judgment or dismissal and reset the claim for hearing. [1971 c.760 §9; 1977 c.875 §6; 1985 c.496 §15; 1991 c.111 §6; 1995 c.618 §§8,8a; 1995 c.658 §51; 1997 c.46 §§12,13; 1999 c.84 §10; 2011 c.595 §52] 46.480 [Amended by 1969 c.683 §3; repealed by 1971 c.760 §11] 
+(5) Upon good cause shown within 60 days, the court may set aside a default judgment or dismissal and reset the claim for hearing. [1971 c.760 §9; 1977 c.875 §6; 1985 c.496 §15; 1991 c.111 §6; 1995 c.618 §§8,8a; 1995 c.658 §51; 1997 c.46 §§12,13; 1999 c.84 §10; 2011 c.595 §52] 
 
 ## Provenance & change history
 

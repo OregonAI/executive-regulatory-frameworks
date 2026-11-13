@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1967
+last_amended: 2011
+enacted: 1997
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 30.262 — Certain nonprofit facilities and homes public bodies for purposes
 
 (1) The following facilities and training homes are public bodies for the purposes of ORS 30.260 to 30.300: (a) A nonprofit residential training facility as defined in ORS 443.400, nonprofit residential training home as defined in ORS 443.400 or nonprofit facility as defined in ORS 427.005, organized and existing under ORS chapter 65, that receives more than 50 percent of its funding from the state or a political subdivision of the state for the purpose of providing residential or vocational services to individuals with intellectual or other developmental disabilities. (b) A nonprofit residential training facility as defined in ORS 443.400, nonprofit residential training home as defined in ORS 443.400 or nonprofit facility as defined in ORS 427.005, organized and existing under ORS chapter 65, that receives less than 50 percent of its funding from the state or a political subdivision of the state but that provides residential or vocational services to individuals with intellectual or other developmental disabilities, more than half of whom are eligible for funding for services by the Department of Human Services under criteria established by the department.
 
-(2) The provisions of this section apply only to a nonprofit residential training facility, nonprofit residential training home or nonprofit facility that provides services to individuals with intellectual or other developmental disabilities under a contract with: (a) The Department of Human Services; or (b) A community mental health program or community developmental disabilities program established pursuant to ORS 430.620. [1997 c.579 §2; 2001 c.900 §9; 2007 c.70 §8; 2011 c.658 §30; 2011 c.720 §52] Note: 30.262 was added to and made a part of 30.260 to 30.300 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 30.264 [2001 c.370 §2; 2011 c.637 §60; repealed by 2013 c.301 §1] 
+(2) The provisions of this section apply only to a nonprofit residential training facility, nonprofit residential training home or nonprofit facility that provides services to individuals with intellectual or other developmental disabilities under a contract with: (a) The Department of Human Services; or (b) A community mental health program or community developmental disabilities program established pursuant to ORS 430.620. [1997 c.579 §2; 2001 c.900 §9; 2007 c.70 §8; 2011 c.658 §30; 2011 c.720 §52] Note: 30.262 was added to and made a part of 30.260 to 30.300 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

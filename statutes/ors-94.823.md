@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 2003
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -81,7 +81,7 @@ ORS 94.823 — Notice of intent to sell timeshares; form and content; rules. Cha
 
 (14) If any portion of the timeshare property is located outside the state, proof that the developer has recorded the notice of timeshare plan as required under ORS 94.833 (1).
 
-(15) Any other information the commissioner may determine is necessary. [1983 c.530 §19; 2003 c.14 §37] 94.825 [Repealed by 1971 c.478 §1] 
+(15) Any other information the commissioner may determine is necessary. [1983 c.530 §19; 2003 c.14 §37] 
 
 ## Provenance & change history
 

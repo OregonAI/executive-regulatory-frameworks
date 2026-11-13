@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-1
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1965
+last_amended: 1975
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 1.645 — Transfer, challenge, disqualification, supervision of person appoi
 
 (5) A judge pro tempore appointed as provided in ORS 1.635 or assigned as provided in subsection
 
-(1) of this section to a court with one or more regularly elected and qualified judges on active duty shall be subject to the directions of the regular presiding judge of the court in respect to the assignment of cases and the general administration of the business of the court. [1975 c.706 §6] 1.650 [1965 c.494 §4; repealed by 1971 c.311 §2] 
+(1) of this section to a court with one or more regularly elected and qualified judges on active duty shall be subject to the directions of the regular presiding judge of the court in respect to the assignment of cases and the general administration of the business of the court. [1975 c.706 §6] 
 
 ## Provenance & change history
 

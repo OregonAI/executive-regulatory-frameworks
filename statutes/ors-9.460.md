@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-9
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1965
+last_amended: 1991
+enacted: 1989
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 9.460 — Duties of attorneys. Chapter 9 (Oregon State Bar; Attorneys; Law L
 
 (3) Maintain the confidences and secrets of the attorney’s clients consistent with the rules of professional conduct established pursuant to ORS 9.490; and
 
-(4) Never reject, for any personal consideration, the cause of the defenseless or the oppressed. [Amended by 1989 c.1052 §9; 1991 c.726 §5] 9.470 [Repealed by 1965 c.353 §2] 9.480 [Amended by 1965 c.353 §1; 1981 c.193 §9; renumbered 9.527] 
+(4) Never reject, for any personal consideration, the cause of the defenseless or the oppressed. [Amended by 1989 c.1052 §9; 1991 c.726 §5] 
 
 ## Provenance & change history
 

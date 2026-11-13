@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2017
-enacted: 1963
+enacted: 2017
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 9.829 — Use of moneys distributed to counties. Chapter 9 (Oregon State Bar
 
 ## Full text
 
-9.829 Use of moneys distributed to counties. Notwithstanding any other law, the governing body of a county may, after consulting with the presiding judge of the circuit court, use up to one-half of the moneys distributed to the county by the Chief Justice of the Supreme Court from moneys appropriated to the Judicial Department for the purpose of operating law libraries or providing law library services, for the purpose of providing conciliation and mediation services in circuit courts. [2017 c.725 §19] 9.830 [Amended by 1965 c.619 §4; 1981 s.s. c.3 §78; 1983 c.763 §36; repealed by 2011 c.595 §104] 9.840 [Amended by 1963 c.519 §2; 1965 c.619 §5; 1981 s.s. c.3 §79; 1983 c.763 §37; 1997 c.801 §147; 2011 c.224 §2; repealed by 2011 c.595 §104] 9.850 [Amended by 1963 c.519 §3; 1965 c.619 §6; 2003 c.14 §11; 2011 c.224 §3; repealed by 2011 c.595 §104]
+9.829 Use of moneys distributed to counties. Notwithstanding any other law, the governing body of a county may, after consulting with the presiding judge of the circuit court, use up to one-half of the moneys distributed to the county by the Chief Justice of the Supreme Court from moneys appropriated to the Judicial Department for the purpose of operating law libraries or providing law library services, for the purpose of providing conciliation and mediation services in circuit courts. [2017 c.725 §19] 
 
 ## Provenance & change history
 

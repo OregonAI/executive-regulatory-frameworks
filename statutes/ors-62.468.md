@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2011
-enacted: 1957
+enacted: 1995
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 62.468 — Advance for expenses. Chapter 62 (Cooperatives), 2025 Edition.
 
 (3) An authorization of payments under this section may be made by provision in the articles of incorporation or bylaws, by a resolution of the members or board of directors or by contract. (4)(a) A cooperative that authorizes payments in accordance with subsection
 
-(3) of this section may not amend or rescind the articles of incorporation, bylaws or resolution that authorizes the payments so as to eliminate or impair a director’s right to payments after an act or omission occurs that subjects the director to a proceeding for which the director seeks payment. (b) Notwithstanding the prohibition set forth in paragraph (a) of this subsection, a cooperative may eliminate or impair a director’s right to payments if at the time the act or omission occurred the cooperative’s articles of incorporation, bylaws or resolution explicitly authorized the cooperative to eliminate or impair the right after an act or omission occurs. [1995 c.195 §18; 2011 c.227 §4] 62.470 [1981 c.542 §8; repealed by 1995 c.195 §46] 
+(3) of this section may not amend or rescind the articles of incorporation, bylaws or resolution that authorizes the payments so as to eliminate or impair a director’s right to payments after an act or omission occurs that subjects the director to a proceeding for which the director seeks payment. (b) Notwithstanding the prohibition set forth in paragraph (a) of this subsection, a cooperative may eliminate or impair a director’s right to payments if at the time the act or omission occurred the cooperative’s articles of incorporation, bylaws or resolution explicitly authorized the cooperative to eliminate or impair the right after an act or omission occurs. [1995 c.195 §18; 2011 c.227 §4] 
 
 ## Provenance & change history
 

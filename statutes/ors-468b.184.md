@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1995
+enacted: 2025
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 468B.184 — Interagency team; development of action plan. Chapter 468B (Cha
 
 (3) The interagency team shall develop an action plan to inform well users of ground water contamination, reduce existing contamination and prevent further contamination of the affected ground water aquifer. The action plan shall include, but need not be limited to: (a) Identification of practices that may be contributing to the contamination of ground water in the area; (b) Consideration of all reasonable alternatives for reducing the contamination of the ground water to a level below that level requiring the declaration of a ground water quality management area; (c) Identification of mandatory actions, including actions under ORS 448.269, 454.650, 468B.189 and 537.617, that, when implemented, will reduce the contamination to a level below that level requiring the declaration of ground water quality management area or a ground water quality concern area; (d) A proposed time schedule for: (A) Implementing the action plan; (B) Achieving estimated reductions in concentrations of contaminants of concern, including periodic benchmarks for measuring progress toward estimated reductions; and (C) Public review of the action plan; (e) Any applicable provisions of a local voluntary implementation plan developed for the area under a declaration of a ground water quality concern area; (f) Required amendments of affected city or county comprehensive plans and land use regulations in accordance with the schedule and requirements of periodic review set forth in ORS chapters 197 and 197A to address the identified ground water quality protection and management concerns; (g) Any actions included in the agency assessment and outreach plan developed under ORS 468B.177
 
-(1) to (7), if applicable; and (h) Existing authorities, programs or actions of the agencies in the interagency team that are relevant to a contaminant of concern, those authorities, programs or actions that are reasonably appropriate for implementation and a rationale for selecting the reasonably appropriate authorities, programs or actions. [Formerly 536.157; 2025 c.605 §11] Note: See note under 468B.150. 468B.185 [Formerly 468.699; 1995 c.690 §8; renumbered 468B.190 in 1995] 
+(1) to (7), if applicable; and (h) Existing authorities, programs or actions of the agencies in the interagency team that are relevant to a contaminant of concern, those authorities, programs or actions that are reasonably appropriate for implementation and a rationale for selecting the reasonably appropriate authorities, programs or actions. [Formerly 536.157; 2025 c.605 §11] Note: See note under 468B.150. 
 
 ## Provenance & change history
 

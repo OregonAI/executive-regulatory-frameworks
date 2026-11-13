@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-62
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
+last_amended: 2003
 enacted: 1957
 status: current
 supersedes: null
@@ -56,7 +56,7 @@ ORS 62.695 — Jurisdiction of court to dissolve cooperative and liquidate asset
 
 (3) It is not necessary to make members or shareholders parties to any action or proceeding under this section unless relief is sought against them personally.
 
-(4) A court in a proceeding brought to dissolve a cooperative may issue injunctions, appoint a receiver or custodian pendente lite with all powers and duties the court directs, take other action required to preserve the assets of the cooperative wherever located and carry on the business of the cooperative until a full hearing can be held. [1957 c.716 §57; 1965 c.631 §25; 1987 c.94 §93; 2003 c.576 §325] 62.700 [1957 c.716 §58; 1987 c.94 §94; repealed by 1995 c.195 §46] 
+(4) A court in a proceeding brought to dissolve a cooperative may issue injunctions, appoint a receiver or custodian pendente lite with all powers and duties the court directs, take other action required to preserve the assets of the cooperative wherever located and carry on the business of the cooperative until a full hearing can be held. [1957 c.716 §57; 1965 c.631 §25; 1987 c.94 §93; 2003 c.576 §325] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-18
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2024
-enacted: 1961
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 18.364 — Prohibition on demanding firearms. Chapter 18 (Judgments), 2025 E
 
 ## Full text
 
-18.364 Prohibition on demanding firearms. No officer, civil or military, or other person, shall take from or demand of the owner any firearms mentioned in ORS 18.362, except where the services of the owner are also required to keep the peace or defend the state. [Formerly 23.210] 18.365 [1999 c.788 §17; 2003 c.576 §94; renumbered 18.194 in 2003] 18.370 [Amended by 1987 c.586 §6; 2003 c.576 §45a; renumbered 18.165 in 2003] (Wages) 
+18.364 Prohibition on demanding firearms. No officer, civil or military, or other person, shall take from or demand of the owner any firearms mentioned in ORS 18.362, except where the services of the owner are also required to keep the peace or defend the state. [Formerly 23.210] 
 
 ## Provenance & change history
 

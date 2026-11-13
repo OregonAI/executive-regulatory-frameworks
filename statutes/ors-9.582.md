@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2015
-enacted: 1953
+enacted: 2015
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 9.582 — Use of amounts not paid to class members in class action lawsuits.
 
 ## Full text
 
-9.582 Use of amounts not paid to class members in class action lawsuits. All amounts paid or delivered to the Oregon State Bar under ORCP 32 O are continuously appropriated to the Oregon State Bar, and may be used only for the funding of legal services provided through the Legal Services Program established under ORS 9.572. [2015 c.2 §4] Note: 9.582 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 9 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 9.590 [Repealed by 1953 c.609 §2] 9.595 [1981 c.193 §11; repealed by 1983 c.617 §1 (9.545 enacted in lieu of 9.595)] 9.600 [Repealed by 1953 c.609 §2] 9.610 [Repealed by 1953 c.609 §2]
+9.582 Use of amounts not paid to class members in class action lawsuits. All amounts paid or delivered to the Oregon State Bar under ORCP 32 O are continuously appropriated to the Oregon State Bar, and may be used only for the funding of legal services provided through the Legal Services Program established under ORS 9.572. [2015 c.2 §4] Note: 9.582 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 9 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

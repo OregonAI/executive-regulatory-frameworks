@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-20
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2009
+last_amended: 1961
 enacted: 1961
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 20.150 — Recovery of costs and disbursements when party represented by ano
 
 ## Full text
 
-20.150 Recovery of costs and disbursements when party represented by another. In an action, suit or proceeding prosecuted or defended by an executor, administrator, trustee of an express trust or person expressly authorized by statute to prosecute or defend therein, or in which a party appears by general guardian, conservator or guardian ad litem, costs and disbursements shall be recovered or not as in ordinary cases, but if recovered shall be chargeable only upon or collected from the estate, trust fund or party represented or for whom appearance is made, unless the court or judge thereof shall order such costs and disbursements to be recovered from the executor, administrator, trustee, person, guardian or conservator personally for mismanagement or bad faith in the commencement, prosecution or defense of the action, suit or proceeding. [Amended by 1961 c.344 §99] 20.160 [Amended by 1991 c.331 §5; 1997 c.631 §367; 2003 c.576 §285; 2005 c.22 §11; repealed by 2009 c.427 §1] 20.170 [Amended by 1991 c.331 §6; repealed by 2009 c.427 §1] 
+20.150 Recovery of costs and disbursements when party represented by another. In an action, suit or proceeding prosecuted or defended by an executor, administrator, trustee of an express trust or person expressly authorized by statute to prosecute or defend therein, or in which a party appears by general guardian, conservator or guardian ad litem, costs and disbursements shall be recovered or not as in ordinary cases, but if recovered shall be chargeable only upon or collected from the estate, trust fund or party represented or for whom appearance is made, unless the court or judge thereof shall order such costs and disbursements to be recovered from the executor, administrator, trustee, person, guardian or conservator personally for mismanagement or bad faith in the commencement, prosecution or defense of the action, suit or proceeding. [Amended by 1961 c.344 §99] 
 
 ## Provenance & change history
 

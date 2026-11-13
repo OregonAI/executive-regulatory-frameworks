@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-56
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
+last_amended: 1987
 enacted: 1987
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 56.160 — Petty cash fund. Chapter 56 (Duties of Secretary of State), 2025 
 
 ## Full text
 
-56.160 Petty cash fund. The Secretary of State is authorized to establish a petty cash fund, not to exceed $300, for the purpose of performing business registry functions. [1987 c.414 §65a] 56.170 [Formerly 57.772; 1993 c.66 §6; repealed by 1999 c.652 §22] 
+56.160 Petty cash fund. The Secretary of State is authorized to establish a petty cash fund, not to exceed $300, for the purpose of performing business registry functions. [1987 c.414 §65a] 
 
 ## Provenance & change history
 

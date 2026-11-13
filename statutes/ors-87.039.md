@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2016
-enacted: 1955
+last_amended: 1987
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 87.039 — Notice of filing claim of lien; effect of failure to give notice.
 
 (2) No costs, disbursements or attorney fees otherwise allowable as provided by ORS 87.060 shall be allowed to any party failing to comply with subsection
 
-(1) of this section. [1975 c.466 §14; 1983 c.674 §4; 1985 c.513 §3; 1987 c.662 §7] 87.040 [Repealed by 1975 c.466 §25] 
+(1) of this section. [1975 c.466 §14; 1983 c.674 §4; 1985 c.513 §3; 1987 c.662 §7] 
 
 ## Provenance & change history
 

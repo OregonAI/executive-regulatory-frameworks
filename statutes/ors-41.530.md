@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-41
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1955
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 41.530 — Evidence of representations as to third persons. Chapter 41 (Evid
 
 ## Full text
 
-41.530 Evidence of representations as to third persons. No evidence is admissible to charge a person upon a representation as to the credit, skill or character of a third person, unless the representation, or some memorandum thereof, be in writing, and either subscribed by or in the handwriting of the party to be charged. 41.540 [Repealed by 1977 c.479 §1] 41.550 [Repealed by 1961 c.726 §427] 
+41.530 Evidence of representations as to third persons. No evidence is admissible to charge a person upon a representation as to the credit, skill or character of a third person, unless the representation, or some memorandum thereof, be in writing, and either subscribed by or in the handwriting of the party to be charged. 
 
 ## Provenance & change history
 

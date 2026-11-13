@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
-enacted: 1969
+last_amended: 1975
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 87.282 — Waiver of right to hearing before filing of petition. Chapter 87 
 
 (2) That there is no reason to believe that the waiver or agreement is invalid; and
 
-(3) That the lien debtor has voluntarily, intelligently and knowingly waived that right. [1975 c.648 §29] 87.285 [Repealed by 1975 c.648 §72] 87.286 [Repealed by 1975 c.648 §72] 
+(3) That the lien debtor has voluntarily, intelligently and knowingly waived that right. [1975 c.648 §29] 
 
 ## Provenance & change history
 

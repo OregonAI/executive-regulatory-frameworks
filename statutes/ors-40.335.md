@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-40
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
+last_amended: 1981
 enacted: 1981
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 40.335 — Rule 606. Competency of juror as witness. Chapter 40 (Evidence Co
 
 ## Full text
 
-40.335 Rule 606. Competency of juror as witness. A member of the jury may not testify as a witness before that jury in the trial of the case in which the member has been sworn to sit as a juror. If the juror is called so to testify, the opposing party shall be afforded an opportunity to object out of the presence of the jury. [1981 c.892 §49] 40.340 [1981 c.892 §50; repealed by 1987 c.352 §1] 
+40.335 Rule 606. Competency of juror as witness. A member of the jury may not testify as a witness before that jury in the trial of the case in which the member has been sworn to sit as a juror. If the juror is called so to testify, the opposing party shall be afforded an opportunity to object out of the presence of the jury. [1981 c.892 §49] 
 
 ## Provenance & change history
 

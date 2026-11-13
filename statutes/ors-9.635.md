@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1953
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 9.635 — Sources of client security fund. Chapter 9 (Oregon State Bar; Atto
 
 (3) Claims recovered under ORS 9.665; and
 
-(4) Income from investments of the fund. [1967 c.546 §4; 2025 c.32 §40] 9.640 [Repealed by 1953 c.609 §2] 
+(4) Income from investments of the fund. [1967 c.546 §4; 2025 c.32 §40] 
 
 ## Provenance & change history
 

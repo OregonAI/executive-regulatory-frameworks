@@ -55,7 +55,7 @@ ORS 459A.035 — Solid waste composition study. Chapter 459A (Chapter 459A), 202
 
 (1) Measurement and composition of wastes disposed of through nonstandard methods such as litter; and
 
-(2) The composition of commingled and other recovered materials collected or processed in Oregon. [1991 c.385 §5; 1993 c.560 §79; 2015 c.534 §11] 459A.040 [1991 c.385 §93; repealed by 1997 c.552 §40] 
+(2) The composition of commingled and other recovered materials collected or processed in Oregon. [1991 c.385 §5; 1993 c.560 §79; 2015 c.534 §11] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2021
-enacted: 2019
+enacted: 2021
 status: current
 supersedes: null
 content_mode: verbatim
@@ -57,7 +57,7 @@ ORS 181A.829 — Prohibition on agreements related to immigration enforcement; o
 
 (3) A person may not operate a private immigration detention facility within this state.
 
-(4) Any person may bring a civil action against a law enforcement agency or public body that violates this section to enjoin the violation. [2021 c.550 §6] 181A.830 [Formerly 181.854; 2020 s.s.1 c.7 §5; renumbered 181A.674 in 2021] 181A.832 [2019 c.79 §1; renumbered 181A.487 in 2021]
+(4) Any person may bring a civil action against a law enforcement agency or public body that violates this section to enjoin the violation. [2021 c.550 §6] 
 
 ## Provenance & change history
 

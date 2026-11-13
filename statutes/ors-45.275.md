@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2023
-enacted: 1955
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -68,7 +68,7 @@ ORS 45.275 — Appointment of interpreter for non-English-speaking party, witnes
 
 (7) A court, a hearing officer or the designee of a hearing officer shall require any person serving as an interpreter for the court or agency to state the person’s name on the record and whether the person is certified under ORS 45.291. If the person is certified under ORS 45.291, the interpreter need not make the oath or affirmation required by ORS 40.325 or submit the interpreter’s qualifications on the record. If the person is not certified under ORS 45.291, the interpreter must make the oath or affirmation required by ORS 40.325 and submit the interpreter’s qualifications on the record.
 
-(8) For the purposes of this section: (a) “Hearing officer” includes an administrative law judge. (b) “Non-English-speaking person” means a person who, by reason of place of birth or culture, speaks a language other than English and does not speak English with adequate ability to communicate effectively in the proceedings. (c) “Qualified interpreter” means a person who is readily able to communicate with the non-English-speaking person and who can orally transfer the meaning of statements to and from English and the language spoken by the non-English-speaking person. A qualified interpreter must be able to interpret in a manner that conserves the meaning, tone, level, style and register of the original statement, without additions or omissions. “Qualified interpreter” does not include any person who is unable to interpret the dialect, slang or specialized vocabulary used by the party, victim or witness. [1991 c.750 §2; 1993 c.687 §8; 1995 c.273 §16; 1997 c.872 §18; 1999 c.1041 §4; 2001 c.242 §1; 2001 c.962 §§65,66; 2003 c.75 §§77,78; 2005 c.385 §2; 2012 c.107 §39; 2015 c.155 §2; 2023 c.281 §20] 45.280 [1955 c.611 §12; repealed by 1979 c.284 §199] 
+(8) For the purposes of this section: (a) “Hearing officer” includes an administrative law judge. (b) “Non-English-speaking person” means a person who, by reason of place of birth or culture, speaks a language other than English and does not speak English with adequate ability to communicate effectively in the proceedings. (c) “Qualified interpreter” means a person who is readily able to communicate with the non-English-speaking person and who can orally transfer the meaning of statements to and from English and the language spoken by the non-English-speaking person. A qualified interpreter must be able to interpret in a manner that conserves the meaning, tone, level, style and register of the original statement, without additions or omissions. “Qualified interpreter” does not include any person who is unable to interpret the dialect, slang or specialized vocabulary used by the party, victim or witness. [1991 c.750 §2; 1993 c.687 §8; 1995 c.273 §16; 1997 c.872 §18; 1999 c.1041 §4; 2001 c.242 §1; 2001 c.962 §§65,66; 2003 c.75 §§77,78; 2005 c.385 §2; 2012 c.107 §39; 2015 c.155 §2; 2023 c.281 §20] 
 
 ## Provenance & change history
 

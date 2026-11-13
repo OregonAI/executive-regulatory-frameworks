@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-51
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1953
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 51.210 — Each district to elect one justice. Chapter 51 (Justice Courts; J
 
 ## Full text
 
-51.210 Each district to elect one justice. Each justice of the peace district shall elect one justice of the peace, who shall hold office for six years and until a successor is elected and qualified. 51.220 [Amended by 1961 c.724 §25; 1965 c.510 §21; repealed by 1997 c.487 §2 and 1997 c.801 §106] 
+51.210 Each district to elect one justice. Each justice of the peace district shall elect one justice of the peace, who shall hold office for six years and until a successor is elected and qualified. 
 
 ## Provenance & change history
 

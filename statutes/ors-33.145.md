@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1991
-enacted: 1979
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 33.145 — Rules. Chapter 33 (Special Proceedings and Procedures), 2025 Edit
 
 ## Full text
 
-33.145 Rules. The Supreme Court may adopt rules to carry out the purposes of ORS 33.015 to 33.155. [1991 c.724 §13] 33.150 [Repealed by 1991 c.724 §32] 
+33.145 Rules. The Supreme Court may adopt rules to carry out the purposes of ORS 33.015 to 33.155. [1991 c.724 §13] 
 
 ## Provenance & change history
 

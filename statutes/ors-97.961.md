@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-97
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
-enacted: 1995
+last_amended: 2009
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -64,7 +64,7 @@ ORS 97.961 — Refusal to make anatomical gift; effect of refusal. Chapter 97 (R
 
 (5) of this section, in the absence of an express, contrary indication by the individual set forth in the refusal, an individual’s unrevoked refusal to make an anatomical gift of the individual’s body or body part prohibits all other persons from making an anatomical gift of the individual’s body or body part.
 
-(5) If an unemancipated minor who signed a refusal dies, a parent of the minor who is reasonably available may revoke the minor’s refusal. [2007 c.681 §6; 2009 c.106 §3] Note: See note under 97.951. 97.962 [1995 c.717 §7; repealed by 2007 c.681 §31] 
+(5) If an unemancipated minor who signed a refusal dies, a parent of the minor who is reasonably available may revoke the minor’s refusal. [2007 c.681 §6; 2009 c.106 §3] Note: See note under 97.951. 
 
 ## Provenance & change history
 

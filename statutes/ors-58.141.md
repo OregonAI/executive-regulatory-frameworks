@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1993
-enacted: 1961
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 58.141 — Rights and duties of foreign professional corporation and shareho
 
 (2) A foreign professional corporation shareholder who practices within this state has the same but no greater rights and the same but no greater privileges as a domestic professional corporation shareholder and, except as otherwise provided in this chapter, is subject to the same duties, restrictions, penalties and liabilities imposed on a domestic professional corporation shareholder.
 
-(3) The filing by the Secretary of State of an application or amendment to the application for authority to transact business shall constitute authorization to transact business in this state, subject to the approval by the applicable regulatory board or boards and subject to the right of the Secretary of State to revoke the authorization. [1993 c.235 §30] 58.144 [1987 c.94 §23; repealed by 1993 c.235 §40] 58.150 [Repealed by 1961 c.726 §427] 58.155 [1969 c.592 §10; repealed by 1993 c.235 §40]
+(3) The filing by the Secretary of State of an application or amendment to the application for authority to transact business shall constitute authorization to transact business in this state, subject to the approval by the applicable regulatory board or boards and subject to the right of the Secretary of State to revoke the authorization. [1993 c.235 §30] 
 
 ## Provenance & change history
 

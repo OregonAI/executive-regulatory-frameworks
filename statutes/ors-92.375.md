@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-92
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1963
+last_amended: 1991
+enacted: 1974
 status: current
 supersedes: null
 content_mode: verbatim
@@ -62,7 +62,7 @@ ORS 92.375 — Consent to service of process on commissioner. Chapter 92 (Subdiv
 
 (5) When served with any such process, the commissioner shall immediately cause one of the copies thereof, with any accompanying papers, to be forwarded by registered mail or by certified mail with return receipt to the subdivider, series partitioner or developer at the address set forth in the consent.
 
-(6) The commissioner shall keep a record of all processes, notices and demands served upon the commissioner under this section, and shall record therein the time of such service and action with reference thereto. [1974 c.1 §6; 1975 c.643 §5; 1983 c.570 §14; 1991 c.249 §9] 92.377 [2015 c.260 §2; repealed by 2025 c.476 §21] 92.380 [1963 c.624 §23; 1965 c.584 §11; repealed by 1973 c.421 §52] (Examination of Subdivision and Series Partition; Public Report) 
+(6) The commissioner shall keep a record of all processes, notices and demands served upon the commissioner under this section, and shall record therein the time of such service and action with reference thereto. [1974 c.1 §6; 1975 c.643 §5; 1983 c.570 §14; 1991 c.249 §9] 
 
 ## Provenance & change history
 

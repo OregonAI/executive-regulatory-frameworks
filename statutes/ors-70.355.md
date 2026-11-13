@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-70
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2011
+enacted: 1985
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +54,7 @@ ORS 70.355 — Registration of foreign limited partnership; rules. Chapter 70 (L
 
 (2) A person who signs the application for registration as a foreign limited partnership as an agent or fiduciary need not exhibit evidence of such authority as a prerequisite to filing.
 
-(3) A general partner’s executing the application for registration as a foreign limited partnership constitutes an affirmation under the applicable penalties of false swearing or perjury that the facts stated in the application are true. (4)(a) Except as provided in paragraph (b) of this subsection, the foreign limited partnership shall deliver with the completed application a certificate of existence or a similar document that is current within 60 days of the date of delivery. The certificate or document must be authenticated by the official having custody of limited partnership records in the state or country under whose law the partnership is organized. (b) A foreign limited partnership need not submit a certificate of existence or document in accordance with paragraph (a) of this subsection if the official who has custody of limited partnership records in the state or country under whose law the limited partnership is registered provides free access via the Internet to a searchable database that contains evidence of limited partnership registrations. [1985 c.677 §50; 1987 c.543 §28; 1991 c.132 §9; 1995 c.215 §19; 1999 c.486 §16; 2011 c.147 §21] 70.360 [1985 c.677 §51; 1987 c.543 §29; repealed by 1993 c.190 §24] 
+(3) A general partner’s executing the application for registration as a foreign limited partnership constitutes an affirmation under the applicable penalties of false swearing or perjury that the facts stated in the application are true. (4)(a) Except as provided in paragraph (b) of this subsection, the foreign limited partnership shall deliver with the completed application a certificate of existence or a similar document that is current within 60 days of the date of delivery. The certificate or document must be authenticated by the official having custody of limited partnership records in the state or country under whose law the partnership is organized. (b) A foreign limited partnership need not submit a certificate of existence or document in accordance with paragraph (a) of this subsection if the official who has custody of limited partnership records in the state or country under whose law the limited partnership is registered provides free access via the Internet to a searchable database that contains evidence of limited partnership registrations. [1985 c.677 §50; 1987 c.543 §28; 1991 c.132 §9; 1995 c.215 §19; 1999 c.486 §16; 2011 c.147 §21] 
 
 ## Provenance & change history
 

@@ -60,7 +60,7 @@ ORS 86A.992 — Civil penalties for violations of ORS 86A.095 to 86A.198. Chapte
 
 (3) Every violation is a separate offense and, in the case of a continuing violation, each day’s continuance is a separate violation, but the maximum penalty for any continuing violation shall not exceed $20,000 for each offense.
 
-(4) Civil penalties under this section shall be imposed as provided in ORS 183.745. [Formerly 59.996] _______________
+(4) Civil penalties under this section shall be imposed as provided in ORS 183.745. [Formerly 59.996] 
 
 ## Provenance & change history
 

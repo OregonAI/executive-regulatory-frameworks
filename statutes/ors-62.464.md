@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2011
-enacted: 1957
+enacted: 1995
 status: current
 supersedes: null
 content_mode: verbatim
@@ -62,7 +62,7 @@ ORS 62.464 — Authority to indemnify director; report to members. Chapter 62 (C
 
 (5) Indemnification permitted under this section in connection with a proceeding by or in the right of the cooperative is limited to reasonable expenses incurred in connection with the proceeding. (6)(a) A cooperative that provides indemnification to a director in accordance with the cooperative’s articles of incorporation or bylaws may not amend the articles of incorporation or bylaws so as to eliminate or impair the director’s right to indemnification after an act or omission occurs that subjects the director to a proceeding or to liability for which the director seeks indemnification under the terms of the articles of incorporation or bylaws. (b) Notwithstanding the prohibition set forth in paragraph (a) of this subsection, a cooperative may eliminate or impair a director’s right to indemnification if at the time the act or omission occurred the cooperative’s articles of incorporation or bylaws explicitly authorized the cooperative to eliminate or impair the right after an act or omission occurs.
 
-(7) If a cooperative indemnifies or advances expenses to a director under this section or ORS 62.466, 62.468 or 62.472 in connection with a proceeding by or in the right of the cooperative, the cooperative shall report the indemnification or advance in writing to the members with or before the notice of the next membership meeting. [1995 c.195 §16; 2011 c.227 §3] 62.465 [1981 c.542 §7; repealed by 1995 c.195 §46] 
+(7) If a cooperative indemnifies or advances expenses to a director under this section or ORS 62.466, 62.468 or 62.472 in connection with a proceeding by or in the right of the cooperative, the cooperative shall report the indemnification or advance in writing to the members with or before the notice of the next membership meeting. [1995 c.195 §16; 2011 c.227 §3] 
 
 ## Provenance & change history
 

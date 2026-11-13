@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1985
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 25.110 — Jurisdiction of designated additional court. Chapter 25 (Child Su
 
 (2) The only courts that have jurisdiction to modify any provision of the original order or judgment are: (a) The court having original jurisdiction of the cause in which the order or judgment was entered; and (b) An additional court designated under ORS 25.100.
 
-(3) When an additional court enters an order or judgment under this section, the clerk of the additional court shall forward the order or judgment to the clerk of the court in which the original order or judgment was entered. The clerk of the court in which the original order or judgment was entered shall file the additional court’s order or judgment in the original court file. [Formerly 23.800; 2003 c.576 §297; 2017 c.252 §6; 2025 c.256 §19] 25.120 [Formerly 23.805; 1993 c.33 §284; repealed by 1999 c.80 §95] 
+(3) When an additional court enters an order or judgment under this section, the clerk of the additional court shall forward the order or judgment to the clerk of the court in which the original order or judgment was entered. The clerk of the court in which the original order or judgment was entered shall file the additional court’s order or judgment in the original court file. [Formerly 23.800; 2003 c.576 §297; 2017 c.252 §6; 2025 c.256 §19] 
 
 ## Provenance & change history
 

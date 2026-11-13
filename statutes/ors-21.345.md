@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2023
-enacted: 1955
+enacted: 2013
 status: current
 supersedes: null
 content_mode: verbatim
@@ -66,7 +66,7 @@ ORS 21.345 — Transcript fees. Chapter 21 (State Court Fees), 2025 Edition.
 
 (1) of this section to be paid by a party shall be paid to the clerk of the court.
 
-(7) For purposes of this section, “transcript” has the meaning given that term in ORS 19.005. [Formerly 21.470; 2013 c.685 §7; 2023 c.302 §1] 21.350 [Formerly 21.140; 1973 c.381 §6; 1981 s.s. c.3 §77; 1997 c.801 §46; 2007 c.860 §13; 2011 c.224 §4; repealed by 2011 c.595 §104] 21.360 [Amended by 1955 c.458 §4; renumbered 21.315] 21.361 [1991 c.790 §21; 1995 c.666 §11; renumbered 21.245 in 2011] 21.363 [1991 c.790 §22; 2005 c.22 §13; renumbered 21.255 in 2011] 21.370 [Amended by 1963 c.519 §20; repealed by 1965 c.619 §39] 21.375 [Formerly 21.210 and then 21.115; 1971 c.621 §7; 1975 c.607 §8; 1979 c.833 §8; 1981 c.883 §30; 1981 c.898 §23; 1981 s.s. c.3 §83; 1985 c.496 §17; 1995 c.559 §56; 1997 c.872 §3; renumbered 5.125 in 1997] 21.380 [Amended by 1963 c.519 §21; repealed by 1965 c.619 §39] 21.385 [Formerly 46.223; repealed by 1999 c.59 §12]
+(7) For purposes of this section, “transcript” has the meaning given that term in ORS 19.005. [Formerly 21.470; 2013 c.685 §7; 2023 c.302 §1] 
 
 ## Provenance & change history
 

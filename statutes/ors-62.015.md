@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-62
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
+last_amended: 2015
 enacted: 1957
 status: current
 supersedes: null
@@ -96,7 +96,7 @@ ORS 62.015 — Definitions. Chapter 62 (Cooperatives), 2025 Edition.
 
 (21) “Shareholder” means a holder of shares of capital stock of a cooperative other than membership stock.
 
-(22) “Signature” means a manual, facsimile, conformed or electronic signature. [1957 c.716 §2; 1963 c.492 §41; 1974 c.2 §4; 1987 c.94 §78; 1995 c.195 §1; 1999 c.362 §16; 2001 c.142 §1; 2001 c.315 §33; 2005 c.107 §2; 2009 c.14 §2; 2009 c.294 §5; 2015 c.113 §3] 62.020 [Repealed by 1957 c.716 §76] (Filing Documents) 
+(22) “Signature” means a manual, facsimile, conformed or electronic signature. [1957 c.716 §2; 1963 c.492 §41; 1974 c.2 §4; 1987 c.94 §78; 1995 c.195 §1; 1999 c.362 §16; 2001 c.142 §1; 2001 c.315 §33; 2005 c.107 §2; 2009 c.14 §2; 2009 c.294 §5; 2015 c.113 §3] 
 
 ## Provenance & change history
 

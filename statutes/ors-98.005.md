@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-98
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
+last_amended: 2013
 enacted: 1973
 status: current
 supersedes: null
@@ -54,7 +54,7 @@ ORS 98.005 — Rights and duties of finder of money or goods. Chapter 98 (Lost, 
 
 (2) If no person appears and establishes ownership of the money or goods prior to the expiration of three months after the date of the notice to the county clerk under subsection
 
-(1) of this section, the finder shall be the owner of the money or goods. [1973 c.642 §1; 1989 c.522 §1; 2013 c.220 §1] 98.010 [Repealed by 1973 c.642 §13] 
+(1) of this section, the finder shall be the owner of the money or goods. [1973 c.642 §1; 1989 c.522 §1; 2013 c.220 §1] 
 
 ## Provenance & change history
 

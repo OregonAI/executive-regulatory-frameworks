@@ -58,7 +58,7 @@ ORS 93.990 — Penalties. Chapter 93 (Conveyancing and Recording), 2025 Edition.
 
 (1) enacted as 1967 c.462 §2; subsection
 
-(3) enacted as 1975 c.618 §4; 1977 c.724 §2; 1999 c.1051 §149] _______________
+(3) enacted as 1975 c.618 §4; 1977 c.724 §2; 1999 c.1051 §149] 
 
 ## Provenance & change history
 

@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-83
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
+last_amended: 2001
 enacted: 1957
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 83.540 — Delivery of copy of contract to buyer. Chapter 83 (Retail Install
 
 ## Full text
 
-83.540 Delivery of copy of contract to buyer. The motor vehicle dealer shall deliver to the buyer, or mail to the buyer at the address shown on the contract, a copy of the contract signed by the motor vehicle dealer. Until the motor vehicle dealer does so, a buyer who has not received delivery of the motor vehicle shall have an unconditional right to cancel the contract and to receive immediate refund of any amount paid and redelivery of all goods delivered or traded in to the motor vehicle dealer on account of or in contemplation of the contract. An acknowledgment by the buyer of delivery of a copy of the contract shall be printed or written in a size equal to at least 10-point bold type and, if contained in the contract, shall also appear directly above the legend required above the buyer’s signature by ORS 83.520 (2)(a). [1957 c.625 §4; 2001 c.117 §6] 83.550 [1957 c.625 §8; repealed by 1961 c.458 §1] 
+83.540 Delivery of copy of contract to buyer. The motor vehicle dealer shall deliver to the buyer, or mail to the buyer at the address shown on the contract, a copy of the contract signed by the motor vehicle dealer. Until the motor vehicle dealer does so, a buyer who has not received delivery of the motor vehicle shall have an unconditional right to cancel the contract and to receive immediate refund of any amount paid and redelivery of all goods delivered or traded in to the motor vehicle dealer on account of or in contemplation of the contract. An acknowledgment by the buyer of delivery of a copy of the contract shall be printed or written in a size equal to at least 10-point bold type and, if contained in the contract, shall also appear directly above the legend required above the buyer’s signature by ORS 83.520 (2)(a). [1957 c.625 §4; 2001 c.117 §6] 
 
 ## Provenance & change history
 

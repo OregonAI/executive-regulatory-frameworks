@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-14
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 14.030 — Jurisdiction as affected by place where cause of action or suit a
 
 ## Full text
 
-14.030 Jurisdiction as affected by place where cause of action or suit arises. When the court has jurisdiction of the parties, it may exercise it in respect to any cause of action or suit wherever arising, except for the specific recovery of real property situated without this state, or for an injury thereto. 14.035 [1963 c.352 §1; 1975 c.628 §2; 1979 c.246 §2; repealed by 1979 c.246 §7] 
+14.030 Jurisdiction as affected by place where cause of action or suit arises. When the court has jurisdiction of the parties, it may exercise it in respect to any cause of action or suit wherever arising, except for the specific recovery of real property situated without this state, or for an injury thereto. 
 
 ## Provenance & change history
 

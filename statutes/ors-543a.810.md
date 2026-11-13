@@ -48,7 +48,7 @@ ORS 543A.810 — Effect of amendment or repeal of law. Chapter 543A (Chapter 543
 
 ## Full text
 
-543A.810 Effect of amendment or repeal of law. Amendment or repeal of any section of ORS chapter 543A does not affect any water right or the rights of any holder of a water right issued thereunder. [2001 c.369 §8] Note: 543A.810 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 543A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. _______________
+543A.810 Effect of amendment or repeal of law. Amendment or repeal of any section of ORS chapter 543A does not affect any water right or the rights of any holder of a water right issued thereunder. [2001 c.369 §8] Note: 543A.810 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 543A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

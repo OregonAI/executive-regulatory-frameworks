@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1991
-enacted: 1975
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 87.214 — Disposal of property left with launderer or dry cleaner. Chapter 
 
 (1) If a garment or article left with a retail launderer or retail dry cleaner for laundering, dry cleaning or other service is not redeemed by the customer within 180 days, the launderer or dry cleaner may, without any liability or responsibility for the article or garment, dispose of the article or garment in any manner suitable to the launderer or dry cleaner.
 
-(2) A retail launderer or retail dry cleaner subject to this section shall post a notice describing the provisions of this section in a conspicuous place on the premises of the launderer or dry cleaner. The notice shall contain a citation to this section and shall be substantially the same as the following language: ______________________________________________________________________________ As specified in ORS 87.214, any garment, article, clothing, wearing apparel, leather garment, fur coat or garment, curtain, drapery, rug, carpet or household furnishing delivered to a launderer or dry cleaner for dry cleaning, dyeing, pressing, laundering, altering or other service, that is not picked up within 180 days after the date it was delivered, may be disposed of in any manner suitable to the launderer or dry cleaner. ______________________________________________________________________________ [1991 c.591 §1] Note: 87.214 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 87 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 87.215 [Repealed by 1975 c.648 §72]
+(2) A retail launderer or retail dry cleaner subject to this section shall post a notice describing the provisions of this section in a conspicuous place on the premises of the launderer or dry cleaner. The notice shall contain a citation to this section and shall be substantially the same as the following language: ______________________________________________________________________________ As specified in ORS 87.214, any garment, article, clothing, wearing apparel, leather garment, fur coat or garment, curtain, drapery, rug, carpet or household furnishing delivered to a launderer or dry cleaner for dry cleaning, dyeing, pressing, laundering, altering or other service, that is not picked up within 180 days after the date it was delivered, may be disposed of in any manner suitable to the launderer or dry cleaner. ______________________________________________________________________________ [1991 c.591 §1] Note: 87.214 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 87 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

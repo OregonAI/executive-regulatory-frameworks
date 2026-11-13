@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2011
-enacted: 1969
+last_amended: 1975
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 87.216 — Nonpossessory lien for labor or material expended on chattel. Cha
 
 ## Full text
 
-87.216 Nonpossessory lien for labor or material expended on chattel. A person who makes, alters, repairs, transports, stores, provides services for or performs labor on a chattel at the request of the owner of the chattel has a lien on that chattel for the reasonable or agreed charges for the labor or services the person performs and for the materials the person furnishes in connection therewith. [1975 c.648 §16] 87.220 [Repealed by 1975 c.648 §72] 
+87.216 Nonpossessory lien for labor or material expended on chattel. A person who makes, alters, repairs, transports, stores, provides services for or performs labor on a chattel at the request of the owner of the chattel has a lien on that chattel for the reasonable or agreed charges for the labor or services the person performs and for the materials the person furnishes in connection therewith. [1975 c.648 §16] 
 
 ## Provenance & change history
 

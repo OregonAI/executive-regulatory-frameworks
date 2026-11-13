@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2005
-enacted: 1971
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 18.078 — Notice of entry of judgment in circuit court civil action. Chapte
 
 (3) This section does not apply to justice courts, municipal courts or county courts performing judicial functions.
 
-(4) This section does not apply to judgments in juvenile proceedings under ORS chapter 419A, 419B or 419C, civil commitment proceedings, probate proceedings, adoptions or guardianship or conservatorship proceedings under ORS chapter 125. [2003 c.576 §10; 2005 c.568 §16] 18.080 [Amended by 1971 c.365 §1; repealed by 1981 c.898 §53] 
+(4) This section does not apply to judgments in juvenile proceedings under ORS chapter 419A, 419B or 419C, civil commitment proceedings, probate proceedings, adoptions or guardianship or conservatorship proceedings under ORS chapter 125. [2003 c.576 §10; 2005 c.568 §16] 
 
 ## Provenance & change history
 

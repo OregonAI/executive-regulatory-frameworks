@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1983
-enacted: 1965
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 8.270 — Collective bargaining rights of court administrators and staff. Ch
 
 ## Full text
 
-8.270 Collective bargaining rights of court administrators and staff. All officers and employees of the courts of this state who are referred to in ORS 8.170 and 8.235 are subject to collective bargaining to the extent provided in ORS 243.650 to 243.809, and ORS 8.170 and 8.235 shall not be construed to reduce or eliminate any collective bargaining rights those officers and employees may have under ORS 243.650 to 243.809. [1983 c.763 §27a] 8.310 [Amended by 1965 c.369 §1; 1967 c.229 §1; 1971 c.565 §2; 1981 c.126 §2; repealed by 1981 s.s. c.3 §141] 8.320 [Amended by 1971 c.565 §3; repealed by 1981 s.s. c.3 §141] 8.330 [Repealed by 1981 s.s. c.3 §141]
+8.270 Collective bargaining rights of court administrators and staff. All officers and employees of the courts of this state who are referred to in ORS 8.170 and 8.235 are subject to collective bargaining to the extent provided in ORS 243.650 to 243.809, and ORS 8.170 and 8.235 shall not be construed to reduce or eliminate any collective bargaining rights those officers and employees may have under ORS 243.650 to 243.809. [1983 c.763 §27a] 
 
 ## Provenance & change history
 

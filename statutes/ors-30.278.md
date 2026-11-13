@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1967
+last_amended: 2021
+enacted: 1987
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 30.278 — Reporting notice of claim of professional negligence to licensing
 
 (1) When notice is received under ORS 30.275 of a claim of professional negligence against a physician, optometrist, dentist, dental hygienist or naturopath who is acting within the scope of employment by a public body or within the scope of duties as defined by ORS 30.267, the person receiving the notice shall report to the appropriate licensing board, in the same manner as required by ORS 742.400, the information required by ORS 742.400 to be reported by insurers.
 
-(2) This section does not apply to a notice of adverse health care incident received under ORS 31.262. [1987 c.774 §64; 2013 c.5 §§11,12; 2021 c.271 §2] Note: 30.278 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 30 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 30.280 [1967 c.627 §6; repealed by 1975 c.609 §25] 
+(2) This section does not apply to a notice of adverse health care incident received under ORS 31.262. [1987 c.774 §64; 2013 c.5 §§11,12; 2021 c.271 §2] Note: 30.278 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 30 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

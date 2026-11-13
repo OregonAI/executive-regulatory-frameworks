@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2023
-enacted: 1993
+enacted: 2005
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 419B.237 — Duration of appointment; compensation. Chapter 419B (Chapter 41
 
 (2) A party to the proceeding or the attorney for the parent for whom a guardian ad litem has been appointed may request removal of the guardian ad litem. The court: (a) Shall remove the guardian ad litem if the court determines that the parent no longer lacks substantial capacity either to understand the nature and consequences of the proceeding or to give direction and assistance to the parent’s attorney on decisions the parent must make in the proceeding; or (b) May remove the guardian ad litem on other grounds as the court determines appropriate.
 
-(3) The Oregon Public Defense Commission shall compensate a guardian ad litem for duties the guardian ad litem performs in the proceeding from funds appropriated to the commission. [2005 c.450 §4; 2023 c.281 §65] 419B.239 [1993 c.33 §89; 1993 c.546 §40; repealed by 2001 c.622 §57] 419B.242 [1993 c.33 §90; 1993 c.546 §41; repealed by 2001 c.622 §57] 419B.245 [1993 c.33 §91; 2001 c.622 §38; renumbered 419B.872 in 2001] 419B.260 [1993 c.546 §43 (enacted in lieu of 1993 c.33 §92); 1997 c.707 §31; 1997 c.873 §12; 1999 c.302 §1; 2001 c.622 §36; renumbered 419B.806 in 2001] 419B.265 [1993 c.33 §93; 1993 c.546 §44; 1995 c.273 §21; repealed by 2001 c.622 §57] 419B.268 [1993 c.33 §94; 1993 c.295 §3; 1993 c.546 §45; repealed by 2001 c.622 §57] 419B.271 [1993 c.33 §95; 1993 c.295 §4; 1993 c.546 §46; 1995 c.273 §22; repealed by 2001 c.622 §57] 419B.274 [1993 c.33 §96; repealed by 2001 c.622 §57] 419B.277 [1993 c.33 §97; 1993 c.546 §47; repealed by 2001 c.622 §57] 419B.280 [1993 c.33 §98; renumbered 419B.827 in 2001] 419B.282 [1993 c.33 §99; 2001 c.622 §48; renumbered 419B.842 in 2001] 419B.285 [1993 c.33 §100; 1993 c.546 §48; 2001 c.622 §41; renumbered 419B.914 in 2001] 419B.300 [1993 c.546 §50; 2001 c.622 §40; renumbered 419B.881 in 2001] (Hearings) 
+(3) The Oregon Public Defense Commission shall compensate a guardian ad litem for duties the guardian ad litem performs in the proceeding from funds appropriated to the commission. [2005 c.450 §4; 2023 c.281 §65] 
 
 ## Provenance & change history
 

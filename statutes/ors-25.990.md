@@ -59,7 +59,7 @@ ORS 25.990 — Penalties. Chapter 25 (Child Support Services), 2025 Edition.
 
 (3) Violation of ORS 25.785
 
-(3) is a Class A misdemeanor. [1985 c.671 §52(4); 1989 c.812 §3(2); 1999 c.1051 §147; 2003 c.610 §4; 2011 c.597 §151] _______________
+(3) is a Class A misdemeanor. [1985 c.671 §52(4); 1989 c.812 §3(2); 1999 c.1051 §147; 2003 c.610 §4; 2011 c.597 §151] 
 
 ## Provenance & change history
 

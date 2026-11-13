@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-42
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 1981
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 42.300 — Parties to written instrument not to deny facts recited therein. 
 
 ## Full text
 
-42.300 Parties to written instrument not to deny facts recited therein. Except for the recital of a consideration, the truth of the facts recited from the recital in a written instrument shall not be denied by the parties thereto, their representatives or successors in interest by a subsequent title. [1981 c.892 §83] _______________
+42.300 Parties to written instrument not to deny facts recited therein. Except for the recital of a consideration, the truth of the facts recited from the recital in a written instrument shall not be denied by the parties thereto, their representatives or successors in interest by a subsequent title. [1981 c.892 §83] 
 
 ## Provenance & change history
 

@@ -66,7 +66,7 @@ ORS 419C.481 — Guardianship and legal custody of adjudicated youth committed t
 
 (2) When the court grants legal custody to the youth authority, it may also grant guardianship of the adjudicated youth to the youth authority, to remain in effect solely while the adjudicated youth remains in the legal custody of the youth authority.
 
-(3) The director of the youth authority may authorize the superintendent of the youth correction facility, as defined in ORS 420.005, in which the adjudicated youth is placed, if any, to exercise the duties and authority of a guardian of the adjudicated youth under ORS 419C.558 and to determine parole and final release under ORS 420.045. [1993 c.33 §239; 1993 c.367 §4; 2003 c.396 §120; 2021 c.489 §83] 419C.483 [1993 c.33 §241; repealed by 1999 c.92 §7] 
+(3) The director of the youth authority may authorize the superintendent of the youth correction facility, as defined in ORS 420.005, in which the adjudicated youth is placed, if any, to exercise the duties and authority of a guardian of the adjudicated youth under ORS 419C.558 and to determine parole and final release under ORS 420.045. [1993 c.33 §239; 1993 c.367 §4; 2003 c.396 §120; 2021 c.489 §83] 
 
 ## Provenance & change history
 

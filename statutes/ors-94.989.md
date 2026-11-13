@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1989
-enacted: 1971
+last_amended: 1985
+enacted: 1985
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 94.989 — Interpretation of membership camping contracts; application of Un
 
 (2) Membership camping contracts covered by ORS 94.925 to 94.983 are retail installment contracts under ORS 83.010 to 83.190.
 
-(3) The Attorney General shall protect the rights of purchasers through the application of ORS 336.184 and 646.605 to 646.652. [1985 c.639 §12] 94.990 [Repealed by 1971 c.478 §1] 94.991 [Formerly 91.990; 1987 c.320 §15; renumbered 100.990 in 1989] _______________
+(3) The Attorney General shall protect the rights of purchasers through the application of ORS 336.184 and 646.605 to 646.652. [1985 c.639 §12] 
 
 ## Provenance & change history
 

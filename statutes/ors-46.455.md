@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1953
+enacted: 1971
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 46.455 — Admission or denial of claim; request for jury trial. Chapter 46 
 
 (2) If the defendant denies the claim, the defendant: (a) May demand a hearing in the small claims department in a written request to the clerk in the form prescribed by the court, accompanied by payment of the defendant’s fee prescribed; and (b) When demanding a hearing, may assert a counterclaim in the form provided by the court.
 
-(3) If the total amount or value claimed, including identified prejudgment or preaward interest, fees and costs, exceeds $750, the defendant has a constitutional right to a jury trial and may claim that right in a written request to the clerk in the form prescribed by the court, accompanied by payment of the appearance fee required from defendants under ORS 21.160. The request shall designate a mailing address to which a summons and copy of the complaint may be served by mail. Thereafter, the plaintiff’s claim will not be limited to the amount stated in the claim, though it must involve the same controversy. [1971 c.760 §7; 1973 c.654 §1; 1973 c.812 §3a; 1977 c.875 §5; 1977 c.877 §10a; 1981 s.s. c.3 §94; 1983 c.673 §2; 1985 c.496 §13; 1991 c.111 §5; 1991 c.195 §3; 1995 c.227 §2; 1995 c.455 §4; 1995 c.658 §48; 1997 c.46 §§6,7; 2011 c.595 §49; 2025 c.197 §1] 46.458 [1995 c.455 §2; 1995 c.618 §15b; repealed by 1997 c.46 §1] 46.460 [Amended by 1965 c.619 §24; 1969 c.683 §2; repealed by 1971 c.760 §11] 
+(3) If the total amount or value claimed, including identified prejudgment or preaward interest, fees and costs, exceeds $750, the defendant has a constitutional right to a jury trial and may claim that right in a written request to the clerk in the form prescribed by the court, accompanied by payment of the appearance fee required from defendants under ORS 21.160. The request shall designate a mailing address to which a summons and copy of the complaint may be served by mail. Thereafter, the plaintiff’s claim will not be limited to the amount stated in the claim, though it must involve the same controversy. [1971 c.760 §7; 1973 c.654 §1; 1973 c.812 §3a; 1977 c.875 §5; 1977 c.877 §10a; 1981 s.s. c.3 §94; 1983 c.673 §2; 1985 c.496 §13; 1991 c.111 §5; 1991 c.195 §3; 1995 c.227 §2; 1995 c.455 §4; 1995 c.658 §48; 1997 c.46 §§6,7; 2011 c.595 §49; 2025 c.197 §1] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2023
-enacted: 1999
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -64,7 +64,7 @@ ORS 285B.290 — Industry Competitiveness Fund; uses. Chapter 285B (Chapter 285B
 
 (5) “Traded sector” has the meaning given that term in ORS 285B.280. [2023 c.546 §4] Sec. 5. (1)(a) The Oregon Business Development Department shall use the expenditure authority under section 3 of this 2023 Act to award matching grants to membership organizations and business accelerators in accordance with this section. (b) Matching grants awarded under this section must be used by the receiving membership organizations and business accelerators for the purposes of capacity building and technical assistance in the outdoor gear and apparel industry. (2)(a) The department shall provide public notice whenever there are funds available for matching grants under this section. (b) The notice must include information about the requirements for eligibility and the application process for the matching grants. (3)(a) A membership organization or business accelerator seeking a matching grant under this section must file with the department an application in accordance with rules adopted by the department pursuant to paragraph (c) of this subsection. The information included with the application must demonstrate that the applicant is a membership organization or business accelerator. (b) The department may charge an application fee in an amount that does not exceed the actual costs incurred by the department in processing applications filed pursuant to this section. (c) The department shall adopt rules that establish the application process for matching grants awarded under this section.
 
-(4) The department may not pay the amount of a matching grant to a membership organization or business accelerator unless the recipient has entered into a grant agreement with the department that establishes the deliverables required from, and other goals to be met by, the recipient. [2023 c.546 §5] Sec. 6. No later than September 15, 2024, the Oregon Business Development Department shall submit, in the manner provided in ORS 192.245, a report that sets forth the investments made pursuant to section 5 of this 2023 Act to the interim committees of the Legislative Assembly related to economic development. [2023 c.546 §6] Sec. 7. Sections 4 and 5 of this 2023 Act are repealed on January 2, 2026. [2023 c.546 §7] 285B.292 [Formerly 285.775; repealed by 1999 c.509 §61] 285B.295 [Formerly 285.777; repealed by 1999 c.509 §61] 285B.298 [Formerly 285.780; repealed by 1999 c.509 §61] STATE REVENUE BONDS FOR INDUSTRIAL, COMMERCIAL, SOLID WASTE DISPOSAL, RESEARCH AND DEVELOPMENT USES 
+(4) The department may not pay the amount of a matching grant to a membership organization or business accelerator unless the recipient has entered into a grant agreement with the department that establishes the deliverables required from, and other goals to be met by, the recipient. [2023 c.546 §5] Sec. 6. No later than September 15, 2024, the Oregon Business Development Department shall submit, in the manner provided in ORS 192.245, a report that sets forth the investments made pursuant to section 5 of this 2023 Act to the interim committees of the Legislative Assembly related to economic development. [2023 c.546 §6] Sec. 7. Sections 4 and 5 of this 2023 Act are repealed on January 2, 2026. [2023 c.546 §7] 
 
 ## Provenance & change history
 

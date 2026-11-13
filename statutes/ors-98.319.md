@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-98
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1957
+last_amended: 2019
+enacted: 2018
 status: current
 supersedes: null
 content_mode: verbatim
@@ -72,7 +72,7 @@ ORS 98.319 — U.S. savings bonds presumed abandoned; escheat proceedings. Chapt
 
 (8) The Marion County Circuit Court shall issue an order escheating U.S. savings bonds to the State of Oregon if the court determines that: (a) With respect to the bonds, all provisions of this section have been complied with; and (b) The bonds: (A) Have, within the meaning of the applicable federal regulations, reached the final extended maturity date or the final maturity, or have stopped earning interest; (B) Are in the possession of the state; and (C) Have been abandoned by all persons entitled to payment for the bonds under the applicable federal regulations. (9)(a) Upon issuance of an order of escheat with respect to U.S. savings bonds, the State Treasurer may apply to the United States Treasury for payment to the state for the bonds. (b) ORS 98.386 applies to any payments received by the state pursuant to this subsection.
 
-(10) This section does not apply to a claim of title by the state to U.S. savings bonds as heir to a deceased owner. [2018 c.95 §2; 2019 c.678 §80] 98.320 [Repealed by 1957 c.670 §37] 
+(10) This section does not apply to a claim of title by the state to U.S. savings bonds as heir to a deceased owner. [2018 c.95 §2; 2019 c.678 §80] 
 
 ## Provenance & change history
 

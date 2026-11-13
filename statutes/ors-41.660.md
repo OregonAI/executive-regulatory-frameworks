@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-41
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1955
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 41.660 — Admissibility of objects cognizable by the senses. Chapter 41 (Ev
 
 ## Full text
 
-41.660 Admissibility of objects cognizable by the senses. Whenever an object, cognizable by the senses, has such a relation to the fact in dispute as to afford reasonable grounds of belief respecting it, or to make an item in the sum of the evidence, the object may be exhibited to the jury, or its existence, situation and character may be proved by witnesses. The exhibition of the object to the jury shall be regulated by the sound discretion of the court. 41.670 [Repealed by 1981 c.892 §98] 
+41.660 Admissibility of objects cognizable by the senses. Whenever an object, cognizable by the senses, has such a relation to the fact in dispute as to afford reasonable grounds of belief respecting it, or to make an item in the sum of the evidence, the object may be exhibited to the jury, or its existence, situation and character may be proved by witnesses. The exhibition of the object to the jury shall be regulated by the sound discretion of the court. 
 
 ## Provenance & change history
 

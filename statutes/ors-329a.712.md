@@ -56,7 +56,7 @@ ORS 329A.712 — Revenue distribution to child care providers. Chapter 329A (Cha
 
 (2) Revenues shall be disbursed to child care providers consistent with rules adopted by the Early Learning Council.
 
-(3) Distributions shall be made to child care providers in the proportion that the department determines best promotes the provision of high quality child care in this state. [Formerly 657A.712; 2015 c.701 §24; 2017 c.186 §3; 2021 c.631 §42; 2023 c.554 §40] Note: See note under 329A.700. 329A.715 [Formerly 657A.715; repealed by 2017 c.186 §4] 329A.718 [Formerly 657A.718; repealed by 2017 c.186 §4]
+(3) Distributions shall be made to child care providers in the proportion that the department determines best promotes the provision of high quality child care in this state. [Formerly 657A.712; 2015 c.701 §24; 2017 c.186 §3; 2021 c.631 §42; 2023 c.554 §40] Note: See note under 329A.700. 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2023
-enacted: 2007
+enacted: 2023
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 459A.323 — Coordinating body; manufacturer obligation. Chapter 459A (Chapt
 
 (2) The coordinating body, or an electronics producer responsibility organization if a coordinating body is not designated under this section, shall annually calculate each manufacturer’s manufacturer obligation by: (a) Multiplying the manufacturer’s market share for each product category by the product category’s percentage of the total weight of all covered electronic devices recycled during the previous year; and (b) Adding the percentages calculated under paragraph (a) of this subsection.
 
-(3) The coordinating body must: (a) Annually reconcile the financial obligations between all electronics producer responsibility organizations based on the manufacturer obligations of the manufacturers participating in each electronics producer responsibility program; and (b) Conduct any other coordination between electronics producer responsibility organizations required by ORS 459A.305 to 459A.355 or as directed by the department. (4)(a) Each electronics producer responsibility organization must work with the coordinating body and with all other electronics producer responsibility organizations to ensure the reconciliation of financial obligations for the electronics producer responsibility programs in accordance with the manufacturer obligations calculated by the coordinating body under this section and to ensure that all coordination required under ORS 459A.305 to 459A.355 is conducted. (b) An electronics producer responsibility organization or a coordinating body may, after notice to the manufacturer, refer to the department any potential violations of the requirements of ORS 459A.305 to 459A.355 by the manufacturer. [2023 c.259 §7] Note: See note under 459A.300. 459A.325 [2007 c.302 §7; repealed by 2023 c.259 §15] 
+(3) The coordinating body must: (a) Annually reconcile the financial obligations between all electronics producer responsibility organizations based on the manufacturer obligations of the manufacturers participating in each electronics producer responsibility program; and (b) Conduct any other coordination between electronics producer responsibility organizations required by ORS 459A.305 to 459A.355 or as directed by the department. (4)(a) Each electronics producer responsibility organization must work with the coordinating body and with all other electronics producer responsibility organizations to ensure the reconciliation of financial obligations for the electronics producer responsibility programs in accordance with the manufacturer obligations calculated by the coordinating body under this section and to ensure that all coordination required under ORS 459A.305 to 459A.355 is conducted. (b) An electronics producer responsibility organization or a coordinating body may, after notice to the manufacturer, refer to the department any potential violations of the requirements of ORS 459A.305 to 459A.355 by the manufacturer. [2023 c.259 §7] Note: See note under 459A.300. 
 
 ## Provenance & change history
 

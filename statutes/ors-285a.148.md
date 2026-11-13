@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2016
-enacted: 1997
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 285A.148 — Oregon-China Sister State Committee; membership; term. Chapter 
 
 (7) The Legislative Policy and Research Director shall provide administrative staff support for one meeting of the Oregon-China Sister State Committee held before each visit described in ORS 285A.152
 
-(2) and for one meeting held after each visit. [2007 c.246 §3; 2013 c.222 §1; 2016 c.88 §15] Note: 285A.148 and 285A.152 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 285A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 285A.150 [1997 c.495 §1; 2001 c.582 §1; 2005 c.837 §17; renumbered 284.600 in 2007] 
+(2) and for one meeting held after each visit. [2007 c.246 §3; 2013 c.222 §1; 2016 c.88 §15] Note: 285A.148 and 285A.152 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 285A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

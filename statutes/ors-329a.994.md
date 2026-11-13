@@ -51,7 +51,7 @@ ORS 329A.994 — Civil penalty for interference with disclosure of information. 
 
 ## Full text
 
-329A.994 Civil penalty for interference with disclosure of information. Notwithstanding ORS 329A.992, the Department of Early Learning and Care shall impose a civil penalty, as provided in ORS 183.745, for the violation of ORS 329A.348. The civil penalty is $500 for each violation. [2019 c.381 §9; 2023 c.554 §42] Note: 329A.994 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 329A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. _______________
+329A.994 Civil penalty for interference with disclosure of information. Notwithstanding ORS 329A.992, the Department of Early Learning and Care shall impose a civil penalty, as provided in ORS 183.745, for the violation of ORS 329A.348. The civil penalty is $500 for each violation. [2019 c.381 §9; 2023 c.554 §42] Note: 329A.994 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 329A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

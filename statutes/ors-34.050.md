@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-34
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 1979
+enacted: 1977
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 34.050 — Plaintiff’s undertaking. Chapter 34 (Writs), 2025 Edition.
 
 ## Full text
 
-34.050 Plaintiff’s undertaking. Before allowing the writ, the court shall require the plaintiff to give an undertaking to its approval, with one or more sureties, in the sum of $100, to the effect that the plaintiff will pay all costs and disbursements that may be adjudged to the defendant on the review. [Amended by 1977 c.515 §3; 1979 c.772 §9] 34.055 [1977 c.515 §2; repealed by 1979 c.772 §26] 
+34.050 Plaintiff’s undertaking. Before allowing the writ, the court shall require the plaintiff to give an undertaking to its approval, with one or more sureties, in the sum of $100, to the effect that the plaintiff will pay all costs and disbursements that may be adjudged to the defendant on the review. [Amended by 1977 c.515 §3; 1979 c.772 §9] 
 
 ## Provenance & change history
 

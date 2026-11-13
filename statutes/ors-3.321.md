@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1995
-enacted: 1959
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 3.321 — Compensation of reference judge; payment procedure. Chapter 3 (Cir
 
 (2) Payment of the compensation of a reference judge and the expense of the trial on reference before the reference judge shall be the obligation of the parties. The obligation shall be borne equally by the parties unless the parties agree to a different allocation.
 
-(3) The presiding judge for the judicial district shall estimate the compensation of the reference judge and the expense of the trial on reference in advance of the trial, and shall notify the parties of the estimate. The parties shall deposit with the clerk of the court the amount estimated by the presiding judge. The presiding judge may order the clerk to pay a portion of the deposited amount to the reference judge during the trial on reference. Upon termination of the referral of the action, the reference judge shall cause to be delivered to the presiding judge and each party a written statement of any remaining unpaid compensation and expense. The presiding judge shall hear and decide any objection to the written statement, and thereafter shall order payment to the reference judge or refund of any remainder of the deposited amount accordingly. [1983 c.704 §5; 1995 c.781 §14] 3.330 [Amended by 1971 c.108 §1; 1979 c.77 §2; repealed by 1981 c.215 §8] 3.340 [Repealed by 1969 c.591 §305] 3.350 [Repealed by 1981 c.215 §8] 3.360 [Repealed by 1981 c.215 §8] 3.370 [Repealed by 1959 c.552 §16] 3.380 [Amended by 1961 c.724 §14; 1973 c.484 §4; repealed by 1981 c.215 §8] 3.390 [Repealed by 1981 c.215 §8] 3.400 [Repealed by 1981 c.215 §8]
+(3) The presiding judge for the judicial district shall estimate the compensation of the reference judge and the expense of the trial on reference in advance of the trial, and shall notify the parties of the estimate. The parties shall deposit with the clerk of the court the amount estimated by the presiding judge. The presiding judge may order the clerk to pay a portion of the deposited amount to the reference judge during the trial on reference. Upon termination of the referral of the action, the reference judge shall cause to be delivered to the presiding judge and each party a written statement of any remaining unpaid compensation and expense. The presiding judge shall hear and decide any objection to the written statement, and thereafter shall order payment to the reference judge or refund of any remainder of the deposited amount accordingly. [1983 c.704 §5; 1995 c.781 §14] 
 
 ## Provenance & change history
 

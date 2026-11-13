@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2023
-enacted: 2007
+enacted: 2009
 status: current
 supersedes: null
 content_mode: verbatim
@@ -66,7 +66,7 @@ ORS 743A.141 — Hearing aids and assistive listening devices. Chapter 743A (Cha
 
 (8) A health benefit plan shall reimburse the costs described in this section when prescribed by a licensed health professional even if over-the-counter items and services are available without a prescription.
 
-(9) This section is exempt from ORS 743A.001. [2009 c.553 §2; 2011 c.500 §42a; 2015 c.515 §26; 2018 c.9 §2; 2023 c.424 §4] Note: 743A.141 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743A or any series therein. See Preface to Oregon Revised Statutes for further explanation. 743A.144 [2007 c.374 §2; 2016 c.11 §4; repealed by 2017 c.206 §16] 
+(9) This section is exempt from ORS 743A.001. [2009 c.553 §2; 2011 c.500 §42a; 2015 c.515 §26; 2018 c.9 §2; 2023 c.424 §4] Note: 743A.141 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743A or any series therein. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

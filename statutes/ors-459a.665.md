@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-459a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
+last_amended: 1991
 enacted: 1991
 status: current
 supersedes: null
@@ -51,7 +51,7 @@ ORS 459A.665 — Opportunity to recycle rigid plastic containers. Chapter 459A (
 
 ## Full text
 
-459A.665 Opportunity to recycle rigid plastic containers. A local government shall provide the opportunity to recycle rigid plastic containers in metropolitan and urban wastesheds when there is a stable market price for those containers that equals or exceeds 75 percent of the necessary and reasonable collection costs for those containers. [1991 c.385 §§34d,50] 459A.675 [1991 c.385 §86; 1993 c.560 §99; repealed by 2021 c.681 §58] 459A.680 [1991 c.385 §87; 1993 c.560 §100; repealed by 2021 c.681 §58] 459A.685 [1991 c.385 §88; repealed by 2021 c.681 §58] 459A.695 [Formerly 459.419; repealed by 2019 c.434 §7] BEVERAGE CONTAINERS; BOTTLE BILL 
+459A.665 Opportunity to recycle rigid plastic containers. A local government shall provide the opportunity to recycle rigid plastic containers in metropolitan and urban wastesheds when there is a stable market price for those containers that equals or exceeds 75 percent of the necessary and reasonable collection costs for those containers. [1991 c.385 §§34d,50] 
 
 ## Provenance & change history
 

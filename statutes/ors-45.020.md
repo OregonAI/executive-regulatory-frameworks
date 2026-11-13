@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-45
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1981
-enacted: 1961
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 45.020 — Affidavit described. Chapter 45 (Testimony Generally), 2025 Editi
 
 ## Full text
 
-45.020 Affidavit described. An affidavit is a written declaration under oath, made without notice to the adverse party. 45.030 [Repealed by 1979 c.284 §199] 
+45.020 Affidavit described. An affidavit is a written declaration under oath, made without notice to the adverse party. 
 
 ## Provenance & change history
 

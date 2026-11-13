@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-90
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
+last_amended: 2017
 enacted: 1989
 status: current
 supersedes: null
@@ -64,7 +64,7 @@ ORS 90.800 — Policy. Chapter 90 (Residential Landlord and Tenant), 2025 Editio
 
 (2) It is the policy of the State of Oregon to encourage facility tenants to participate in the housing marketplace by ensuring that technical assistance, financing opportunities, notice of sale of facilities and the option to purchase facilities are made available to tenants who choose to participate in the purchase of a facility.
 
-(3) The purpose of ORS 90.800 to 90.850, 456.579 and 456.581 is to strengthen the private housing market in Oregon by encouraging all Oregonians to have the ability to participate in the purchase of housing of their choice. [1989 c.919 §1; 1991 c.844 §24; 1995 c.559 §42; 2014 c.89 §7; 2017 c.315 §1] 90.805 [Formerly 90.760; repealed by 2019 c.625 §25] 90.810 [1989 c.919 §8; 1991 c.844 §25; 1995 c.559 §43; 2014 c.89 §8; repealed by 2019 c.625 §25] 90.815 [1989 c.919 §9; 1991 c.844 §26; 2014 c.89 §9; repealed by 2019 c.625 §25] 90.820 [1989 c.919 §10; 1991 c.844 §19; 1999 c.222 §1; 1999 c.603 §34a; 2009 c.295 §1; 2014 c.89 §10; repealed by 2019 c.625 §25] 90.830 [1989 c.919 §11; 1991 c.844 §27; 1999 c.222 §2; 2014 c.89 §11; repealed by 2019 c.625 §25] 
+(3) The purpose of ORS 90.800 to 90.850, 456.579 and 456.581 is to strengthen the private housing market in Oregon by encouraging all Oregonians to have the ability to participate in the purchase of housing of their choice. [1989 c.919 §1; 1991 c.844 §24; 1995 c.559 §42; 2014 c.89 §7; 2017 c.315 §1] 
 
 ## Provenance & change history
 

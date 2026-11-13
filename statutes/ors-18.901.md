@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-18
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
-enacted: 2001
+last_amended: 2005
+enacted: 2005
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 18.901 — Definition of residential property. Chapter 18 (Judgments), 2025 
 
 (3) A manufactured dwelling as defined by ORS 446.003 that is not being held as inventory for sale or lease in the regular course of business.
 
-(4) A floating home as defined in ORS 830.700 that is not being held as inventory for sale or lease in the regular course of business. [2005 c.542 §15] 18.902 [2001 c.249 §§82,82a; 2002 s.s.3 c.7 §2; 2003 c.75 §22; renumbered 18.855 in 2005] 
+(4) A floating home as defined in ORS 830.700 that is not being held as inventory for sale or lease in the regular course of business. [2005 c.542 §15] 
 
 ## Provenance & change history
 

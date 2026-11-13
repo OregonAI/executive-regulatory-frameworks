@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2009
-enacted: 1999
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 285A.349 — Evaluation of effectiveness of assistance. Chapter 285A (Chapte
 
 ## Full text
 
-285A.349 Evaluation of effectiveness of assistance. The Oregon Business Development Department shall evaluate the efficiency and effectiveness of the delivery of business assistance services to small businesses. [Formerly 285.127; 2003 c.773 §7; 2007 c.804 §15; 2009 c.830 §31] Note: See note under 285A.340. 285A.360 [Formerly 285.175; repealed by 1999 c.509 §61] 285A.363 [Formerly 285.176; repealed by 1999 c.509 §61] 285A.366 [Formerly 285.178; repealed by 1999 c.509 §61] 285A.369 [Formerly 285.179; repealed by 1999 c.509 §61] 285A.380 [Formerly 285.250; repealed by 1999 c.509 §61] 285A.383 [Formerly 285.253; repealed by 1999 c.509 §61] 285A.386 [Formerly 285.255; repealed by 1999 c.509 §61] 285A.389 [Formerly 285.257; repealed by 1999 c.509 §61] 285A.392 [Formerly 285.260; repealed by 1999 c.509 §61] 285A.415 [Formerly 285.170; repealed by 1999 c.509 §61] 285A.418 [Formerly 285.173; repealed by 1999 c.509 §61]
+285A.349 Evaluation of effectiveness of assistance. The Oregon Business Development Department shall evaluate the efficiency and effectiveness of the delivery of business assistance services to small businesses. [Formerly 285.127; 2003 c.773 §7; 2007 c.804 §15; 2009 c.830 §31] Note: See note under 285A.340. 
 
 ## Provenance & change history
 

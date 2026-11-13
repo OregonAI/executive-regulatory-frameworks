@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2001
-enacted: 1999
+enacted: 2001
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 285A.711 — Use of fund proceeds. Chapter 285A (Chapter 285A), 2025 Edition
 
 ## Full text
 
-285A.711 Use of fund proceeds. All payments, receipts and interest from outstanding indebtedness shall be retained in the Oregon Port Revolving Fund and accumulated for new project disbursal, and repayment of funds allocated pursuant to section 25, chapter 838, Oregon Laws 1977. All interest earnings of the fund from whatever source shall be retained and accumulated in the Oregon Port Revolving Fund and shall be used for projects, and repayment of funds allocated pursuant to section 25, chapter 838, Oregon Laws 1977. [Formerly 285.920; 2001 c.883 §20] 285A.714 [Formerly 285.923; repealed by 1999 c.509 §61] 285A.717 [Formerly 285.927; repealed by 1999 c.509 §61] 285A.720 [Formerly 285.930; repealed by 1999 c.509 §61] 285A.723 [Formerly 285.933; repealed by 1999 c.509 §61] 285A.726 [Formerly 285.935; repealed by 1999 c.509 §61] 285A.729 [Formerly 285.940; repealed by 1999 c.509 §61] 
+285A.711 Use of fund proceeds. All payments, receipts and interest from outstanding indebtedness shall be retained in the Oregon Port Revolving Fund and accumulated for new project disbursal, and repayment of funds allocated pursuant to section 25, chapter 838, Oregon Laws 1977. All interest earnings of the fund from whatever source shall be retained and accumulated in the Oregon Port Revolving Fund and shall be used for projects, and repayment of funds allocated pursuant to section 25, chapter 838, Oregon Laws 1977. [Formerly 285.920; 2001 c.883 §20] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2019
-enacted: 1997
+enacted: 2009
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 285A.157 — Oregon Broadband Advisory Council Fund; sources of funds. Chapt
 
 (1) The Oregon Broadband Advisory Council Fund is established, separate and distinct from the General Fund. Interest earned by the Oregon Broadband Advisory Council Fund shall be credited to the fund. Moneys in the Oregon Broadband Advisory Council Fund are continuously appropriated to the Oregon Business Development Department for the purposes of carrying out the duties of the Oregon Broadband Advisory Council.
 
-(2) The department, on behalf of the council, may accept contributions of funds and assistance from the United States Government or agencies of the United States Government or from any other source, public or private, and agree to conditions not inconsistent with the purposes of the council. All such funds are to aid in financing the functions of the council and must be deposited in the Oregon Broadband Advisory Council Fund to the credit of separate accounts for the council to disburse for the purposes for which the funds were contributed. [2009 c.782 §3; 2019 c.648 §4] Note: See first note under 285A.154. 285A.159 [1997 c.495 §5; 2001 c.582 §3; renumbered 284.612 in 2007] 
+(2) The department, on behalf of the council, may accept contributions of funds and assistance from the United States Government or agencies of the United States Government or from any other source, public or private, and agree to conditions not inconsistent with the purposes of the council. All such funds are to aid in financing the functions of the council and must be deposited in the Oregon Broadband Advisory Council Fund to the credit of separate accounts for the council to disburse for the purposes for which the funds were contributed. [2009 c.782 §3; 2019 c.648 §4] Note: See first note under 285A.154. 
 
 ## Provenance & change history
 

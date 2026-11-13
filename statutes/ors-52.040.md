@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-52
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2005
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 52.040 — Contempt in justice court. Chapter 52 (Civil Actions; Small Claim
 
 ## Full text
 
-52.040 Contempt in justice court. ORS 33.015 to 33.155, defining acts that constitute contempt and the proceedings for imposing sanctions for contempt, apply to justice courts. [Amended by 1991 c.724 §20; 1999 c.605 §4; 2005 c.22 §34] 52.050 [Repealed by 1999 c.605 §8] 
+52.040 Contempt in justice court. ORS 33.015 to 33.155, defining acts that constitute contempt and the proceedings for imposing sanctions for contempt, apply to justice courts. [Amended by 1991 c.724 §20; 1999 c.605 §4; 2005 c.22 §34] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2009
-enacted: 2007
+enacted: 2009
 status: current
 supersedes: null
 content_mode: verbatim
@@ -65,7 +65,7 @@ ORS 285A.098 — Powers of Oregon Infrastructure Finance Authority; administrati
 
 (1) The Oregon Infrastructure Finance Authority may: (a) Conduct hearings and conferences to develop facts, explain programs and activities, and obtain advice; (b) Enter into agreements with other public bodies, as defined in ORS 174.109, or associations or private persons for services to assist the authority and the Oregon Infrastructure Finance Authority Board; (c) Enter into agreements with other public bodies, as defined in ORS 174.109, the federal government, associations or private persons for cooperative endeavors that further programs administered by the authority; (d) Subject to applicable policies and procedures, enter into agreements for loans, grants or other assistance, including, but not limited to, direct purchase of goods or services, with local governments, as defined in ORS 174.116, special government bodies, as defined in ORS 174.117, or other eligible applicants for infrastructure development; (e) Appoint committees, consultants or other persons with expertise in infrastructure-related matters to advise the Oregon Infrastructure Finance Authority Board or the authority; (f) Obtain assistance or data from any state agency; or (g) Perform any other act necessary to carry out the duties of the authority.
 
-(2) The authority shall administer the state’s participation in the federal Community Development Block Grant funding program authorized by 42 U.S.C. 5301 et seq. [2009 c.830 §3a] 285A.100 [Formerly 285.055; repealed by 2007 c.804 §86] 
+(2) The authority shall administer the state’s participation in the federal Community Development Block Grant funding program authorized by 42 U.S.C. 5301 et seq. [2009 c.830 §3a] 
 
 ## Provenance & change history
 

@@ -54,7 +54,7 @@ ORS 75.1180 — Security interest of issuer or nominated person. Chapter 75 (Let
 
 (2) As long as and to the extent that an issuer or nominated person has not been reimbursed or has not otherwise recovered the value given with respect to a security interest in a document under subsection
 
-(1) of this section, the security interest continues and is subject to ORS chapter 79A, but: (a) A security agreement is not necessary to make the security interest enforceable under ORS 79A.2030 (2)(c); (b) If the document is presented in a medium other than a written or other tangible medium, the security interest is perfected; and (c) If the document is presented in a written or other tangible medium and is not a certificated security, chattel paper, a document of title, an instrument, or a letter of credit, the security interest is perfected and has priority over a conflicting security interest in the document as long as the debtor does not have possession of the document. [2001 c.445 §148] _______________
+(1) of this section, the security interest continues and is subject to ORS chapter 79A, but: (a) A security agreement is not necessary to make the security interest enforceable under ORS 79A.2030 (2)(c); (b) If the document is presented in a medium other than a written or other tangible medium, the security interest is perfected; and (c) If the document is presented in a written or other tangible medium and is not a certificated security, chattel paper, a document of title, an instrument, or a letter of credit, the security interest is perfected and has priority over a conflicting security interest in the document as long as the debtor does not have possession of the document. [2001 c.445 §148] 
 
 ## Provenance & change history
 

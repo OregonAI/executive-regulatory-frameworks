@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-92
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1985
-enacted: 1963
+last_amended: 1973
+enacted: 1973
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 92.215 — Review authorized; manner. Chapter 92 (Subdivisions and Partition
 
 (2) Each review conducted pursuant to subsection
 
-(1) of this section shall be conducted in the manner and subject to the conditions prescribed in ORS 92.225. [1973 c.569 §2] 92.220 [1963 c.624 §§1,2,25; repealed by 1973 c.421 §52] 
+(1) of this section shall be conducted in the manner and subject to the conditions prescribed in ORS 92.225. [1973 c.569 §2] 
 
 ## Provenance & change history
 

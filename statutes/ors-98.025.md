@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-98
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
+last_amended: 1973
 enacted: 1973
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 98.025 — Rights of owner. Chapter 98 (Lost, Unclaimed or Abandoned Propert
 
 ## Full text
 
-98.025 Rights of owner. If an owner of money or goods found by another person appears and establishes a claim to such money or goods within the time period prescribed by ORS 98.005 or 98.015, whichever applies, the owner shall have restitution of such money or goods or their value upon payment of all costs and charges incurred in the finding, giving of notice, care and custody of such money or goods. [1973 c.642 §3] 98.030 [Repealed by 1973 c.642 §13] 98.040 [Repealed by 1973 c.642 §13] 
+98.025 Rights of owner. If an owner of money or goods found by another person appears and establishes a claim to such money or goods within the time period prescribed by ORS 98.005 or 98.015, whichever applies, the owner shall have restitution of such money or goods or their value upon payment of all costs and charges incurred in the finding, giving of notice, care and custody of such money or goods. [1973 c.642 §3] 
 
 ## Provenance & change history
 

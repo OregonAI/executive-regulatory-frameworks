@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-97
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1969
+last_amended: 2019
+enacted: 2019
 status: current
 supersedes: null
 content_mode: verbatim
@@ -66,7 +66,7 @@ ORS 97.223 — Interment or temporary storage of human remains in case of natura
 
 (1) of this section; or (b) Personally undertakes an action specified in subsection
 
-(1) of this section. [2019 c.241 §2] 97.230 [Repealed by 1973 c.286 §1] (Unclaimed Cremated Remains of Veteran or Veteran’s Spouse, Dependent or Survivor) 
+(1) of this section. [2019 c.241 §2] 
 
 ## Provenance & change history
 

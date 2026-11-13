@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2023
-enacted: 1995
+enacted: 2023
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 419A.292 — Duties; report. Chapter 419A (Chapter 419A), 2025 Edition.
 
 (3) The Juvenile Justice Policy Commission shall provide a report to the Legislative Assembly, in the manner provided in ORS 192.245, by September 1st of every even-numbered year.
 
-(4) All agencies of state government, as defined in ORS 174.111, are directed to assist the Juvenile Justice Policy Commission in the performance of its duties and, to the extent permitted by laws relating to confidentiality, to furnish such information and advice as the members of the commission consider necessary to perform their duties. [2023 c.406 §4] Note: See first note under 419A.289. 419A.295 [Formerly 419.494; repealed by 1995 c.79 §215]
+(4) All agencies of state government, as defined in ORS 174.111, are directed to assist the Juvenile Justice Policy Commission in the performance of its duties and, to the extent permitted by laws relating to confidentiality, to furnish such information and advice as the members of the commission consider necessary to perform their duties. [2023 c.406 §4] Note: See first note under 419A.289. 
 
 ## Provenance & change history
 

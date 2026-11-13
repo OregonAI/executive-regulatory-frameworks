@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-725a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2010
+enacted: 2010
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +58,7 @@ ORS 725A.990 — Penalties. Chapter 725A (Short-Term Loans and Student Loan Serv
 
 (4) of this section, moneys collected under this section must be paid to the State Treasurer and credited as provided in ORS 705.145.
 
-(4) In addition to any other penalty provided by law, the director may assess against a person who makes a payday loan or title loan in violation of ORS 725A.020 a civil penalty in an amount equal to the interest the person receives that exceeds nine percent per annum. The director shall pay all moneys collected under this subsection to the Department of State Lands for the benefit of the Common School Fund. [2010 c.23 §28] _______________
+(4) In addition to any other penalty provided by law, the director may assess against a person who makes a payday loan or title loan in violation of ORS 725A.020 a civil penalty in an amount equal to the interest the person receives that exceeds nine percent per annum. The director shall pay all moneys collected under this subsection to the Department of State Lands for the benefit of the Common School Fund. [2010 c.23 §28] 
 
 ## Provenance & change history
 

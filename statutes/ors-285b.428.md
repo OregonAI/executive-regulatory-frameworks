@@ -48,7 +48,7 @@ ORS 285B.428 — Application for funds; rules. Chapter 285B (Chapter 285B), 2025
 
 ## Full text
 
-285B.428 Application for funds; rules. Any municipality may apply for financial or other assistance from the Special Public Works Fund by submitting a completed application and related information as required by the Oregon Business Development Department by rule. The application shall be filed, reviewed and approved or rejected in accordance with rules adopted by the department. [Formerly 285.710; 2001 c.883 §30b; 2003 c.773 §33; 2005 c.835 §11; 2009 c.830 §98] 285B.431 [Formerly 285.713; 2003 c.773 §34; repealed by 2005 c.835 §37] 285B.434 [Formerly 285.715; 2001 c.883 §30c; repealed by 2005 c.835 §37] 
+285B.428 Application for funds; rules. Any municipality may apply for financial or other assistance from the Special Public Works Fund by submitting a completed application and related information as required by the Oregon Business Development Department by rule. The application shall be filed, reviewed and approved or rejected in accordance with rules adopted by the department. [Formerly 285.710; 2001 c.883 §30b; 2003 c.773 §33; 2005 c.835 §11; 2009 c.830 §98] 
 
 ## Provenance & change history
 

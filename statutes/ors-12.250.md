@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-12
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2011
-enacted: 1975
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 12.250 — Actions by state, county or public corporations. Chapter 12 (Limi
 
 ## Full text
 
-12.250 Actions by state, county or public corporations. Unless otherwise made applicable thereto, the limitations prescribed in this chapter shall not apply to actions brought in the name of the state, or any county, or other public corporation therein, or for its benefit. 12.260 [Repealed by 1987 c.536 §9] 
+12.250 Actions by state, county or public corporations. Unless otherwise made applicable thereto, the limitations prescribed in this chapter shall not apply to actions brought in the name of the state, or any county, or other public corporation therein, or for its benefit. 
 
 ## Provenance & change history
 

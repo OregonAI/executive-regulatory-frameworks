@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-419a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2012
-enacted: 2001
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 419A.046 — Definition for ORS 419A.046 and 419A.048. Chapter 419A (Chapter
 
 ## Full text
 
-419A.046 Definition for ORS 419A.046 and 419A.048. As used in ORS 419A.046 and 419A.048, “state contribution” means the amount of money to which each county is entitled from the funds appropriated for the purposes of carrying out the provisions of ORS 419A.046 and 419A.048. [Formerly 423.330] 419A.047 [Formerly 423.340; 2001 c.904 §3; 2001 c.905 §4; 2003 c.396 §8; 2007 c.71 §110; repealed by 2012 c.37 §69] 
+419A.046 Definition for ORS 419A.046 and 419A.048. As used in ORS 419A.046 and 419A.048, “state contribution” means the amount of money to which each county is entitled from the funds appropriated for the purposes of carrying out the provisions of ORS 419A.046 and 419A.048. [Formerly 423.330] 
 
 ## Provenance & change history
 

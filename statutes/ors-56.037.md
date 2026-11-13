@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-56
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1953
+last_amended: 2007
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 56.037 — Authority of Secretary of State to refuse to file documents. Chap
 
 (1) The Secretary of State may refuse to file a document delivered for filing under ORS chapter 58, 60, 62, 63, 65, 67, 70, 79A, 87, 194, 305, 465, 466, 475, 554, 596, 634, 647, 648, 657 or 713 or under ORS 30.630, 81.248, 81.251 or 128.595 if the document contains a Social Security number, a state identification number, a driver license number, a credit or debit card number or an account number that is not redacted.
 
-(2) For purposes of this section, “redacted” means altered or truncated so that not more than the last four digits of a number are accessible. [2007 c.186 §2] 56.040 [Repealed by 1961 c.280 §2] 
+(2) For purposes of this section, “redacted” means altered or truncated so that not more than the last four digits of a number are accessible. [2007 c.186 §2] 
 
 ## Provenance & change history
 

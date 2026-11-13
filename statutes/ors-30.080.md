@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1997
+last_amended: 1983
 enacted: 1953
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 30.080 — Effect of death of wrongdoer. Chapter 30 (Actions and Suits in Pa
 
 ## Full text
 
-30.080 Effect of death of wrongdoer. Claims for relief arising out of injury to or death of a person, caused by the wrongful act or negligence of another, shall not abate upon the death of the wrongdoer, and the injured person or the personal representatives of the one meeting death, as above stated, shall have a claim for relief against the personal representatives of the wrongdoer as if the wrongdoer had survived, except for those damages provided for in ORS 30.020 (2)(e). [Amended by 1953 c.600 §3; 1961 c.437 §2; 1967 c.544 §2; 1973 c.742 §1; 1983 c.662 §1] 30.085 [1987 c.774 §10; 1997 c.734 §1; renumbered 30.698 in 1997] 
+30.080 Effect of death of wrongdoer. Claims for relief arising out of injury to or death of a person, caused by the wrongful act or negligence of another, shall not abate upon the death of the wrongdoer, and the injured person or the personal representatives of the one meeting death, as above stated, shall have a claim for relief against the personal representatives of the wrongdoer as if the wrongdoer had survived, except for those damages provided for in ORS 30.020 (2)(e). [Amended by 1953 c.600 §3; 1961 c.437 §2; 1967 c.544 §2; 1973 c.742 §1; 1983 c.662 §1] 
 
 ## Provenance & change history
 

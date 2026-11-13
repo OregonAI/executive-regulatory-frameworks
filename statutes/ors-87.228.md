@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2011
-enacted: 1969
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 87.228 — Effect on agricultural services lien when payment for produce is 
 
 ## Full text
 
-87.228 Effect on agricultural services lien when payment for produce is made prior to filing of lien claim. A lien created by ORS 87.226 ceases to attach to a crop that is agricultural produce as defined in ORS 87.700 and is in the possession of a purchaser, or to the proceeds of the sale of the crop to a third party, if the purchaser pays the agricultural producer in full for the crop and the claim for the lien is not filed under ORS 87.242 prior to the date of that payment. [Formerly 87.740] Note: 87.228 was made a part of 87.700 to 87.736 by legislative action but was not added to or made a part of any other series in ORS chapter 87. See Preface to Oregon Revised Statutes for further explanation. 87.230 [Repealed by 1975 c.648 §72] 
+87.228 Effect on agricultural services lien when payment for produce is made prior to filing of lien claim. A lien created by ORS 87.226 ceases to attach to a crop that is agricultural produce as defined in ORS 87.700 and is in the possession of a purchaser, or to the proceeds of the sale of the crop to a third party, if the purchaser pays the agricultural producer in full for the crop and the claim for the lien is not filed under ORS 87.242 prior to the date of that payment. [Formerly 87.740] Note: 87.228 was made a part of 87.700 to 87.736 by legislative action but was not added to or made a part of any other series in ORS chapter 87. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

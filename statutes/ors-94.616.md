@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 2007
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -64,7 +64,7 @@ ORS 94.616 — Turnover meeting; transfer of administration; receivership. Chapt
 
 (1) of this section. The declarant is relieved from further responsibility for the administration of the association, except as a lot owner.
 
-(6) If the owners present do not constitute a quorum or the owners fail to elect the number of directors sufficient to constitute a quorum of the board of directors at the turnover meeting held in accordance with this section: (a) At any time before the election of the number of directors sufficient to constitute a quorum, an owner or first mortgagee may call a special meeting for the purpose of election of directors and shall give notice of the meeting in accordance with the notice requirements in the bylaws for special meetings. The owners and first mortgagees present at the special meeting shall select a person to preside over the meeting. (b) An owner or first mortgagee may request a court to appoint a receiver as provided in ORS 94.642. [1981 c.782 §67; 1983 c.206 §3; 1999 c.677 §11; 2001 c.756 §11; 2003 c.803 §19; 2007 c.409 §8] 94.620 [Repealed by 1971 c.478 §1] 
+(6) If the owners present do not constitute a quorum or the owners fail to elect the number of directors sufficient to constitute a quorum of the board of directors at the turnover meeting held in accordance with this section: (a) At any time before the election of the number of directors sufficient to constitute a quorum, an owner or first mortgagee may call a special meeting for the purpose of election of directors and shall give notice of the meeting in accordance with the notice requirements in the bylaws for special meetings. The owners and first mortgagees present at the special meeting shall select a person to preside over the meeting. (b) An owner or first mortgagee may request a court to appoint a receiver as provided in ORS 94.642. [1981 c.782 §67; 1983 c.206 §3; 1999 c.677 §11; 2001 c.756 §11; 2003 c.803 §19; 2007 c.409 §8] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2024
-enacted: 1961
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -94,7 +94,7 @@ ORS 18.385 — Wage exemption. Chapter 18 (Judgments), 2025 Edition.
 
 (10) Any waiver by an individual of the provisions of this section is void.
 
-(11) An employer may not discharge any individual because the individual has had earnings garnished. [Formerly 23.186; 2007 c.496 §§9,14; 2011 c.228 §1; 2019 c.263 §1; 2021 c.597 §41; 2024 c.100 §3] 18.390 [Amended by 1961 c.151 §3; 1983 c.696 §4; repealed by 1985 c.343 §14] (Homesteads) 
+(11) An employer may not discharge any individual because the individual has had earnings garnished. [Formerly 23.186; 2007 c.496 §§9,14; 2011 c.228 §1; 2019 c.263 §1; 2021 c.597 §41; 2024 c.100 §3] 
 
 ## Provenance & change history
 

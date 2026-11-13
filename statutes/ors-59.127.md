@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-59
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1953
+last_amended: 2003
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -86,7 +86,7 @@ ORS 59.127 — Liability in connection with purchase or successful solicitation 
 
 (10) The court may not award attorney fees to a prevailing defendant under the provisions of subsection
 
-(9) of this section if the action under this section is maintained as a class action pursuant to ORCP 32. [1975 c.300 §2; 1985 c.349 §14a; 1987 c.158 §11; 1987 c.603 §7; 1991 c.762 §2; 1993 c.508 §29; 1995 c.93 §28; 1995 c.696 §10; 1997 c.772 §11; 2003 c.576 §319; 2003 c.631 §2; 2003 c.786 §2] 59.130 [Amended by 1953 c.549 §138; repealed by 1967 c.537 §36] 
+(9) of this section if the action under this section is maintained as a class action pursuant to ORCP 32. [1975 c.300 §2; 1985 c.349 §14a; 1987 c.158 §11; 1987 c.603 §7; 1991 c.762 §2; 1993 c.508 §29; 1995 c.93 §28; 1995 c.696 §10; 1997 c.772 §11; 2003 c.576 §319; 2003 c.631 §2; 2003 c.786 §2] 
 
 ## Provenance & change history
 

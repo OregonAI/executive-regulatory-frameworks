@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-24
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2021
+enacted: 1979
 status: current
 supersedes: null
 content_mode: verbatim
@@ -50,7 +52,7 @@ ORS 24.105 — Definition for ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175.
 
 (1) Any judgment, decree or order of a court of the United States or of any other court which is entitled to full faith and credit in this state; and
 
-(2) Any judgment, decree or order of a tribal court of a federally recognized Indian tribe, except when another Oregon statute provides a different process to enforce a tribal judgment, decree or order, or as provided in ORS 426.180. [1979 c.577 §1; 2021 c.326 §1] 24.110 [1955 c.647 §11; repealed by 1979 c.577 §8] 
+(2) Any judgment, decree or order of a tribal court of a federally recognized Indian tribe, except when another Oregon statute provides a different process to enforce a tribal judgment, decree or order, or as provided in ORS 426.180. [1979 c.577 §1; 2021 c.326 §1] 
 
 ## Provenance & change history
 

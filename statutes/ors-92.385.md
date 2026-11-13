@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-92
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2024
-enacted: 1963
+last_amended: 1983
+enacted: 1974
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 92.385 — Examination; public report; waiver of examination in other state.
 
 (2) The commissioner may waive an examination of a real estate subdivision located in another state only when that state has an existing subdivision law which provides for the examination of and a public report on the real estate subdivision and only where that state will waive examination of a real estate subdivision or series partition located within this state and will accept in lieu thereof a report prepared by the commissioner under subsection
 
-(1) of this section. [1974 c.1 §8; 1975 c.643 §6; 1983 c.570 §15] 92.390 [1963 c.624 §24; repealed by 1973 c.421 §52] 
+(1) of this section. [1974 c.1 §8; 1975 c.643 §6; 1983 c.570 §15] 
 
 ## Provenance & change history
 

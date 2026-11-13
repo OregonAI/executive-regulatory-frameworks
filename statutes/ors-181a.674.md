@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-181a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
-enacted: 2021
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -66,7 +66,7 @@ ORS 181A.674 — Disclosure of information about certain public safety employees
 
 (2) or (3). (c) Information about the employee that is prohibited from disclosure by subsection
 
-(3) of this section. [Formerly 181A.830] Note: 181A.674 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 181A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 181A.675 [Formerly 181.714; renumbered 181A.661 in 2021] 
+(3) of this section. [Formerly 181A.830] Note: 181A.674 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 181A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

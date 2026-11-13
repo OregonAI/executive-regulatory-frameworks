@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-62
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
+last_amended: 1957
 enacted: 1957
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 62.315 — Waiver of notice. Chapter 62 (Cooperatives), 2025 Edition.
 
 ## Full text
 
-62.315 Waiver of notice. Whenever any notice is required to be given to any member or director of a cooperative under the provisions of this chapter or under the provisions of the articles or bylaws of a cooperative, a waiver thereof in writing signed by the person or persons entitled to the notice, whether before or after the time stated therein, is equivalent to the giving of the notice. [1957 c.716 §29] 62.320 [Repealed by 1957 c.716 §76] 
+62.315 Waiver of notice. Whenever any notice is required to be given to any member or director of a cooperative under the provisions of this chapter or under the provisions of the articles or bylaws of a cooperative, a waiver thereof in writing signed by the person or persons entitled to the notice, whether before or after the time stated therein, is equivalent to the giving of the notice. [1957 c.716 §29] 
 
 ## Provenance & change history
 

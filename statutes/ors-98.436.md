@@ -54,7 +54,7 @@ ORS 98.436 — Short title. Chapter 98 (Lost, Unclaimed or Abandoned Property; V
 
 ## Full text
 
-98.436 Short title. This Act may be cited as the Uniform Disposition of Unclaimed Property Act. [1957 c.670 §1] Note: See note under 98.432. 98.440 [Repealed by 1957 c.670 §37]
+98.436 Short title. This Act may be cited as the Uniform Disposition of Unclaimed Property Act. [1957 c.670 §1] Note: See note under 98.432. 
 
 ## Provenance & change history
 

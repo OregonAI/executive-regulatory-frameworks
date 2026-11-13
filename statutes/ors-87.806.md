@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2001
+last_amended: 1983
 enacted: 1967
 status: current
 supersedes: null
@@ -54,7 +54,7 @@ ORS 87.806 — Filing of federal tax liens. Chapter 87 (Statutory Liens), 2025 E
 
 (2) Notices of liens upon real property for obligations payable to the United States and certificates and notices affecting the liens shall be filed in the office of the recorder of conveyances, in counties which have a recorder of conveyances, and in other counties in the offices of the county clerks of the county or counties in this state within which the real property subject to the liens is situated.
 
-(3) After October 15, 1983, notices of federal liens upon personal property, whether tangible or intangible, for obligations payable to the United States and certificates and notices affecting the liens shall be filed in the office of the Secretary of State. [1967 c.445 §2; 1981 c.852 §2; 1983 c.220 §1] 87.810 [Repealed by 1967 c.445 §1] 
+(3) After October 15, 1983, notices of federal liens upon personal property, whether tangible or intangible, for obligations payable to the United States and certificates and notices affecting the liens shall be filed in the office of the Secretary of State. [1967 c.445 §2; 1981 c.852 §2; 1983 c.220 §1] 
 
 ## Provenance & change history
 

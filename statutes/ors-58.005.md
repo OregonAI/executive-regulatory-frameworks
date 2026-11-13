@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-58
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1961
+last_amended: 1969
+enacted: 1969
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 58.005 — Short title. Chapter 58 (Professional Corporations), 2025 Edition
 
 ## Full text
 
-58.005 Short title. This chapter shall be known and may be cited as the “Oregon Professional Corporation Act.” [1969 c.592 §1] 58.010 [Repealed by 1961 c.726 §427] 
+58.005 Short title. This chapter shall be known and may be cited as the “Oregon Professional Corporation Act.” [1969 c.592 §1] 
 
 ## Provenance & change history
 

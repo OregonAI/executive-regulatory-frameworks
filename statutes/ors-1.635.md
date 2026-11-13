@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1965
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 1.635 — Appointment pro tempore of eligible person to tax court or circuit
 
 ## Full text
 
-1.635 Appointment pro tempore of eligible person to tax court or circuit court. The Supreme Court may appoint any eligible person to serve as judge pro tempore of the Oregon Tax Court or as judge pro tempore of the circuit court in any county or judicial district, whenever the Supreme Court determines that the appointment is reasonably necessary and will promote the more efficient administration of justice. A person is eligible for appointment if the person is a resident of this state and has been a licensee in good standing of the Oregon State Bar for a period of at least three years next preceding the appointment. [1975 c.706 §5; 1987 c.762 §1; 1989 c.124 §2; 2003 c.518 §9; 2025 c.32 §61] 1.640 [1965 c.494 §3; 1967 c.270 §2; 1969 c.198 §28; repealed by 1971 c.311 §2] 
+1.635 Appointment pro tempore of eligible person to tax court or circuit court. The Supreme Court may appoint any eligible person to serve as judge pro tempore of the Oregon Tax Court or as judge pro tempore of the circuit court in any county or judicial district, whenever the Supreme Court determines that the appointment is reasonably necessary and will promote the more efficient administration of justice. A person is eligible for appointment if the person is a resident of this state and has been a licensee in good standing of the Oregon State Bar for a period of at least three years next preceding the appointment. [1975 c.706 §5; 1987 c.762 §1; 1989 c.124 §2; 2003 c.518 §9; 2025 c.32 §61] 
 
 ## Provenance & change history
 

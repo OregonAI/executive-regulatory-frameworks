@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-59
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 1961
+last_amended: 1989
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 59.315 — Oaths and subpoenas in proceedings before director. Chapter 59 (S
 
 (1) For the purpose of an investigation or proceeding under the Oregon Securities Law, the Director of the Department of Consumer and Business Services may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence and require the production of books, papers, correspondence, memoranda, agreements or other documents or records which the director deems relevant or material to the inquiry. Each witness who appears before the director under a subpoena shall receive the fees and mileage provided for witnesses in ORS 44.415 (2).
 
-(2) If a person fails to comply with a subpoena so issued or a party or witness refuses to testify on any matters, the judge of the circuit court or of any county, on the application of the director, shall compel obedience by proceedings for contempt as in the case of disobedience of the requirements of a subpoena issued from such court or a refusal to testify therein. [1967 c.537 §29; 1989 c.980 §5a] 59.320 [Amended by 1961 c.352 §3; repealed by 1967 c.537 §36] 
+(2) If a person fails to comply with a subpoena so issued or a party or witness refuses to testify on any matters, the judge of the circuit court or of any county, on the application of the director, shall compel obedience by proceedings for contempt as in the case of disobedience of the requirements of a subpoena issued from such court or a refusal to testify therein. [1967 c.537 §29; 1989 c.980 §5a] 
 
 ## Provenance & change history
 

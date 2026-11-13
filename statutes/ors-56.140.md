@@ -75,7 +75,7 @@ ORS 56.140 — Fees; waiver; rules. Chapter 56 (Duties of Secretary of State), 2
 
 (7) The Secretary of State may waive collection of any fee, charge or interest or portion of a fee, charge or interest that the Secretary of State may collect as part of the secretary’s business registry functions.
 
-(8) The Secretary of State by rule shall establish and collect reasonable fees for the following services relating to the secretary’s business registry functions: (a) Computer generated lists on electronic data processing media. (b) Terminal access to the files of the office. (c) Microfilm records of the files of the office. (d) Microfilm processing and development services. (e) Copies of the programs and files on paper or electronic data processing media. [1987 c.58 §7; 1987 c.414 §135; 1999 c.652 §7; 2003 c.785 §6; 2009 c.122 §1; 2009 c.745 §11; 2019 c.62 §2] 56.150 [1987 c.58 §8; 1987 c.414 §136; repealed by 1991 c.132 §37] 
+(8) The Secretary of State by rule shall establish and collect reasonable fees for the following services relating to the secretary’s business registry functions: (a) Computer generated lists on electronic data processing media. (b) Terminal access to the files of the office. (c) Microfilm records of the files of the office. (d) Microfilm processing and development services. (e) Copies of the programs and files on paper or electronic data processing media. [1987 c.58 §7; 1987 c.414 §135; 1999 c.652 §7; 2003 c.785 §6; 2009 c.122 §1; 2009 c.745 §11; 2019 c.62 §2] 
 
 ## Provenance & change history
 

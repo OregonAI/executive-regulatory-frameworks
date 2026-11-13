@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-62
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2016
+last_amended: 1995
 enacted: 1957
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 62.215 — Limitation of liability of members and shareholders. Chapter 62 (
 
 ## Full text
 
-62.215 Limitation of liability of members and shareholders. Except for debts lawfully contracted between a member or shareholder and the cooperative, no member or shareholder is liable for the acts or debts of the cooperative to an amount exceeding the sum remaining unpaid on the subscription of the member or shareholder for shares of the cooperative, and the sum remaining unpaid on such member’s membership fee if such fee is required by the cooperative. [1957 c.716 §17; 1995 c.195 §4] 62.220 [Repealed by 1957 c.716 §76] 
+62.215 Limitation of liability of members and shareholders. Except for debts lawfully contracted between a member or shareholder and the cooperative, no member or shareholder is liable for the acts or debts of the cooperative to an amount exceeding the sum remaining unpaid on the subscription of the member or shareholder for shares of the cooperative, and the sum remaining unpaid on such member’s membership fee if such fee is required by the cooperative. [1957 c.716 §17; 1995 c.195 §4] 
 
 ## Provenance & change history
 

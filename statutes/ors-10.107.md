@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-10
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1955
+last_amended: 1999
+enacted: 1999
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 10.107 — Implementation of “one day, one trial” jury service. Chapter 
 
 ## Full text
 
-10.107 Implementation of “one day, one trial” jury service. The Chief Justice of the Supreme Court shall take all reasonable actions necessary to expedite implementation of juror service procedures for circuit courts that will allow a person called for jury service to serve for one day, or for one trial if selected to serve on a trial. [1999 c.1085 §10] 10.110 [Amended by 1955 c.717 §1; 1957 c.393 §1; 1973 c.836 §312; 1981 s.s. c.3 §44; repealed by 1985 c.703 §28] 
+10.107 Implementation of “one day, one trial” jury service. The Chief Justice of the Supreme Court shall take all reasonable actions necessary to expedite implementation of juror service procedures for circuit courts that will allow a person called for jury service to serve for one day, or for one trial if selected to serve on a trial. [1999 c.1085 §10] 
 
 ## Provenance & change history
 

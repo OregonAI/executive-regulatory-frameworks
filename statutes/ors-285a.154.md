@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2024
-enacted: 1997
+enacted: 2009
 status: current
 supersedes: null
 content_mode: verbatim
@@ -76,7 +76,7 @@ ORS 285A.154 — Oregon Broadband Advisory Council; members; compensation and ex
 
 (1) The term of office of the members of the Oregon Broadband Advisory Council who are serving on the effective date of this 2022 Act [March 23, 2022] expires on the operative date specified in section 12 of this 2022 Act.
 
-(2) Of the members first appointed to the Oregon Broadband Advisory Council after the operative date specified in section 12 of this 2022 Act: (a) Five members appointed by the Governor shall serve for an initial term ending December 31, 2023. (b) Six members appointed by the Governor shall serve for an initial term ending December 31, 2025. [2022 c.60 §2] 285A.156 [1997 c.495 §4; renumbered 284.608 in 2007] 
+(2) Of the members first appointed to the Oregon Broadband Advisory Council after the operative date specified in section 12 of this 2022 Act: (a) Five members appointed by the Governor shall serve for an initial term ending December 31, 2023. (b) Six members appointed by the Governor shall serve for an initial term ending December 31, 2025. [2022 c.60 §2] 
 
 ## Provenance & change history
 

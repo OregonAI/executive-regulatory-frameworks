@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2015
-enacted: 1953
+enacted: 1959
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 3.075 — Powers of judges to act in joint or separate session; testing proc
 
 (2) Each of them may proceed separately with and try, simultaneously in the judicial district, all causes, matters and proceedings brought before the court.
 
-(3) Process may be tested in the name of any of them. [1959 c.552 §9; 1995 c.781 §6; 2015 c.212 §12] 3.080 [Repealed by 1959 c.552 §16] 3.081 [1959 c.552 §5; repealed by 1975 c.706 §10] 3.090 [Repealed by 1959 c.552 §16] 3.091 [1959 c.552 §6; repealed by 1975 c.706 §10] 3.096 [1959 c.552 §7; repealed by 1975 c.706 §10] 3.100 [Repealed by 1959 c.552 §16] 3.101 [1961 c.405 §1; 1969 c.591 §263; repealed by 1995 c.658 §127] 3.102 [Formerly 3.110; 1959 c.576 §1; renumbered 3.570] 3.105 [1953 c.35 §1; repealed by 1959 c.549 §7] 3.106 [1953 c.35 §2; repealed by 1959 c.549 §7] 3.107 [1953 c.35 §3; repealed by 1959 c.549 §7] 3.108 [1953 c.35 §4; repealed by 1959 c.549 §7] 3.109 [1953 c.35 §5; repealed by 1959 c.549 §7] 3.110 [Renumbered 3.102 and then 3.570] 3.111 [1953 c.35 §6; repealed by 1959 c.549 §7] 3.112 [1953 c.35 §9; repealed by 1959 c.549 §7] 3.113 [1953 c.35 §7; repealed by 1959 c.549 §7] 3.114 [1953 c.35 §8; repealed by 1959 c.549 §7] 3.115 [1953 c.35 §10; repealed by 1959 c.549 §7] 3.120 [Repealed by 1959 c.552 §16] 
+(3) Process may be tested in the name of any of them. [1959 c.552 §9; 1995 c.781 §6; 2015 c.212 §12] 
 
 ## Provenance & change history
 

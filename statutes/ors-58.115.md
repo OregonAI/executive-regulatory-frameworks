@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-58
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1999
-enacted: 1961
+last_amended: 1997
+enacted: 1969
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 58.115 — Corporate name. Chapter 58 (Professional Corporations), 2025 Edit
 
 ## Full text
 
-58.115 Corporate name. The corporate name of a professional corporation shall comply with the rules and regulations of the regulatory board or boards or standards of professional conduct of the profession practiced through the corporation. The corporate name need not comply with ORS 60.094 (1), but shall contain the words “professional corporation” or the abbreviations “P.C.” or “Prof. Corp.” [1969 c.592 §13; 1985 c.728 §102; 1987 c.94 §17; 1993 c.235 §4; 1997 c.774 §6] 58.120 [Repealed by 1961 c.726 §427] 58.125 [1983 c.717 §§17,19; 1985 c.728 §43; 1993 c.235 §5; repealed by 1999 c.362 §67] (Foreign Professional Corporations) 
+58.115 Corporate name. The corporate name of a professional corporation shall comply with the rules and regulations of the regulatory board or boards or standards of professional conduct of the profession practiced through the corporation. The corporate name need not comply with ORS 60.094 (1), but shall contain the words “professional corporation” or the abbreviations “P.C.” or “Prof. Corp.” [1969 c.592 §13; 1985 c.728 §102; 1987 c.94 §17; 1993 c.235 §4; 1997 c.774 §6] 
 
 ## Provenance & change history
 

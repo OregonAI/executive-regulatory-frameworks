@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1985
+enacted: 1995
 status: current
 supersedes: null
 content_mode: verbatim
@@ -64,7 +64,7 @@ ORS 25.290 — Determining disposable income of obligor; offsets; rules. Chapter
 
 (1) In determining the disposable income of an obligor, the obligor may claim offsets against gross receipts for ordinary and necessary business expenses and taxes directly related to the income withheld. The obligor has the burden of proof and must furnish documentation to support any offsets claimed.
 
-(2) The Department of Justice may adopt rules governing the determination of the income subject to withholding that remains after application of offsets. Withholding actions in a case that is not receiving child support services under ORS 25.080 may be appealed to the circuit court. [1995 c.608 §1b; 2003 c.73 §27; 2025 c.99 §24] 25.310 [1985 c.671 §4; 1989 c.812 §4; 1991 c.362 §2; repealed by 1993 c.798 §21] 25.311 [1993 c.798 §5; 1995 c.608 §32; 1999 c.80 §2; 1999 c.735 §8; 1999 c.849 §§38,39; renumbered 25.378 in 1999] 25.313 [1993 c.798 §3; renumbered 25.393 in 1999] 25.314 [1993 c.798 §6; 1995 c.272 §6; 1997 c.704 §26; 1999 c.80 §3; renumbered 25.402 in 1999] 25.315 [1993 c.798 §7; 1999 c.80 §4; renumbered 25.399 in 1999] 25.316 [1993 c.798 §8; 1999 c.80 §5; 1999 c.735 §12; renumbered 25.405 in 1999] 25.317 [1993 c.798 §9; 1999 c.735 §11; renumbered 25.396 in 1999] 25.318 [1993 c.798 §10; renumbered 25.390 in 1999] 25.320 [1985 c.671 §5; 1997 c.704 §27; renumbered 25.164 in 1999]
+(2) The Department of Justice may adopt rules governing the determination of the income subject to withholding that remains after application of offsets. Withholding actions in a case that is not receiving child support services under ORS 25.080 may be appealed to the circuit court. [1995 c.608 §1b; 2003 c.73 §27; 2025 c.99 §24] 
 
 ## Provenance & change history
 

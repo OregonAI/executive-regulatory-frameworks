@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-59
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1955
+last_amended: 1997
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 59.145 — Effect of notice filing, registration or license. Chapter 59 (Sec
 
 (2) It is unlawful to make, or cause to be made, to a prospective purchaser, customer or client a representation inconsistent with subsection
 
-(1) of this section. [1967 c.537 §15; 1989 c.197 §6; 1997 c.772 §13] 59.150 [Amended by 1957 c.45 §1; repealed by 1967 c.537 §36] 
+(1) of this section. [1967 c.537 §15; 1989 c.197 §6; 1997 c.772 §13] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-97
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
-enacted: 1955
+last_amended: 2003
+enacted: 1999
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 97.774 — Oregon Commission on Historic Cemeteries; terms. Chapter 97 (Righ
 
 (2) The term of office of each member is four years, but a member serves at the pleasure of the director. Before the expiration of the term of a member, the director shall appoint a successor whose term begins on July 1 next following. A member is eligible for reappointment. If there is a vacancy for any cause, the director shall make an appointment to become immediately effective for the unexpired term.
 
-(3) A member of the commission is entitled to compensation and expenses as provided in ORS 292.495. [1999 c.731 §2; 2003 c.173 §2] Note: See note under 97.772. 97.775 [1995 c.457 §4; repealed by 1999 c.731 §14] 
+(3) A member of the commission is entitled to compensation and expenses as provided in ORS 292.495. [1999 c.731 §2; 2003 c.173 §2] Note: See note under 97.772. 
 
 ## Provenance & change history
 

@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-469a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
+last_amended: 2016
 enacted: 2007
 status: current
 supersedes: null
@@ -52,7 +52,7 @@ ORS 469A.060 — Exemptions from compliance with renewable portfolio standard. C
 
 (1) Electric utilities are not required to comply with the renewable portfolio standards described in ORS 469A.052 and 469A.055 to the extent that: (a) Compliance with the standard would require the electric utility to acquire electricity in excess of the electric utility’s projected load requirements in any calendar year; and (b) Acquiring the additional electricity would require the electric utility to substitute qualifying electricity for electricity derived from an energy source other than coal, natural gas or petroleum. (2)(a) Electric utilities are not required to comply with a renewable portfolio standard to the extent that compliance would require the electric utility to substitute qualifying electricity for electricity available to the electric utility under contracts for electricity from dams that are owned by Washington public utility districts and that are located between the Grand Coulee Dam and the Columbia River’s junction with the Snake River. The provisions of this subsection apply only to contracts entered into before June 6, 2007, and to renewal or replacement contracts for contracts entered into before June 6, 2007. (b) If a contract described in paragraph (a) of this subsection expires and is not renewed or replaced, the electric utility must comply, in the calendar year following the expiration of the contract, with the renewable portfolio standard applicable to the electric utility.
 
-(3) A consumer-owned utility is not required to comply with a renewable portfolio standard to the extent that compliance would require the consumer-owned utility to reduce the consumer-owned utility’s purchases of the lowest priced electricity from the Bonneville Power Administration pursuant to section 5 of the Pacific Northwest Electric Power Planning and Conservation Act of 1980, P.L. 96-501, as in effect on June 6, 2007. The exemption provided by this subsection applies only to firm commitments for BPA electricity that the Bonneville Power Administration has assured will be available to a consumer-owned utility to meet agreed portions of the consumer-owned utility’s load requirements for a defined period of time. [2007 c.301 §8; 2016 c.28 §26] 469A.062 [2016 c.28 §13; repealed by 2021 c.508 §16] 
+(3) A consumer-owned utility is not required to comply with a renewable portfolio standard to the extent that compliance would require the consumer-owned utility to reduce the consumer-owned utility’s purchases of the lowest priced electricity from the Bonneville Power Administration pursuant to section 5 of the Pacific Northwest Electric Power Planning and Conservation Act of 1980, P.L. 96-501, as in effect on June 6, 2007. The exemption provided by this subsection applies only to firm commitments for BPA electricity that the Bonneville Power Administration has assured will be available to a consumer-owned utility to meet agreed portions of the consumer-owned utility’s load requirements for a defined period of time. [2007 c.301 §8; 2016 c.28 §26] 
 
 ## Provenance & change history
 

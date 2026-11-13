@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-41
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1955
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 41.010 — Judicial evidence; proof. Chapter 41 (Evidence Generally), 2025 E
 
 ## Full text
 
-41.010 Judicial evidence; proof. Judicial evidence is the means, sanctioned by law, of ascertaining in a judicial proceeding the truth respecting a question of fact. Proof is the effect of evidence, the establishment of the fact by evidence. 41.020 [Repealed by 1981 c.892 §98] 41.030 [Repealed by 1981 c.892 §98] 41.040 [Repealed by 1981 c.892 §98] 41.050 [Repealed by 1981 c.892 §98] 41.060 [Repealed by 1981 c.892 §98] 41.070 [Repealed by 1981 c.892 §98] 41.080 [Repealed by 1981 c.892 §98] 41.090 [Repealed by 1981 c.892 §98] 41.100 [Repealed by 1981 c.892 §98] 
+41.010 Judicial evidence; proof. Judicial evidence is the means, sanctioned by law, of ascertaining in a judicial proceeding the truth respecting a question of fact. Proof is the effect of evidence, the establishment of the fact by evidence. 
 
 ## Provenance & change history
 

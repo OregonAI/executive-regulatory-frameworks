@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2013
-enacted: 1957
+last_amended: 1995
+enacted: 1995
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 87.522 — Foreclosure of lien; attorney fees. Chapter 87 (Statutory Liens),
 
 ## Full text
 
-87.522 Foreclosure of lien; attorney fees. A lien created by ORS 87.503 may be foreclosed by an action in the circuit court in accordance with ORS chapter 88. In a suit to foreclose a lien created by ORS 87.503, the court, upon entering judgment for the lien claimant, shall allow as part of the lien the moneys paid for the recording of the notice of lien under ORS 87.517. The court shall also allow reasonable attorney fees at trial and on appeal to the prevailing party. [1995 c.749 §6] Note: See note under 87.501. 87.525 [Repealed by 1975 c.648 §72] 
+87.522 Foreclosure of lien; attorney fees. A lien created by ORS 87.503 may be foreclosed by an action in the circuit court in accordance with ORS chapter 88. In a suit to foreclose a lien created by ORS 87.503, the court, upon entering judgment for the lien claimant, shall allow as part of the lien the moneys paid for the recording of the notice of lien under ORS 87.517. The court shall also allow reasonable attorney fees at trial and on appeal to the prevailing party. [1995 c.749 §6] Note: See note under 87.501. 
 
 ## Provenance & change history
 

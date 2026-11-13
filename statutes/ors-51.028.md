@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1955
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 51.028 — Justice court ceasing operation as court of record. Chapter 51 (J
 
 (1) of this section, the Supreme Court shall enter an order acknowledging the filing of the declaration and give notice of the order of acknowledgment to the county and the public.
 
-(3) The appeal from a judgment entered in a justice court after the date identified in a declaration filed under this section shall be as provided in ORS 52.815, 52.820 and 55.160 to 55.335. [2007 c.330 §2; 2025 c.268 §35c] 51.030 [Amended by 1963 c.614 §3; repealed by 1997 c.487 §2 and 1997 c.801 §106] 
+(3) The appeal from a judgment entered in a justice court after the date identified in a declaration filed under this section shall be as provided in ORS 52.815, 52.820 and 55.160 to 55.335. [2007 c.330 §2; 2025 c.268 §35c] 
 
 ## Provenance & change history
 

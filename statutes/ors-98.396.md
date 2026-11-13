@@ -56,7 +56,7 @@ ORS 98.396 — Determination of claim; payment; reimbursement. Chapter 98 (Lost,
 
 (2) If the claim allowed is for property deposited in the Unclaimed Property and Estates Fund, the State Treasurer shall return the property or make payment of the proceeds of the sale of the property to the claimant.
 
-(3) If the claim allowed is for funds deposited in the General Fund, the State Treasurer shall pay the claim from the fund against which the check or order represented in the claim was issued. [1957 c.670 §22; 1983 c.716 §19; 1989 c.183 §3; 1993 c.694 §18; 2019 c.678 §23; 2021 c.424 §12] 98.400 [Repealed by 1957 c.670 §37] 
+(3) If the claim allowed is for funds deposited in the General Fund, the State Treasurer shall pay the claim from the fund against which the check or order represented in the claim was issued. [1957 c.670 §22; 1983 c.716 §19; 1989 c.183 §3; 1993 c.694 §18; 2019 c.678 §23; 2021 c.424 §12] 
 
 ## Provenance & change history
 

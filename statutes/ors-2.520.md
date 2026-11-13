@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-2
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 1983
+enacted: 1969
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 2.520 — Procedure for review of decisions of Court of Appeals. Chapter 2 (
 
 ## Full text
 
-2.520 Procedure for review of decisions of Court of Appeals. Any party aggrieved by a decision of the Court of Appeals may petition the Supreme Court for review within 35 days after the date of the decision, in such manner as provided by rules of the Supreme Court. [1969 c.198 §2; 1973 c.516 §1; 1983 c.774 §2] 2.530 [1969 c.198 §3; repealed by 1977 c.158 §5] 
+2.520 Procedure for review of decisions of Court of Appeals. Any party aggrieved by a decision of the Court of Appeals may petition the Supreme Court for review within 35 days after the date of the decision, in such manner as provided by rules of the Supreme Court. [1969 c.198 §2; 1973 c.516 §1; 1983 c.774 §2] 
 
 ## Provenance & change history
 

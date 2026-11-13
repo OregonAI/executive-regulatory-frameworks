@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2015
-enacted: 1991
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -81,7 +81,7 @@ ORS 459A.110 — Additional fees for programs for reduction of waste and environ
 
 (2) of this section to a solid waste collector who uses the site, a local government that franchises or licenses the collection of solid waste shall allow the franchisee or licensee to include the amount of the fee in the collection service rate.
 
-(8) As used in this section, “person” does not include an individual who transports the individual’s own residential solid waste to a disposal site located out of the state. [Formerly 459.294; 1993 c.528 §2; 1993 c.560 §86; 2015 c.662 §§4,13] 459A.115 [1991 c.385 §13a; 1993 c.560 §88; repealed by 2015 c.662 §5] 
+(8) As used in this section, “person” does not include an individual who transports the individual’s own residential solid waste to a disposal site located out of the state. [Formerly 459.294; 1993 c.528 §2; 1993 c.560 §86; 2015 c.662 §§4,13] 
 
 ## Provenance & change history
 

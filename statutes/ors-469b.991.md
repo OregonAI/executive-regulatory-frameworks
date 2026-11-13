@@ -58,7 +58,7 @@ ORS 469B.991 — Civil penalty when contractor certificate revoked. Chapter 469B
 
 (3) Civil penalties under this section shall be imposed as provided in ORS 183.745.
 
-(4) A penalty recovered under this section shall be paid into the State Treasury and credited to the General Fund and is available for general governmental expenses. [Formerly 469.994; 2015 c.701 §34; 2019 c.483 §12] _______________
+(4) A penalty recovered under this section shall be paid into the State Treasury and credited to the General Fund and is available for general governmental expenses. [Formerly 469.994; 2015 c.701 §34; 2019 c.483 §12] 
 
 ## Provenance & change history
 

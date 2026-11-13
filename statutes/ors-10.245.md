@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1963
+enacted: 1985
 status: current
 supersedes: null
 content_mode: verbatim
@@ -66,7 +66,7 @@ ORS 10.245 — Determining eligibility of jurors; eligibility form; effect of fa
 
 (8) Review by a judge of the circuit court or clerk of court of a completed juror eligibility form returned by a person summoned satisfies the requirement prescribed in subsection
 
-(1) of this section that a person summoned be questioned. If a judge or clerk of court determines that a person is not eligible to act as a juror based on a completed form, the person shall be discharged. [1985 c.703 §16; 1995 c.781 §27; 2025 c.256 §15] 10.250 [Amended by 1981 s.s. c.3 §50; repealed by 1985 c.703 §28] 
+(1) of this section that a person summoned be questioned. If a judge or clerk of court determines that a person is not eligible to act as a juror based on a completed form, the person shall be discharged. [1985 c.703 §16; 1995 c.781 §27; 2025 c.256 §15] 
 
 ## Provenance & change history
 

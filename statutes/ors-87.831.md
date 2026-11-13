@@ -48,7 +48,7 @@ ORS 87.831 — Short title. Chapter 87 (Statutory Liens), 2025 Edition.
 
 ## Full text
 
-87.831 Short title. ORS 87.806 to 87.831 may be cited as the Uniform Federal Lien Registration Act. [1967 c.445 §7; 1981 c.852 §7] 87.835 [Repealed by 1967 c.445 §1]
+87.831 Short title. ORS 87.806 to 87.831 may be cited as the Uniform Federal Lien Registration Act. [1967 c.445 §7; 1981 c.852 §7] 
 
 ## Provenance & change history
 

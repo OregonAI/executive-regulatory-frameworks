@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 1983
-enacted: 1975
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 87.633 — Foreclosure. Chapter 87 (Statutory Liens), 2025 Edition.
 
 ## Full text
 
-87.633 Foreclosure. The lien described in ORS 87.607 may be foreclosed by a suit in the circuit court. [1983 c.821 §8] 87.635 [Repealed by 1975 c.648 §72] 87.640 [Repealed by 1975 c.648 §72] 87.645 [Repealed by 1975 c.648 §72] 87.650 [Repealed by 1975 c.648 §72] 87.655 [Repealed by 1975 c.648 §72] 87.660 [Repealed by 1975 c.648 §72] 87.665 [Repealed by 1975 c.648 §72] 87.670 [Repealed by 1975 c.648 §72] 87.675 [Repealed by 1975 c.648 §72]
+87.633 Foreclosure. The lien described in ORS 87.607 may be foreclosed by a suit in the circuit court. [1983 c.821 §8] 
 
 ## Provenance & change history
 

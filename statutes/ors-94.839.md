@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 1983
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 94.839 — Notice of cancellation right. Chapter 94 (Real Property Developme
 
 (1) of this section shall be given to each purchaser under an agreement described in subsection
 
-(1) of this section at the time or immediately after the purchaser signs the agreement. [1983 c.530 §27] 94.840 [Repealed by 1971 c.478 §1] 
+(1) of this section at the time or immediately after the purchaser signs the agreement. [1983 c.530 §27] 
 
 ## Provenance & change history
 

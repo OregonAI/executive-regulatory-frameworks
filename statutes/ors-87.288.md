@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
-enacted: 1969
+last_amended: 1975
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 87.288 — Show cause order; contents; service. Chapter 87 (Statutory Liens)
 
 (1) of this section shall be served in the same manner as a summons is served on the lien debtor and on each other person to whom the order is directed.
 
-(3) The order shall: (a) State that the lien debtor may file affidavits with the court and may present testimony at the hearing; and (b) State that if the lien debtor fails to appear at the hearing the court may order foreclosure of the lien claimant’s lien by advertisement and sale. [1975 c.648 §30] 87.290 [Repealed by 1969 c.330 §9] 87.292 [1969 c.330 §1; 1973 c.472 §1; repealed by 1975 c.648 §72] 87.294 [1969 c.330 §2; 1973 c.472 §2; 1973 c.647 §11; repealed by 1975 c.648 §72] 87.295 [Amended by 1969 c.330 §3; 1973 c.472 §3; repealed by 1975 c.648 §72] 
+(3) The order shall: (a) State that the lien debtor may file affidavits with the court and may present testimony at the hearing; and (b) State that if the lien debtor fails to appear at the hearing the court may order foreclosure of the lien claimant’s lien by advertisement and sale. [1975 c.648 §30] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-86a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 2009
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 86A.178 — Legislative findings regarding mortgage loan originators; prohib
 
 (1) The Legislative Assembly finds and declares that: (a) The public interest is served by identifying a mortgage loan originator with a specific mortgage banker or mortgage broker; and (b) The public must be protected from the conflicts of interest created when a mortgage loan originator is employed by more than one mortgage lender.
 
-(2) A mortgage loan originator may not originate loans for more than one mortgage banker, mortgage broker or other mortgage lender or independent mortgage agency at the same time. [Formerly 59.967] 86A.179 [Formerly 59.969; repealed by 2009 c.863 §36] 86A.180 [Formerly 59.970; repealed by 2009 c.863 §36] 
+(2) A mortgage loan originator may not originate loans for more than one mortgage banker, mortgage broker or other mortgage lender or independent mortgage agency at the same time. [Formerly 59.967] 
 
 ## Provenance & change history
 

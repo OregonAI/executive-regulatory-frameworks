@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-1
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1959
+last_amended: 1985
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 1.090 — Trial elsewhere than at usual location on agreement of parties. Ch
 
 ## Full text
 
-1.090 Trial elsewhere than at usual location on agreement of parties. Upon agreement of the parties to a civil action, suit or proceeding in a circuit or county court, filed with the clerk or entered in the register, the court may direct that the trial or any other proceeding therein be had elsewhere within the county than at a location otherwise designated by or pursuant to law for the sitting of the court. [Amended by 1983 c.763 §3; 1985 c.540 §19] 1.100 [Repealed by 1983 c.763 §9] 
+1.090 Trial elsewhere than at usual location on agreement of parties. Upon agreement of the parties to a civil action, suit or proceeding in a circuit or county court, filed with the clerk or entered in the register, the court may direct that the trial or any other proceeding therein be had elsewhere within the county than at a location otherwise designated by or pursuant to law for the sitting of the court. [Amended by 1983 c.763 §3; 1985 c.540 §19] 
 
 ## Provenance & change history
 

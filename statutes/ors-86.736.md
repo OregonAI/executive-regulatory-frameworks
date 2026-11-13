@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-86
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 2021
+enacted: 2013
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 86.736 — Certificate of compliance; expiration. Chapter 86 (Mortgages; Tru
 
 (2) Notwithstanding the requirements set forth in subsection
 
-(1) of this section, if a service provider cancels a resolution conference under ORS 86.729 (5)(b), the service provider shall issue a certificate of compliance to the beneficiary within five days after canceling the resolution conference. [2013 c.304 §5; 2021 c.106 §10] 86.737 [2008 c.19 §20; 2009 c.864 §§1,4; renumbered 86.756 in 2013] 86.739 [2008 c.19 §21; 2009 c.229 §3; renumbered 86.761 in 2013] 86.740 [1959 c.625 §6; 1961 c.616 §3; 1965 c.457 §3; 1973 c.823 §95; 1979 c.879 §2; 1983 c.719 §4; 1989 c.190 §3; 2005 c.129 §1; 2011 c.212 §22; 2012 c.112 §7; 2013 c.304 §11; renumbered 86.764 in 2013] 
+(1) of this section, if a service provider cancels a resolution conference under ORS 86.729 (5)(b), the service provider shall issue a certificate of compliance to the beneficiary within five days after canceling the resolution conference. [2013 c.304 §5; 2021 c.106 §10] 
 
 ## Provenance & change history
 

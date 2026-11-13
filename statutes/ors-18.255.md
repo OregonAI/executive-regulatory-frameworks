@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2017
-enacted: 1971
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -64,7 +64,7 @@ ORS 18.255 — Enforcement of judgment by circuit court for county where debtor 
 
 (5) When a transcribed judgment is filed with a circuit court under this section, the court administrator shall enter the transcribed judgment in the register but shall not note in the register that the judgment creates a judgment lien. Satisfaction documents under ORS 18.225 and certificates of extension under ORS 18.180 to 18.190 may be filed only in the court in which the judgment was originally entered.
 
-(6) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §30; 2017 c.252 §11] 18.260 [Amended by 1971 c.224 §1; repealed by 1979 c.284 §199] (Proceedings in Support of Execution) 
+(6) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §30; 2017 c.252 §11] 
 
 ## Provenance & change history
 

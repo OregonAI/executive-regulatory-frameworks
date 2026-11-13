@@ -52,7 +52,7 @@ ORS 41.910 — Certain intercepted communications inadmissible. Chapter 41 (Evid
 
 (1) In violation of ORS 165.540 shall not be admissible in any court of this state, except as evidence of unlawful interception or when the evidence was created by the use of a video camera worn upon a law enforcement officer’s person and the officer either substantially complied with or attempted in good faith to comply with ORS 165.540 (5)(d)(B).
 
-(2) Under ORS 165.540 (2)(a) shall not be admissible in any court of this state unless: (a) The communication was intercepted by a public official in charge of and at a jail, police premises, sheriff’s office, Department of Corrections institution or other penal or correctional institution; and (b) The participant in the communication, against whom the evidence is being offered, had actual notice that the communication was being monitored or recorded. [1955 c.675 §6; 1959 c.681 §5; 1979 c.716 §12; 1983 c.824 §4; 1993 c.178 §1; 2001 c.385 §5; 2015 c.550 §3] 41.915 [1973 c.263 §1; repealed by 1979 c.284 §199] 41.920 [1973 c.263 §2; repealed by 1979 c.284 §199] 41.925 [1973 c.263 §3; repealed by 1979 c.284 §199] 
+(2) Under ORS 165.540 (2)(a) shall not be admissible in any court of this state unless: (a) The communication was intercepted by a public official in charge of and at a jail, police premises, sheriff’s office, Department of Corrections institution or other penal or correctional institution; and (b) The participant in the communication, against whom the evidence is being offered, had actual notice that the communication was being monitored or recorded. [1955 c.675 §6; 1959 c.681 §5; 1979 c.716 §12; 1983 c.824 §4; 1993 c.178 §1; 2001 c.385 §5; 2015 c.550 §3] 
 
 ## Provenance & change history
 

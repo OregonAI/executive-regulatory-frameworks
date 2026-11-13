@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-67
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2013
+enacted: 1997
 status: current
 supersedes: null
 content_mode: verbatim
@@ -80,7 +82,7 @@ ORS 67.005 — Definitions. Chapter 67 (Partnerships; Limited Liability Partners
 
 (16) “Transfer” includes an assignment, conveyance, lease, mortgage, deed, encumbrance, creation of a security interest and any other disposition.
 
-(17) “Transferable interest of a partner in the partnership” means the partner’s share of the profits and losses of the partnership and the partner’s right to receive distributions. [1997 c.775 §1; 2003 c.14 §25; 2009 c.294 §8; 2009 c.833 §28; 2013 c.129 §22; 2013 c.196 §18] 67.010 [1997 c.775 §2; renumbered 67.040 in 2013] (Filing Documents) 
+(17) “Transferable interest of a partner in the partnership” means the partner’s share of the profits and losses of the partnership and the partner’s right to receive distributions. [1997 c.775 §1; 2003 c.14 §25; 2009 c.294 §8; 2009 c.833 §28; 2013 c.129 §22; 2013 c.196 §18] 
 
 ## Provenance & change history
 

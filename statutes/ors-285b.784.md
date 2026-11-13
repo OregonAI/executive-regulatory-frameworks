@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2021
-enacted: 1997
+enacted: 2021
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 285B.784 — Definitions for ORS 285B.780 to 285B.799. Chapter 285B (Chapter
 
 (4) “Qualified lender” means a lender that: (a) Is certified as a community development financial institution by the Community Development Financial Institutions Fund at the United States Department of the Treasury; (b) Is a nonprofit corporation as defined in ORS 307.130; (c) Is an economic development district in Oregon designated by the Economic Development Administration of the United States Department of Commerce; (d) Is affiliated with a local government as defined in ORS 174.116; and (e) Has a physical presence in Oregon and at least five years of lending experience. (5)(a) “Qualified loan” means a loan made, or an operating line of credit extended, by a lender to a qualified business for which the principal losses are reimbursable from moneys in the lender’s loan loss reserve account. (b) “Qualified loan” does not mean a loan: (A) With a variable interest rate. (B) With an origination fee that exceeds 1.5 percent, and with an annual interest rate that exceeds the lesser of 18 percent or the prime rate plus 7 percent. (C) For working capital for a term exceeding seven years. (D) For capital assets for a term exceeding the useful life of the assets. (E) That includes, in whole or in part, the refinancing of an existing loan made by the lender to the borrower. (F) That includes, in whole or in part, the refinancing of an existing personal loan not used for business purposes. (G) For the purchase of real property that is not used for the business operations of the borrower. (H) For the purchase of owner-occupied residential housing or for the construction, improvement or purchase of residential housing owned or to be owned by the borrower.
 
-(6) “RFP” means a request for proposal. [2021 c.676 §2] Note: See note under 285B.780. 285B.786 [1997 c.835 §38; 1999 c.1104 §12; 2001 c.292 §5; 2003 c.662 §56a; renumbered 285C.409 in 2003] 
+(6) “RFP” means a request for proposal. [2021 c.676 §2] Note: See note under 285B.780. 
 
 ## Provenance & change history
 

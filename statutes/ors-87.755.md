@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2011
-enacted: 1967
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -79,7 +79,7 @@ ORS 87.755 — Grain producer’s lien; date lien attaches; priority. Chapter 87
 
 (7) An agreement by an agricultural producer purporting to waive the right to file notice under ORS 87.242 or 87.762 of a lien created by subsection
 
-(1) of this section is void as contrary to public policy. An agricultural producer may waive the right to file notice under ORS 87.242 or 87.762 if the purchaser is an association of which the agricultural producer is a member. [1981 c.446 §3; 2001 c.301 §18; 2001 c.445 §163; 2011 c.359 §4] 87.760 [1973 c.145 §2; repealed by 1975 c.648 §72] 
+(1) of this section is void as contrary to public policy. An agricultural producer may waive the right to file notice under ORS 87.242 or 87.762 if the purchaser is an association of which the agricultural producer is a member. [1981 c.446 §3; 2001 c.301 §18; 2001 c.445 §163; 2011 c.359 §4] 
 
 ## Provenance & change history
 

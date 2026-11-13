@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-59
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1955
+last_amended: 2017
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -91,7 +91,7 @@ ORS 59.175 — Procedures for notice filing and licensing; rules; examination; b
 
 (9) of this section every two years to reflect changes in the national midpoint for a similar fee. (c) In determining the national midpoint for similar fees under this section, the director may consider national midpoints determined by the North American Securities Administrators Association, the National Association of Securities Dealers or the United States Securities and Exchange Commission.
 
-(11) Except as provided in this subsection, the fees under this section are not refundable. The director may provide for a method of equitably adjusting the payment of fees for broker-dealers, federal covered investment advisers, state investment advisers, salespersons and investment adviser representatives when the director determines that the changes in filing periods and expiration dates under ORS 59.185 are not equitable for the person making the payment. [1967 c.537 §18; 1969 c.137 §4; 1971 c.624 §3; 1985 c.349 §17; 1987 c.603 §11; 1989 c.197 §9; 1991 c.331 §16; 1993 c.508 §31; 1997 c.631 §376; 1997 c.772 §16; 1999 c.53 §3; 2001 c.32 §2; 2003 c.270 §5; 2003 c.785 §4; 2017 c.313 §1] 59.180 [Amended by 1957 c.48 §1; repealed by 1967 c.537 §36] 
+(11) Except as provided in this subsection, the fees under this section are not refundable. The director may provide for a method of equitably adjusting the payment of fees for broker-dealers, federal covered investment advisers, state investment advisers, salespersons and investment adviser representatives when the director determines that the changes in filing periods and expiration dates under ORS 59.185 are not equitable for the person making the payment. [1967 c.537 §18; 1969 c.137 §4; 1971 c.624 §3; 1985 c.349 §17; 1987 c.603 §11; 1989 c.197 §9; 1991 c.331 §16; 1993 c.508 §31; 1997 c.631 §376; 1997 c.772 §16; 1999 c.53 §3; 2001 c.32 §2; 2003 c.270 §5; 2003 c.785 §4; 2017 c.313 §1] 
 
 ## Provenance & change history
 

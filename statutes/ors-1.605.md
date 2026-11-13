@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-1
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1965
+last_amended: 1975
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 1.605 — Compensation and expenses for judges under ORS 1.600. Chapter 1 (C
 
 (2) A judge of the Court of Appeals serving as judge pro tempore of the Supreme Court or a judge of the Oregon Tax Court or circuit court serving as judge pro tempore of the Supreme Court or Court of Appeals as provided in ORS 1.600 shall receive during the period of service as judge pro tempore, in addition to regular salary and expenses, the following compensation and expenses: (a) An amount equal to the salary for the period of a regularly elected and qualified judge of the court to which the judge is appointed diminished by the amount received by the judge for the period in payment of regular salary as a judge; and (b) If the judge is required to travel outside the county where the court of the judge is located, reimbursement for hotel bills and traveling expenses necessarily incurred by the judge in the performance of duties as judge pro tempore.
 
-(3) The additional compensation and expenses payable under this section shall be paid by the state upon an itemized statement of the compensation and expenses, certified by the judge pro tempore that the services were performed and the expenses were necessarily and actually incurred. [1975 c.706 §2] 1.610 [1965 c.494 §1; 1967 c.270 §1; 1969 c.198 §27; 1969 c.577 §1; repealed by 1971 c.311 §2] 
+(3) The additional compensation and expenses payable under this section shall be paid by the state upon an itemized statement of the compensation and expenses, certified by the judge pro tempore that the services were performed and the expenses were necessarily and actually incurred. [1975 c.706 §2] 
 
 ## Provenance & change history
 

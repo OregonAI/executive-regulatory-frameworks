@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1983
+enacted: 2005
 status: current
 supersedes: null
 content_mode: verbatim
@@ -66,7 +66,7 @@ ORS 9.568 — State lawyers assistance committee; personal and practice manageme
 
 (8) With respect to their acts in connection with the state lawyers assistance committee or any personal and practice management assistance committee, the same privileges and immunities from civil and criminal proceedings that apply to prosecuting and judicial officers of the state shall apply to the board, all officers and employees of the bar, and the members of the committees and their agents.
 
-(9) For the purposes of this section, agents of the state lawyers assistance committee or a personal and practice management assistance committee include investigators, attorneys, associate licensees licensed to practice law, counselors, staff personnel and any other individual or entity acting on behalf of or at the request of the committees. [Formerly 9.545; 2005 c.347 §3; 2023 c.72 §13; 2025 c.32 §38] 9.570 [Repealed by 1983 c.618 §1]
+(9) For the purposes of this section, agents of the state lawyers assistance committee or a personal and practice management assistance committee include investigators, attorneys, associate licensees licensed to practice law, counselors, staff personnel and any other individual or entity acting on behalf of or at the request of the committees. [Formerly 9.545; 2005 c.347 §3; 2023 c.72 §13; 2025 c.32 §38] 
 
 ## Provenance & change history
 

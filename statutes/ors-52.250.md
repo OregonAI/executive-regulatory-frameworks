@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-52
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 52.250 — Attachment of real property prohibited. Chapter 52 (Civil Actions
 
 ## Full text
 
-52.250 Attachment of real property prohibited. Real property or any interest therein cannot be attached upon a writ of attachment in a civil action in a justice court. 52.260 [Repealed by 1981 c.898 §53] (Pleadings) 
+52.250 Attachment of real property prohibited. Real property or any interest therein cannot be attached upon a writ of attachment in a civil action in a justice court. 
 
 ## Provenance & change history
 

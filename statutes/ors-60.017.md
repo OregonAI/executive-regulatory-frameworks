@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-60
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 1953
+last_amended: 1999
+enacted: 1987
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 60.017 — Filing duty of Secretary of State. Chapter 60 (Private Corporatio
 
 (4) The Secretary of State’s duty to file documents under this section is ministerial. The Secretary of State is not required to verify or inquire into the legality or truth of any matter included in any document delivered to the office for filing. The Secretary of State’s filing or refusing to file a document does not: (a) Affect the validity or invalidity of the document in whole or part; or (b) Relate to the correctness or incorrectness of information contained in the document.
 
-(5) The Secretary of State’s refusal to file a document does not create a presumption that the document is invalid or that information contained in the document is incorrect. [1987 c.52 §9; 1989 c.1040 §5; 1999 c.486 §6] 60.020 [Repealed by 1953 c.549 §138] 
+(5) The Secretary of State’s refusal to file a document does not create a presumption that the document is invalid or that information contained in the document is incorrect. [1987 c.52 §9; 1989 c.1040 §5; 1999 c.486 §6] 
 
 ## Provenance & change history
 

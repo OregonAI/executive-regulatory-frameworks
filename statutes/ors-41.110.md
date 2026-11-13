@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-41
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1955
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 41.110 — Satisfactory evidence. Chapter 41 (Evidence Generally), 2025 Edit
 
 ## Full text
 
-41.110 Satisfactory evidence. Satisfactory evidence is that which ordinarily produces moral certainty or conviction in an unprejudiced mind. It alone will justify a verdict. Evidence less than this is insufficient evidence. 41.120 [Repealed by 1981 c.892 §98] 41.130 [Repealed by 1981 c.892 §98] 41.140 [Repealed by 1981 c.892 §98] 41.150 [Repealed by 1981 c.892 §98] 41.210 [Repealed by 1981 c.892 §98] 41.220 [Repealed by 1981 c.892 §98] 41.230 [Repealed by 1981 c.892 §98] 41.240 [Repealed by 1981 c.892 §98] 41.250 [Repealed by 1981 c.892 §98] 41.260 [Repealed by 1981 c.892 §98] 
+41.110 Satisfactory evidence. Satisfactory evidence is that which ordinarily produces moral certainty or conviction in an unprejudiced mind. It alone will justify a verdict. Evidence less than this is insufficient evidence. 
 
 ## Provenance & change history
 

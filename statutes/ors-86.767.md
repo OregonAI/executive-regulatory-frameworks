@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-86
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -68,7 +68,7 @@ ORS 86.767 — Failure to give notice of sale; action by omitted person; defense
 
 (1) to
 
-(5) of this section are the sole remedies available to a person entitled to notice of foreclosure by advertisement and sale under ORS 86.764 (2)(c), who failed to receive notice. The person’s failure to redeem or to commence an action against the trustee within five years of the date of a trustee’s sale under ORS 86.782 bars any action under this section or any other applicable law. [Formerly 86.742] 86.770 [1959 c.625 §§12,13; 1965 c.457 §9; 1981 c.811 §1; 1983 c.719 §8; 1985 c.817 §7; 1989 c.190 §6; 1997 c.786 §1; 2007 c.166 §16; 2009 c.883 §2; 2010 c.48 §1; renumbered 86.797 in 2013] 
+(5) of this section are the sole remedies available to a person entitled to notice of foreclosure by advertisement and sale under ORS 86.764 (2)(c), who failed to receive notice. The person’s failure to redeem or to commence an action against the trustee within five years of the date of a trustee’s sale under ORS 86.782 bars any action under this section or any other applicable law. [Formerly 86.742] 
 
 ## Provenance & change history
 

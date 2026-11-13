@@ -57,7 +57,7 @@ ORS 163A.235 — Agreements to resolve concerns about community notification. Ch
 
 (1) “Community notification” means the disclosure of information to the public as provided in ORS 163A.005 to 163A.235.
 
-(2) “Supervising agency” means a governmental entity responsible for supervising a person required to report under ORS 163A.010, 163A.015 or 163A.025. [Formerly 181.845] _______________
+(2) “Supervising agency” means a governmental entity responsible for supervising a person required to report under ORS 163A.010, 163A.015 or 163A.025. [Formerly 181.845] 
 
 ## Provenance & change history
 

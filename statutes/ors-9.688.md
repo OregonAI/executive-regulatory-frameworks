@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1953
+enacted: 2021
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 9.688 — Circuit court jurisdiction to determine entitlement to property in
 
 ## Full text
 
-9.688 Circuit court jurisdiction to determine entitlement to property in lawyer trust account. A circuit court has jurisdiction to determine who is entitled to property contained in a lawyer trust account during a probate of a deceased licensee’s estate. [2021 c.497 §10; 2023 c.72 §18; 2025 c.32 §47] 9.690 [Repealed by 1953 c.609 §2]
+9.688 Circuit court jurisdiction to determine entitlement to property in lawyer trust account. A circuit court has jurisdiction to determine who is entitled to property contained in a lawyer trust account during a probate of a deceased licensee’s estate. [2021 c.497 §10; 2023 c.72 §18; 2025 c.32 §47] 
 
 ## Provenance & change history
 

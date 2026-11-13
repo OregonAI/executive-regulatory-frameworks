@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-42
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2021
+enacted: 2021
 status: current
 supersedes: null
 content_mode: verbatim
@@ -62,7 +64,7 @@ ORS 42.141 — Writing executed or acknowledged in electronic presence of witnes
 
 (3) of this section applies to the witnessing of any writing that is required by law to be executed or acknowledged in the presence of a witness. (b) Notwithstanding paragraph (a) of this subsection, this section does not apply to: (A) A notarial act performed by a notarial officer, as those terms are defined in ORS 194.215; (B) The witnessing of the execution of a will under ORS 112.232 or 112.235; or (C) The witnessing of signatures by the circulator of a petition pursuant to ORS chapter 198, 221, 248, 249, 250, 255, 261 or 545.
 
-(8) Nothing in this section is intended to affect provisions of law regarding the execution of wills, including the application of ORS 112.238 to writings not executed in compliance with ORS 112.235. [2021 c.273 §1] 42.150 [Repealed by 1965 c.502 §6] 42.160 [Repealed by 1965 c.502 §6]
+(8) Nothing in this section is intended to affect provisions of law regarding the execution of wills, including the application of ORS 112.238 to writings not executed in compliance with ORS 112.235. [2021 c.273 §1] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-58
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1999
-enacted: 1961
+last_amended: 1993
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 58.076 — Purposes for which professional corporation may be organized. Cha
 
 (2) of this section, a corporation may elect professional corporation status under ORS 58.085 solely for the purpose of rendering professional service or services, including services ancillary to them, and solely within a single profession.
 
-(2) A corporation may elect professional corporation status under ORS 58.085 for the purpose of rendering professional service or services within two or more professions, and for the purpose of engaging in any lawful business authorized by ORS 60.074, to the extent the combination of professional purposes or of professional and business purposes is expressly authorized by the regulatory board in this state applicable to each profession in the combination. [1993 c.235 §26] 58.080 [Repealed by 1961 c.726 §427] 
+(2) A corporation may elect professional corporation status under ORS 58.085 for the purpose of rendering professional service or services within two or more professions, and for the purpose of engaging in any lawful business authorized by ORS 60.074, to the extent the combination of professional purposes or of professional and business purposes is expressly authorized by the regulatory board in this state applicable to each profession in the combination. [1993 c.235 §26] 
 
 ## Provenance & change history
 

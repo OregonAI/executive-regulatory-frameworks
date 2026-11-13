@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-98
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1965
+last_amended: 1957
 enacted: 1957
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 98.210 — Payment to person proving ownership. Chapter 98 (Lost, Unclaimed 
 
 ## Full text
 
-98.210 Payment to person proving ownership. If the owner of the property sold, or the legal representative of the owner, furnishes satisfactory evidence to the treasurer of ownership of the property deposited in the county treasury pursuant to ORS 98.190, the owner shall be entitled to receive from the treasurer the amount deposited with the treasurer. [Amended by 1957 c.670 §30] 98.220 [Repealed by 1957 c.670 §37] 
+98.210 Payment to person proving ownership. If the owner of the property sold, or the legal representative of the owner, furnishes satisfactory evidence to the treasurer of ownership of the property deposited in the county treasury pursuant to ORS 98.190, the owner shall be entitled to receive from the treasurer the amount deposited with the treasurer. [Amended by 1957 c.670 §30] 
 
 ## Provenance & change history
 

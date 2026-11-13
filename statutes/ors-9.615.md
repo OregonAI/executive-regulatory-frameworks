@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-9
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1953
+last_amended: 1967
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 9.615 — Definition for ORS 9.615 to 9.665. Chapter 9 (Oregon State Bar; At
 
 ## Full text
 
-9.615 Definition for ORS 9.615 to 9.665. As used in ORS 9.615 to 9.665, “client security fund” means a fund created under ORS 9.625. [1967 c.546 §2] 9.620 [Repealed by 1953 c.609 §2] 
+9.615 Definition for ORS 9.615 to 9.665. As used in ORS 9.615 to 9.665, “client security fund” means a fund created under ORS 9.625. [1967 c.546 §2] 
 
 ## Provenance & change history
 

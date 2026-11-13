@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-36
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
+last_amended: 2005
 enacted: 1989
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 36.135 — Review of dispute resolution programs; suspension or termination 
 
 ## Full text
 
-36.135 Review of dispute resolution programs; suspension or termination of funding. The Dean of the University of Oregon School of Law shall periodically review dispute resolution programs in this state. If the dean determines that there are reasonable grounds to believe that a program is not in substantial compliance with the standards and guidelines adopted under ORS 36.175, the dean may suspend or terminate the funding of the program under ORS 36.155 and recover any unexpended funds or improperly expended funds from the program. [1989 c.718 §8; 1995 c.781 §31; 2003 c.791 §12; 2005 c.817 §4] 36.140 [1989 c.718 §9; repealed by 2003 c.791 §33] 
+36.135 Review of dispute resolution programs; suspension or termination of funding. The Dean of the University of Oregon School of Law shall periodically review dispute resolution programs in this state. If the dean determines that there are reasonable grounds to believe that a program is not in substantial compliance with the standards and guidelines adopted under ORS 36.175, the dean may suspend or terminate the funding of the program under ORS 36.155 and recover any unexpended funds or improperly expended funds from the program. [1989 c.718 §8; 1995 c.781 §31; 2003 c.791 §12; 2005 c.817 §4] 
 
 ## Provenance & change history
 

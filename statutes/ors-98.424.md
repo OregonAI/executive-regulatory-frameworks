@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2019
-enacted: 1957
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 98.424 — Agreements with other states; exchange of information; rules; Att
 
 (5) The State Treasurer, through the Attorney General of this state, may request the attorney general of another state or any other person to bring an action in the other state in the name of the State Treasurer against the holder of property in the other state that is subject to escheat or a claim of abandonment by this state. This state shall pay all expenses including attorney fees in any action under this subsection. Any expenses paid pursuant to this subsection may not be deducted from the amount that is subject to the claim by the owner under ORS 98.302 to 98.436 and 98.992.
 
-(6) The State Treasurer may not disclose to any other state any confidential information provided by the Department of Revenue from taxpayer returns. [1983 c.716 §39; 1985 c.403 §3; 1993 c.694 §21; 2019 c.678 §28] 98.426 [1957 c.670 §§28,35; 1983 c.716 §25; repealed by 1993 c.694 §39] 98.430 [Repealed by 1957 c.670 §37] 
+(6) The State Treasurer may not disclose to any other state any confidential information provided by the Department of Revenue from taxpayer returns. [1983 c.716 §39; 1985 c.403 §3; 1993 c.694 §21; 2019 c.678 §28] 
 
 ## Provenance & change history
 

@@ -54,7 +54,7 @@ ORS 87.821 — Filing and indexing fee; rules. Chapter 87 (Statutory Liens), 202
 
 (2) Notwithstanding ORS 205.320, the fees described in subsection
 
-(1) of this section may be collected at the time of filing or by deferred billing in a manner approved by the filing officer. [1967 c.445 §5; 1971 c.621 §19; 1975 c.607 §21; 1979 c.294 §1; 1979 c.833 §22; 1981 c.835 §12; 1981 c.852 §5; 1989 c.111 §11; 1999 c.464 §5] 87.825 [Repealed by 1967 c.445 §1] 
+(1) of this section may be collected at the time of filing or by deferred billing in a manner approved by the filing officer. [1967 c.445 §5; 1971 c.621 §19; 1975 c.607 §21; 1979 c.294 §1; 1979 c.833 §22; 1981 c.835 §12; 1981 c.852 §5; 1989 c.111 §11; 1999 c.464 §5] 
 
 ## Provenance & change history
 

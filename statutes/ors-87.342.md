@@ -68,7 +68,7 @@ ORS 87.342 — Bond, letter of credit or deposit of money to discharge lien on c
 
 (3) of this section to the lien claimant by registered or certified mail sent to the lien claimant at the last-known address of the lien claimant.
 
-(5) If the lien claimant establishes the validity of the lien claim by a suit to enforce it, the lien claimant is entitled to judgment against the sureties upon the bond, against the irrevocable letter of credit issuer or against the deposited money. [1975 c.648 §39; 1991 c.331 §17; 1997 c.631 §389; 2003 c.576 §336] 87.345 [Repealed by 1975 c.648 §72] 
+(5) If the lien claimant establishes the validity of the lien claim by a suit to enforce it, the lien claimant is entitled to judgment against the sureties upon the bond, against the irrevocable letter of credit issuer or against the deposited money. [1975 c.648 §39; 1991 c.331 §17; 1997 c.631 §389; 2003 c.576 §336] 
 
 ## Provenance & change history
 

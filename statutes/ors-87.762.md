@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2011
-enacted: 1967
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -65,7 +65,7 @@ ORS 87.762 — Filing notice of lien; duration of lien; contents of notice; noti
 
 (3) of this section no later than the 20th day after filing the notice of lien. If the agricultural producer does not send a person notice within the required time, the lien created under ORS 87.755 becomes subordinate to that person’s perfected security interest in the inventory or proceeds of the purchaser.
 
-(5) Notwithstanding ORS 174.120, for purposes of this section and ORS 87.772 and 87.777, if the last day of the period for performing an act is a Saturday, or a legal holiday as specified in ORS 187.010 and 187.020, the period runs until the end of the next day that is not a Saturday or legal holiday. [1981 c.446 §4; 2001 c.301 §19; 2011 c.359 §5] 87.765 [1973 c.145 §3; repealed by 1975 c.648 §72] 
+(5) Notwithstanding ORS 174.120, for purposes of this section and ORS 87.772 and 87.777, if the last day of the period for performing an act is a Saturday, or a legal holiday as specified in ORS 187.010 and 187.020, the period runs until the end of the next day that is not a Saturday or legal holiday. [1981 c.446 §4; 2001 c.301 §19; 2011 c.359 §5] 
 
 ## Provenance & change history
 

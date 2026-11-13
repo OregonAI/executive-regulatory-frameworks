@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 2007
+enacted: 1999
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 94.719 — Lien foreclosure; other legal action by declarant, association or
 
 ## Full text
 
-94.719 Lien foreclosure; other legal action by declarant, association or owner; attorney fees. In any suit or action brought by a homeowners association to foreclose its lien or to collect delinquent assessments or in any suit or action brought by the declarant, the association or any owner or class of owners to enforce compliance with the terms and provisions of ORS 94.550 to 94.783 or the declaration or bylaws, including all amendments and supplements thereto or any rules or regulations adopted by the association, the prevailing party shall be entitled to recover reasonable attorney fees therein and in any appeal therefrom. [1999 c.677 §33; 2001 c.756 §23; 2007 c.409 §17] 94.720 [Repealed by 1971 c.478 §1] 
+94.719 Lien foreclosure; other legal action by declarant, association or owner; attorney fees. In any suit or action brought by a homeowners association to foreclose its lien or to collect delinquent assessments or in any suit or action brought by the declarant, the association or any owner or class of owners to enforce compliance with the terms and provisions of ORS 94.550 to 94.783 or the declaration or bylaws, including all amendments and supplements thereto or any rules or regulations adopted by the association, the prevailing party shall be entitled to recover reasonable attorney fees therein and in any appeal therefrom. [1999 c.677 §33; 2001 c.756 §23; 2007 c.409 §17] 
 
 ## Provenance & change history
 

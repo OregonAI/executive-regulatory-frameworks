@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-90
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1989
+last_amended: 2023
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 90.634 — Prohibition against lien for rent; action for possession; disposi
 
 (1) of this section shall promptly send the person a copy of the notice sent to the facility tenant under ORS 90.675 (3). Notwithstanding ORS 90.425, the facility landlord may sell or dispose of goods left in the dwelling or home or upon the dwelling unit by the person in the same manner as if the goods were left by the facility tenant. If the name and address of the person are known to the facility landlord, the landlord shall promptly send the person a copy of the written notice sent to the facility tenant under ORS 90.425
 
-(3) and allow the person the time described in the notice to arrange for removal of the goods. [2007 c.831 §4; 2011 c.42 §13; 2013 c.443 §11; 2021 c.260 §15; 2023 c.72 §47; 2023 c.250 §6; 2023 c.549 §3] 90.635 [1995 c.746 §§47,48; 1997 c.577 §26b; 1999 c.676 §23; 2001 c.596 §45; 2003 c.21 §1; 2005 c.22 §67; 2007 c.843 §91; 2007 c.906 §§7,7a; renumbered 90.650 in 2007] 
+(3) and allow the person the time described in the notice to arrange for removal of the goods. [2007 c.831 §4; 2011 c.42 §13; 2013 c.443 §11; 2021 c.260 §15; 2023 c.72 §47; 2023 c.250 §6; 2023 c.549 §3] 
 
 ## Provenance & change history
 

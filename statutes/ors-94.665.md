@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 2009
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -76,7 +76,7 @@ ORS 94.665 — Authority of association to sell, transfer, convey or encumber co
 
 (4) of this section or any consent to vacation under subsection
 
-(5) of this section as an asset of the association. [1981 c.782 §47; 1987 c.447 §112; 1999 c.677 §20; 2009 c.641 §12] 94.667 [1999 c.447 §1; 2001 c.756 §19; 2015 c.27 §7; renumbered 205.225 in 2025] 
+(5) of this section as an asset of the association. [1981 c.782 §47; 1987 c.447 §112; 1999 c.677 §20; 2009 c.641 §12] 
 
 ## Provenance & change history
 

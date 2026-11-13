@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
-enacted: 1969
+last_amended: 1975
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 87.296 — Waiver of right to hearing after issuance of show cause order. Ch
 
 ## Full text
 
-87.296 Waiver of right to hearing after issuance of show cause order. If, after service of the order issued under ORS 87.288 (1), the lien debtor by a writing executed by or on behalf of the lien debtor after service of the order expressly declares that the lien debtor is aware that the lien debtor has the right to be heard, that the lien debtor does not want to be heard, that the lien debtor expressly waives the right to be heard, that the lien debtor understands that upon the signing by the lien debtor of the writing the court will order the foreclosure of the lien claimant’s lien so that the possession or control of the claimed property will be taken from the lien debtor or another person, the court, without hearing, shall issue the order of foreclosure by advertisement and sale. [1975 c.648 §31] 87.300 [Amended by 1969 c.330 §4; 1973 c.472 §4; repealed by 1975 c.648 §72] 
+87.296 Waiver of right to hearing after issuance of show cause order. If, after service of the order issued under ORS 87.288 (1), the lien debtor by a writing executed by or on behalf of the lien debtor after service of the order expressly declares that the lien debtor is aware that the lien debtor has the right to be heard, that the lien debtor does not want to be heard, that the lien debtor expressly waives the right to be heard, that the lien debtor understands that upon the signing by the lien debtor of the writing the court will order the foreclosure of the lien claimant’s lien so that the possession or control of the claimed property will be taken from the lien debtor or another person, the court, without hearing, shall issue the order of foreclosure by advertisement and sale. [1975 c.648 §31] 
 
 ## Provenance & change history
 

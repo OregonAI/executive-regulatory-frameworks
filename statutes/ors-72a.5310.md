@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-72a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 1989
+enacted: 1989
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +54,7 @@ ORS 72A.5310 — Standing to sue third parties for injury to goods. Chapter 72A 
 
 (2) If at the time of the injury the party plaintiff did not bear the risk of loss as against the other party to the lease contract and there is no arrangement between them for disposition of the recovery, the plaintiff’s suit or settlement, subject to the plaintiff’s own interest, is as a fiduciary for the other party to the lease contract.
 
-(3) Either party with the consent of the other may sue for the benefit of whom it may concern. [1989 c.676 §78] _______________
+(3) Either party with the consent of the other may sue for the benefit of whom it may concern. [1989 c.676 §78] 
 
 ## Provenance & change history
 

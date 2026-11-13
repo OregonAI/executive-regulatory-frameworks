@@ -82,7 +82,7 @@ ORS 87.142 — Definitions for ORS 87.142 to 87.490 and 87.910. Chapter 87 (Stat
 
 (16) “Timbers” means sawlogs, spars, piles, felled logs and other wood growth that has been cut or separated from land.
 
-(17) “Wood products” includes lumber, slabwood, plywood and other wood products produced from timbers. The term does not include paper or products made from paper. [1975 c.648 §1; 1999 c.940 §1; 2001 c.301 §5; 2009 c.181 §104; 2025 c.33 §101] 87.145 [Repealed by 1975 c.648 §72] 
+(17) “Wood products” includes lumber, slabwood, plywood and other wood products produced from timbers. The term does not include paper or products made from paper. [1975 c.648 §1; 1999 c.940 §1; 2001 c.301 §5; 2009 c.181 §104; 2025 c.33 §101] 
 
 ## Provenance & change history
 

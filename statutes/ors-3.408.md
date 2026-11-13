@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-3
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2022
-enacted: 1955
+last_amended: 2011
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 3.408 — Matters assignable to family court department. Chapter 3 (Circuit 
 
 (2) In addition to the matters specified in subsection
 
-(1) of this section, the presiding judge of the judicial district may assign to a family court department any criminal proceeding that involves domestic violence or other crime between family members. [1993 c.165 §2; 1995 c.608 §19; 1995 c.664 §67; 1995 c.781 §15; 1995 c.800 §7; 1999 c.1081 §1; 2007 c.70 §3; 2011 c.720 §51] 3.410 [Amended by 1955 c.715 §3; 1959 c.557 §6; repealed by 1961 c.724 §34] 3.411 [1961 c.724 §15; 1965 c.618 §9; 1967 c.531 §3; 1967 c.533 §11; 1971 c.640 §2; repealed by 1981 c.215 §8] 
+(1) of this section, the presiding judge of the judicial district may assign to a family court department any criminal proceeding that involves domestic violence or other crime between family members. [1993 c.165 §2; 1995 c.608 §19; 1995 c.664 §67; 1995 c.781 §15; 1995 c.800 §7; 1999 c.1081 §1; 2007 c.70 §3; 2011 c.720 §51] 
 
 ## Provenance & change history
 

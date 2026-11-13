@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1979
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -64,7 +64,7 @@ ORS 45.400 — Remote location testimony; when authorized; notice; payment of co
 
 (7) This section does not apply to a workers’ compensation hearing or to any other administrative proceeding.
 
-(8) As used in this section: (a) “Remote location testimony” means live testimony given by a witness or party from a physical location outside of the courtroom of record via simultaneous electronic transmission. (b) “Simultaneous electronic transmission” means television, telephone or any other form of electronic communication transmission if the form of transmission allows: (A) The court, the attorneys and the person testifying from a remote location to communicate with each other during the proceeding; (B) A witness or party who is represented by counsel at the hearing to be able to consult privately with counsel during the proceeding; and (C) The public to hear and, if the transmission includes a visual image, to see the witness or party if the public would otherwise have the right to hear and see the witness or party testifying in the courtroom of record. [1993 c.425 §1; 2001 c.398 §1; 2003 c.262 §1; 2017 c.240 §1; 2025 c.23 §1] 45.410 [Repealed by 1979 c.284 §199] 45.420 [Repealed by 1979 c.284 §199] 45.430 [Repealed by 1979 c.284 §199] 45.440 [Repealed by 1979 c.284 §199] 45.450 [Repealed by 1979 c.284 §199] 45.460 [Repealed by 1979 c.284 §199] 45.470 [Repealed by 1979 c.284 §199] 45.510 [Repealed by 1981 c.892 §98] 45.520 [Repealed by 1981 c.892 §98] 45.530 [Repealed by 1981 c.892 §98] 45.540 [Repealed by 1981 c.892 §98] 45.550 [Repealed by 1981 c.892 §98] 45.560 [Repealed by 1981 c.892 §98] 45.570 [Repealed by 1981 c.892 §98] 45.580 [Repealed by 1981 c.892 §98] 45.590 [Repealed by 1981 c.892 §98] 45.600 [Repealed by 1981 c.892 §98] 45.610 [Repealed by 1981 c.892 §98] 45.620 [Repealed by 1981 c.892 §98] 45.630 [Repealed by 1981 c.892 §98]
+(8) As used in this section: (a) “Remote location testimony” means live testimony given by a witness or party from a physical location outside of the courtroom of record via simultaneous electronic transmission. (b) “Simultaneous electronic transmission” means television, telephone or any other form of electronic communication transmission if the form of transmission allows: (A) The court, the attorneys and the person testifying from a remote location to communicate with each other during the proceeding; (B) A witness or party who is represented by counsel at the hearing to be able to consult privately with counsel during the proceeding; and (C) The public to hear and, if the transmission includes a visual image, to see the witness or party if the public would otherwise have the right to hear and see the witness or party testifying in the courtroom of record. [1993 c.425 §1; 2001 c.398 §1; 2003 c.262 §1; 2017 c.240 §1; 2025 c.23 §1] 
 
 ## Provenance & change history
 

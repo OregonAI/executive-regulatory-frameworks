@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-63
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 1959
+last_amended: 1999
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 63.007 — Filing, service, copying and certification fees. Chapter 63 (Limi
 
 ## Full text
 
-63.007 Filing, service, copying and certification fees. The Secretary of State shall collect the fees described in ORS 56.140 for each document delivered for filing under this chapter and for process served on the secretary under this chapter. The secretary may collect the fees described in ORS 56.140 for copying any public record under this chapter, certifying the copy or certifying to other facts of record under this chapter. [1993 c.173 §4; 1995 c.93 §2; 1999 c.362 §§29,29a] 63.010 [Repealed by 1959 c.580 §104] 
+63.007 Filing, service, copying and certification fees. The Secretary of State shall collect the fees described in ORS 56.140 for each document delivered for filing under this chapter and for process served on the secretary under this chapter. The secretary may collect the fees described in ORS 56.140 for copying any public record under this chapter, certifying the copy or certifying to other facts of record under this chapter. [1993 c.173 §4; 1995 c.93 §2; 1999 c.362 §§29,29a] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2013
-enacted: 1957
+last_amended: 2007
+enacted: 1995
 status: current
 supersedes: null
 content_mode: verbatim
@@ -64,7 +64,7 @@ ORS 87.512 — Contents of notice of lien. Chapter 87 (Statutory Liens), 2025 Ed
 
 (6) A statement that the long term care facility has given the individual or an authorized representative a written summary of the requirements and procedures for establishing eligibility for Medicaid, including the right to an assessment that determines the extent of spouses’ nonexempt resources at the time of institutionalization and attributes to the community spouse an equitable share of the resources that can not be considered available for payment of costs for the medical care of the institutionalized spouse in the process of spending down to Medicaid eligibility levels. The written statement shall be given no fewer than 30 days and no more than 60 days before the notice of lien is filed. The long term care facility may meet the requirement of this subsection by providing written materials relating to Medicaid eligibility for long term care services for persons with disabilities and elderly persons used by the Department of Human Services; and
 
-(7) A description of the real property to be charged with the lien that complies with ORS 93.600. [1995 c.749 §4; 1997 c.744 §6; 2001 c.900 §12; 2007 c.70 §17] Note: See note under 87.501. 87.515 [Amended by 1957 c.420 §1; 1959 c.521 §1; repealed by 1975 c.648 §72] 
+(7) A description of the real property to be charged with the lien that complies with ORS 93.600. [1995 c.749 §4; 1997 c.744 §6; 2001 c.900 §12; 2007 c.70 §17] Note: See note under 87.501. 
 
 ## Provenance & change history
 

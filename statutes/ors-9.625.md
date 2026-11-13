@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1953
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 9.625 — Plan to relieve client losses; rules. Chapter 9 (Oregon State Bar;
 
 ## Full text
 
-9.625 Plan to relieve client losses; rules. The board of governors may adopt a plan to relieve or mitigate pecuniary losses to the clients of active licensees caused by dishonest conduct of those licensees in their practice of law. The plan may provide for establishing, administering and dissolving a separate fund and for payments from that fund to reimburse losses and costs and expenses of administering the fund. The board may adopt rules of procedure to carry out the plan. The insurance laws of the state shall not apply to this fund. [1967 c.546 §3; 1975 c.641 §10; 1989 c.1052 §12; 2025 c.32 §39] 9.630 [Repealed by 1953 c.609 §2] 
+9.625 Plan to relieve client losses; rules. The board of governors may adopt a plan to relieve or mitigate pecuniary losses to the clients of active licensees caused by dishonest conduct of those licensees in their practice of law. The plan may provide for establishing, administering and dissolving a separate fund and for payments from that fund to reimburse losses and costs and expenses of administering the fund. The board may adopt rules of procedure to carry out the plan. The insurance laws of the state shall not apply to this fund. [1967 c.546 §3; 1975 c.641 §10; 1989 c.1052 §12; 2025 c.32 §39] 
 
 ## Provenance & change history
 

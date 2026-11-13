@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-41
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1955
+last_amended: 1997
+enacted: 1963
 status: current
 supersedes: null
 content_mode: verbatim
@@ -68,7 +68,7 @@ ORS 41.675 — Inadmissibility of certain data provided to peer review body of h
 
 (6) Subsection
 
-(3) of this section shall not apply to proceedings in which a health care practitioner contests the denial, restriction or termination of clinical privileges by a health care facility or the denial, restriction or termination of membership in a professional society or any other health care group. However, any data disclosed in those proceedings shall not be admissible in any other judicial, administrative, arbitration or mediation proceeding. [1963 c.181 §1; 1971 c.412 §1; 1975 c.796 §11; 1977 c.448 §9; 1981 c.806 §1; 1991 c.225 §1; 1995 c.485 §1; 1997 c.791 §6; 1997 c.792 §§29,29a] 41.680 [Repealed by 1981 c.892 §98] 
+(3) of this section shall not apply to proceedings in which a health care practitioner contests the denial, restriction or termination of clinical privileges by a health care facility or the denial, restriction or termination of membership in a professional society or any other health care group. However, any data disclosed in those proceedings shall not be admissible in any other judicial, administrative, arbitration or mediation proceeding. [1963 c.181 §1; 1971 c.412 §1; 1975 c.796 §11; 1977 c.448 §9; 1981 c.806 §1; 1991 c.225 §1; 1995 c.485 §1; 1997 c.791 §6; 1997 c.792 §§29,29a] 
 
 ## Provenance & change history
 

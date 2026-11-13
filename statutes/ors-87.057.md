@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2016
-enacted: 1955
+last_amended: 1987
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -61,7 +61,7 @@ ORS 87.057 — Notice of intent to foreclose; list of materials furnished and st
 
 (1) and
 
-(2) of this section. No costs, disbursements or attorney fees otherwise allowable as provided by ORS 87.060 shall be allowed to any party failing to comply with the provisions of this section. [1975 c.466 §15; 1987 c.662 §11] 87.058 [1981 c.618 §16; 1987 c.662 §12; 1991 c.181 §15; 2001 c.197 §8; 2007 c.793 §2; repealed by 2011 c.630 §53] 87.059 [2011 c.630 §56; repealed by 2016 c.99 §15] 
+(2) of this section. No costs, disbursements or attorney fees otherwise allowable as provided by ORS 87.060 shall be allowed to any party failing to comply with the provisions of this section. [1975 c.466 §15; 1987 c.662 §11] 
 
 ## Provenance & change history
 

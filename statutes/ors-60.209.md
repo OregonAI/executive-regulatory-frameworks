@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-60
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 1953
+last_amended: 2003
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 60.209 — Meeting chairperson; closing of polls. Chapter 60 (Private Corpor
 
 (3) Any rules adopted for, and the conduct of, the meeting shall be fair to shareholders.
 
-(4) The chairperson of the meeting shall announce at the meeting when the polls close for each matter voted upon. If no announcement is made, the polls shall be considered to have closed upon the final adjournment of the meeting. After the polls close, no ballots, proxies or votes, or any revocations or changes thereto, may be accepted. [2003 c.80 §5] 60.210 [Repealed by 1953 c.549 §138] 
+(4) The chairperson of the meeting shall announce at the meeting when the polls close for each matter voted upon. If no announcement is made, the polls shall be considered to have closed upon the final adjournment of the meeting. After the polls close, no ballots, proxies or votes, or any revocations or changes thereto, may be accepted. [2003 c.80 §5] 
 
 ## Provenance & change history
 

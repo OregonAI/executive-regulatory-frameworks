@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
+last_amended: 1997
 enacted: 1975
 status: current
 supersedes: null
@@ -51,7 +51,7 @@ ORS 87.162 — Landlord’s lien. Chapter 87 (Statutory Liens), 2025 Edition.
 
 ## Full text
 
-87.162 Landlord’s lien. Except as provided in ORS 87.156 and 90.120, a landlord has a lien on all chattels, except wearing apparel as defined in ORS 18.345 (1), owned by a tenant or occupant legally responsible for rent, brought upon the leased premises, to secure the payment of rent and such advances as are made on behalf of the tenant. The landlord may retain the chattels until the amount of rent and advances is paid. [1975 c.648 §5; 1981 c.258 §1; 1997 c.374 §8] 87.165 [Repealed by 1975 c.648 §72] 
+87.162 Landlord’s lien. Except as provided in ORS 87.156 and 90.120, a landlord has a lien on all chattels, except wearing apparel as defined in ORS 18.345 (1), owned by a tenant or occupant legally responsible for rent, brought upon the leased premises, to secure the payment of rent and such advances as are made on behalf of the tenant. The landlord may retain the chattels until the amount of rent and advances is paid. [1975 c.648 §5; 1981 c.258 §1; 1997 c.374 §8] 
 
 ## Provenance & change history
 

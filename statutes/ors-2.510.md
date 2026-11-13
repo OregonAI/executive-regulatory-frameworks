@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-2
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 1977
+enacted: 1969
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 2.510 — Court of Appeals. Chapter 2 (Supreme Court; Court of Appeals), 202
 
 ## Full text
 
-2.510 Court of Appeals. As part of the judicial branch of state government, there is created a court of justice to be known as the Court of Appeals. [1969 c.198 §1; 1969 c.591 §262a; 1971 c.567 §1; 1971 c.734 §33; 1975 c.611 §22; 1977 c.158 §4] 2.515 [1969 c.198 §77; repealed by 1977 c.158 §5] 
+2.510 Court of Appeals. As part of the judicial branch of state government, there is created a court of justice to be known as the Court of Appeals. [1969 c.198 §1; 1969 c.591 §262a; 1971 c.567 §1; 1971 c.734 §33; 1975 c.611 §22; 1977 c.158 §4] 
 
 ## Provenance & change history
 

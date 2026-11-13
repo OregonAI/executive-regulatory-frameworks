@@ -48,7 +48,7 @@ ORS 8.852 — Salary plan for district attorneys. Chapter 8 (Court Officers and 
 
 ## Full text
 
-8.852 Salary plan for district attorneys. The district attorneys of the various counties shall be paid monthly salaries as adopted in the salary plan provided for in ORS 240.240 (2), to include salary adjustments awarded management service employees. [1991 c.432 §2; reenacted by 1993 c.290 §2; reenacted by 1995 c.9 §2; reenacted by 1997 c.75 §2] _______________
+8.852 Salary plan for district attorneys. The district attorneys of the various counties shall be paid monthly salaries as adopted in the salary plan provided for in ORS 240.240 (2), to include salary adjustments awarded management service employees. [1991 c.432 §2; reenacted by 1993 c.290 §2; reenacted by 1995 c.9 §2; reenacted by 1997 c.75 §2] 
 
 ## Provenance & change history
 

@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2015
-enacted: 1953
+enacted: 2015
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 30.677 — Notice. Chapter 30 (Actions and Suits in Particular Cases), 2025 
 
 (2) The notice required by subsection
 
-(1) of this section must read as follows: ______________________________________________________________________________ WARNING Under Oregon law, there is no liability for an injury to or the death of a participant in an agri-tourism activity conducted at this agri-tourism location if the injury or death results from the inherent risks of the agri-tourism activity. Inherent risks of agri-tourism activities are risks of injury inherent to land, equipment and animals, as well as the potential for you to act in a negligent manner that may contribute to your injury or death. You are assuming the risk of participating in this agri-tourism activity. ______________________________________________________________________________ [2015 c.535 §3] 30.680 [Amended by 1953 c.495 §3; 1957 c.724 §2; 1973 c.714 §3; 1981 c.897 §7; 1995 c.618 §24; repealed by 2001 c.621 §90] 30.685 [1973 c.714 §14; 2001 c.621 §17; renumbered 659A.406 in 2001]
+(1) of this section must read as follows: ______________________________________________________________________________ WARNING Under Oregon law, there is no liability for an injury to or the death of a participant in an agri-tourism activity conducted at this agri-tourism location if the injury or death results from the inherent risks of the agri-tourism activity. Inherent risks of agri-tourism activities are risks of injury inherent to land, equipment and animals, as well as the potential for you to act in a negligent manner that may contribute to your injury or death. You are assuming the risk of participating in this agri-tourism activity. ______________________________________________________________________________ [2015 c.535 §3] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-5
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 1981
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 5.030 — Power of county judge to grant injunctions and orders in suits in 
 
 ## Full text
 
-5.030 Power of county judge to grant injunctions and orders in suits in circuit court. The judge of any county court having judicial functions shall grant preliminary injunctions or orders in any suit in the circuit court commenced in the county, upon application made in the manner prescribed by ORCP 79. The order or injunction shall be made returnable to the circuit court of such county, to be there heard and determined. [Amended by 1981 c.898 §15] 5.040 [Amended by 1961 c.344 §95; repealed by 1969 c.591 §305] 5.050 [Repealed by 1969 c.591 §305] 
+5.030 Power of county judge to grant injunctions and orders in suits in circuit court. The judge of any county court having judicial functions shall grant preliminary injunctions or orders in any suit in the circuit court commenced in the county, upon application made in the manner prescribed by ORCP 79. The order or injunction shall be made returnable to the circuit court of such county, to be there heard and determined. [Amended by 1981 c.898 §15] 
 
 ## Provenance & change history
 

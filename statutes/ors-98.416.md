@@ -54,7 +54,7 @@ ORS 98.416 — Proceeding to compel delivery of unclaimed property; interest. Ch
 
 (2) The State Treasurer may require a holder who fails to pay or deliver property within the time prescribed by ORS 98.302 to 98.436 and 98.992 to pay interest from the date the State Treasurer determines interest should have been paid. Interest shall be paid at the rate set by the Director of the Department of Revenue pursuant to ORS 305.220
 
-(1) and (3). [1957 c.670 §26; 1983 c.716 §23; 1993 c.694 §26; 2003 c.272 §7; 2019 c.678 §26] 98.418 [1983 c.716 §40; repealed by 1985 c.336 §1] 98.420 [Repealed by 1957 c.670 §37] 
+(1) and (3). [1957 c.670 §26; 1983 c.716 §23; 1993 c.694 §26; 2003 c.272 §7; 2019 c.678 §26] 
 
 ## Provenance & change history
 

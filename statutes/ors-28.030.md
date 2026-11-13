@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-28
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 28.030 — Construction of contract before or after breach. Chapter 28 (Decl
 
 ## Full text
 
-28.030 Construction of contract before or after breach. A contract may be construed either before or after there has been a breach thereof. 28.040 [Amended by 1961 c.344 §101; repealed by 2021 c.282 §23] 
+28.030 Construction of contract before or after breach. A contract may be construed either before or after there has been a breach thereof. 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-8
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1953
+last_amended: 1995
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 8.195 — Appointment of trial court administrators; removal. Chapter 8 (Cou
 
 (1) Subject to applicable provisions of a personnel plan established by the Chief Justice of the Supreme Court, a person to serve as trial court administrator for: (a) One judicial district shall be appointed by the presiding judge for the judicial district, with the approval of a majority of the circuit court judges in the district. (b) The circuit court in a judicial district shall be appointed by the presiding judge for the judicial district, with the approval of a majority of the circuit court judges. (c) Two or more adjoining judicial districts shall be appointed by the presiding judges for the judicial districts, with the approval of a majority of the circuit court judges in the districts.
 
-(2) A trial court administrator may be removed from the office by the appointing presiding judge as provided in a personnel plan established by the Chief Justice of the Supreme Court. [1981 s.s. c.3 §9; 1995 c.658 §18; 1995 c.781 §18] 8.205 [1981 s.s. c.3 §10; 1995 c.658 §19; repealed by 1997 c.801 §131] 8.210 [Repealed by 1973 c.781 §4] 8.215 [1981 s.s. c.3 §11; 1995 c.658 §20a; 1995 c.781 §19; repealed by 1997 c.801 §131] 8.220 [Repealed by 1973 c.781 §4] 
+(2) A trial court administrator may be removed from the office by the appointing presiding judge as provided in a personnel plan established by the Chief Justice of the Supreme Court. [1981 s.s. c.3 §9; 1995 c.658 §18; 1995 c.781 §18] 
 
 ## Provenance & change history
 

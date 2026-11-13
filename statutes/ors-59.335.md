@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-59
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 1963
+last_amended: 2005
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 59.335 — Application of certain sections. Chapter 59 (Securities Regulatio
 
 (1) apply to persons who buy or offer to buy when: (a) An offer to buy is made in this state; or (b) An offer to sell is made and accepted in this state.
 
-(3) ORS 59.135, 59.145 and 59.165, insofar as federal covered investment advisers or state investment advisers are concerned, apply when an act instrumental in effecting prohibited conduct is done in this state, whether or not either party is then present in this state. [1967 c.537 §31(1), (2), (6); 1987 c.603 §29; 1997 c.772 §27; 2003 c.631 §6; 2005 c.22 §39] 59.340 [Amended by 1963 c.244 §7; repealed by 1967 c.537 §36] 
+(3) ORS 59.135, 59.145 and 59.165, insofar as federal covered investment advisers or state investment advisers are concerned, apply when an act instrumental in effecting prohibited conduct is done in this state, whether or not either party is then present in this state. [1967 c.537 §31(1), (2), (6); 1987 c.603 §29; 1997 c.772 §27; 2003 c.631 §6; 2005 c.22 §39] 
 
 ## Provenance & change history
 

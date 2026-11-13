@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-21
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 2019
+enacted: 2017
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 21.225 — Trial fees. Chapter 21 (State Court Fees), 2025 Edition.
 
 (6) Except as otherwise provided in subsection (3)(c) of this section, the fees provided for in this section that are paid by a party shall be considered costs and disbursements and may be taxed and collected as other costs and disbursements by the prevailing party.
 
-(7) A court shall order that a trial fee paid under the provisions of this section be refunded to the party that paid the fee if all claims in the action or proceeding are decided without the commencement of a trial and the party that paid the fee files a motion and affidavit requesting refund of the fee not more than 15 days after entry of judgment disposing of the action or proceeding. [Formerly 21.270; 2017 c.663 §17; 2019 c.605 §17] 21.230 [Amended by 1963 c.519 §11; repealed by 1965 c.619 §39] (Fees for Documents and Forms) 
+(7) A court shall order that a trial fee paid under the provisions of this section be refunded to the party that paid the fee if all claims in the action or proceeding are decided without the commencement of a trial and the party that paid the fee files a motion and affidavit requesting refund of the fee not more than 15 days after entry of judgment disposing of the action or proceeding. [Formerly 21.270; 2017 c.663 §17; 2019 c.605 §17] 
 
 ## Provenance & change history
 

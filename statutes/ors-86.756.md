@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-86
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 2019
+enacted: 2017
 status: current
 supersedes: null
 content_mode: verbatim
@@ -72,7 +72,7 @@ ORS 86.756 — Notice to grantor; requirements; additional forms; rules. Chapter
 
 (6) Except as provided in ORS 408.515 (3), the information required under ORS 408.515 must be included with a notice under subsection
 
-(1) of this section. [Formerly 86.737; 2017 c.251 §5; 2019 c.405 §7] 86.757 [2003 c.251 §2; renumbered 86.786 in 2013] 86.759 [2003 c.251 §3; renumbered 86.789 in 2013] 86.760 [1959 c.625 §10; 1961 c.616 §6; 1965 c.457 §7; 1979 c.879 §4; repealed by 1983 c.719 §13] 
+(1) of this section. [Formerly 86.737; 2017 c.251 §5; 2019 c.405 §7] 
 
 ## Provenance & change history
 

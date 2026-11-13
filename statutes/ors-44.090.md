@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-44
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1997
-enacted: 1955
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 44.090 — Protection of witness from arrest. Chapter 44 (Witnesses), 2025 E
 
 (3) The affidavit may be taken by the officer and exonerates the officer from liability for not making the arrest, or for discharging the witness when arrested.
 
-(4) The court, judge or officer before whom the attendance of the witness is required may discharge the witness from an arrest made in violation of this section. 44.095 [1973 c.386 §1; repealed by 1981 c.892 §98] 44.110 [Repealed by 1979 c.284 §199] 44.120 [Amended by 1969 c.383 §1; repealed by 1979 c.284 §199] 44.130 [Amended by 1969 c.383 §2; repealed by 1979 c.284 §199] 44.140 [Amended by 1977 c.789 §2; repealed by 1979 c.284 §199] 
+(4) The court, judge or officer before whom the attendance of the witness is required may discharge the witness from an arrest made in violation of this section. 
 
 ## Provenance & change history
 

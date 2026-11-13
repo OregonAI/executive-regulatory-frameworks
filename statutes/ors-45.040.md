@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-45
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1981
-enacted: 1961
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 45.040 — Oral examination described. Chapter 45 (Testimony Generally), 202
 
 ## Full text
 
-45.040 Oral examination described. An oral examination is an examination in the presence of the jury or tribunal which is to decide the fact, or act upon it, the testimony being heard by the jury or tribunal from the mouth of the witness. 45.050 [Amended by 1961 c.461 §1; 1979 c.284 §82; repealed by 1981 c.898 §53] 45.110 [Repealed by 1979 c.284 §199] 45.120 [Repealed by 1979 c.284 §199] 45.125 [Formerly 45.180; repealed by 1977 c.404 §2 (194.500 to 194.580 enacted in lieu of 45.125)]
+45.040 Oral examination described. An oral examination is an examination in the presence of the jury or tribunal which is to decide the fact, or act upon it, the testimony being heard by the jury or tribunal from the mouth of the witness. 
 
 ## Provenance & change history
 

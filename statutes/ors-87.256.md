@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
-enacted: 1969
+last_amended: 1975
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 87.256 — Limitation on extent of liens. Chapter 87 (Statutory Liens), 2025
 
 ## Full text
 
-87.256 Limitation on extent of liens. Persons claiming liens created by ORS 87.216 to 87.232 are only entitled to liens for labor, services or materials performed or furnished during the six months immediately preceding the filing of the notice of claim under ORS 87.242. [1975 c.648 §24] 87.260 [Repealed by 1975 c.648 §72] 
+87.256 Limitation on extent of liens. Persons claiming liens created by ORS 87.216 to 87.232 are only entitled to liens for labor, services or materials performed or furnished during the six months immediately preceding the filing of the notice of claim under ORS 87.242. [1975 c.648 §24] 
 
 ## Provenance & change history
 

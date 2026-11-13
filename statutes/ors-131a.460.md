@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-131a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2011
+enacted: 2009
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +56,7 @@ ORS 131A.460 — Asset Forfeiture Oversight Account. Chapter 131A (Civil Forfeit
 
 (3) The State Treasurer may invest and reinvest moneys in the Asset Forfeiture Oversight Account in the manner provided by law. Interest earned by the account shall be credited to the account.
 
-(4) The moneys in the Asset Forfeiture Oversight Account are continuously appropriated to the Oregon Criminal Justice Commission to be used for the expenses of the Asset Forfeiture Oversight Advisory Committee. [2009 c.78 §51; 2011 c.504 §5] _______________
+(4) The moneys in the Asset Forfeiture Oversight Account are continuously appropriated to the Oregon Criminal Justice Commission to be used for the expenses of the Asset Forfeiture Oversight Advisory Committee. [2009 c.78 §51; 2011 c.504 §5] 
 
 ## Provenance & change history
 

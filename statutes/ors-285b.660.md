@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2021
-enacted: 2003
+enacted: 2021
 status: current
 supersedes: null
 content_mode: verbatim
@@ -64,7 +64,7 @@ ORS 285B.660 — Oregon Business Development Department to develop policy for di
 
 (7) Oversee the rural grant services provided under ORS 285B.651 to 285B.676.
 
-(8) Periodically consult with the League of Oregon Cities, the Association of Oregon Counties, the Oregon School Boards Association and the Special Districts Association of Oregon on the implementation of ORS 285B.651 to 285B.676. [2021 c.614 §3] Note: See note under 285B.651. 285B.662 [Formerly 285.565; 2003 c.662 §20; renumbered 285C.090 in 2003] 
+(8) Periodically consult with the League of Oregon Cities, the Association of Oregon Counties, the Oregon School Boards Association and the Special Districts Association of Oregon on the implementation of ORS 285B.651 to 285B.676. [2021 c.614 §3] Note: See note under 285B.651. 
 
 ## Provenance & change history
 

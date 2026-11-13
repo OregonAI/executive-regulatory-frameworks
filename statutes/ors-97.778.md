@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-97
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
-enacted: 1955
+last_amended: 2003
+enacted: 1999
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 97.778 — Chairperson; quorum; meetings. Chapter 97 (Rights and Duties Rela
 
 (2) A majority of the members of the commission constitutes a quorum for the transaction of business.
 
-(3) The commission shall meet at least once every three months at a place, day and hour determined by the commission. The commission also shall meet at other times and places specified by the call of the chairperson or of a majority of the members of the commission. [1999 c.731 §5; 2003 c.173 §4] Note: See note under 97.772. 97.779 [1995 c.457 §6; repealed by 1999 c.731 §14] 
+(3) The commission shall meet at least once every three months at a place, day and hour determined by the commission. The commission also shall meet at other times and places specified by the call of the chairperson or of a majority of the members of the commission. [1999 c.731 §5; 2003 c.173 §4] Note: See note under 97.772. 
 
 ## Provenance & change history
 

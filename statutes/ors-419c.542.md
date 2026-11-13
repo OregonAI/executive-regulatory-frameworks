@@ -64,7 +64,7 @@ ORS 419C.542 — Hearings before Psychiatric Security Review Board. Chapter 419C
 
 (4) Notwithstanding the fact that a young person who is brought before the board under subsection
 
-(3) of this section continues to have a serious mental condition, the board may discharge the young person if the young person did not exhibit behaviors that presented a substantial danger to others during the period of conditional release and no longer requires supervision by the board. [2005 c.843 §18; 2009 c.595 §374; 2025 c.56 §10] 419C.544 [2005 c.843 §19; repealed by 2025 c.56 §11]
+(3) of this section continues to have a serious mental condition, the board may discharge the young person if the young person did not exhibit behaviors that presented a substantial danger to others during the period of conditional release and no longer requires supervision by the board. [2005 c.843 §18; 2009 c.595 §374; 2025 c.56 §10] 
 
 ## Provenance & change history
 

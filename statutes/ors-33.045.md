@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-33
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1973
+last_amended: 1991
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 33.045 — Types of sanctions. Chapter 33 (Special Proceedings and Procedure
 
 (4) Any sanction requiring payment of amounts to one of the parties to a proceeding is remedial.
 
-(5) Any sanction imposed by a court for contempt is in addition to any civil remedy or criminal sanction that may be available as a result of the conduct constituting contempt. In any civil or criminal proceedings arising out of the conduct constituting contempt, the court shall take into consideration any contempt sanctions previously imposed for the same act. [1991 c.724 §4] 33.050 [Repealed by 1991 c.724 §32] 
+(5) Any sanction imposed by a court for contempt is in addition to any civil remedy or criminal sanction that may be available as a result of the conduct constituting contempt. In any civil or criminal proceedings arising out of the conduct constituting contempt, the court shall take into consideration any contempt sanctions previously imposed for the same act. [1991 c.724 §4] 
 
 ## Provenance & change history
 

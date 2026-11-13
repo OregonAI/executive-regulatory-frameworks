@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-86
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 1955
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 86.080 — Record of assignment not notice to mortgagor. Chapter 86 (Mortgag
 
 ## Full text
 
-86.080 Record of assignment not notice to mortgagor. The recording of the assignment of a mortgage is not of itself notice of such assignment to the mortgagor, or the heirs or personal representatives of the mortgagor, so as to invalidate a payment made by any of them to the mortgagee. 86.090 [Repealed by 1965 c.252 §1] 
+86.080 Record of assignment not notice to mortgagor. The recording of the assignment of a mortgage is not of itself notice of such assignment to the mortgagor, or the heirs or personal representatives of the mortgagor, so as to invalidate a payment made by any of them to the mortgagee. 
 
 ## Provenance & change history
 

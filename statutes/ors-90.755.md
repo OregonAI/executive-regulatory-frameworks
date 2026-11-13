@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-90
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1989
+last_amended: 2009
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 90.755 — Right to speak on political issues; limitations; placement of pol
 
 (1) No provision in any bylaw, rental agreement, regulation or rule may infringe upon the right of a person who rents a space for a manufactured dwelling or floating home to invite public officers, candidates for public office or officers or representatives of a tenant organization to appear and speak upon matters of public interest in the common areas or recreational areas of the facility at reasonable times and in a reasonable manner in an open public meeting. The landlord of a facility, however, may enforce reasonable rules and regulations relating to the time, place and scheduling of the speakers that will protect the interests of the majority of the homeowners.
 
-(2) The landlord shall allow the tenant to place political signs on or in a manufactured dwelling or floating home owned by the tenant or the space rented by the tenant. The size of the signs and the length of time for which the signs may be displayed are subject to the reasonable rules of the landlord. [Formerly 91.925; 1991 c.844 §18; 1995 c.559 §40; 2009 c.816 §17] 90.760 [Formerly 91.905; 1991 c.844 §23; 2014 c.89 §6; renumbered 90.805 in 2015] 
+(2) The landlord shall allow the tenant to place political signs on or in a manufactured dwelling or floating home owned by the tenant or the space rented by the tenant. The size of the signs and the length of time for which the signs may be displayed are subject to the reasonable rules of the landlord. [Formerly 91.925; 1991 c.844 §18; 1995 c.559 §40; 2009 c.816 §17] 
 
 ## Provenance & change history
 

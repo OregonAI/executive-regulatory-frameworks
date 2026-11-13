@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-10
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2011
-enacted: 1975
+last_amended: 1999
+enacted: 1985
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 10.990 — Penalties. Chapter 10 (Juries), 2025 Edition.
 
 (2) If a person summoned to serve as a juror in a circuit court fails to attend as required, the court shall order the person to appear forthwith and show cause for that failure. If the person fails to appear pursuant to the order or appears and fails to show good cause, the person may be punished for contempt.
 
-(3) A juror summoned to a court who fails to give attention in court, or who leaves without permission while the court is in session or otherwise fails to complete required jury service without permission, may be punished for contempt of the court. [Amended by 1985 c.703 §19; 1999 c.1051 §144] 10.992 [1975 c.160 §2; 1999 c.1051 §145; repealed by 2011 c.118 §5] _______________
+(3) A juror summoned to a court who fails to give attention in court, or who leaves without permission while the court is in session or otherwise fails to complete required jury service without permission, may be punished for contempt of the court. [Amended by 1985 c.703 §19; 1999 c.1051 §144] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-743a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 2017
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 743A.180 — Tourette Syndrome. Chapter 743A (Chapter 743A), 2025 Edition.
 
 ## Full text
 
-743A.180 Tourette Syndrome. For purpose of coverage by group health insurers, health care service contractors and health maintenance organizations, reimbursement for treatment of Tourette Syndrome shall be made on the basis of the diagnosis and treatment modality employed. [Formerly 743.717] Note: See 743A.001. 743A.184 [Formerly 743.694; repealed by 2017 c.206 §16] 
+743A.180 Tourette Syndrome. For purpose of coverage by group health insurers, health care service contractors and health maintenance organizations, reimbursement for treatment of Tourette Syndrome shall be made on the basis of the diagnosis and treatment modality employed. [Formerly 743.717] Note: See 743A.001. 
 
 ## Provenance & change history
 

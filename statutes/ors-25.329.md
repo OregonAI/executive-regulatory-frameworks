@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-25
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1985
+last_amended: 2007
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -63,7 +63,7 @@ ORS 25.329 — Actions required after service of medical support notice; rules. 
 
 (6) If the plan administrator notifies the employer that the providing party is subject to a waiting period that expires more than 90 days after the date of receipt of the medical support notice by the plan administrator or that the providing party is subject to a waiting period that is measured in a manner other than the passage of time, the employer shall, when the providing party becomes eligible to enroll in the plan, notify the plan administrator that the medical support notice requires that the child named in the notice be enrolled in the plan; and
 
-(7) The plan administrator shall enroll the child and, if necessary to the enrollment of the child, enroll the providing party in the plan as provided by rules adopted by the Department of Justice. [2003 c.637 §6; 2007 c.878 §9] 25.330 [1985 c.671 §6; 1991 c.588 §1; 1995 c.609 §5; 1997 c.704 §28; renumbered 25.167 in 1999] 
+(7) The plan administrator shall enroll the child and, if necessary to the enrollment of the child, enroll the providing party in the plan as provided by rules adopted by the Department of Justice. [2003 c.637 §6; 2007 c.878 §9] 
 
 ## Provenance & change history
 

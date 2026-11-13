@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-62
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
+last_amended: 1957
 enacted: 1957
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 62.370 — Civil action for inducing breach of contract with cooperative or 
 
 ## Full text
 
-62.370 Civil action for inducing breach of contract with cooperative or spreading false reports about cooperative. In addition to the remedies provided in ORS 62.365 (2), any person who knowingly and maliciously induces or attempts to induce any member of a cooperative to breach a contract of the member with the cooperative authorized by ORS 62.355, or who knowingly and maliciously spreads any false report about the finances or management of a cooperative is liable, in a civil action, to the cooperative aggrieved, in the penal sum of $500 for each offense. [1957 c.716 §72] 62.410 [Repealed by 1957 c.716 §76] 
+62.370 Civil action for inducing breach of contract with cooperative or spreading false reports about cooperative. In addition to the remedies provided in ORS 62.365 (2), any person who knowingly and maliciously induces or attempts to induce any member of a cooperative to breach a contract of the member with the cooperative authorized by ORS 62.355, or who knowingly and maliciously spreads any false report about the finances or management of a cooperative is liable, in a civil action, to the cooperative aggrieved, in the penal sum of $500 for each offense. [1957 c.716 §72] 
 
 ## Provenance & change history
 

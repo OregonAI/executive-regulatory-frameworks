@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2019
-enacted: 1961
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -61,7 +61,7 @@ ORS 58.187 — Revision of limitations on liability in ORS 58.185 to reflect inf
 
 (8) by the inflation factor described in this section every six years. The six-year cycle shall begin January 1, 1994. The Secretary of State shall round the amount to the nearest $50,000 and publish the revised amount as a rule not later than February 1 following the end of the six-year cycle. The revised limitation shall take effect February 1 and apply for the next six years.
 
-(2) For purposes of this section, the inflation factor shall be a number determined by dividing the Consumer Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the United States Department of Labor, as of June 30 immediately preceding the calendar year in which the adjustment shall take effect, by the Portland Consumer Price Index for All Urban Consumers for All Items, using the 1982-1984 base of 100, as of December 31, 1993. [1993 c.235 §12; 1997 c.774 §8; 2019 c.57 §5] 58.190 [Repealed by 1961 c.726 §427] 58.195 [1969 c.592 §22; 1987 c.94 §19; repealed by 1993 c.235 §40] 
+(2) For purposes of this section, the inflation factor shall be a number determined by dividing the Consumer Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the United States Department of Labor, as of June 30 immediately preceding the calendar year in which the adjustment shall take effect, by the Portland Consumer Price Index for All Urban Consumers for All Items, using the 1982-1984 base of 100, as of December 31, 1993. [1993 c.235 §12; 1997 c.774 §8; 2019 c.57 §5] 
 
 ## Provenance & change history
 

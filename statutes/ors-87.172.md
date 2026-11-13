@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
+last_amended: 2011
 enacted: 1975
 status: current
 supersedes: null
@@ -57,7 +57,7 @@ ORS 87.172 — Time period before foreclosure allowed. Chapter 87 (Statutory Lie
 
 (2) Except as otherwise provided in this subsection, a person claiming a lien under ORS 87.152 for cost of care, materials and services bestowed on an animal must retain the animal for at least 30 days after the lien attaches to the animal before foreclosing the lien. If the lien is for veterinary services to a domestic animal, the person must retain the animal for at least five days after the lien attaches to the animal before foreclosing the lien. As used in this subsection, “domestic animal” means an animal that is not livestock as defined in ORS 72.1030 and for which the veterinary services were requested by an owner or other person with apparent authority regarding care of the animal.
 
-(3) A person claiming a lien under ORS 87.152 for the cost of removing, towing or storage of a vehicle that is appraised by a person who holds a certificate issued under ORS 819.480 to have a value of: (a) $1,000 or less but more than $500, must retain the vehicle at least 30 days after the lien attaches to the vehicle before foreclosing the lien. (b) $500 or less, must retain the vehicle at least 15 days after the lien attaches to the vehicle before foreclosing the lien. [1975 c.648 §7; 1979 c.401 §1; 1981 c.861 §1; 1983 c.338 §881; 1993 c.326 §9; 1995 c.758 §18; 2005 c.738 §7; 2011 c.399 §2] 87.175 [Repealed by 1975 c.648 §72] 
+(3) A person claiming a lien under ORS 87.152 for the cost of removing, towing or storage of a vehicle that is appraised by a person who holds a certificate issued under ORS 819.480 to have a value of: (a) $1,000 or less but more than $500, must retain the vehicle at least 30 days after the lien attaches to the vehicle before foreclosing the lien. (b) $500 or less, must retain the vehicle at least 15 days after the lien attaches to the vehicle before foreclosing the lien. [1975 c.648 §7; 1979 c.401 §1; 1981 c.861 §1; 1983 c.338 §881; 1993 c.326 §9; 1995 c.758 §18; 2005 c.738 §7; 2011 c.399 §2] 
 
 ## Provenance & change history
 

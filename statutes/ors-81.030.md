@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-81
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 81.030 — Receipt for paying money or delivering instruments or property. C
 
 ## Full text
 
-81.030 Receipt for paying money or delivering instruments or property. Whoever pays money or delivers an instrument or property is entitled to a receipt therefor from the person to whom the payment or delivery is made, and may demand a proper signature to such receipt as a condition of the payment or delivery. 81.100 [2001 c.164 §1; renumbered 15.300 in 2011] 81.102 [2001 c.164 §2; 2011 c.129 §1; renumbered 15.305 in 2011] 81.105 [2001 c.164 §3; renumbered 15.320 in 2011] 81.110 [2001 c.164 §4; renumbered 15.325 in 2011] 81.112 [2001 c.164 §5; renumbered 15.330 in 2011] 81.115 [2001 c.164 §6; renumbered 15.335 in 2011] 81.120 [2001 c.164 §7; renumbered 15.350 in 2011] 81.125 [2001 c.164 §8; renumbered 15.355 in 2011] 81.130 [2001 c.164 §9; renumbered 15.360 in 2011] 81.135 [2001 c.164 §10; renumbered 15.380 in 2011]
+81.030 Receipt for paying money or delivering instruments or property. Whoever pays money or delivers an instrument or property is entitled to a receipt therefor from the person to whom the payment or delivery is made, and may demand a proper signature to such receipt as a condition of the payment or delivery. 
 
 ## Provenance & change history
 

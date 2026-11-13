@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-97
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
-enacted: 1995
+last_amended: 2011
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 97.963 — Effect of making, amending or revoking anatomical gift. Chapter 9
 
 (5) In the absence of an express, contrary indication by the donor or other person authorized to make an anatomical gift under ORS 97.955, an anatomical gift of a body part is neither a refusal to give another body part nor a limitation on the making of an anatomical gift of another body part at a later time by the donor or other person.
 
-(6) In the absence of an express, contrary indication by the donor or other person authorized to make an anatomical gift under ORS 97.955, an anatomical gift of a body part for one or more of the purposes set forth in ORS 97.955 is not a limitation on the making of an anatomical gift of the body part for any of the other purposes by the donor or other person under ORS 97.957 or 97.967. [2007 c.681 §7; 2009 c.106 §4; 2011 c.61 §2] Note: See note under 97.951. 97.964 [1995 c.717 §8; 2005 c.505 §5; repealed by 2007 c.681 §31] 
+(6) In the absence of an express, contrary indication by the donor or other person authorized to make an anatomical gift under ORS 97.955, an anatomical gift of a body part for one or more of the purposes set forth in ORS 97.955 is not a limitation on the making of an anatomical gift of the body part for any of the other purposes by the donor or other person under ORS 97.957 or 97.967. [2007 c.681 §7; 2009 c.106 §4; 2011 c.61 §2] Note: See note under 97.951. 
 
 ## Provenance & change history
 

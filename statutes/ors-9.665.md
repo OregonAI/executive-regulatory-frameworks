@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1953
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 9.665 — Authority for reimbursement of client; waiver of conditions; subro
 
 (1) have been found to exist. However, the board may, in its sole discretion, waive one or more of the conditions of ORS 9.655
 
-(1) in cases of extreme hardship or special and unusual circumstances. The state bar is subrogated, in the amount that a client’s claim is reimbursed from the client security fund, to all rights and remedies of that client against the licensee whose dishonest conduct caused the loss, against the estate of the licensee or against any other person liable for the loss. [1967 c.546 §7; 1989 c.1052 §14; 1991 c.726 §7; 2003 c.14 §10; 2023 c.72 §16; 2025 c.32 §44] 9.670 [Repealed by 1953 c.609 §2]
+(1) in cases of extreme hardship or special and unusual circumstances. The state bar is subrogated, in the amount that a client’s claim is reimbursed from the client security fund, to all rights and remedies of that client against the licensee whose dishonest conduct caused the loss, against the estate of the licensee or against any other person liable for the loss. [1967 c.546 §7; 1989 c.1052 §14; 1991 c.726 §7; 2003 c.14 §10; 2023 c.72 §16; 2025 c.32 §44] 
 
 ## Provenance & change history
 

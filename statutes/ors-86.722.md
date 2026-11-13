@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-86
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: 2009
+enacted: 2009
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 86.722 — Correction of error concerning status or effect of trust deed; ri
 
 (1) To correct an error concerning the status or effect of a recorded trust deed, a person may present an instrument to the county clerk for recording in the deed and mortgage records of the county, and the county clerk shall record the instrument if it otherwise meets the requirements for an instrument to be recorded under ORS chapter 205 and is in substantially the following form: ______________________________________________________________________________ CORRECTION OF ERROR(S) IN THE DEED AND MORTGAGE RECORDS RELATING TO A TRUST DEED (ORS 86.705 to 86.815) This instrument is recorded to provide notice of an error relating to: Original Deed of Trust County clerk instrument record #: Grantor (name): Trustee (name): Beneficiary (name): Assignee(s), if any (name(s)): The error to be corrected is (check one): [ ] Erroneous reconveyance of trust deed Date of recording: County clerk instrument record #: [ ] Erroneous recording of Trustee’s Deed Date of recording: County clerk instrument record #: The result of this error correction is (check one): [ ] The original trust deed is hereby reinstated; or [ ] The Trustee’s Deed is hereby set aside as though the erroneous instrument had not been recorded. Date _____ Name (printed) _________ Signature _________ (Beneficiary of original deed of trust) STATE OF OREGON ) ) ss. County of _____ ) The foregoing instrument was acknowledged before me this ___ day of ________, 2___, by ________. ____________ Notary Public for Oregon My commission expires: ______ STATE OF OREGON ) ) ss. County of _____ ) The foregoing instrument was acknowledged before me this ___ day of ________, 2___, by ________ and by ______ of ________, a corporation on behalf of the corporation. _______________ Notary Public for Oregon My commission expires: ______ ______________________________________________________________________________
 
-(2) Reinstatement of a trust deed based on the correction of an error under this section does not affect the rights of a bona fide purchaser for value or of a bona fide purchaser for value holding a security interest in the real property if the purchaser acquired an interest after the erroneous trust deed reconveyance or trustee’s deed was recorded and before the error was corrected. [2009 c.628 §3] 86.725 [1959 c.625 §20; renumbered 86.815 in 2013] (Foreclosures) 
+(2) Reinstatement of a trust deed based on the correction of an error under this section does not affect the rights of a bona fide purchaser for value or of a bona fide purchaser for value holding a security interest in the real property if the purchaser acquired an interest after the erroneous trust deed reconveyance or trustee’s deed was recorded and before the error was corrected. [2009 c.628 §3] 
 
 ## Provenance & change history
 

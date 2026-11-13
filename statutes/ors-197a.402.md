@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-197a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 2017
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 197A.402 — Local approval of land division or construction of housing; con
 
 (2) of this section is inconsistent with the comprehensive plan and applicable land use regulations, the local government, prior to making a final decision on the application, shall allow the applicant to offer an amendment or to propose conditions of approval that would make the application consistent with the plan and applicable regulations. If an applicant seeks to amend the application or propose conditions of approval: (a) A county may extend the time limitation under ORS 215.427 for final action by the governing body of a county on an application for needed housing and may set forth a new time limitation for final action on the consideration of future amendments or proposals. (b) A city may extend the time limitation under ORS 227.178 for final action by the governing body of a city on an application for needed housing and may set forth a new time limitation for final action on the consideration of future amendments or proposals.
 
-(4) A local government shall deny an application that is inconsistent with the comprehensive plan and applicable land use regulations and that cannot be made consistent through amendments to the application or the imposition of reasonable conditions of approval. [Formerly 197.522] 197A.405 [2017 c.709 §1; 2018 c.15 §10; repealed by 2023 c.13 §96] 197A.407 [2017 c.709 §2; 2018 c.15 §11; repealed by 2023 c.13 §96] 
+(4) A local government shall deny an application that is inconsistent with the comprehensive plan and applicable land use regulations and that cannot be made consistent through amendments to the application or the imposition of reasonable conditions of approval. [Formerly 197.522] 
 
 ## Provenance & change history
 

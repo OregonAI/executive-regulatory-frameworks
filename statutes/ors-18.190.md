@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-18
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
+last_amended: 2003
 enacted: 2003
 status: current
 supersedes: null
@@ -58,7 +58,7 @@ ORS 18.190 — Spousal support awards in judgments entered before January 1, 200
 
 (3) This section and ORS 18.180
 
-(6) do not limit the time during which judgment remedies are available for any judgment entered before January 1, 2004, and those judgments may continue to be enforced for the time provided by the law in effect immediately before January 1, 2004, subject to any requirement for renewal of those judgments. [2003 c.576 §21] 18.192 [2003 c.576 §22; repealed by 2015 c.212 §20] 
+(6) do not limit the time during which judgment remedies are available for any judgment entered before January 1, 2004, and those judgments may continue to be enforced for the time provided by the law in effect immediately before January 1, 2004, subject to any requirement for renewal of those judgments. [2003 c.576 §21] 
 
 ## Provenance & change history
 

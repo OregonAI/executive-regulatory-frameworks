@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-97
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1957
+last_amended: 2023
+enacted: 1969
 status: current
 supersedes: null
 content_mode: verbatim
@@ -102,7 +102,7 @@ ORS 97.130 — Right to control disposition of remains; delegation. Chapter 97 (
 
 (1) or
 
-(2) of this section transfers any portion of the cremated or reduced remains to another person, the recipient of the cremated or reduced remains has the authority to direct the manner of disposition of the cremated or reduced remains in the recipient’s possession. [Amended by 1969 c.175 §10; 1969 c.591 §279; 1973 c.823 §97; 1995 c.717 §10; 1997 c.472 §1; 1999 c.201 §5; 2007 c.373 §1; 2007 c.681 §24; 2011 c.154 §1; 2011 c.164 §1; 2019 c.83 §1; 2019 c.384 §12a; 2021 c.296 §§2,3; 2023 c.11 §1] 97.132 [1961 c.674 §1; repealed by 1969 c.175 §12] 97.134 [1961 c.674 §§2,3; repealed by 1969 c.175 §12] 97.140 [Repealed by 1957 c.423 §1 (97.141 and 97.145 enacted in lieu of 97.140)] 97.141 [1957 c.423 §2 (97.141 and 97.145 enacted in lieu of 97.140); repealed by 1997 c.472 §13] 
+(2) of this section transfers any portion of the cremated or reduced remains to another person, the recipient of the cremated or reduced remains has the authority to direct the manner of disposition of the cremated or reduced remains in the recipient’s possession. [Amended by 1969 c.175 §10; 1969 c.591 §279; 1973 c.823 §97; 1995 c.717 §10; 1997 c.472 §1; 1999 c.201 §5; 2007 c.373 §1; 2007 c.681 §24; 2011 c.154 §1; 2011 c.164 §1; 2019 c.83 §1; 2019 c.384 §12a; 2021 c.296 §§2,3; 2023 c.11 §1] 
 
 ## Provenance & change history
 

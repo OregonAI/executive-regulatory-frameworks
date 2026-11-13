@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-1
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
+last_amended: 2011
 enacted: 1977
 status: current
 supersedes: null
@@ -52,7 +52,7 @@ ORS 1.740 — Employment of staff; public hearings. Chapter 1 (Courts and Judici
 
 (1) May employ or contract with any person or persons, as the council considers necessary, to assist the council; and
 
-(2) Shall endeavor to hold at least one public hearing in each of the congressional districts of the state during the period between odd-numbered year regular sessions of the Legislative Assembly. [1977 c.890 §4; 1993 c.772 §3; 2011 c.545 §69] 1.742 [1993 c.634 §3; repealed by 2001 c.716 §30] 
+(2) Shall endeavor to hold at least one public hearing in each of the congressional districts of the state during the period between odd-numbered year regular sessions of the Legislative Assembly. [1977 c.890 §4; 1993 c.772 §3; 2011 c.545 §69] 
 
 ## Provenance & change history
 

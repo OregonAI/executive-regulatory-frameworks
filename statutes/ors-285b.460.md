@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2009
-enacted: 2001
+enacted: 2005
 status: current
 supersedes: null
 content_mode: verbatim
@@ -55,7 +55,7 @@ ORS 285B.460 — Funding and assistance for planning projects. Chapter 285B (Cha
 
 (2) The planning project may be a stand-alone project.
 
-(3) The planning project may include an environmental action on a brownfield. For purposes of this subsection: (a) “Brownfield” has the meaning given that term in ORS 285A.185. (b) “Environmental action” has the meaning given that term in ORS 285A.188. [2005 c.835 §8; 2009 c.11 §34; 2009 c.830 §103] 285B.461 [Formerly 285.737; 2001 c.883 §33; 2003 c.773 §43; repealed by 2005 c.835 §37] 
+(3) The planning project may include an environmental action on a brownfield. For purposes of this subsection: (a) “Brownfield” has the meaning given that term in ORS 285A.185. (b) “Environmental action” has the meaning given that term in ORS 285A.188. [2005 c.835 §8; 2009 c.11 §34; 2009 c.830 §103] 
 
 ## Provenance & change history
 

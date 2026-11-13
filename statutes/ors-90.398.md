@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-90
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1991
+last_amended: 2017
+enacted: 2005
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 90.398 — Termination of tenancy for drug or alcohol violations. Chapter 90
 
 (2) If the tenant cures the violation within the 24-hour period, the rental agreement does not terminate. If the tenant does not cure the violation within the 24-hour period, the rental agreement terminates as provided in the notice.
 
-(3) If substantially the same act that constituted a prior drug or alcohol violation of which notice was given reoccurs within six months, the landlord may terminate the rental agreement upon at least 24 hours’ written notice specifying the violation and the date and time of termination of the rental agreement. The tenant does not have a right to cure this subsequent violation. [2005 c.391 §10; 2017 c.21 §34] 90.400 [Formerly 91.820; 1993 c.369 §12; 1995 c.559 §26; 1997 c.577 §23; 1999 c.603 §24; 1999 c.676 §15; 2001 c.596 §33; 2003 c.378 §13; 2005 c.22 §61; 2005 c.708 §42; repealed by 2005 c.391 §39] 
+(3) If substantially the same act that constituted a prior drug or alcohol violation of which notice was given reoccurs within six months, the landlord may terminate the rental agreement upon at least 24 hours’ written notice specifying the violation and the date and time of termination of the rental agreement. The tenant does not have a right to cure this subsequent violation. [2005 c.391 §10; 2017 c.21 §34] 
 
 ## Provenance & change history
 

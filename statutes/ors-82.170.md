@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-82
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1997
+last_amended: 1985
 enacted: 1973
 status: current
 supersedes: null
@@ -54,7 +54,7 @@ ORS 82.170 — Notice to borrower of lender authority to refuse to accept repaym
 
 (2) If a loan agreement does not contain a notice as required by subsection
 
-(1) of this section, a lender shall not refuse to accept repayment of the loan by the borrower prior to the date provided for repayment. [1973 c.611 §2; 1985 c.359 §2] 82.300 [1989 c.578 §1; repealed by 1997 c.182 §7] _______________
+(1) of this section, a lender shall not refuse to accept repayment of the loan by the borrower prior to the date provided for repayment. [1973 c.611 §2; 1985 c.359 §2] 
 
 ## Provenance & change history
 

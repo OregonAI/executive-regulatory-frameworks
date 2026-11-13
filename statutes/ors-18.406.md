@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-18
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2024
-enacted: 1961
+last_amended: 2005
+enacted: 2005
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 18.406 — Exemption not applicable to certain liens, mortgages and interest
 
 ## Full text
 
-18.406 Exemption not applicable to certain liens, mortgages and interests. ORS 18.395 to 18.422 do not apply to construction liens for work, labor or material done or furnished exclusively for the improvement of the homestead property, to purchase money liens, to mortgages lawfully executed, or to the enforcement of a seller’s rights under a land sale contract, as defined by ORS 18.960. [Formerly 23.260; 2005 c.542 §58a] 18.410 [Amended by 1985 c.540 §26; 1987 c.586 §8; 1989 c.768 §6; 1999 c.788 §24; repealed by 2003 c.576 §580] 
+18.406 Exemption not applicable to certain liens, mortgages and interests. ORS 18.395 to 18.422 do not apply to construction liens for work, labor or material done or furnished exclusively for the improvement of the homestead property, to purchase money liens, to mortgages lawfully executed, or to the enforcement of a seller’s rights under a land sale contract, as defined by ORS 18.960. [Formerly 23.260; 2005 c.542 §58a] 
 
 ## Provenance & change history
 

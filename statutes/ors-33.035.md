@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-33
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1955
+last_amended: 2001
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 33.035 — Appointed counsel. Chapter 33 (Special Proceedings and Procedures
 
 (2) For contempt of a justice court, municipal court or other public body not described in subsection
 
-(1) of this section, payment for and appointment of counsel shall be made as otherwise provided by law for the court or public body. [1991 c.724 §3; 2001 c.962 §63] 33.040 [Amended by 1955 c.648 §2; 1961 c.210 §5; repealed by 1991 c.724 §32] 
+(1) of this section, payment for and appointment of counsel shall be made as otherwise provided by law for the court or public body. [1991 c.724 §3; 2001 c.962 §63] 
 
 ## Provenance & change history
 

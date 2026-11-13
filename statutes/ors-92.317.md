@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-92
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1963
+last_amended: 2005
+enacted: 1974
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 92.317 — Policy; protection of consumers. Chapter 92 (Subdivisions and Par
 
 (2) and
 
-(3) (1973 Replacement Part), by section 23, chapter 1, Oregon Laws 1974 (special session), may cause irreparable damage to the interests of consumers involved in real estate transactions. It is therefore declared to be the policy of the State of Oregon that the Attorney General protect the rights of such real estate purchasers to the greatest extent practicable through the application of the provisions of ORS 336.184 and 646.605 to 646.652. [1974 c.1 §29; 2005 c.22 §72] 92.320 [1963 c.624 §14; repealed by 1973 c.421 §52] 
+(3) (1973 Replacement Part), by section 23, chapter 1, Oregon Laws 1974 (special session), may cause irreparable damage to the interests of consumers involved in real estate transactions. It is therefore declared to be the policy of the State of Oregon that the Attorney General protect the rights of such real estate purchasers to the greatest extent practicable through the application of the provisions of ORS 336.184 and 646.605 to 646.652. [1974 c.1 §29; 2005 c.22 §72] 
 
 ## Provenance & change history
 

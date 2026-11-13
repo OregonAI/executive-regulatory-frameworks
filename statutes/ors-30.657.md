@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2023
-enacted: 1953
+enacted: 2022
 status: current
 supersedes: null
 content_mode: verbatim
@@ -88,7 +88,7 @@ ORS 30.657 — Petition for compensation for wrongful conviction; requirements; 
 
 (14) Any party to a proceeding under this section may appeal from the judgment of the circuit court on a petition filed under this section by filing a notice of appeal within the time and in the manner specified in ORS chapter 19 for civil appeals to the Court of Appeals. Any party filing a notice of appeal under this subsection must note in the notice of appeal that the case is subject to this subsection. For purposes of any appeals under this section, the Attorney General shall represent the state in all appellate proceedings. The party filing the notice of appeal shall serve the notice of appeal on the Attorney General and on the district attorney for the county of conviction.
 
-(15) This section does not preclude the Department of Corrections from providing reentry services to a petitioner under this section that are provided to other persons, including, but not limited to, financial assistance, housing assistance, mentoring and counseling. Services may be provided while an action is pending and after any judgment is entered, as appropriate for the petitioner. [2022 c.105 §1; 2023 c.368 §3] 30.658 [1999 c.810 §3; repealed by 2015 c.212 §18] 
+(15) This section does not preclude the Department of Corrections from providing reentry services to a petitioner under this section that are provided to other persons, including, but not limited to, financial assistance, housing assistance, mentoring and counseling. Services may be provided while an action is pending and after any judgment is entered, as appropriate for the petitioner. [2022 c.105 §1; 2023 c.368 §3] 
 
 ## Provenance & change history
 

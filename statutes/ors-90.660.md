@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-90
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1989
+last_amended: 2009
+enacted: 2007
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 90.660 — Local regulation of park closures. Chapter 90 (Residential Landlo
 
 ## Full text
 
-90.660 Local regulation of park closures. A local government may not enforce an ordinance, rule or other local law regulating manufactured dwelling park closures or partial closures adopted by the local government on or after July 1, 2007, or amended on or after January 1, 2010. An ordinance, rule or other local law regulating manufactured dwelling park closures or partial closures may not be applied to reduce the rights provided to a park tenant under ORS 90.645 or 90.655. [2007 c.906 §4; 2009 c.575 §1] 90.670 [Formerly 91.915; 1991 c.844 §13; 1993 c.580 §5; repealed by 1997 c.577 §50] 
+90.660 Local regulation of park closures. A local government may not enforce an ordinance, rule or other local law regulating manufactured dwelling park closures or partial closures adopted by the local government on or after July 1, 2007, or amended on or after January 1, 2010. An ordinance, rule or other local law regulating manufactured dwelling park closures or partial closures may not be applied to reduce the rights provided to a park tenant under ORS 90.645 or 90.655. [2007 c.906 §4; 2009 c.575 §1] 
 
 ## Provenance & change history
 

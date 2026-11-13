@@ -56,7 +56,7 @@ ORS 308A.743 — Disqualification limited when land subject to certain plans, ea
 
 (2) A property owner who executes a conservation easement may convey the easement to a land trust or other qualified entity without a loss of benefits under this section.
 
-(3) In order for land to be subject to this section: (a) The conservation easement, deed restriction or wildlife habitat conservation and management plan must be recorded in the records of the clerk of the county in which the land is located; and (b) A copy of the conservation easement, deed restriction, wildlife habitat conservation and management plan or final order issued by the Water Resources Department approving an in-stream lease, along with the property tax account number for the land, must be sent to the county assessor. [2001 c.708 §3; 2003 c.454 §§50,52; 2003 c.539 §35; 2003 c.621 §93; 2007 c.809 §15; 2023 c.520 §1] _______________
+(3) In order for land to be subject to this section: (a) The conservation easement, deed restriction or wildlife habitat conservation and management plan must be recorded in the records of the clerk of the county in which the land is located; and (b) A copy of the conservation easement, deed restriction, wildlife habitat conservation and management plan or final order issued by the Water Resources Department approving an in-stream lease, along with the property tax account number for the land, must be sent to the county assessor. [2001 c.708 §3; 2003 c.454 §§50,52; 2003 c.539 §35; 2003 c.621 §93; 2007 c.809 §15; 2023 c.520 §1] 
 
 ## Provenance & change history
 

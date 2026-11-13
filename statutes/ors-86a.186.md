@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-86a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 2009
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 86A.186 — Mortgage loan originator criminal records checks; rules. Chapter
 
 (1) of this section.
 
-(3) The director shall adopt rules to: (a) Implement and administer state criminal records checks required under this section; and (b) Specify crimes and categories of crimes for which a conviction will prevent a person from acting as a mortgage loan originator under ORS 86A.183. [Formerly 59.972] 86A.187 [Formerly 59.973; repealed by 2009 c.863 §36] 86A.188 [Formerly 59.975; repealed by 2009 c.863 §36] 86A.189 [Formerly 59.977; repealed by 2009 c.863 §36] (Regulation of Lending Activity) 
+(3) The director shall adopt rules to: (a) Implement and administer state criminal records checks required under this section; and (b) Specify crimes and categories of crimes for which a conviction will prevent a person from acting as a mortgage loan originator under ORS 86A.183. [Formerly 59.972] 
 
 ## Provenance & change history
 

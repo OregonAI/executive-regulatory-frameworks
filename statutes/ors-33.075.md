@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-33
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
-enacted: 1973
+last_amended: 2011
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -66,7 +66,7 @@ ORS 33.075 — Compelling attendance of defendant. Chapter 33 (Special Proceedin
 
 (7) If the court proceeds against the security under subsection
 
-(6) of this section and the sum specified is recovered, the court may award to any party to the action any or all of the money recovered as remedial damages. [1991 c.724 §7; 1993 c.196 §3; 2011 c.597 §119] 33.080 [Amended by 1973 c.836 §322; repealed by 1991 c.724 §32] 
+(6) of this section and the sum specified is recovered, the court may award to any party to the action any or all of the money recovered as remedial damages. [1991 c.724 §7; 1993 c.196 §3; 2011 c.597 §119] 
 
 ## Provenance & change history
 

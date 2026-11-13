@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-30
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2011
-enacted: 1981
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 30.440 — Judgment by collusion not a bar. Chapter 30 (Actions and Suits in
 
 ## Full text
 
-30.440 Judgment by collusion not a bar. A recovery of a judgment for a penalty or forfeiture by collusion between the plaintiff and defendant, with intent to save the defendant, wholly or partially, from the consequences contemplated by law, in case where the penalty or forfeiture is given wholly or partly to the person who prosecutes, shall not bar the recovery of the same by another person. 30.450 [Amended by 1981 s.s. c.3 §110; 1995 c.658 §27; repealed by 2011 c.597 §118] 
+30.440 Judgment by collusion not a bar. A recovery of a judgment for a penalty or forfeiture by collusion between the plaintiff and defendant, with intent to save the defendant, wholly or partially, from the consequences contemplated by law, in case where the penalty or forfeiture is given wholly or partly to the person who prosecutes, shall not bar the recovery of the same by another person. 
 
 ## Provenance & change history
 

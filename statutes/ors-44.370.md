@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-44
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1989
-enacted: 1959
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 44.370 — Witness presumed to speak truth; jury judges of credibility. Chap
 
 ## Full text
 
-44.370 Witness presumed to speak truth; jury judges of credibility. A witness is presumed to speak the truth. This presumption, however, may be overcome by the manner in which the witness testifies, by the character of the testimony of the witness, or by evidence affecting the character or motives of the witness, or by contradictory evidence. Where the trial is by the jury, they are the exclusive judges of the credibility of the witness. 44.410 [Amended by 1959 c.158 §1; repealed by 1989 c.980 §24] FEES 
+44.370 Witness presumed to speak truth; jury judges of credibility. A witness is presumed to speak the truth. This presumption, however, may be overcome by the manner in which the witness testifies, by the character of the testimony of the witness, or by evidence affecting the character or motives of the witness, or by contradictory evidence. Where the trial is by the jury, they are the exclusive judges of the credibility of the witness. 
 
 ## Provenance & change history
 

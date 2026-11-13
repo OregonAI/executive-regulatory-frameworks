@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-83
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1991
-enacted: 1969
+last_amended: 1977
+enacted: 1971
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 83.750 — Rights and duties of buyer upon cancellation of sale or revocatio
 
 (2) The buyer has a duty to take reasonable care of the goods in the possession of the buyer before cancellation or revocation and for a reasonable time thereafter, during which time the goods are otherwise at the seller’s risk.
 
-(3) If the seller has performed any services pursuant to a home solicitation sale prior to its cancellation, the seller is entitled to no compensation. [1971 c.744 §21(5); 1977 c.170 §4] 83.810 [1969 c.392 §2; 1977 c.274 §7; repealed by 1991 c.296 §4]
+(3) If the seller has performed any services pursuant to a home solicitation sale prior to its cancellation, the seller is entitled to no compensation. [1971 c.744 §21(5); 1977 c.170 §4] 
 
 ## Provenance & change history
 

@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-72
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2090
+last_amended: 2070
 enacted: 1961
 status: current
 supersedes: null
@@ -54,7 +54,7 @@ ORS 72.2070 — Additional terms in acceptance or confirmation. Chapter 72 (Sale
 
 (2) The additional terms are to be construed as proposals for addition to the contract. Between merchants such terms become part of the contract unless: (a) The offer expressly limits acceptance to the terms of the offer; (b) They materially alter it; or (c) Notification of objection to them has already been given or is given within a reasonable time after notice of them is received.
 
-(3) Conduct by both parties which recognizes the existence of a contract is sufficient to establish a contract for sale although the writings of the parties do not otherwise establish a contract. In such case the terms of the particular contract consist of those terms on which the writings of the parties agree, together with any supplementary terms incorporated under any other provisions of the Uniform Commercial Code. [1961 c.726 §72.2070] 72.2080 [1961 c.726 §72.2080; repealed by 2009 c.181 §116] 
+(3) Conduct by both parties which recognizes the existence of a contract is sufficient to establish a contract for sale although the writings of the parties do not otherwise establish a contract. In such case the terms of the particular contract consist of those terms on which the writings of the parties agree, together with any supplementary terms incorporated under any other provisions of the Uniform Commercial Code. [1961 c.726 §72.2070] 
 
 ## Provenance & change history
 

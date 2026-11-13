@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-33
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1955
+last_amended: 2005
+enacted: 1991
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 33.015 — Definitions for ORS 33.015 to 33.155. Chapter 33 (Special Proceed
 
 (3) “Punitive sanction” means a sanction imposed to punish a past contempt of court.
 
-(4) “Remedial sanction” means a sanction imposed to terminate a continuing contempt of court or to compensate for injury, damage or costs resulting from a past or continuing contempt of court. [1991 c.724 §1; 2005 c.22 §23] 33.020 [Repealed by 1991 c.724 §32] 
+(4) “Remedial sanction” means a sanction imposed to terminate a continuing contempt of court or to compensate for injury, damage or costs resulting from a past or continuing contempt of court. [1991 c.724 §1; 2005 c.22 §23] 
 
 ## Provenance & change history
 

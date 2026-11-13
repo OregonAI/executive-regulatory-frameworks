@@ -58,7 +58,7 @@ ORS 279C.875 — Criminal liability for intentional failure to pay prevailing wa
 
 (3) In addition to and not in lieu of any action the Commissioner of the Bureau of Labor and Industries may bring under ORS 279C.870, the commissioner may: (a) Refer a violation of subsection
 
-(1) of this section to a district attorney or the Attorney General for prosecution; and (b) Adopt rules necessary to implement the provisions of this section. [2016 c.115 §4] Note: 279C.875 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 279C or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. _______________
+(1) of this section to a district attorney or the Attorney General for prosecution; and (b) Adopt rules necessary to implement the provisions of this section. [2016 c.115 §4] Note: 279C.875 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 279C or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-62
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2016
+last_amended: 1957
 enacted: 1957
 status: current
 supersedes: null
@@ -58,7 +58,7 @@ ORS 62.255 — Meetings of members. Chapter 62 (Cooperatives), 2025 Edition.
 
 (4) Written or printed notice, stating the place, day and hour, and in case of a special member meeting the purposes for which the meeting is called, shall be given to each member and each shareholder, if shareholders are entitled to vote at such meeting, either personally or by mail not less than seven or more than 30 days before the meeting by direction of the person calling the meeting. If mailed, the notice shall be deemed to be given when deposited in the United States mail addressed to the member or shareholder at the address of the member or shareholder as it appears on the records of the cooperative with postage thereon prepaid. At any meeting at which the members are to be represented by delegates, notice to the members may be given by notifying the delegates and their alternates if any.
 
-(5) A cooperative may provide in its bylaws: (a) For the formation of districts and the holding of member meetings by districts and that elections of directors may be held at district meetings. (b) That district meetings may elect delegates who shall represent their districts in annual and special meetings of the members. Notice of district meetings shall be given in the same manner as prescribed in this section for member meetings. [1957 c.716 §20] 62.260 [Repealed by 1957 c.716 §76] 
+(5) A cooperative may provide in its bylaws: (a) For the formation of districts and the holding of member meetings by districts and that elections of directors may be held at district meetings. (b) That district meetings may elect delegates who shall represent their districts in annual and special meetings of the members. Notice of district meetings shall be given in the same manner as prescribed in this section for member meetings. [1957 c.716 §20] 
 
 ## Provenance & change history
 

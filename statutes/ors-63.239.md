@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-63
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1997
-enacted: 1959
+last_amended: 1993
+enacted: 1993
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 63.239 — Nature of membership interest. Chapter 63 (Limited Liability Comp
 
 ## Full text
 
-63.239 Nature of membership interest. A membership interest is personal property. A member is not a co-owner of and has no interest in specific limited liability company property. [1993 c.173 §48] 63.240 [1959 c.660 §4; repealed by 1981 c.68 §1] 
+63.239 Nature of membership interest. A membership interest is personal property. A member is not a co-owner of and has no interest in specific limited liability company property. [1993 c.173 §48] 
 
 ## Provenance & change history
 

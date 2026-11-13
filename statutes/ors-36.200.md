@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-36
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
+last_amended: 2003
 enacted: 1989
 status: current
 supersedes: null
@@ -58,7 +58,7 @@ ORS 36.200 — Mediation panels; qualification; procedure for selecting mediator
 
 (4) The parties to a dispute that is referred by the court to mediation may choose, at their option and expense, mediation services other than those suggested by the court, and entering into such private mediation services shall be subject to the same provisions of ORS 36.185 to 36.210.
 
-(5) Disputing parties in mediation shall be free, at their own expense, to retain jointly or individually, experts, attorneys, fact finders, arbitrators and other persons to assist the mediation, and all such dispute resolution efforts shall be subject to the protection of ORS 36.185 to 36.210. [1989 c.718 §22; 1993 c.327 §2; 2003 c.791 §21] 36.205 [1989 c.718 §23; 1995 c.678 §1; repealed by 1997 c.670 §15] (Liability of Mediators and Programs) 
+(5) Disputing parties in mediation shall be free, at their own expense, to retain jointly or individually, experts, attorneys, fact finders, arbitrators and other persons to assist the mediation, and all such dispute resolution efforts shall be subject to the protection of ORS 36.185 to 36.210. [1989 c.718 §22; 1993 c.327 §2; 2003 c.791 §21] 
 
 ## Provenance & change history
 

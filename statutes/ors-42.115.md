@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-42
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 1965
+enacted: 1965
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 42.115 — Effect of presence or absence of seal. Chapter 42 (Execution, For
 
 ## Full text
 
-42.115 Effect of presence or absence of seal. The presence or absence of a seal, corporate or otherwise, shall have no effect upon the validity, enforceability or character of any written instrument except where specifically otherwise provided by statute. A writing under seal may be modified or discharged by writing not under seal or by a valid oral agreement. [1965 c.502 §2] 42.120 [Repealed by 1965 c.502 §6] 
+42.115 Effect of presence or absence of seal. The presence or absence of a seal, corporate or otherwise, shall have no effect upon the validity, enforceability or character of any written instrument except where specifically otherwise provided by statute. A writing under seal may be modified or discharged by writing not under seal or by a valid oral agreement. [1965 c.502 §2] 
 
 ## Provenance & change history
 

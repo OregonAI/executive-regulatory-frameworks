@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2010
-enacted: 1955
+last_amended: 2009
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -64,7 +64,7 @@ ORS 87.083 — Foreclosure after filing of bond or deposit of money; effect of f
 
 (3) or
 
-(4) of this section or an order or notice under ORS 87.088, if the county treasurer is not certain about how to distribute money deposited under ORS 87.076, the treasurer shall notify the lien claimant and the person who deposited the money of how the treasurer intends to distribute the money. If within 10 days after the date of the treasurer’s notice a party to the suit to foreclose the lien objects to the notice, the treasurer may: (a) Hold the money until the court or a stipulation of the parties provides further direction; or (b) Commence an interpleader proceeding under ORCP 31. [1975 c.466 §20; 1987 c.662 §16; 2005 c.22 §55; 2009 c.513 §2] 87.085 [Repealed by 1975 c.648 §72] 
+(4) of this section or an order or notice under ORS 87.088, if the county treasurer is not certain about how to distribute money deposited under ORS 87.076, the treasurer shall notify the lien claimant and the person who deposited the money of how the treasurer intends to distribute the money. If within 10 days after the date of the treasurer’s notice a party to the suit to foreclose the lien objects to the notice, the treasurer may: (a) Hold the money until the court or a stipulation of the parties provides further direction; or (b) Commence an interpleader proceeding under ORCP 31. [1975 c.466 §20; 1987 c.662 §16; 2005 c.22 §55; 2009 c.513 §2] 
 
 ## Provenance & change history
 

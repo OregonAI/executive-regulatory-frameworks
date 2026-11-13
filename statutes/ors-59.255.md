@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2017
-enacted: 1957
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -64,7 +64,7 @@ ORS 59.255 — Enjoining violations; fine; appointment of receiver; attorney fee
 
 (2) or
 
-(3) or 59.165 (7). [1967 c.537 §23; 1971 c.394 §1; 1975 c.300 §4; 1981 c.897 §10; 1985 c.349 §26; 1995 c.696 §11; 1997 c.772 §23; 1999 c.53 §4; 1999 c.315 §3; 2003 c.631 §5; 2017 c.313 §3] 59.260 [Repealed by 1967 c.537 §36] 
+(3) or 59.165 (7). [1967 c.537 §23; 1971 c.394 §1; 1975 c.300 §4; 1981 c.897 §10; 1985 c.349 §26; 1995 c.696 §11; 1997 c.772 §23; 1999 c.53 §4; 1999 c.315 §3; 2003 c.631 §5; 2017 c.313 §3] 
 
 ## Provenance & change history
 

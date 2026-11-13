@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
-enacted: 1969
+last_amended: 1975
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 87.312 — Effect of notice of foreclosure sale to secured parties; failure 
 
 (2) If the chattel to be sold at a foreclosure sale is a chattel for which a certificate of title is required by the laws of this state and if the lien claimant does not notify a person whom the certificate of title indicates has a security interest or lien in the chattel as required by ORS 87.306 (2), the chattel remains subject to that security interest or lien and the buyer of the chattel at a foreclosure sale held under ORS 9.370, 87.142 to 87.490, 87.705, 87.710, 87.910 and 90.120 takes the chattel subject to the security interest or lien.
 
-(3) If a lien claimant does not notify a person, other than a person indicated on a certificate of title as a secured party or lienholder, who claims a security interest or lien on the chattel sold at a foreclosure sale as required by ORS 87.306 (2), the lien claimant is liable to that person for a sum equal to the fair market value of the chattel sold at the foreclosure sale or the amount due that person under the security agreement or lien at the time of the foreclosure sale, whichever amount is less. The secured party or other lien claimant shall recover that sum by an action at law. [1975 c.648 §34] 87.315 [Amended by 1969 c.330 §6; repealed by 1975 c.648 §72] 
+(3) If a lien claimant does not notify a person, other than a person indicated on a certificate of title as a secured party or lienholder, who claims a security interest or lien on the chattel sold at a foreclosure sale as required by ORS 87.306 (2), the lien claimant is liable to that person for a sum equal to the fair market value of the chattel sold at the foreclosure sale or the amount due that person under the security agreement or lien at the time of the foreclosure sale, whichever amount is less. The secured party or other lien claimant shall recover that sum by an action at law. [1975 c.648 §34] 
 
 ## Provenance & change history
 

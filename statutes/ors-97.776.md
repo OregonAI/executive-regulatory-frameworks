@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-97
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
-enacted: 1955
+last_amended: 2003
+enacted: 1999
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 97.776 — Commission members; nominations. Chapter 97 (Rights and Duties Re
 
 ## Full text
 
-97.776 Commission members; nominations. The members of the Oregon Commission on Historic Cemeteries must be citizens of this state who are well informed on the restoration and maintenance of historic cemeteries. The State Parks and Recreation Director shall select members from nominations made by organizations of local historic cemeteries, organizations of nonprofit cemeteries, the State Mortuary and Cemetery Board and statewide cemetery associations. The director shall try to appoint individuals to the commission who represent or are knowledgeable concerning Native American burial places, rural cemeteries, family burial places and metropolitan cemeteries. [1999 c.731 §4; 2003 c.173 §3] Note: See note under 97.772. 97.777 [1995 c.457 §5; repealed by 1999 c.731 §14] 
+97.776 Commission members; nominations. The members of the Oregon Commission on Historic Cemeteries must be citizens of this state who are well informed on the restoration and maintenance of historic cemeteries. The State Parks and Recreation Director shall select members from nominations made by organizations of local historic cemeteries, organizations of nonprofit cemeteries, the State Mortuary and Cemetery Board and statewide cemetery associations. The director shall try to appoint individuals to the commission who represent or are knowledgeable concerning Native American burial places, rural cemeteries, family burial places and metropolitan cemeteries. [1999 c.731 §4; 2003 c.173 §3] Note: See note under 97.772. 
 
 ## Provenance & change history
 

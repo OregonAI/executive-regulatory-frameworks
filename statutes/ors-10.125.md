@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1955
+enacted: 1985
 status: current
 supersedes: null
 content_mode: verbatim
@@ -78,7 +78,7 @@ ORS 10.125 — Security for jury sequestered or kept overnight. Chapter 10 (Juri
 
 (14) Members of the task force who are not members of the Legislative Assembly are not entitled to compensation or reimbursement for expenses and serve as volunteers on the task force.
 
-(15) All agencies of state government, as defined in ORS 174.111, are directed to assist the task force in the performance of the duties of the task force and, to the extent permitted by laws relating to confidentiality, to furnish information and advice the members of the task force consider necessary to perform their duties. [2025 c.145 §1] Sec. 2. Section 1 of this 2025 Act is repealed on December 31, 2026. [2025 c.145 §2] 10.130 [Amended by 1979 c.728 §3; repealed by 1985 c.703 §28] 10.135 [1969 c.219 §1; 1973 c.836 §313; repealed by 1985 c.703 §28] 10.140 [Amended by 1955 c.717 §2; repealed by 1969 c.219 §2] 10.150 [Amended by 1955 c.717 §3; 1977 c.465 §1; 1981 s.s. c.3 §45; repealed by 1985 c.703 §28] 10.160 [Amended by 1955 c.717 §4; 1981 s.s. c.3 §46; repealed by 1985 c.703 §28]
+(15) All agencies of state government, as defined in ORS 174.111, are directed to assist the task force in the performance of the duties of the task force and, to the extent permitted by laws relating to confidentiality, to furnish information and advice the members of the task force consider necessary to perform their duties. [2025 c.145 §1] Sec. 2. Section 1 of this 2025 Act is repealed on December 31, 2026. [2025 c.145 §2] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1971
+last_amended: 1983
+enacted: 1983
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 94.833 — Sale of timeshare plan located out-of-state. Chapter 94 (Real Pro
 
 (1) Before negotiating within this state for the sale of a timeshare in a timeshare plan composed wholly or partially of timeshare property located outside this state, the developer of the timeshare plan must: (a) Comply with ORS 94.803 and 94.807 to 94.945; and (b) Record, in the real property records of each county or other appropriate jurisdiction of each state in which the timeshare property is located for use of a timeshare owner, the notice of timeshare plan, as defined in ORS 94.885 for the timeshare plan. This recording requirement does not apply to timeshare property located in foreign countries.
 
-(2) Before the sale of a timeshare in a timeshare plan composed wholly of timeshare property located within this state, the developer of the timeshare plan must comply with the applicable provisions of ORS 94.803 and 94.807 to 94.945. [1983 c.530 §18] 94.835 [Repealed by 1971 c.478 §1] (Purchaser’s Rights) 
+(2) Before the sale of a timeshare in a timeshare plan composed wholly of timeshare property located within this state, the developer of the timeshare plan must comply with the applicable provisions of ORS 94.803 and 94.807 to 94.945. [1983 c.530 §18] 
 
 ## Provenance & change history
 

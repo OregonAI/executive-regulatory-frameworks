@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-1
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1993
+last_amended: 1965
 enacted: 1955
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 1.840 — Annual report. Chapter 1 (Courts and Judicial Officers Generally),
 
 ## Full text
 
-1.840 Annual report. The conference shall report annually to the Governor with respect to such matters, including recommendations for legislation, as it may wish to bring to the attention of the Governor or of the legislature. [1955 c.470 §4; 1959 c.552 §13; 1965 c.494 §16] 1.850 [1985 c.725 §5; repealed by 1993 c.742 §38]
+1.840 Annual report. The conference shall report annually to the Governor with respect to such matters, including recommendations for legislation, as it may wish to bring to the attention of the Governor or of the legislature. [1955 c.470 §4; 1959 c.552 §13; 1965 c.494 §16] 
 
 ## Provenance & change history
 

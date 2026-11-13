@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-59
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1953
+last_amended: 1989
+enacted: 1967
 status: current
 supersedes: null
 content_mode: verbatim
@@ -57,7 +57,7 @@ ORS 59.105 — Denial, suspension or revocation of registration. Chapter 59 (Sec
 
 (2) The director may enter an order against the applicant, registrant or issuer under subsection
 
-(1) of this section if any partner, officer or director of an applicant, registrant or issuer, any person occupying a similar status or performing similar functions, or any person directly or indirectly controlling the applicant, registrant or issuer has been guilty of any act or omission which would be cause for denying, suspending or revoking the registration of an individual applicant, registrant or issuer, except: (a) This subsection shall not apply to subsection (1)(a) and (b) of this section. (b) The director may not enter an order suspending or revoking a registration under this subsection, pursuant to subsection (1)(e) of this section, without 10 days’ prior written notice to the registrant. [1967 c.537 §12; 1989 c.197 §4] 59.110 [Amended by 1953 c.690 §3; 1955 c.201 §1; 1957 c.47 §1; 1963 c.244 §1; 1965 c.241 §2; repealed by 1967 c.537 §36] 
+(1) of this section if any partner, officer or director of an applicant, registrant or issuer, any person occupying a similar status or performing similar functions, or any person directly or indirectly controlling the applicant, registrant or issuer has been guilty of any act or omission which would be cause for denying, suspending or revoking the registration of an individual applicant, registrant or issuer, except: (a) This subsection shall not apply to subsection (1)(a) and (b) of this section. (b) The director may not enter an order suspending or revoking a registration under this subsection, pursuant to subsection (1)(e) of this section, without 10 days’ prior written notice to the registrant. [1967 c.537 §12; 1989 c.197 §4] 
 
 ## Provenance & change history
 

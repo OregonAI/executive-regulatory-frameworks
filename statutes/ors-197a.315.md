@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-197a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
+last_amended: 2015
 enacted: 2013
 status: current
 supersedes: null
@@ -95,7 +95,7 @@ ORS 197A.315 — Expansion study areas; notice; urban service agreements. Chapte
 
 (2) of this section; or (b) Until the city and the district develop an urban service agreement under this section.
 
-(11) Decisions related to the execution of an urban service agreement under this section are not land use decisions subject to the jurisdiction of the Land Use Board of Appeals. [2013 c.575 §6; 2015 c.27 §20] 197A.320 [2013 c.575 §7; 2023 c.13 §24; renumbered 197A.285 in 2023] 
+(11) Decisions related to the execution of an urban service agreement under this section are not land use decisions subject to the jurisdiction of the Land Use Board of Appeals. [2013 c.575 §6; 2015 c.27 §20] 
 
 ## Provenance & change history
 

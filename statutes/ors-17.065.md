@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-17
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2005
+last_amended: 1979
 enacted: 1975
 status: current
 supersedes: null

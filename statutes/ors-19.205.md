@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-19
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1981
+last_amended: 2003
+enacted: 2003
 status: current
 supersedes: null
 content_mode: verbatim
@@ -62,7 +62,7 @@ ORS 19.205 — Appealable judgments and orders. Chapter 19 (Appeals), 2025 Editi
 
 (6) Nothing in ORS chapter 18 affects the authority of an appellate court to dismiss an appeal or to remand a proceeding to the trial court under ORS 19.270
 
-(4) based on the appellate court’s determination that the appeal has not been taken from an appealable judgment or order. [Formerly 19.010; 2003 c.576 §85] 19.210 [1981 c.550 §2; 1997 c.389 §3; renumbered 19.405 in 1997] (Class Actions) 
+(4) based on the appellate court’s determination that the appeal has not been taken from an appealable judgment or order. [Formerly 19.010; 2003 c.576 §85] 
 
 ## Provenance & change history
 

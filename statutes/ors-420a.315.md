@@ -48,7 +48,7 @@ ORS 420A.315 — Rules. Chapter 420A (Chapter 420A), 2025 Edition.
 
 ## Full text
 
-420A.315 Rules. The Oregon Youth Authority shall adopt rules to carry out the provisions of ORS 420A.300 to 420A.315. [2021 c.474 §4] _______________
+420A.315 Rules. The Oregon Youth Authority shall adopt rules to carry out the provisions of ORS 420A.300 to 420A.315. [2021 c.474 §4] 
 
 ## Provenance & change history
 

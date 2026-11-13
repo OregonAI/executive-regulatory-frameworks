@@ -1,0 +1,27 @@
+# ORS documents left UNtrimmed because the text after their own section (past a repealed-section
+# stub or part heading) holds a Legislative Counsel 'Note:' found in no other document, verbatim
+# session-law text. check_ors_section_bounds.py reports them as held, not failed; the backfill
+# refuses to trim them. Remove an entry when such notes have a home (see statutes/CHANGELOG.md).
+ors-127.765
+ors-137.286
+ors-188.125
+ors-188.140
+ors-195.125
+ors-222.183
+ors-238a.475
+ors-284.720
+ors-311.701
+ors-314.140
+ors-319.420
+ors-358.509
+ors-358.528
+ors-430.233
+ors-454.380
+ors-459.350
+ors-469.619
+ors-469b.403
+ors-476.290
+ors-498.504
+ors-675.063
+ors-676.760
+ors-679.525

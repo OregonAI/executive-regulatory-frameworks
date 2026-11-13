@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 1953
+enacted: 1973
 status: current
 supersedes: null
 content_mode: verbatim
@@ -52,7 +52,7 @@ ORS 9.220 — General requirements for admission. Chapter 9 (Oregon State Bar; A
 
 (1) Is at least 18 years old, which proof may be made by the applicant’s affidavit. (2)(a) Is a person of good moral character and fit to practice law. (b) For purposes of this section and ORS 9.025, 9.070, 9.110, 9.210, 9.250 and 9.527, the lack of “good moral character” may be established by reference to acts or conduct that reflect moral turpitude or to acts or conduct which would cause a reasonable person to have substantial doubts about the individual’s honesty, fairness and respect for the rights of others and for the laws of the state and the nation. The conduct or acts in question should be rationally connected to the applicant’s fitness to practice law.
 
-(3) Has the requisite learning and ability, which must be shown by the examination of the applicant, by the judges or under their direction. However, no rule shall establish any maximum on the number of times an applicant may apply for and take the bar examination whenever presented if the reason for refusing admission to practice law is failure to pass the bar examination. [Amended by 1973 c.827 §2; 1981 c.193 §7; 1983 c.373 §2; 1985 c.599 §1; 1991 c.726 §3; 1995 c.302 §21; 1999 c.171 §3; 2023 c.72 §5; 2025 c.32 §22] 9.230 [Repealed by 1981 c.193 §12] 9.240 [Amended by 1961 c.499 §3; repealed by 1993 c.213 §2] 
+(3) Has the requisite learning and ability, which must be shown by the examination of the applicant, by the judges or under their direction. However, no rule shall establish any maximum on the number of times an applicant may apply for and take the bar examination whenever presented if the reason for refusing admission to practice law is failure to pass the bar examination. [Amended by 1973 c.827 §2; 1981 c.193 §7; 1983 c.373 §2; 1985 c.599 §1; 1991 c.726 §3; 1995 c.302 §21; 1999 c.171 §3; 2023 c.72 §5; 2025 c.32 §22] 
 
 ## Provenance & change history
 

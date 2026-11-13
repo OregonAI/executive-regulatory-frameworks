@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-92
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
-enacted: 1955
+last_amended: 1989
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 92.105 — Time limit for final action by city or county on tentative plan. 
 
 ## Full text
 
-92.105 Time limit for final action by city or county on tentative plan. The governing body of a city or county or its designate is subject to the provisions of ORS 215.427 or 227.178 in taking final action on an application for approval of a tentative plan for a subdivision or partition located within an acknowledged urban growth boundary. [1981 c.884 §2; 1983 c.827 §51; 1989 c.772 §16] 92.110 [Amended by 1955 c.756 §15; 1973 c.351 §1; 1989 c.772 §25; repealed by 1993 c.702 §10] 
+92.105 Time limit for final action by city or county on tentative plan. The governing body of a city or county or its designate is subject to the provisions of ORS 215.427 or 227.178 in taking final action on an application for approval of a tentative plan for a subdivision or partition located within an acknowledged urban growth boundary. [1981 c.884 §2; 1983 c.827 §51; 1989 c.772 §16] 
 
 ## Provenance & change history
 

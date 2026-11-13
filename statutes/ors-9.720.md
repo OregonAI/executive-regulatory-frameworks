@@ -48,7 +48,7 @@ ORS 9.720 — Court taking jurisdiction over law practice. Chapter 9 (Oregon Sta
 
 ## Full text
 
-9.720 Court taking jurisdiction over law practice. If the court finds that it has jurisdiction and finds that the assumption of such jurisdiction is necessary in order to protect the interest of the clients of the affected licensee or to protect the public interest, the court may, by appropriate order, immediately take jurisdiction over the law practice of the affected licensee to the extent the court determines is necessary. The exercise of jurisdiction may extend only to the affected licensee’s lawyer trust account or may include all legal files, clients’ trust funds, clients’ property and all books, records, funds and property used in the law practice of the affected licensee. [1979 c.252 §5; 2015 c.6 §4; 2023 c.72 §23; 2025 c.32 §90] 9.722 [1997 c.135 §2; repealed by 2015 c.6 §5] 
+9.720 Court taking jurisdiction over law practice. If the court finds that it has jurisdiction and finds that the assumption of such jurisdiction is necessary in order to protect the interest of the clients of the affected licensee or to protect the public interest, the court may, by appropriate order, immediately take jurisdiction over the law practice of the affected licensee to the extent the court determines is necessary. The exercise of jurisdiction may extend only to the affected licensee’s lawyer trust account or may include all legal files, clients’ trust funds, clients’ property and all books, records, funds and property used in the law practice of the affected licensee. [1979 c.252 §5; 2015 c.6 §4; 2023 c.72 §23; 2025 c.32 §90] 
 
 ## Provenance & change history
 

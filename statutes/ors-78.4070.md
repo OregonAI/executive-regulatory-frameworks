@@ -48,7 +48,7 @@ ORS 78.4070 — Authenticating trustee, transfer agent and registrar. Chapter 78
 
 ## Full text
 
-78.4070 Authenticating trustee, transfer agent and registrar. A person acting as authenticating trustee, transfer agent, registrar or other agent for an issuer in the registration of a transfer of the issuer’s securities, in the issue of new security certificates or uncertificated securities or in the cancellation of surrendered security certificates has the same obligation to the holder or owner of a certificated or uncertificated security with regard to the particular functions performed as the issuer has in regard to those functions. [1985 c.676 §78.4070; 1995 c.328 §40] 78.4080 [1985 c.676 §78.4080; repealed by 1995 c.328 §71]
+78.4070 Authenticating trustee, transfer agent and registrar. A person acting as authenticating trustee, transfer agent, registrar or other agent for an issuer in the registration of a transfer of the issuer’s securities, in the issue of new security certificates or uncertificated securities or in the cancellation of surrendered security certificates has the same obligation to the holder or owner of a certificated or uncertificated security with regard to the particular functions performed as the issuer has in regard to those functions. [1985 c.676 §78.4070; 1995 c.328 §40] 
 
 ## Provenance & change history
 

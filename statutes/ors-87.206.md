@@ -59,7 +59,7 @@ ORS 87.206 — Disposition of proceeds of foreclosure sale. Chapter 87 (Statutor
 
 (3) If a county treasurer receives proceeds under subsection
 
-(1) of this section, the county treasurer shall credit the proceeds to the general revenue fund of the county, subject to the right of the lien debtor or the representative of the lien debtor, to reclaim the proceeds at any time within three years of the date of deposit with the treasurer. If the proceeds are not demanded and claimed within the three-year period, the proceeds become the property of the county. [1975 c.648 §12; 2005 c.86 §3] 87.210 [Repealed by 1975 c.648 §72] 
+(1) of this section, the county treasurer shall credit the proceeds to the general revenue fund of the county, subject to the right of the lien debtor or the representative of the lien debtor, to reclaim the proceeds at any time within three years of the date of deposit with the treasurer. If the proceeds are not demanded and claimed within the three-year period, the proceeds become the property of the county. [1975 c.648 §12; 2005 c.86 §3] 
 
 ## Provenance & change history
 

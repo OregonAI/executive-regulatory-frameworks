@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-56
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
+last_amended: 1987
 enacted: 1983
 status: current
 supersedes: null
@@ -48,7 +48,7 @@ ORS 56.110 — Evidentiary effect of certificates and other documents issued by 
 
 ## Full text
 
-56.110 Evidentiary effect of certificates and other documents issued by Secretary of State. This section applies to certificates of the Secretary of State and documents filed by the Secretary of State under the business registry functions of the Secretary of State. All certificates issued by the Secretary of State and all copies of documents filed in the office of the Secretary of State, when certified by the Secretary of State, shall be taken and received in all courts, public offices and official bodies of this state as prima facie evidence of the facts stated in the certificates or documents. A certificate by the Secretary of State as to the compliance or noncompliance of the document with the filing requirements or other provisions of law administered by the office of the Secretary of State, or as to the existence or nonexistence of the facts relating to the matters contained in the documents which would appear from the presence or absence of documents filed in the office of the Secretary of State, shall be taken and received in all courts, public offices and official bodies of this state as prima facie evidence of the existence or nonexistence of the facts stated in the certificates or documents. [1983 c.717 §3; 1987 c.94 §122; 1987 c.414 §62] 56.120 [1983 c.87 §4; repealed by 1987 c.58 §15] 
+56.110 Evidentiary effect of certificates and other documents issued by Secretary of State. This section applies to certificates of the Secretary of State and documents filed by the Secretary of State under the business registry functions of the Secretary of State. All certificates issued by the Secretary of State and all copies of documents filed in the office of the Secretary of State, when certified by the Secretary of State, shall be taken and received in all courts, public offices and official bodies of this state as prima facie evidence of the facts stated in the certificates or documents. A certificate by the Secretary of State as to the compliance or noncompliance of the document with the filing requirements or other provisions of law administered by the office of the Secretary of State, or as to the existence or nonexistence of the facts relating to the matters contained in the documents which would appear from the presence or absence of documents filed in the office of the Secretary of State, shall be taken and received in all courts, public offices and official bodies of this state as prima facie evidence of the existence or nonexistence of the facts stated in the certificates or documents. [1983 c.717 §3; 1987 c.94 §122; 1987 c.414 §62] 
 
 ## Provenance & change history
 

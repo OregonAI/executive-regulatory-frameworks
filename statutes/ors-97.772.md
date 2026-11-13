@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2021
-enacted: 1955
+enacted: 1999
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 97.772 — Definition of “historic cemetery”. Chapter 97 (Rights and Dut
 
 ## Full text
 
-97.772 Definition of “historic cemetery.” For purposes of ORS 97.772 to 97.784, “historic cemetery” means any burial place that contains the remains of one or more persons who died before the date that is 75 years before the current date. [1999 c.731 §1; 2003 c.173 §1; 2021 c.22 §1] Note: 97.772 to 97.784 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 97 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 97.773 [1995 c.457 §3; repealed by 1999 c.731 §14] 
+97.772 Definition of “historic cemetery.” For purposes of ORS 97.772 to 97.784, “historic cemetery” means any burial place that contains the remains of one or more persons who died before the date that is 75 years before the current date. [1999 c.731 §1; 2003 c.173 §1; 2021 c.22 §1] Note: 97.772 to 97.784 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 97 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-87
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2003
-enacted: 1969
+last_amended: 1975
+enacted: 1975
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 87.272 — Petition for foreclosure without suit. Chapter 87 (Statutory Lien
 
 (5) That there is no reasonable probability that the lien debtor can establish a successful defense to the underlying claim of the lien; and
 
-(6) That the person filing the petition under this section has fully complied with the notice and filing requirements of ORS 9.370, 87.142 to 87.490, 87.705, 87.710, 87.910 and 90.120. [1975 c.648 §27] 87.275 [Repealed by 1975 c.648 §72] 
+(6) That the person filing the petition under this section has fully complied with the notice and filing requirements of ORS 9.370, 87.142 to 87.490, 87.705, 87.710, 87.910 and 90.120. [1975 c.648 §27] 
 
 ## Provenance & change history
 

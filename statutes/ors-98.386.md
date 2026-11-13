@@ -58,7 +58,7 @@ ORS 98.386 — Deposit of funds. Chapter 98 (Lost, Unclaimed or Abandoned Proper
 
 (2) and the payment of expenses incurred by the Oregon State Bar in the administration of the Legal Services Program.
 
-(3) Before making a deposit to the credit of the Unclaimed Property and Estates Fund, the State Treasurer may deduct: (a) Any costs in connection with sale of unclaimed property; (b) Any costs of mailing and publication in connection with efforts to locate owners of unclaimed property as prescribed by rule; and (c) Reasonable service charges. [1957 c.670 §20; 1983 c.716 §16; 1989 c.183 §2; 1993 c.694 §15; 2009 c.462 §2; 2019 c.678 §20; 2021 c.424 §11] 98.388 [1969 c.594 §66; 1983 c.716 §17; 1993 c.694 §16; 2019 c.678 §21; repealed by 2021 c.424 §9] 
+(3) Before making a deposit to the credit of the Unclaimed Property and Estates Fund, the State Treasurer may deduct: (a) Any costs in connection with sale of unclaimed property; (b) Any costs of mailing and publication in connection with efforts to locate owners of unclaimed property as prescribed by rule; and (c) Reasonable service charges. [1957 c.670 §20; 1983 c.716 §16; 1989 c.183 §2; 1993 c.694 §15; 2009 c.462 §2; 2019 c.678 §20; 2021 c.424 §11] 
 
 ## Provenance & change history
 

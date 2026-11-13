@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2025
-enacted: 2017
+enacted: 2025
 status: current
 supersedes: null
 content_mode: verbatim
@@ -60,7 +60,7 @@ ORS 197A.408 — Adoption of preapproved residential development types; rules. C
 
 (5) The commission may specify for the approved residential development types allowed under this section: (a) Processes that the local governments may apply to the development, except for public facilities or traffic impact analysis processes, which the local government may establish and implement. (b) Applicable design standards and the scope of the design review, which may include requiring the approval of the use of any material, design or method of construction that is approved under the applicable building code or approved under ORS 455.063. (c) Allowable variations or adjustments, or variation or adjustment types, from the specific approval. A local government is not required to grant a request for adjustment under sections 38 to 41, chapter 110, Oregon Laws 2024, to development authorized under this section except as specified by the commission. (d) Limits on land use, including establishing appropriate minimum or maximum setbacks, parking requirements, floor-to-area ratios or minimum dwelling units per acre. (e) Standards for tree removal, replacement or planting. The standards for tree removal must include: (A) Prohibiting the removal of heritage trees or trees with a DBH, as defined in ORS 90.100, of 20 inches or more. (B) Requiring the replacement of or replanting on or adjacent to the developed lot or parcel for every removed tree that is: (i) Locally designated as a protected species; (ii) Not deemed unhealthy by a certified arborist; and (iii) Has a DBH of 12 inches or more.
 
-(6) In adopting rules under this section, the commission shall coordinate with the review of building construction plans by the Department of Consumer and Business Services under ORS 455.063. [2025 c.479 §2] Note: Section 3, chapter 479, Oregon Laws 2025, provides: Sec. 3. The Land Conservation and Development Commission shall adopt initial rules implementing section 2 of this 2025 Act [197A.408] on or before January 1, 2027. [2025 c.479 §3] 197A.409 [2017 c.709 §3; repealed by 2023 c.13 §96] 197A.411 [2017 c.709 §4; repealed by 2023 c.13 §96] 197A.413 [2017 c.709 §6; repealed by 2023 c.13 §96] 
+(6) In adopting rules under this section, the commission shall coordinate with the review of building construction plans by the Department of Consumer and Business Services under ORS 455.063. [2025 c.479 §2] Note: Section 3, chapter 479, Oregon Laws 2025, provides: Sec. 3. The Land Conservation and Development Commission shall adopt initial rules implementing section 2 of this 2025 Act [197A.408] on or before January 1, 2027. [2025 c.479 §3] 
 
 ## Provenance & change history
 

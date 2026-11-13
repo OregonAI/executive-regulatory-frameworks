@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-3
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1953
+last_amended: 1999
+enacted: 1999
 status: current
 supersedes: null
 content_mode: verbatim
@@ -58,7 +58,7 @@ ORS 3.136 — Jurisdiction over violations of Portland charter and ordinances; d
 
 (3) Subsection
 
-(1) of this section does not preclude the city from employing one or more quasi-judicial hearings officers empowered to hold hearings concerning violations of the charter, ordinances, rules and regulations of the city, to adopt rules and regulations relating to the conduct of the hearings process and to impose civil penalties and grant other relief as may be necessary to enforce and obtain compliance with the charter, ordinances, rules and regulations of the city. The jurisdiction and authority of a hearings officer shall not include any traffic or parking offense. The city may enforce any order of a hearings officer by a civil action in a court of appropriate jurisdiction. [Formerly 46.045; 1999 c.1051 §235] 3.140 [Amended by 1965 c.510 §4; repealed by 1969 c.591 §305] 3.150 [Amended by 1957 s.s. c.8 §1; 1961 c.724 §6; 1965 c.510 §5; 1979 c.77 §1; repealed by 1983 c.673 §26] 3.160 [Amended by 1957 s.s. c.8 §2; 1959 c.557 §3; 1961 c.724 §7; 1965 c.510 §6; repealed by 1981 c.215 §8] 3.165 [1961 c.724 §8; repealed by 1965 c.510 §24] 3.170 [Amended by 1965 c.510 §7; repealed by 1981 c.215 §8] 3.180 [1965 c.618 §7; 1967 c.533 §9; repealed by 1969 c.591 §305] 
+(1) of this section does not preclude the city from employing one or more quasi-judicial hearings officers empowered to hold hearings concerning violations of the charter, ordinances, rules and regulations of the city, to adopt rules and regulations relating to the conduct of the hearings process and to impose civil penalties and grant other relief as may be necessary to enforce and obtain compliance with the charter, ordinances, rules and regulations of the city. The jurisdiction and authority of a hearings officer shall not include any traffic or parking offense. The city may enforce any order of a hearings officer by a civil action in a court of appropriate jurisdiction. [Formerly 46.045; 1999 c.1051 §235] 
 
 ## Provenance & change history
 

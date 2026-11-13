@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-94
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
+last_amended: 2009
 enacted: 1981
 status: current
 supersedes: null
@@ -54,7 +54,7 @@ ORS 94.733 — Easements held by owner of lot and by declarant; homeowners assoc
 
 (2) Except as provided in the declaration, a declarant has an easement through the common property as may be necessary for discharging the declarant’s obligations or exercising any special declarant right.
 
-(3) If an encroachment results from construction, reconstruction, repair, shifting, settlement or movement of any portion of the planned community, an easement for the encroachment exists to the extent that any lot or common property encroaches on any other lot or common property. An easement continues for maintaining the encroachment so long as the encroachment exists. Nothing in this section relieves an owner of liability in case of the owner’s willful misconduct or relieves a declarant or any other person of liability for failure to adhere to the plat of the planned community. (4)(a) Upon request given to the owner and any occupant, any person authorized by a homeowners association may enter a lot: (A) To perform necessary maintenance, repair or replacement of any property for which the association has maintenance, repair or replacement responsibility under the declaration or bylaws or ORS 94.550 to 94.783; or (B) To make emergency repairs to a lot that are necessary for the public safety or to prevent damage to common property or to another lot. (b) Requests for entry under this subsection must be made in advance and for a reasonable time, except in the case of an emergency, when the right of entry is immediate. An emergency entry does not constitute a trespass or otherwise create a right of action in the owner of the lot. [1981 c.782 §33; 2009 c.641 §16] 94.740 [1981 c.782 §74; repealed by 1999 c.677 §72] 94.745 [1981 c.782 §78; repealed by 1999 c.677 §72] 94.750 [1981 c.782 §76; 1983 c.740 §8; repealed by 1999 c.677 §72] 94.755 [1981 c.782 §82; repealed by 1999 c.677 §72] (Miscellaneous) 
+(3) If an encroachment results from construction, reconstruction, repair, shifting, settlement or movement of any portion of the planned community, an easement for the encroachment exists to the extent that any lot or common property encroaches on any other lot or common property. An easement continues for maintaining the encroachment so long as the encroachment exists. Nothing in this section relieves an owner of liability in case of the owner’s willful misconduct or relieves a declarant or any other person of liability for failure to adhere to the plat of the planned community. (4)(a) Upon request given to the owner and any occupant, any person authorized by a homeowners association may enter a lot: (A) To perform necessary maintenance, repair or replacement of any property for which the association has maintenance, repair or replacement responsibility under the declaration or bylaws or ORS 94.550 to 94.783; or (B) To make emergency repairs to a lot that are necessary for the public safety or to prevent damage to common property or to another lot. (b) Requests for entry under this subsection must be made in advance and for a reasonable time, except in the case of an emergency, when the right of entry is immediate. An emergency entry does not constitute a trespass or otherwise create a right of action in the owner of the lot. [1981 c.782 §33; 2009 c.641 §16] 
 
 ## Provenance & change history
 

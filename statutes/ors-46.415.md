@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-46
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1953
+last_amended: 2017
+enacted: 1971
 status: current
 supersedes: null
 content_mode: verbatim
@@ -62,7 +62,7 @@ ORS 46.415 — Circuit judges to sit in department; procedure. Chapter 46 (Small
 
 (6) Assigned claims may be prosecuted by an assignee in small claims department to the same extent they may be prosecuted in any other state court.
 
-(7) When spouses are both parties to a case, one spouse may appear on behalf of both spouses in mediation or litigation in the small claims department: (a) With the written consent of the other spouse; or (b) If the appearing spouse declares under penalty of perjury that the other spouse consents. [1971 c.760 §3; 1973 c.484 §6; 1981 s.s. c.1 §22; 1987 c.811 §1; 1993 c.282 §2; 1995 c.658 §44; 1997 c.808 §§6,7; 2015 c.7 §3; 2017 c.268 §1] 46.420 [Repealed by 1971 c.760 §11] 
+(7) When spouses are both parties to a case, one spouse may appear on behalf of both spouses in mediation or litigation in the small claims department: (a) With the written consent of the other spouse; or (b) If the appearing spouse declares under penalty of perjury that the other spouse consents. [1971 c.760 §3; 1973 c.484 §6; 1981 s.s. c.1 §22; 1987 c.811 §1; 1993 c.282 §2; 1995 c.658 §44; 1997 c.808 §§6,7; 2015 c.7 §3; 2017 c.268 §1] 
 
 ## Provenance & change history
 

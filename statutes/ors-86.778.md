@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-86
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1959
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 86.778 — Discontinuance of foreclosure proceedings after cure of default. 
 
 (2) After cure of the default under subsection
 
-(1) of this section, all proceedings under ORS 86.764 to 86.782 shall be dismissed by the trustee, and the obligation and trust deed shall be reinstated and shall remain in force the same as if no acceleration had occurred. [Formerly 86.753] 86.780 [1959 c.625 §15; 1983 c.719 §12; 1985 c.565 §8; 2009 c.229 §2; renumbered 86.803 in 2013] 
+(1) of this section, all proceedings under ORS 86.764 to 86.782 shall be dismissed by the trustee, and the obligation and trust deed shall be reinstated and shall remain in force the same as if no acceleration had occurred. [Formerly 86.753] 
 
 ## Provenance & change history
 

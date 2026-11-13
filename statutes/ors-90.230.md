@@ -19,7 +19,7 @@ effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
 last_amended: 2022
-enacted: 1989
+enacted: 2005
 status: current
 supersedes: null
 content_mode: verbatim
@@ -62,7 +62,7 @@ ORS 90.230 — Rental agreements for occupancy of recreational vehicle in park; 
 
 (1) for exemption from placement and occupancy restrictions, and a state agency or local government requires the tenant to move as a result of the noncompliance, the tenant may recover the tenant’s actual damages or twice the periodic rent, whichever is greater. This subsection does not apply if the noncompliance was caused by the tenant.
 
-(4) This section does not apply to a vacation occupancy. [2005 c.619 §14; 2011 c.42 §1a; 2022 c.54 §11] 90.240 [Formerly 91.740; 1993 c.369 §3; 1995 c.559 §6; 1997 c.577 §8; 1999 c.603 §10; 2003 c.378 §9; renumbered 90.220 in 2005] 
+(4) This section does not apply to a vacation occupancy. [2005 c.619 §14; 2011 c.42 §1a; 2022 c.54 §11] 
 
 ## Provenance & change history
 

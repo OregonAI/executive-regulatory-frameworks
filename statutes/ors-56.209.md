@@ -55,7 +55,7 @@ ORS 56.209 — Protections for persons making complaints. Chapter 56 (Duties of 
 
 ## Full text
 
-56.209 Protections for persons making complaints. A person who makes a complaint or who participates in a review and investigation of a complaint under ORS 56.206 may not be subject to a penalty, sanction or restriction in connection with the person’s employment or be denied any right, privilege or benefit because of the complaint or because of any review and investigation of the complaint. [2013 c.699 §5] _______________
+56.209 Protections for persons making complaints. A person who makes a complaint or who participates in a review and investigation of a complaint under ORS 56.206 may not be subject to a penalty, sanction or restriction in connection with the person’s employment or be denied any right, privilege or benefit because of the complaint or because of any review and investigation of the complaint. [2013 c.699 §5] 
 
 ## Provenance & change history
 

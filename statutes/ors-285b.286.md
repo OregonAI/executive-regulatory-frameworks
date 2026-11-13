@@ -73,7 +73,7 @@ ORS 285B.286 — Entrepreneurial and industry development activities. Chapter 28
 
 (9) Assistance and support that promote regional economic development strategies fostering entrepreneurship and the development of targeted industry clusters in rural communities.
 
-(10) Subject to applicable policies and procedures, entering into agreements for grants or other assistance, including but not limited to direct purchase of goods or services related to entrepreneurial and industry development. [Formerly 285.770; 1999 c.509 §20; 2003 c.800 §23; 2009 c.830 §82; 2014 c.3 §1; 2015 c.84 §1] 285B.289 [Formerly 285.773; repealed by 1999 c.509 §61] 
+(10) Subject to applicable policies and procedures, entering into agreements for grants or other assistance, including but not limited to direct purchase of goods or services related to entrepreneurial and industry development. [Formerly 285.770; 1999 c.509 §20; 2003 c.800 §23; 2009 c.830 §82; 2014 c.3 §1; 2015 c.84 §1] 
 
 ## Provenance & change history
 

@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-24
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 2019
+enacted: 1979
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +56,7 @@ ORS 24.115 — Filing of foreign judgment; fees; effect. Chapter 24 (Enforcement
 
 (3) A judgment so filed has the same effect and is subject to the same procedures, defenses and proceedings for reopening, vacating or staying as a judgment of the circuit court in which the foreign judgment is filed, and may be enforced or satisfied in like manner.
 
-(4) A foreign judgment of a tribal court of a federally recognized Indian tribe that is filed in a circuit court under this section, and that otherwise complies with 26 U.S.C. 414(p) as a domestic relations order as defined in 26 U.S.C. 414(p), is a domestic relations order made pursuant to the domestic relations laws of this state for the purposes of 26 U.S.C. 414(p). [1979 c.577 §2; 1985 c.343 §5; 1987 c.586 §14; 1995 c.273 §13; 2003 c.576 §180; 2007 c.663 §1; 2011 c.595 §32; 2019 c.605 §7] 24.120 [1955 c.647 §12; repealed by 1979 c.577 §8] 
+(4) A foreign judgment of a tribal court of a federally recognized Indian tribe that is filed in a circuit court under this section, and that otherwise complies with 26 U.S.C. 414(p) as a domestic relations order as defined in 26 U.S.C. 414(p), is a domestic relations order made pursuant to the domestic relations laws of this state for the purposes of 26 U.S.C. 414(p). [1979 c.577 §2; 1985 c.343 §5; 1987 c.586 §14; 1995 c.273 §13; 2003 c.576 §180; 2007 c.663 §1; 2011 c.595 §32; 2019 c.605 §7] 
 
 ## Provenance & change history
 

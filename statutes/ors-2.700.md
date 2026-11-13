@@ -18,6 +18,8 @@ snapshot_id: ors-chapter-2
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
+last_amended: 1995
+enacted: 1995
 status: current
 supersedes: null
 content_mode: verbatim
@@ -46,7 +48,7 @@ ORS 2.700 — Liability of persons providing dispute resolution services. Chapte
 
 ## Full text
 
-2.700 Liability of persons providing dispute resolution services. In any program established by the Oregon appellate courts to promote settlement of cases that have been filed with that court, persons assigned to a case through the program to assist and facilitate in working toward a settlement for the case are immune from civil liability for or resulting from any act or omission done or made while engaged in efforts to assist or facilitate a settlement, unless the act or omission was made or done in bad faith, with malicious intent or in a manner exhibiting a willful, wanton disregard of the rights, safety or property of another. [1995 c.678 §3] _______________
+2.700 Liability of persons providing dispute resolution services. In any program established by the Oregon appellate courts to promote settlement of cases that have been filed with that court, persons assigned to a case through the program to assist and facilitate in working toward a settlement for the case are immune from civil liability for or resulting from any act or omission done or made while engaged in efforts to assist or facilitate a settlement, unless the act or omission was made or done in bad faith, with malicious intent or in a manner exhibiting a willful, wanton disregard of the rights, safety or property of another. [1995 c.678 §3] 
 
 ## Provenance & change history
 

@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-41
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2015
-enacted: 1955
+last_amended: 1981
+enacted: 1981
 status: current
 supersedes: null
 content_mode: verbatim
@@ -48,7 +48,7 @@ ORS 41.815 — Evidence of compliance with or attempt to comply with ORCP 32 I; 
 
 ## Full text
 
-41.815 Evidence of compliance with or attempt to comply with ORCP 32 I; when admissible. Attempts to comply with the provisions of ORCP 32 I by a person receiving a demand shall be construed to be an offer to compromise and shall be inadmissible as evidence. Such attempts to comply with a demand shall not be considered an admission of engaging in the act or practice alleged to be unlawful nor of the unlawfulness of that act. Evidence of compliance or attempts to comply with the provisions of ORCP 32 I may be introduced by a defendant for the purpose of establishing good faith or to show compliance with the provisions of ORCP 32 I. [Formerly 13.310; 1981 c.912 §3] 41.820 [Repealed by 1981 c.892 §98] 41.830 [Repealed by 1981 c.892 §98] 41.840 [Repealed by 1981 c.892 §98] 41.850 [Repealed by 1981 c.892 §98] 41.860 [Repealed by 1981 c.892 §98] 41.870 [Repealed by 1981 c.892 §98] 41.880 [Repealed by 1981 c.892 §98] 41.890 [Repealed by 1981 c.892 §98] 41.900 [Repealed by 1981 c.892 §98] 
+41.815 Evidence of compliance with or attempt to comply with ORCP 32 I; when admissible. Attempts to comply with the provisions of ORCP 32 I by a person receiving a demand shall be construed to be an offer to compromise and shall be inadmissible as evidence. Such attempts to comply with a demand shall not be considered an admission of engaging in the act or practice alleged to be unlawful nor of the unlawfulness of that act. Evidence of compliance or attempts to comply with the provisions of ORCP 32 I may be introduced by a defendant for the purpose of establishing good faith or to show compliance with the provisions of ORCP 32 I. [Formerly 13.310; 1981 c.912 §3] 
 
 ## Provenance & change history
 

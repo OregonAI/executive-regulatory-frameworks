@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-97
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2021
+last_amended: 2007
 enacted: 2007
 status: current
 supersedes: null
@@ -58,7 +58,7 @@ ORS 97.967 — Methods for making, amending or revoking anatomical gift of body 
 
 (3) A revocation under subsection
 
-(2) of this section is effective only if, before an incision has been made to remove a body part from the donor’s body or before invasive procedures have begun to prepare the recipient, the procurement organization, transplant hospital, physician or technician knows of the revocation. [2007 c.681 §9] Note: See note under 97.951. 97.968 [Formerly 97.300; renumbered 97.985 in 2007] 
+(2) of this section is effective only if, before an incision has been made to remove a body part from the donor’s body or before invasive procedures have begun to prepare the recipient, the procurement organization, transplant hospital, physician or technician knows of the revocation. [2007 c.681 §9] Note: See note under 97.951. 
 
 ## Provenance & change history
 

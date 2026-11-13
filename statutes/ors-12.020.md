@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-12
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
-enacted: 1957
+last_amended: 1973
+enacted: 1973
 status: current
 supersedes: null
 content_mode: verbatim
@@ -54,7 +54,7 @@ ORS 12.020 — When action deemed begun. Chapter 12 (Limitations of Actions and 
 
 (2) of this section, for the purpose of determining whether an action has been commenced within the time limited, an action shall be deemed commenced as to each defendant, when the complaint is filed, and the summons served on the defendant, or on a codefendant who is a joint contractor, or otherwise united in interest with the defendant.
 
-(2) If the first publication of summons or other service of summons in an action occurs before the expiration of 60 days after the date on which the complaint in the action was filed, the action against each person of whom the court by such service has acquired jurisdiction shall be deemed to have been commenced upon the date on which the complaint in the action was filed. [Amended by 1973 c.731 §1] 12.030 [Repealed by 1973 c.731 §2] 
+(2) If the first publication of summons or other service of summons in an action occurs before the expiration of 60 days after the date on which the complaint in the action was filed, the action against each person of whom the court by such service has acquired jurisdiction shall be deemed to have been commenced upon the date on which the complaint in the action was filed. [Amended by 1973 c.731 §1] 
 
 ## Provenance & change history
 

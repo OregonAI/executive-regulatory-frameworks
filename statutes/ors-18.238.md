@@ -18,8 +18,8 @@ snapshot_id: ors-chapter-18
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1979
-enacted: 1979
+last_amended: null
+enacted: null
 status: current
 supersedes: null
 content_mode: verbatim
@@ -56,7 +56,7 @@ ORS 18.238 — Proceedings after discharge in bankruptcy. Chapter 18 (Judgments)
 
 (1) of this section, the court shall enter a final order denying the debtor’s motion.
 
-(3) For the purposes of this section, when notice was given in connection with bankruptcy proceedings to a creditor retaining a beneficial interest in an assigned judgment or claim, such notice shall provide the basis for the satisfaction of that portion of the judgment in which the creditor retains a beneficial interest. When the bankrupt received notice prior to the adjudication of bankruptcy of the assignment of a judgment or claim, notice to the assignor retaining a beneficial interest may not provide the basis for satisfaction for that portion of the judgment which represents the amount actually paid by the assignee of the judgment for the claim and actual court costs incurred by the assignee in prosecuting the claim. [Formerly 18.420] 18.240 [Repealed by 1979 c.284 §199]
+(3) For the purposes of this section, when notice was given in connection with bankruptcy proceedings to a creditor retaining a beneficial interest in an assigned judgment or claim, such notice shall provide the basis for the satisfaction of that portion of the judgment in which the creditor retains a beneficial interest. When the bankrupt received notice prior to the adjudication of bankruptcy of the assignment of a judgment or claim, notice to the assignor retaining a beneficial interest may not provide the basis for satisfaction for that portion of the judgment which represents the amount actually paid by the assignee of the judgment for the claim and actual court costs incurred by the assignee in prosecuting the claim. [Formerly 18.420] 
 
 ## Provenance & change history
 
