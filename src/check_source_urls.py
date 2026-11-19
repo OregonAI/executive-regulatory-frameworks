@@ -39,7 +39,10 @@ necessary, and it would not finish inside a job limit. So:
 STATUS MEANINGS. 2xx/3xx-followed: ok, EXCEPT a final URL on a SOFT_404 host that is that
 host's "no such record" page (OARD answers an unknown rule number with a 302 to a search page
 that returns 200): FAIL. A redirect that cannot be followed (loop, no Location): FAIL.
-404/410 FAIL at once; 5xx/DNS/TLS/refused/reset/timeout FAIL only after RETRY_WAITS retries with backoff (exit 1). 429 from a host not in
+404/410 FAIL at once; 5xx/DNS/TLS/timeout FAIL only after RETRY_WAITS retries with backoff (exit 1).
+A connection REFUSED or RESET on every attempt is "throttled" too (the host pushing back on the
+runner says nothing about the page; 4 of 5 weekly runs since 2026-10-19 failed on different
+OARD URLs that all answer from elsewhere). 429 from a host not in
 KNOWN_BLOCKED is "throttled -- could not check", and a URL the deadline did not reach is "not
 checked": both are listed AND the job exits 2 (red, distinct from a real failure), because a
 skipped check is not a green one; 403 is a FAIL, because a 403 cannot be told from a withdrawn page and this
@@ -228,6 +231,7 @@ def fetch(url: str, waits=RETRY_WAITS) -> tuple[str, str]:
     host = urllib.parse.urlsplit(url).hostname or ""
     last = ""
     last_code: int | None = None
+    refused = False  # the LAST attempt ended in a refused/reset connection
     attempts = len(waits) + 1
     for attempt in range(attempts):
         _wait_cooldown(host)
@@ -251,13 +255,16 @@ def fetch(url: str, waits=RETRY_WAITS) -> tuple[str, str]:
             last, last_code = f"HTTP {e.code}", e.code
         except Exception as e:  # noqa: BLE001 -- reported, not raised
             last, last_code = f"{type(e).__name__}: {e}", None
-            if _is_refusal(e) and attempt < attempts - 1:
+            refused = _is_refusal(e)
+            if refused and attempt < attempts - 1:
                 _note_transient(host, waits[attempt])
                 continue
         if attempt < attempts - 1:
             time.sleep(waits[attempt])
     if last_code is not None:  # a 5xx on the last attempt is an answer: a host recorded as returning it is blocked
         return classify(last_code, host), f"{last} (after {attempts} attempts)"
+    if refused:  # the host kept refusing/resetting: that is about our access, not about the page
+        return "throttled", f"{last} (after {attempts} attempts; host refused the runner, could not check)"
     return "fail", f"{last} (after {attempts} attempts)"
 
 
@@ -414,11 +421,23 @@ def _selftest_retries(eq, base: str) -> None:
     v = fetch(base + "/reset2", waits=fast)
     eq("reset twice then 200 is ok", v[0], "ok")
     eq("...and it is counted as retried", RETRIED.get(base + "/reset2"), 2)
-    # three resets with only two retries allowed: still a fail, naming the attempts
+    # three resets with only two retries allowed: the host kept pushing back, which says nothing
+    # about whether the page exists -> throttled (listed, exit 2), not a dead link
     _H.hits.clear()
     v = fetch(base + "/reset3", waits=fast)
-    eq("reset on every attempt is a fail", v[0], "fail")
+    eq("reset on every attempt is throttled, not a dead link", v[0], "throttled")
     eq("...detail names the attempt count", "after 3 attempts" in v[1], True)
+    # a port nothing listens on (ECONNREFUSED on every attempt) is the same
+    dead = http.server.ThreadingHTTPServer(("127.0.0.1", 0), _H, bind_and_activate=False)
+    dead.server_bind()
+    try:
+        v = fetch(f"http://127.0.0.1:{dead.server_address[1]}/ok", waits=fast)
+        eq("connection refused on every attempt is throttled", v[0], "throttled")
+        eq("...detail keeps the error", "Errno 111" in v[1], True)
+    finally:
+        dead.server_close()
+    # DNS failure is still a dead link
+    eq("DNS failure is a fail", fetch("http://no-such-host.invalid/x", waits=fast)[0], "fail")
     # 5xx first, then 200
     _H.hits.clear()
     eq("500 then 200 is ok", fetch(base + "/boom1", waits=fast)[0], "ok")
@@ -572,7 +591,7 @@ def selftest() -> int:
         finally:
             del SOFT_404[host]
         eq("honest user agent sent", set(a for a in _H.agents if a), {UA})
-        eq("unreachable host fails (not skipped)", fetch("http://127.0.0.1:9/x", waits=(0.01, 0.01))[0], "fail")
+        eq("unreachable (refusing) host is throttled, never ok", fetch("http://127.0.0.1:9/x", waits=(0.01, 0.01))[0], "throttled")
         _selftest_retries(eq, base)
         res = run_fetches([base + "/ok", base + "/gone"], workers=2, pause=0)
         eq("run_fetches verdicts", {u.rsplit("/", 1)[1]: v[0] for u, v in res.items()}, {"ok": "ok", "gone": "fail"})
