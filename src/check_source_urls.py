@@ -41,7 +41,7 @@ host's "no such record" page (OARD answers an unknown rule number with a 302 to 
 that returns 200): FAIL. A redirect that cannot be followed (loop, no Location): FAIL.
 404/410 FAIL at once; DNS and TLS failures FAIL after RETRY_WAITS retries with backoff (exit 1).
 COULD NOT CHECK (owner decision 2026-11-18): when the upstream fetch cannot be completed -- a
-timeout, a refused or reset connection or a 5xx on every attempt, a 429 from a host not in
+timeout, a refused or reset connection or a 5xx on the last attempt (after the retries), a 429 from a host not in
 KNOWN_BLOCKED ("throttled"), a host recorded in KNOWN_BLOCKED ("blocked"), a URL the deadline did
 not reach ("not checked") -- the result says nothing about the page. Each is listed, emitted as a
 `::warning title=source-urls could not check::` annotation (first 20, then a count), and the job
@@ -58,6 +58,7 @@ from __future__ import annotations
 import argparse
 import concurrent.futures as cf
 import datetime as dt
+import errno
 import hashlib
 import http.server
 import math
@@ -90,7 +91,8 @@ DEADLINE_MINUTES = 40
 # TRANSIENT FAULTS (#437). secure.sos.state.or.us refuses some connections when a GitHub runner
 # sends it a burst ([Errno 111] Connection refused, 72 of 2,313 URLs on 2026-10-07); every one of
 # 20 re-fetched from elsewhere was fine. A refused/reset connection, a timeout or a 5xx is retried
-# with growing waits (3 attempts in all) before the URL is called dead. A REFUSAL or RESET (only
+# with growing waits (3 attempts in all); if the LAST attempt is still one of those, the URL is
+# "could not check" (a warning), not dead. A REFUSAL or RESET (only
 # those) also puts the HOST on a shared cool-down, so every worker pauses instead of keeping the
 # burst going; a timeout or 5xx only makes the retrying worker sleep before its own retry.
 # 404/410/403/429, a soft-404, a redirect loop are answers, not faults: never retried.
@@ -231,6 +233,23 @@ def budget_problem(n_urls: int, workers: int = WORKERS, deadline_minutes: float 
     return None
 
 
+class _Chain(urllib.request.HTTPRedirectHandler):
+    """Records every redirect target, so a dead rule's hop to the search page is remembered even
+    when that hop then fails (503, timeout, refusal)."""
+
+    def __init__(self):
+        self.seen: list[str] = []
+
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        self.seen.append(newurl)
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+
+def _soft_404_hop(host: str, chain: list[str]) -> str | None:
+    marker = SOFT_404.get(host)
+    return next((u for u in chain if marker and marker in u), None)
+
+
 def fetch(url: str, waits=RETRY_WAITS) -> tuple[str, str]:
     """-> (verdict, detail). Transport errors and 5xx are retried after each of `waits` seconds
     (shared per-host cool-down); never raises."""
@@ -238,6 +257,7 @@ def fetch(url: str, waits=RETRY_WAITS) -> tuple[str, str]:
     last = ""
     last_code: int | None = None
     inconclusive = False  # the LAST attempt ended in a refusal, reset or timeout: not an answer about the page
+    # (chosen: the LAST attempt decides, not all of them; a refusal then a DNS failure is a fail)
     attempts = len(waits) + 1
     for attempt in range(attempts):
         _wait_cooldown(host)
@@ -245,8 +265,9 @@ def fetch(url: str, waits=RETRY_WAITS) -> tuple[str, str]:
             with _LOCK:
                 RETRIED[url] = attempt
         req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Encoding": "identity"})
+        chain = _Chain()
         try:
-            with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+            with urllib.request.build_opener(chain).open(req, timeout=TIMEOUT) as r:
                 r.read(1)  # the body starts; the headers alone prove less
                 final = r.geturl()
                 marker = SOFT_404.get(host)
@@ -254,12 +275,18 @@ def fetch(url: str, waits=RETRY_WAITS) -> tuple[str, str]:
                     return "fail", f"soft-404: redirected to {final}"
                 return classify(r.status, host), f"HTTP {r.status}"
         except urllib.error.HTTPError as e:
+            hop = _soft_404_hop(host, chain.seen)
+            if hop:  # the search page itself answered an error: the rule is still unknown
+                return "fail", f"soft-404: redirected to {hop}, then HTTP {e.code}"
             if 300 <= e.code < 400:
                 return "fail", f"HTTP {e.code} (redirect not followed)"
             if e.code < 500:
                 return classify(e.code, host), f"HTTP {e.code}"
             last, last_code = f"HTTP {e.code}", e.code
         except Exception as e:  # noqa: BLE001 -- reported, not raised
+            hop = _soft_404_hop(host, chain.seen)
+            if hop:  # a dead rule whose search hop timed out or was refused is still a dead rule
+                return "fail", f"soft-404: redirected to {hop}, then {type(e).__name__}: {e}"
             last, last_code = f"{type(e).__name__}: {e}", None
             inconclusive = _is_refusal(e) or _is_timeout(e)
             if _is_refusal(e) and attempt < attempts - 1:
@@ -270,7 +297,7 @@ def fetch(url: str, waits=RETRY_WAITS) -> tuple[str, str]:
     if last_code is not None:  # a 5xx on the last attempt is an answer: a host recorded as returning it is blocked
         v = classify(last_code, host)  # a 5xx that never cleared is the host failing, not a dead link
         return ("throttled" if v == "fail" else v), f"{last} (after {attempts} attempts)"
-    if inconclusive:  # refused/reset/timed out every time: about our access, not about the page
+    if inconclusive:  # the last attempt was refused/reset/timed out: about our access, not about the page
         return "throttled", f"{last} (after {attempts} attempts; could not check)"
     return "fail", f"{last} (after {attempts} attempts)"
 
@@ -376,6 +403,18 @@ class _H(http.server.BaseHTTPRequestHandler):
             self.send_header("Location", "/oard/ruleSearchResults.action;JSESSIONID=abc?ruleNumber=1")
             self.end_headers()
             return
+        if self.path in ("/oard/view503", "/oard/viewdead"):  # a dead rule whose search hop then fails
+            self.send_response(302)
+            self.send_header("Location", "/oard/ruleSearchResults.action?boom=1" if self.path.endswith("503")
+                             else f"http://127.0.0.1:{_H.dead_port}/oard/ruleSearchResults.action")
+            self.end_headers()
+            return
+        if self.path.startswith("/oard/ruleSearchResults.action") and "boom=1" in self.path:
+            self.send_response(503)
+            self.send_header("Content-Length", "2")
+            self.end_headers()
+            self.wfile.write(b"no")
+            return
         if self.path == "/oard/viewSingleRule.action" or self.path.startswith("/oard/ruleSearchResults.action"):
             self.send_response(200)
             self.send_header("Content-Length", "2")
@@ -416,6 +455,7 @@ class _H(http.server.BaseHTTPRequestHandler):
 
     agents: list = []
     hits: dict = defaultdict(int)
+    dead_port = 9
 
 
 def _selftest_retries(eq, base: str) -> None:
@@ -440,7 +480,7 @@ def _selftest_retries(eq, base: str) -> None:
     try:
         v = fetch(f"http://127.0.0.1:{dead.server_address[1]}/ok", waits=fast)
         eq("connection refused on every attempt is throttled", v[0], "throttled")
-        eq("...detail keeps the error", "Errno 111" in v[1], True)
+        eq("...detail keeps the error type", "URLError" in v[1], True)
     finally:
         dead.server_close()
     # a timeout on every attempt is could-not-check too (a listener that accepts and never answers)
@@ -456,7 +496,17 @@ def _selftest_retries(eq, base: str) -> None:
         TIMEOUT = old_timeout
         hang.close()
     # DNS failure is still a dead link
-    eq("DNS failure is a fail", fetch("http://no-such-host.invalid/x", waits=fast)[0], "fail")
+    real_gai = socket.getaddrinfo
+
+    def _no_dns(*a, **k):
+        raise socket.gaierror(-2, "Name or service not known")
+    socket.getaddrinfo = _no_dns  # no network: a constructed DNS failure, not a real lookup
+    try:
+        eq("DNS failure is a fail", fetch("http://no-such-host.invalid/x", waits=fast)[0], "fail")
+    finally:
+        socket.getaddrinfo = real_gai
+    eq("a refusal is recognised by type, not text",
+       _is_refusal(urllib.error.URLError(ConnectionRefusedError(errno.ECONNREFUSED, "x"))), True)
     # 5xx first, then 200
     _H.hits.clear()
     eq("500 then 200 is ok", fetch(base + "/boom1", waits=fast)[0], "ok")
@@ -535,6 +585,15 @@ def _selftest_retries(eq, base: str) -> None:
     eq("budget breaks when the window outgrows the deadline", budget_problem(1847, 4, 40) is not None, True)
 
 
+def _outcome_for_test():
+    import contextlib
+    import io
+    buf = io.StringIO()
+    with contextlib.redirect_stdout(buf), contextlib.redirect_stderr(io.StringIO()):
+        code = _emit_outcome({"throttled": [("http://x/a", "HTTP 503")], "ok": [("http://x/b", "HTTP 200")]})
+    return code, sum(1 for l in buf.getvalue().splitlines() if l.startswith("::warning title=source-urls"))
+
+
 def selftest() -> int:
     fails = []
 
@@ -607,6 +666,19 @@ def selftest() -> int:
             eq("soft-404 redirect to the search page fails", v[0], "fail")
             eq("soft-404 detail names the final url", "ruleSearchResults.action" in v[1], True)
             eq("a real record on a SOFT_404 host is ok", fetch(base + "/oard/viewSingleRule.action")[0], "ok")
+            # the search hop of a dead rule then 503s or refuses: still a dead rule, never could-not-check
+            fast2 = (0.01, 0.01)
+            v = fetch(base + "/oard/view503", waits=fast2)
+            eq("soft-404 hop that 503s is a fail", v[0], "fail")
+            eq("...detail names the soft-404", "soft-404" in v[1], True)
+            dead = socket.socket()
+            dead.bind(("127.0.0.1", 0))
+            _H.dead_port = dead.getsockname()[1]
+            try:
+                eq("soft-404 hop that is refused is a fail", fetch(base + "/oard/viewdead", waits=fast2)[0], "fail")
+            finally:
+                dead.close()
+                _H.dead_port = 9
         finally:
             del SOFT_404[host]
         eq("honest user agent sent", set(a for a in _H.agents if a), {UA})
@@ -623,7 +695,10 @@ def selftest() -> int:
         w = _warning_lines({"throttled": [("http://x/a::b", "HTTP 503\n::error::boom")], "blocked": [("http://x/c", "403")]})
         eq("one warning per could-not-check URL", len(w), 2)
         eq("warning uses the fixed title", all(l.startswith("::warning title=source-urls could not check::") for l in w), True)
-        eq("warning is one line, :: neutralised", all("\n" not in l and l.count("::") == 2 for l in w), True)
+        eq("warning is one line", all("\n" not in l and "\r" not in l for l in w), True)
+        eq("newline escaped GitHub-style, % first", _one_line("a%b\r\nc"), "a%25b%0D%0Ac")
+        eq("a forged command stays inside the message", any("%0A::error::boom" in l for l in w), True)
+        eq("main output: warnings printed, exit 0 for throttled-only", _outcome_for_test(), (0, 1))
         many = {"throttled": [(f"http://x/{i}", "t") for i in range(25)]}
         wm = _warning_lines(many)
         eq("warnings capped at 20 plus a count", (len(wm), "5 more" in wm[-1]), (21, True))
@@ -687,13 +762,7 @@ def main() -> int:
     if tally["blocked"] or tally["throttled"]:
         print(f"{len(tally['blocked']) + len(tally['throttled'])} URL(s) could not be verified "
               f"(blocked/throttled); not confirmed reachable (warning, not a failure).")
-    _step_summary(tally)
-    for line in _warning_lines(tally):
-        print(line)
-    code = _exit_code(tally)
-    if code == 1:
-        print(f"{len(tally['fail'])} of our own source_url(s) are unreachable", file=sys.stderr)
-    return code
+    return _emit_outcome(tally)
 
 
 def _exit_code(tally) -> int:
@@ -706,8 +775,10 @@ WARN_CAP = 20
 
 
 def _one_line(text: str) -> str:
-    """Collapse whitespace and defuse `::` so upstream text cannot start a workflow command."""
-    return re.sub(r"\s+", " ", str(text)).strip().replace("::", ": :")
+    """GitHub's workflow-command escaping (`%` first, then CR, LF), so upstream text stays one
+    line and cannot start a command; other whitespace runs fold to one space."""
+    t = str(text).replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+    return re.sub(r"[ \t\f\v]+", " ", t).strip()
 
 
 def _warning_lines(tally) -> list[str]:
@@ -718,6 +789,17 @@ def _warning_lines(tally) -> list[str]:
         lines.append(f"::warning title=source-urls could not check::{len(items) - WARN_CAP} more URL(s) "
                      f"could not be checked (see the log)")
     return lines
+
+
+def _emit_outcome(tally) -> int:
+    """Step summary, one warning annotation per could-not-check URL, and the exit code."""
+    _step_summary(tally)
+    for line in _warning_lines(tally):
+        print(line)
+    code = _exit_code(tally)
+    if code == 1:
+        print(f"{len(tally['fail'])} of our own source_url(s) are unreachable", file=sys.stderr)
+    return code
 
 
 def _step_summary(tally) -> None:
