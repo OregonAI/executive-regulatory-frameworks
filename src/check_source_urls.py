@@ -39,14 +39,15 @@ necessary, and it would not finish inside a job limit. So:
 STATUS MEANINGS. 2xx/3xx-followed: ok, EXCEPT a final URL on a SOFT_404 host that is that
 host's "no such record" page (OARD answers an unknown rule number with a 302 to a search page
 that returns 200): FAIL. A redirect that cannot be followed (loop, no Location): FAIL.
-404/410 FAIL at once; 5xx/DNS/TLS/timeout FAIL only after RETRY_WAITS retries with backoff (exit 1).
-A connection REFUSED or RESET on every attempt is "throttled" too (the host pushing back on the
-runner says nothing about the page; 4 of 5 weekly runs since 2026-10-19 failed on different
-OARD URLs that all answer from elsewhere). 429 from a host not in
-KNOWN_BLOCKED is "throttled -- could not check", and a URL the deadline did not reach is "not
-checked": both are listed AND the job exits 2 (red, distinct from a real failure), because a
-skipped check is not a green one; 403 is a FAIL, because a 403 cannot be told from a withdrawn page and this
-repository never reports could-not-check as is-fine. KNOWN_BLOCKED is the federal-reference
+404/410 FAIL at once; DNS and TLS failures FAIL after RETRY_WAITS retries with backoff (exit 1).
+COULD NOT CHECK (owner decision 2026-11-18): when the upstream fetch cannot be completed -- a
+timeout, a refused or reset connection or a 5xx on every attempt, a 429 from a host not in
+KNOWN_BLOCKED ("throttled"), a host recorded in KNOWN_BLOCKED ("blocked"), a URL the deadline did
+not reach ("not checked") -- the result says nothing about the page. Each is listed, emitted as a
+`::warning title=source-urls could not check::` annotation (first 20, then a count), and the job
+exits 0 when nothing really failed. Over 2026-10-19..11-16 the weekly job went red on different
+URLs every week, all of which answered from elsewhere. Only real dead links exit 1; 403 is a FAIL,
+because a 403 cannot be told from a withdrawn page. KNOWN_BLOCKED is the federal-reference
 mechanism: a host that refuses our runners with a recorded status is reported unverifiable,
 and only while it keeps answering that exact status.
 
@@ -103,7 +104,7 @@ RETRY_WAITS = (2, 6)   # seconds before attempt 2 and attempt 3
 # bound: overlapping cool-downs merge, they do not add). WORST CASE, stated: every sleep is bounded by the deadline check before each
 # URL, so a host that refuses everything cannot run past the deadline by more than the URL in
 # flight, 3 attempts x TIMEOUT + 8 s of waits = 98 s (41.6 min of a 75-minute job); the rest of the
-# window is then reported not-checked (red), never ok.
+# window is then reported not-checked (a warning, never ok).
 SECONDS_PER_URL = 4.1
 EXPECTED_REFUSALS = 72   # refusals seen in run 37571625562
 RETRY_ALLOWANCE_S = EXPECTED_REFUSALS * sum(RETRY_WAITS)
@@ -216,6 +217,11 @@ def _is_refusal(e: BaseException) -> bool:
     return isinstance(r, (ConnectionRefusedError, ConnectionResetError))
 
 
+def _is_timeout(e: BaseException) -> bool:
+    r = e.reason if isinstance(e, urllib.error.URLError) else e
+    return isinstance(r, (TimeoutError, socket.timeout))
+
+
 def budget_problem(n_urls: int, workers: int = WORKERS, deadline_minutes: float = DEADLINE_MINUTES):
     """None when n_urls fit the deadline with the retry allowance, else the reason."""
     need = n_urls * SECONDS_PER_URL / workers + RETRY_ALLOWANCE_S  # allowance is serial: it stalls every worker
@@ -231,7 +237,7 @@ def fetch(url: str, waits=RETRY_WAITS) -> tuple[str, str]:
     host = urllib.parse.urlsplit(url).hostname or ""
     last = ""
     last_code: int | None = None
-    refused = False  # the LAST attempt ended in a refused/reset connection
+    inconclusive = False  # the LAST attempt ended in a refusal, reset or timeout: not an answer about the page
     attempts = len(waits) + 1
     for attempt in range(attempts):
         _wait_cooldown(host)
@@ -255,16 +261,17 @@ def fetch(url: str, waits=RETRY_WAITS) -> tuple[str, str]:
             last, last_code = f"HTTP {e.code}", e.code
         except Exception as e:  # noqa: BLE001 -- reported, not raised
             last, last_code = f"{type(e).__name__}: {e}", None
-            refused = _is_refusal(e)
-            if refused and attempt < attempts - 1:
+            inconclusive = _is_refusal(e) or _is_timeout(e)
+            if _is_refusal(e) and attempt < attempts - 1:
                 _note_transient(host, waits[attempt])
                 continue
         if attempt < attempts - 1:
             time.sleep(waits[attempt])
     if last_code is not None:  # a 5xx on the last attempt is an answer: a host recorded as returning it is blocked
-        return classify(last_code, host), f"{last} (after {attempts} attempts)"
-    if refused:  # the host kept refusing/resetting: that is about our access, not about the page
-        return "throttled", f"{last} (after {attempts} attempts; host refused the runner, could not check)"
+        v = classify(last_code, host)  # a 5xx that never cleared is the host failing, not a dead link
+        return ("throttled" if v == "fail" else v), f"{last} (after {attempts} attempts)"
+    if inconclusive:  # refused/reset/timed out every time: about our access, not about the page
+        return "throttled", f"{last} (after {attempts} attempts; could not check)"
     return "fail", f"{last} (after {attempts} attempts)"
 
 
@@ -422,7 +429,7 @@ def _selftest_retries(eq, base: str) -> None:
     eq("reset twice then 200 is ok", v[0], "ok")
     eq("...and it is counted as retried", RETRIED.get(base + "/reset2"), 2)
     # three resets with only two retries allowed: the host kept pushing back, which says nothing
-    # about whether the page exists -> throttled (listed, exit 2), not a dead link
+    # about whether the page exists -> throttled (listed, warned), not a dead link
     _H.hits.clear()
     v = fetch(base + "/reset3", waits=fast)
     eq("reset on every attempt is throttled, not a dead link", v[0], "throttled")
@@ -436,12 +443,24 @@ def _selftest_retries(eq, base: str) -> None:
         eq("...detail keeps the error", "Errno 111" in v[1], True)
     finally:
         dead.server_close()
+    # a timeout on every attempt is could-not-check too (a listener that accepts and never answers)
+    hang = socket.socket()
+    hang.bind(("127.0.0.1", 0))
+    hang.listen(8)
+    global TIMEOUT
+    old_timeout, TIMEOUT = TIMEOUT, 0.2
+    try:
+        v = fetch(f"http://127.0.0.1:{hang.getsockname()[1]}/ok", waits=fast)
+        eq("timeout on every attempt is throttled", v[0], "throttled")
+    finally:
+        TIMEOUT = old_timeout
+        hang.close()
     # DNS failure is still a dead link
     eq("DNS failure is a fail", fetch("http://no-such-host.invalid/x", waits=fast)[0], "fail")
     # 5xx first, then 200
     _H.hits.clear()
     eq("500 then 200 is ok", fetch(base + "/boom1", waits=fast)[0], "ok")
-    eq("a persistent 500 is still a fail", fetch(base + "/boom", waits=fast)[0], "fail")
+    eq("a persistent 500 is could-not-check, not a dead link", fetch(base + "/boom", waits=fast)[0], "throttled")
     # non-transient answers are NOT retried
     for path in ("/gone", "/forbidden", "/throttle", "/loop"):
         RETRIED.clear()
@@ -494,7 +513,7 @@ def _selftest_retries(eq, base: str) -> None:
         eq("recorded persistent 500 is blocked", fetch(base + "/boom", waits=fast)[0], "blocked")
     finally:
         del KNOWN_BLOCKED["127.0.0.1"]
-    eq("unrecorded persistent 500 is fail", fetch(base + "/boom", waits=fast)[0], "fail")
+    eq("unrecorded persistent 500 is could-not-check", fetch(base + "/boom", waits=fast)[0], "throttled")
     # only refusals/resets cool the host; a 500 does not
     _COOLDOWN.clear()
     fetch(base + "/boom", waits=fast)
@@ -598,8 +617,17 @@ def selftest() -> int:
         res = run_fetches([base + "/ok"] * 1 + [base + "/gone"], workers=1, deadline=time.monotonic() - 1, pause=0)
         eq("deadline lists the rest as not-checked, never ok", {v[0] for v in res.values()}, {"not-checked"})
         eq("verdicts -> exit: all ok is 0", _exit_code({"ok": [1]}), 0)
-        eq("verdicts -> exit: not-checked is 2", _exit_code({"ok": [1], "not-checked": [1]}), 2)
-        eq("verdicts -> exit: throttled is 2", _exit_code({"throttled": [1]}), 2)
+        eq("verdicts -> exit: not-checked passes (warned)", _exit_code({"ok": [1], "not-checked": [1]}), 0)
+        eq("verdicts -> exit: throttled passes (warned)", _exit_code({"throttled": [1]}), 0)
+        eq("verdicts -> exit: blocked passes (warned)", _exit_code({"blocked": [1]}), 0)
+        w = _warning_lines({"throttled": [("http://x/a::b", "HTTP 503\n::error::boom")], "blocked": [("http://x/c", "403")]})
+        eq("one warning per could-not-check URL", len(w), 2)
+        eq("warning uses the fixed title", all(l.startswith("::warning title=source-urls could not check::") for l in w), True)
+        eq("warning is one line, :: neutralised", all("\n" not in l and l.count("::") == 2 for l in w), True)
+        many = {"throttled": [(f"http://x/{i}", "t") for i in range(25)]}
+        wm = _warning_lines(many)
+        eq("warnings capped at 20 plus a count", (len(wm), "5 more" in wm[-1]), (21, True))
+        eq("no warnings when nothing is uncheckable", _warning_lines({"ok": [1], "fail": [("u", "d")]}), [])
         eq("verdicts -> exit: fail beats could-not-check", _exit_code({"fail": [1], "not-checked": [1]}), 1)
     finally:
         srv.shutdown()
@@ -658,25 +686,38 @@ def main() -> int:
         print(f"{len(tally['not-checked'])} URL(s) were NOT CHECKED: the deadline ran out first.")
     if tally["blocked"] or tally["throttled"]:
         print(f"{len(tally['blocked']) + len(tally['throttled'])} URL(s) could not be verified "
-              f"(blocked/throttled); not confirmed reachable.")
+              f"(blocked/throttled); not confirmed reachable (warning, not a failure).")
     _step_summary(tally)
+    for line in _warning_lines(tally):
+        print(line)
     code = _exit_code(tally)
     if code == 1:
         print(f"{len(tally['fail'])} of our own source_url(s) are unreachable", file=sys.stderr)
-    elif code == 2:
-        print("INCOMPLETE: some URLs were throttled or not reached; this run did not check its whole "
-              "window (exit 2, not a pass).", file=sys.stderr)
     return code
 
 
 def _exit_code(tally) -> int:
-    """1 = a source_url is unreachable; 2 = nothing failed but part of the window could not be
-    checked (throttled / deadline) -- a skipped check is not a green one; 0 = whole window ok."""
-    if tally.get("fail"):
-        return 1
-    if tally.get("not-checked") or tally.get("throttled"):
-        return 2
-    return 0
+    """1 = a source_url is really unreachable; 0 otherwise. Could-not-check results (blocked,
+    throttled, not-checked) are warned about (_warning_lines), never a failure."""
+    return 1 if tally.get("fail") else 0
+
+
+WARN_CAP = 20
+
+
+def _one_line(text: str) -> str:
+    """Collapse whitespace and defuse `::` so upstream text cannot start a workflow command."""
+    return re.sub(r"\s+", " ", str(text)).strip().replace("::", ": :")
+
+
+def _warning_lines(tally) -> list[str]:
+    items = [(u, f"{v}: {d}") for v in ("blocked", "throttled", "not-checked") for u, d in tally.get(v, [])]
+    lines = [f"::warning title=source-urls could not check::{_one_line(u)} {_one_line(d)}"
+             for u, d in items[:WARN_CAP]]
+    if len(items) > WARN_CAP:
+        lines.append(f"::warning title=source-urls could not check::{len(items) - WARN_CAP} more URL(s) "
+                     f"could not be checked (see the log)")
+    return lines
 
 
 def _step_summary(tally) -> None:
